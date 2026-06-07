@@ -4,7 +4,7 @@
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "language": "Python",
     "stars_today": 439,
-    "stars_total": 28781,
+    "stars_total": 28946,
     "topics": [
       "ai-prompts",
       "claude",
@@ -35,7 +35,7 @@
     "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
     "language": "TypeScript",
     "stars_today": 631,
-    "stars_total": 33197,
+    "stars_total": 33271,
     "topics": [
       "ai",
       "llm",
@@ -66,7 +66,7 @@
     "description": "The best-benchmarked open-source AI memory system. And it's free.",
     "language": "Python",
     "stars_today": 446,
-    "stars_total": 54270,
+    "stars_total": 54337,
     "topics": [
       "ai",
       "chromadb",
@@ -83,7 +83,7 @@
     "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
     "language": "TypeScript",
     "stars_today": 70,
-    "stars_total": 14955,
+    "stars_total": 15008,
     "topics": [
       "ai",
       "augmentation",
@@ -98,7 +98,7 @@
     "description": "OpenAI Plugins",
     "language": "JavaScript",
     "stars_today": 213,
-    "stars_total": 1765,
+    "stars_total": 1804,
     "topics": [],
     "url": "https://github.com/openai/plugins",
     "readme_snippet": "# Plugins\n\nThis repository contains a curated collection of Codex plugin examples.\n\nEach plugin lives under `plugins/<name>/` with a required\n`.codex-plugin/plugin.json` manifest and optional companion surfaces such as\n`skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`,\n`hooks.json`, `assets/`, and other supporting files.\n\nHighlighted richer examples in this repo include:\n\n- `plugins/figma` for `use_figma`, Code to Canvas, Code Connect, and design system rules\n- `plugins/notion` for planning, research, meetings, and knowledge capture\n- `plugins/build-ios-apps` for SwiftUI implementation, refactors, performance, and debugging\n- `plugins/build-macos-apps` for macOS SwiftUI/AppKit workflows, build/run/debug loops, and packaging guidance\n- `plugins/build-web-apps` for dep"
@@ -108,7 +108,7 @@
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "language": "Python",
     "stars_today": 683,
-    "stars_total": 22306,
+    "stars_total": 22446,
     "topics": [
       "agent-infrastructure",
       "ai-agent",
@@ -136,7 +136,7 @@
     "description": "web development for the rest of us",
     "language": "JavaScript",
     "stars_today": 25,
-    "stars_total": 86980,
+    "stars_total": 87017,
     "topics": [
       "template",
       "ui",
@@ -150,7 +150,7 @@
     "description": "The official NGINX Open Source repository.",
     "language": "C",
     "stars_today": 20,
-    "stars_total": 30687,
+    "stars_total": 30706,
     "topics": [
       "content-cache",
       "load-balancer",
@@ -176,7 +176,7 @@
     "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "language": "Go",
     "stars_today": 159,
-    "stars_total": 35999,
+    "stars_total": 36018,
     "topics": [
       "security",
       "security-tools",
@@ -202,7 +202,7 @@
     "description": "The Go programming language",
     "language": "Go",
     "stars_today": 30,
-    "stars_total": 134505,
+    "stars_total": 134522,
     "topics": [
       "programming-language",
       "language",
@@ -217,7 +217,7 @@
     "description": "An Open Source implementation of Notebook LM with more flexibility and features",
     "language": "TypeScript",
     "stars_today": 794,
-    "stars_total": 26601,
+    "stars_total": 26682,
     "topics": [
       "assistant",
       "learning",
@@ -234,7 +234,7 @@
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
     "stars_today": 700,
-    "stars_total": 219646,
+    "stars_total": 219734,
     "topics": [],
     "url": "https://github.com/obra/superpowers",
     "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Codex CLI](#codex-cli), [Codex App](#codex-app), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [OpenCode](#opencode), [Cursor](#cursor), [GitHub Copilot CLI](#github-copilot-cli).\n\n## How it works\n\nIt starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. \n\nOnce it's teased a spec out of the conversation, it shows it to you in chunk"
@@ -244,93 +244,59 @@
     "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
     "language": "JavaScript",
     "stars_today": 193,
-    "stars_total": 49327,
-    "topics": [
-      "ai-agent",
-      "anthropic",
-      "automation",
-      "career",
-      "claude",
-      "claude-code",
-      "cli",
-      "golang",
-      "interview-prep",
-      "job-search",
-      "open-source",
-      "resume",
-      "careerops"
-    ],
+    "stars_total": 49437,
+    "topics": [],
     "url": "https://github.com/santifer/career-ops",
-    "readme_snippet": "# Career-Ops\n\n[English](README.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [Українська](README.ua.md) | [Русский](README.ru.md) | [繁體中文](README.zh-TW.md)\n\n<p align=\"center\">\n  <a href=\"https://x.com/santifer\"><img src=\"docs/hero-banner.jpg\" alt=\"Career-Ops — Multi-Agent Job Search System\" width=\"800\"></a>\n</p>\n\n<p align=\"center\">\n  <em>I spent months applying to jobs the hard way. So I engineered the system I wish I had.</em><br>\n  Companies use AI to filter candidates. <strong>I just gave candidates AI to <em>choose</em> companies.</strong><br>\n  <em>Now it's open source.</em>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Claude_Code-000?style=flat&logo=anthropic&logoColor=white\" alt=\"Claude Cod"
+    "readme_snippet": ""
   },
   {
     "repo_name": "openai/whisper",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Python",
     "stars_today": 150,
-    "stars_total": 101851,
+    "stars_total": 101901,
     "topics": [],
     "url": "https://github.com/openai/whisper",
-    "readme_snippet": "# Whisper\n\n[[Blog]](https://openai.com/blog/whisper)\n[[Paper]](https://arxiv.org/abs/2212.04356)\n[[Model card]](https://github.com/openai/whisper/blob/main/model-card.md)\n[[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)\n\nWhisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.\n\n\n## Approach\n\n![Approach](https://raw.githubusercontent.com/openai/whisper/main/approach.png)\n\nA Transformer sequence-to-sequence model is trained on various speech processing tasks, including multilingual speech recognition, speech translation, spoken language identificatio"
+    "readme_snippet": ""
   },
   {
     "repo_name": "vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
     "stars_today": 25,
-    "stars_total": 81178,
-    "topics": [
-      "vite",
-      "hmr",
-      "frontend",
-      "build-tool",
-      "dev-server"
-    ],
+    "stars_total": 81205,
+    "topics": [],
     "url": "https://github.com/vitejs/vite",
-    "readme_snippet": "<p align=\"center\">\n  <br>\n  <br>\n  <a href=\"https://vite.dev\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://vite.dev/vite-light.svg\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://vite.dev/vite-dark.svg\">\n      <img alt=\"vite logo\" src=\"https://vite.dev/vite-dark.svg\" height=\"60\">\n    </picture>\n  </a>\n  <br>\n  <br>\n</p>\n<br/>\n<p align=\"center\">\n  <a href=\"https://npmjs.com/package/vite\"><img src=\"https://img.shields.io/npm/v/vite.svg\" alt=\"npm package\"></a>\n  <a href=\"https://nodejs.org/en/about/previous-releases\"><img src=\"https://img.shields.io/node/v/vite.svg\" alt=\"node compatibility\"></a>\n  <a href=\"https://github.com/vitejs/vite/actions/workflows/ci.yml\"><img src=\"https://github.com/vi"
+    "readme_snippet": ""
   },
   {
     "repo_name": "microsoft/mxc",
     "description": "Policy-driven, layered isolation and containment",
     "language": "Rust",
     "stars_today": 64,
-    "stars_total": 573,
+    "stars_total": 606,
     "topics": [],
     "url": "https://github.com/microsoft/mxc",
-    "readme_snippet": "# Microsoft eXecution Container (MXC)\n\nMXC is a **sandboxed code execution system** for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS. It provides multiple containment backends — from OS-native process sandboxes to full VMs — behind a unified JSON configuration schema and TypeScript SDK.\n\n> [!WARNING]\n> This repository contains an early preview of code published to enable early integration and feedback from developers on Microsoft Execution Containers. The underlying sandboxes in this early preview are expected to change as they are under ongoing development however we will aim to minimize compatibility impact as functionality evolves. There are known cases where the current policies generated by the MXC SDK in this repository are overly permissive and "
+    "readme_snippet": ""
   },
   {
     "repo_name": "PaddlePaddle/PaddleOCR",
     "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
     "language": "Python",
     "stars_today": 433,
-    "stars_total": 80954,
-    "topics": [
-      "ocr",
-      "chineseocr",
-      "pdf2markdown",
-      "pp-ocr",
-      "pp-structure",
-      "document-parsing",
-      "document-translation",
-      "kie",
-      "ai4science",
-      "pdf-extractor-rag",
-      "pdf-parser",
-      "rag",
-      "paddleocr-vl"
-    ],
+    "stars_total": 81009,
+    "topics": [],
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "readme_snippet": "\n<div align=\"center\">\n  <p>\n      <img width=\"800\" src=\"https://raw.githubusercontent.com/cuicheng01/PaddleX_doc_images/main/images/paddleocr/README/Banner.png\" alt=\"Star-history\">\n  </p>\n\n\n\n<h3>Global Leading OCR Toolkit & Document AI Engine</h3>\n\nEnglish | [简体中文](./readme/README_cn.md) | [繁體中文](./readme/README_tcn.md) | [日本語](./readme/README_ja.md) | [한국어](./readme/README_ko.md) | [Français](./readme/README_fr.md) | [Русский](./readme/README_ru.md) | [Español](./readme/README_es.md) | [العربية](./readme/README_ar.md)\n\n<!-- icon -->\n\n[![PyPI Downloads](https://static.pepy.tech/badge/paddleocr)](https://pepy.tech/projects/paddleocr)\n[![Used by](https://img.shields.io/badge/Used%20by-6k%2B%20repositories-blue)](https://github.com/PaddlePaddle/PaddleOCR/network/dependents)\n![python](https://"
+    "readme_snippet": ""
   },
   {
     "repo_name": "microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
     "language": "Python",
     "stars_today": 216,
-    "stars_total": 48468,
+    "stars_total": 48500,
     "topics": [],
     "url": "https://github.com/microsoft/VibeVoice",
-    "readme_snippet": "<div align=\"center\">\n\n## 🎙️ VibeVoice: Open-Source Frontier Voice AI\n[![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice)\n[![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f)\n[![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv)\n[![ASR Report](https://img.shields.io/badge/ASR-Report-yellow?logo=arxiv)](https://arxiv.org/pdf/2601.18184)\n[![Colab](https://img.shields.io/badge/StreamingTTS-Colab-green?logo=googlecolab)](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb)\n[![ASR Playground](https://i"
+    "readme_snippet": ""
   }
 ]
