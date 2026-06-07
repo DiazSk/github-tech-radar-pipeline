@@ -75,6 +75,20 @@ def _date_from_path(path: Path) -> Optional[dt.date]:
         return None
 
 
+def _fallback_tools(repo: RawRepo) -> List[str]:
+    """Guarantee every repo contributes at least one tool to the radar.
+
+    The small local LLM frequently returns an empty `tools` list. Since all
+    dashboard queries UNNEST the tools array, such repos would be invisible.
+    Derive a sensible default from the language, then topics, then repo name.
+    """
+    if repo.language:
+        return [repo.language]
+    if repo.topics:
+        return repo.topics[:3]
+    return [repo.repo_name.split("/")[-1]]
+
+
 def process_file(chain, con, path: Path) -> int:
     """Enrich every repo in a raw file and write to DuckDB. Returns row count."""
     scraped_date = _date_from_path(path)
@@ -82,7 +96,7 @@ def process_file(chain, con, path: Path) -> int:
         print(f"[extractor] skipping non-date file: {path.name}")
         return 0
 
-    raw_items = json.loads(path.read_text())
+    raw_items = json.loads(path.read_text(encoding="utf-8"))
     repos = [RawRepo(**item) for item in raw_items]
 
     rows: List[dict] = []
@@ -96,6 +110,8 @@ def process_file(chain, con, path: Path) -> int:
         row["repo_name"] = repo.repo_name
         row["stars_today"] = repo.stars_today
         row["language"] = repo.language
+        if not row.get("tools"):
+            row["tools"] = _fallback_tools(repo)
         rows.append(row)
 
     inserted = db.insert_signals(con, rows, scraped_date)
