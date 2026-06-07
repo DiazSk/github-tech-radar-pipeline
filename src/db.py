@@ -30,7 +30,17 @@ CREATE TABLE IF NOT EXISTS tech_signals (
 def connect(read_only: bool = False) -> duckdb.DuckDBPyConnection:
     """Open the DuckDB file, ensuring the directory and schema exist."""
     config.ensure_dirs()
-    con = duckdb.connect(str(config.DUCKDB_PATH), read_only=read_only)
+    try:
+        con = duckdb.connect(str(config.DUCKDB_PATH), read_only=read_only)
+    except duckdb.IOException as exc:
+        # DuckDB is single-writer: a running dashboard (read-only) blocks a
+        # read-write connection here. Give an actionable message instead of a
+        # raw stack trace.
+        raise SystemExit(
+            f"[db] Could not open {config.DUCKDB_PATH} (in use by another "
+            "process).\n      Stop the Streamlit dashboard, then re-run.\n"
+            f"      Original error: {exc}"
+        ) from exc
     if not read_only:
         con.execute(SCHEMA_DDL)
     return con
