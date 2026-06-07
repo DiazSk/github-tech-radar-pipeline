@@ -49,3 +49,11 @@ data/tech_signals.duckdb.wal
 
 # Streamlit
 .streamlit/secrets.toml
+.streamlit/cache/
+
+# Cursor / IDE chat attachments (local only)
+assets/
+
+# DuckDB auxiliary files (the .duckdb dataset is committed intentionally)
+*.duckdb-journal
+*.duckdb.tmp
