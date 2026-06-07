@@ -1,0 +1,14 @@
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
+duckdb>=1.1
+pandas>=2.2
+pydantic>=2.7
+python-dotenv>=1.0
+langchain>=0.3
+langchain-core>=0.3
+langchain-ollama>=0.2
+langchain-openai>=0.2
+langchain-anthropic>=0.2
+streamlit>=1.38
+plotly>=5.24

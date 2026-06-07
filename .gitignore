@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+*.so
+
+# Virtual envs
+.venv/
+venv/
+env/
+.python-version
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Tooling caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# OS / editor
+.DS_Store
+.AppleDouble
+.idea/
+.vscode/
+
+# Windows (extraction runs on the Windows laptop)
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# DuckDB write-ahead log (the .duckdb file IS committed as the dataset)
+*.duckdb.wal
+data/tech_signals.duckdb.wal
+
+# Streamlit
+.streamlit/secrets.toml
