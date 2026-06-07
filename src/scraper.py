@@ -189,7 +189,7 @@ def save_raw(repos: List[RawRepo], date: Optional[dt.date] = None) -> str:
     date = date or dt.date.today()
     out_path = config.RAW_DIR / f"{date.isoformat()}.json"
     payload = [r.model_dump() for r in repos]
-    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     return str(out_path)
 
 
