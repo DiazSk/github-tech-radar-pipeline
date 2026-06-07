@@ -1,0 +1,38 @@
+name: Daily Tech Radar Scrape
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 01:00 UTC daily
+  workflow_dispatch: {}     # manual trigger for testing
+
+permissions:
+  contents: write           # allow the bot to push committed raw data
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape GitHub trending (no LLM in CI)
+        env:
+          # Optional: raises README API rate limits. Add as a repo secret to use.
+          GITHUB_TOKEN: ${{ secrets.GH_API_TOKEN }}
+          SCRAPE_LIMIT: '25'
+        run: python -m src.scraper
+
+      - name: Commit raw data
+        run: |
+          git config user.email "bot@techradar"
+          git config user.name "Tech Radar Bot"
+          git add data/raw/
+          git diff --cached --quiet || git commit -m "data: daily scrape $(date +%F)"
+          git push
