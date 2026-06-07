@@ -5,9 +5,16 @@ Reads the committed DuckDB dataset and renders:
   Tab 2: Rising tools bar chart (sorted by momentum score)
   Tab 3: Category drilldown with per-tool time-series sparklines
 
-Run: streamlit run app.py
+Run from repo root: streamlit run dashboard/app.py
 """
 from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 import duckdb
 import plotly.express as px
