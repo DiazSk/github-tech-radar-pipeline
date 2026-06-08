@@ -1,0 +1,279 @@
+[
+  {
+    "repo_name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars_today": 1111,
+    "stars_total": 31112,
+    "topics": [
+      "ai-prompts",
+      "claude",
+      "claude-code",
+      "reddit",
+      "twitter",
+      "hackernews",
+      "polymarket",
+      "research",
+      "youtube",
+      "ai-skill",
+      "bluesky",
+      "clawhub",
+      "deep-research",
+      "instagram",
+      "openclaw",
+      "recency",
+      "social-media",
+      "tiktok",
+      "trends",
+      "web-search"
+    ],
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "readme_snippet": "# /last30days\n\n<p align=\"center\">\n  <a href=\"https://github.com/mvanhorn/last30days-skill\">\n    <img src=\"https://img.shields.io/badge/%231-Repository%20Of%20The%20Day-6f42c1?style=for-the-badge&logo=github&label=GITHUB%20TRENDING\" alt=\"GitHub Trending #1 Repository Of The Day\" />\n  </a>\n  <br/>\n  <a href=\"https://trendshift.io/repositories/21997\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/21997\" alt=\"mvanhorn/last30days-skill | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n  </a>\n</p>\n\n**An AI agent-led search engine scored by upvotes, likes, and real money - not editors.**\n\nThis README tracks the current v3 pipeline. The runtime skill spec lives in [skills/last30days/SKILL.md](skills/last30days/SKILL.md), which is the source of"
+  },
+  {
+    "repo_name": "opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "stars_today": 65,
+    "stars_total": 88100,
+    "topics": [
+      "opencv",
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing"
+    ],
+    "url": "https://github.com/opencv/opencv",
+    "readme_snippet": "## OpenCV: Open Source Computer Vision Library\n\n\n### Resources\n\n* Homepage: <https://opencv.org>\n  * Courses: <https://opencv.org/courses>\n* Docs: <https://docs.opencv.org/4.x/>\n* Q&A forum: <https://forum.opencv.org>\n  * previous forum (read only): <http://answers.opencv.org>\n* Issue tracking: <https://github.com/opencv/opencv/issues>\n* Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib>\n* Donate to OpenCV: <https://opencv.org/support/>\n\n\n### Contributing\n\nPlease read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.\n\n#### Summary of the guidelines:\n\n* One pull request per issue;\n* Choose the right base branch;\n* Include tests and documentation;\n* Clean up \"oops\" commits before submitting;"
+  },
+  {
+    "repo_name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "stars_today": 1103,
+    "stars_total": 36721,
+    "topics": [
+      "agent",
+      "ai",
+      "coding",
+      "lowcode",
+      "nocode",
+      "skill",
+      "skills",
+      "vibecoding",
+      "claude",
+      "claude-code",
+      "codex",
+      "design",
+      "frontend"
+    ],
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/readme-banner.png\" alt=\"Taste Skill - Anti-slop Agent Skills for premium frontends\" width=\"100%\" />\n</p>\n\n# Taste Skill\n\n<p align=\"center\">\n  <em>The Anti-Slop Frontend Framework for AI Agents</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://tasteskill.dev\" title=\"Taste Skill - tasteskill.dev\">\n    <img src=\"assets/taste-skill-logo.webp\" width=\"80\" height=\"80\" alt=\"Taste Skill\" />\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://tasteskill.dev\">\n    <img src=\"https://img.shields.io/badge/OPEN-tasteskill.dev-%23a855f7?style=for-the-badge&labelColor=%230f172a\" alt=\"Open tasteskill.dev\" />\n  </a>\n</p>\n\nPortable **Agent Skills** that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This rep"
+  },
+  {
+    "repo_name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stars_today": 1112,
+    "stars_total": 185985,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\">\n</p>\n\n# Hermes Agent ☤\n\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n  <a href=\"https://github.com/NousResearch/hermes-agent/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-green?style=for-the-badge\" alt=\"License: MIT\"></a>\n  <a href=\"https://nousresearch.com\"><img src=\"https://img.shields.io/badge/Built%20by-Nous%20Research-blueviolet?style=for-the-badge\" alt=\"Built "
+  },
+  {
+    "repo_name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "stars_today": 554,
+    "stars_total": 27280,
+    "topics": [
+      "assistant",
+      "learning",
+      "note-taking",
+      "notebook",
+      "notes-app",
+      "self-learning"
+    ],
+    "url": "https://github.com/lfnovo/open-notebook",
+    "readme_snippet": "<a id=\"readme-top\"></a>\n\n<!-- [![Contributors][contributors-shield]][contributors-url] -->\n[![Forks][forks-shield]][forks-url]\n[![Stargazers][stars-shield]][stars-url]\n[![Issues][issues-shield]][issues-url]\n[![MIT License][license-shield]][license-url]\n<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->\n\n\n<!-- PROJECT LOGO -->\n<br />\n<div align=\"center\">\n  <a href=\"https://github.com/lfnovo/open-notebook\">\n    <img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n  </a>\n\n  <h3 align=\"center\">Open Notebook</h3>\n\n  <p align=\"center\">\n    An open source, privacy-focused alternative to Google's Notebook LM!\n    <br /><strong>Join our <a href=\"https://discord.gg/37XJPXfz2w\">Discord server</a> for help, to share workflow ideas, and suggest features!</strong>\n    <br />\n    <a href=\"https://www.open-note"
+  },
+  {
+    "repo_name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "stars_today": 183,
+    "stars_total": 18785,
+    "topics": [
+      "auto-publish",
+      "douyin",
+      "electron-app",
+      "electron-react",
+      "kuaishou",
+      "tool",
+      "xiaohongshu",
+      "kwai",
+      "published",
+      "shipinhao",
+      "douyin-api"
+    ],
+    "url": "https://github.com/yikart/AiToEarn",
+    "readme_snippet": "# [Aitoearn：OPC（一人公司）的AI内容营销智能体](https://aitoearn.ai)\n\n<a href=\"https://trendshift.io/repositories/20785\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/20785\" alt=\"yikart%2FAiToEarn | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub stars](https://img.shields.io/github/stars/yikart/AiToEarn?color=fa6470)](https://github.com/yikart/AiToEarn/stargazers)\n[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Required Node.JS 20.18.x](https://img.shields.io/static/v1?label=node&message=20.18.x&logo=node.js&color=3f893e)](https://nodejs.org/about/releases)\n\n简体中文 | [English](README_EN.md) | [日本語](README_JA.md)\n\n**Monetize · Publish · Engage · Create —— 一站式平台。**\n\nAiToEarn 通过 **AI Agent自动化**，帮助 OPC（一人公司）、创"
+  },
+  {
+    "repo_name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars_today": 322,
+    "stars_total": 47525,
+    "topics": [
+      "mcp",
+      "acp",
+      "ai",
+      "ai-agents"
+    ],
+    "url": "https://github.com/aaif-goose/goose",
+    "readme_snippet": "> **🦆 goose has moved!** This project has moved from `block/goose` to the [Agentic AI Foundation (AAIF)](https://aaif.io/) at the Linux Foundation. Some links and references are still being updated — please bear with us during the transition.\n\n<div align=\"center\">\n\n# goose\n\n_your native open source AI agent — desktop app, CLI, and API — for code, workflows, and everything in between_\n\n<p align=\"center\">\n  <a href=\"https://opensource.org/licenses/Apache-2.0\"\n    ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a>\n  <a href=\"https://discord.gg/goose-oss\"\n    ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a>\n  <a href=\"https://github.com/aaif-goose/goose/actions/workflows/ci.yml\"\n"
+  },
+  {
+    "repo_name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "stars_today": 309,
+    "stars_total": 29743,
+    "topics": [],
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "readme_snippet": "<div align=\"center\">\n<img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/>\n\n# Project N.O.M.A.D.\n### Node for Offline Media, Archives, and Data\n\n**Knowledge That Never Goes Offline**\n\n[![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions)\n[![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](https://benchmark.projectnomad.us)\n\n</div>\n\n---\n\nProject N.O.M.A.D. is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.\n\n## Installation & Quickstart\nProject N.O.M.A.D. can be installed"
+  },
+  {
+    "repo_name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "language": "C++",
+    "stars_today": 158,
+    "stars_total": 115345,
+    "topics": [
+      "ggml"
+    ],
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "readme_snippet": "# llama.cpp\n\n![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)\n\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)\n[![Release](https://img.shields.io/github/v/release/ggml-org/llama.cpp)](https://github.com/ggml-org/llama.cpp/releases)\n[![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml/badge.svg)](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml)\n[![Docker](https://github.com/ggml-org/llama.cpp/actions/workflows/docker.yml/badge.svg)](https://github.com/ggml-org/llama.cpp/actions/workflows/docker.yml)\n[![Winget](https://github.com/ggml-org/llama.cpp/actions/workflows/winget.yml/badge.svg)](https://github.com/ggml-org/llama.cpp/acti"
+  },
+  {
+    "repo_name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "language": "Python",
+    "stars_today": 1554,
+    "stars_total": 7215,
+    "topics": [
+      "ann",
+      "avx512",
+      "embeddings",
+      "faiss",
+      "nearest-neighbor",
+      "neon",
+      "python",
+      "quantization",
+      "rag",
+      "rust",
+      "simd",
+      "vector-search",
+      "embedding",
+      "quant",
+      "turboquant"
+    ],
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/header.png\" alt=\"turbovec — Google's TurboQuant for vector search\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a>\n  <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a>\n  <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/v/turbovec?label=crates.io&color=blue\" alt=\"crates.io version\"></a>\n  <a href=\"https://arxiv.org/abs/2504.19874\"><img src=\"https://img.shields.io/badge/paper-arXiv-b31b1b.svg\" alt=\"TurboQuant paper\"></a>\n</p>\n\n---\n\n**A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits "
+  },
+  {
+    "repo_name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars_today": 350,
+    "stars_total": 72481,
+    "topics": [],
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "readme_snippet": "## 项目的由来\n虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。\n\n还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。\n\n## 学习数学\n\n希望未来出现更多不是为了考学而读书的人。\n\n### 小学数学\n- [一年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)\n- [一年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)\n- [二年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/mas"
+  },
+  {
+    "repo_name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "stars_today": 262,
+    "stars_total": 2044,
+    "topics": [],
+    "url": "https://github.com/openai/plugins",
+    "readme_snippet": "# Plugins\n\nThis repository contains a curated collection of Codex plugin examples.\n\nEach plugin lives under `plugins/<name>/` with a required\n`.codex-plugin/plugin.json` manifest and optional companion surfaces such as\n`skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`,\n`hooks.json`, `assets/`, and other supporting files.\n\nHighlighted richer examples in this repo include:\n\n- `plugins/figma` for `use_figma`, Code to Canvas, Code Connect, and design system rules\n- `plugins/notion` for planning, research, meetings, and knowledge capture\n- `plugins/build-ios-apps` for SwiftUI implementation, refactors, performance, and debugging\n- `plugins/build-macos-apps` for macOS SwiftUI/AppKit workflows, build/run/debug loops, and packaging guidance\n- `plugins/build-web-apps` for dep"
+  },
+  {
+    "repo_name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "stars_today": 245,
+    "stars_total": 12892,
+    "topics": [],
+    "url": "https://github.com/refactoringhq/tolaria",
+    "readme_snippet": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](https://codescene.io/projects/76865)\n\n# 💧 Tolaria\n\nTolaria is a desktop app for macOS, Windows, and Linux for managing **markdown knowledge bases**. People use it for a variety of use cases:\n\n* Operate second brains and personal knowledge\n* Organize company docs as context for AI\n* Store OpenClaw/assi"
+  },
+  {
+    "repo_name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "stars_today": 28,
+    "stars_total": 13747,
+    "topics": [
+      "fyp",
+      "hacking",
+      "hacking-tool",
+      "indonesia",
+      "information",
+      "information-gathering",
+      "ip-geolocation",
+      "linux",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "phone-number",
+      "python",
+      "python-hacking",
+      "termux",
+      "termux-hacks",
+      "termux-tool",
+      "cybersecurity",
+      "pentesting"
+    ],
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "readme_snippet": "# GhostTrack\nUseful tool to track location or mobile number, so this tool can be called osint or also information gathering\n\n<img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png\"/>\n\nNew update :\n```Version 2.2```\n\n### Instalation on Linux (deb)\n```\nsudo apt-get install git\nsudo apt-get install python3\n```\n\n### Instalation on Termux\n```\npkg install git\npkg install python3\n```\n\n### Usage Tool\n```\ngit clone https://github.com/HunxByts/GhostTrack.git\ncd GhostTrack\npip3 install -r requirements.txt\npython3 GhostTR.py\n```\n\nDisplay on the menu ```IP Tracker```\n\n<img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png \" />\n\non the IP Track menu, you can combo with the seeker tool to get the target IP\n<details>\n<summary>:zap: Install Seeker :</summary>\n- <strong><a "
+  },
+  {
+    "repo_name": "microsoft/pg_durable",
+    "description": "PostgreSQL in-database durable execution",
+    "language": "Rust",
+    "stars_today": 316,
+    "stars_total": 1465,
+    "topics": [
+      "durable-execution",
+      "durable-functions",
+      "durable-workflows",
+      "postgresql",
+      "ai-pipelines",
+      "ai-workflows"
+    ],
+    "url": "https://github.com/microsoft/pg_durable",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/website/lockup_arrow_dark.svg\" alt=\"pg_durable logo\" width=\"560\" />\n\n[Website](https://microsoft.github.io/pg_durable/) · [Docs](docs/) · [Quick Example](#quick-example) · [GitHub](https://github.com/microsoft/pg_durable)\n\n[![License](https://img.shields.io/badge/license-PostgreSQL%20License-3d86c6.svg)](LICENSE.txt)\n[![PostgreSQL 17 & 18](https://img.shields.io/badge/PostgreSQL-17%20%26%2018-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)\n\n## Durable Execution inside PostgreSQL\n\n</div>\n\nLong-running, fault-tolerant SQL functions for teams that already keep their state in Postgres and want to stop stitching together cron jobs, workers, queues, and status tables to make background work reliable. Define the workflow in SQL, let pg_du"
+  }
+]
