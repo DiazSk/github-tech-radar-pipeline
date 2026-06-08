@@ -4,7 +4,7 @@
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "language": "Python",
     "stars_today": 1111,
-    "stars_total": 31098,
+    "stars_total": 31794,
     "topics": [
       "ai-prompts",
       "claude",
@@ -35,7 +35,7 @@
     "description": "Open Source Computer Vision Library",
     "language": "C++",
     "stars_today": 65,
-    "stars_total": 88099,
+    "stars_total": 88190,
     "topics": [
       "opencv",
       "c-plus-plus",
@@ -51,7 +51,7 @@
     "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
     "language": "Shell",
     "stars_today": 1103,
-    "stars_total": 36705,
+    "stars_total": 37204,
     "topics": [
       "agent",
       "ai",
@@ -75,7 +75,7 @@
     "description": "The agent that grows with you",
     "language": "Python",
     "stars_today": 1112,
-    "stars_total": 185984,
+    "stars_total": 186279,
     "topics": [
       "ai",
       "ai-agent",
@@ -102,7 +102,7 @@
     "description": "An Open Source implementation of Notebook LM with more flexibility and features",
     "language": "TypeScript",
     "stars_today": 554,
-    "stars_total": 27275,
+    "stars_total": 27478,
     "topics": [
       "assistant",
       "learning",
@@ -119,7 +119,7 @@
     "description": "Let's use AI to Earn!",
     "language": "TypeScript",
     "stars_today": 183,
-    "stars_total": 18780,
+    "stars_total": 18974,
     "topics": [
       "auto-publish",
       "douyin",
@@ -141,7 +141,7 @@
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "language": "Rust",
     "stars_today": 322,
-    "stars_total": 47523,
+    "stars_total": 47638,
     "topics": [
       "mcp",
       "acp",
@@ -156,7 +156,7 @@
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
     "language": "TypeScript",
     "stars_today": 309,
-    "stars_total": 29741,
+    "stars_total": 29831,
     "topics": [],
     "url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "readme_snippet": "<div align=\"center\">\n<img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/>\n\n# Project N.O.M.A.D.\n### Node for Offline Media, Archives, and Data\n\n**Knowledge That Never Goes Offline**\n\n[![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions)\n[![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](https://benchmark.projectnomad.us)\n\n</div>\n\n---\n\nProject N.O.M.A.D. is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.\n\n## Installation & Quickstart\nProject N.O.M.A.D. can be installed"
@@ -166,7 +166,7 @@
     "description": "LLM inference in C/C++",
     "language": "C++",
     "stars_today": 158,
-    "stars_total": 115341,
+    "stars_total": 115427,
     "topics": [
       "ggml"
     ],
@@ -178,7 +178,7 @@
     "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
     "language": "Python",
     "stars_today": 1554,
-    "stars_total": 7211,
+    "stars_total": 7483,
     "topics": [
       "ann",
       "avx512",
@@ -204,7 +204,7 @@
     "description": "所有小初高、大学PDF教材。",
     "language": "Roff",
     "stars_today": 350,
-    "stars_total": 72477,
+    "stars_total": 72638,
     "topics": [],
     "url": "https://github.com/TapXWorld/ChinaTextbook",
     "readme_snippet": "## 项目的由来\n虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。\n\n还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。\n\n## 学习数学\n\n希望未来出现更多不是为了考学而读书的人。\n\n### 小学数学\n- [一年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)\n- [一年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)\n- [二年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/mas"
@@ -214,7 +214,7 @@
     "description": "OpenAI Plugins",
     "language": "JavaScript",
     "stars_today": 262,
-    "stars_total": 2040,
+    "stars_total": 2107,
     "topics": [],
     "url": "https://github.com/openai/plugins",
     "readme_snippet": "# Plugins\n\nThis repository contains a curated collection of Codex plugin examples.\n\nEach plugin lives under `plugins/<name>/` with a required\n`.codex-plugin/plugin.json` manifest and optional companion surfaces such as\n`skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`,\n`hooks.json`, `assets/`, and other supporting files.\n\nHighlighted richer examples in this repo include:\n\n- `plugins/figma` for `use_figma`, Code to Canvas, Code Connect, and design system rules\n- `plugins/notion` for planning, research, meetings, and knowledge capture\n- `plugins/build-ios-apps` for SwiftUI implementation, refactors, performance, and debugging\n- `plugins/build-macos-apps` for macOS SwiftUI/AppKit workflows, build/run/debug loops, and packaging guidance\n- `plugins/build-web-apps` for dep"
@@ -224,7 +224,7 @@
     "description": "Desktop app to manage markdown knowledge bases",
     "language": "TypeScript",
     "stars_today": 245,
-    "stars_total": 12888,
+    "stars_total": 13027,
     "topics": [],
     "url": "https://github.com/refactoringhq/tolaria",
     "readme_snippet": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](https://codescene.io/projects/76865)\n\n# 💧 Tolaria\n\nTolaria is a desktop app for macOS, Windows, and Linux for managing **markdown knowledge bases**. People use it for a variety of use cases:\n\n* Operate second brains and personal knowledge\n* Organize company docs as context for AI\n* Store OpenClaw/assi"
@@ -234,7 +234,7 @@
     "description": "Useful tool to track location or mobile number",
     "language": "Python",
     "stars_today": 28,
-    "stars_total": 13747,
+    "stars_total": 13810,
     "topics": [
       "fyp",
       "hacking",
@@ -264,7 +264,7 @@
     "description": "PostgreSQL in-database durable execution",
     "language": "Rust",
     "stars_today": 316,
-    "stars_total": 1463,
+    "stars_total": 1521,
     "topics": [
       "durable-execution",
       "durable-functions",
