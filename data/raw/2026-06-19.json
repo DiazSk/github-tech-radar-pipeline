@@ -1,0 +1,310 @@
+[
+  {
+    "repo_name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "stars_today": 844,
+    "stars_total": 23449,
+    "topics": [],
+    "url": "https://github.com/google-research/timesfm",
+    "readme_snippet": "# TimesFM\n\nTimesFM (Time Series Foundation Model) is a pretrained time-series foundation\nmodel developed by Google Research for time-series forecasting.\n\n*   Paper:\n    [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688),\n    ICML 2024.\n*   All checkpoints:\n    [TimesFM Hugging Face Collection](https://huggingface.co/collections/google/timesfm-release-66e4be5fdb56e960c1e482a6).\n*   [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/).\n*   TimesFM in Google 1P Products:\n    *   [BigQuery ML](https://cloud.google.com/bigquery/docs/timesfm-model): Enterprise level SQL queries for scalability and reliability.\n    *   [Google Sheets](https://workspaceupdates.googleblog.com/2026/02/forecast-d"
+  },
+  {
+    "repo_name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "stars_today": 369,
+    "stars_total": 10063,
+    "topics": [
+      "rust",
+      "memes",
+      "realtime",
+      "tags",
+      "does-anyone-read-these",
+      "tagsoftags",
+      "p2p",
+      "holepunching",
+      "multipath",
+      "quic"
+    ],
+    "url": "https://github.com/n0-computer/iroh",
+    "readme_snippet": "<h1 align=\"center\"><a href=\"https://iroh.computer\"><img alt=\"iroh\" src=\"./.img/iroh_wordmark.svg\" width=\"100\" /></a></h1>\n\n<h3 align=\"center\">\nless net work for networks\n</h3>\n\n[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square)](https://docs.rs/iroh/)\n[![Crates.io](https://img.shields.io/crates/v/iroh.svg?style=flat-square)](https://crates.io/crates/iroh)\n[![downloads](https://img.shields.io/crates/d/iroh.svg?style=flat-square)](https://crates.io/crates/iroh)\n[![Chat](https://img.shields.io/discord/1161119546170687619?logo=discord&style=flat-square)](https://discord.com/invite/DpmJgtU7cW)\n[![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@n0computer)\n[![License: MIT](https://img."
+  },
+  {
+    "repo_name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "stars_today": 417,
+    "stars_total": 449628,
+    "topics": [
+      "learn-to-code",
+      "nonprofits",
+      "programming",
+      "nodejs",
+      "react",
+      "d3",
+      "careers",
+      "education",
+      "teachers",
+      "javascript",
+      "certification",
+      "curriculum",
+      "math",
+      "community",
+      "freecodecamp"
+    ],
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "readme_snippet": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)\n\n[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)\n[![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay)\n[![LFX Active Contributors](https://insights.linuxfoundation.org/api/badge/active-contributors?project=freecodecamp&repos=https://github.com/freeCodeCamp/freeCodeCamp)](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp)\n\n## freeCodeCamp.org's open-source codebase and curriculum\n\n[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community w"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 1429,
+    "stars_total": 232604,
+    "topics": [],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi"
+  },
+  {
+    "repo_name": "zai-org/GLM-5",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "language": null,
+    "stars_today": 202,
+    "stars_total": 4238,
+    "topics": [
+      "agentic-ai",
+      "coding",
+      "llm",
+      "long-horizon"
+    ],
+    "url": "https://github.com/zai-org/GLM-5",
+    "readme_snippet": "# GLM-5.2 & GLM-5.1 & GLM-5\n\n<div align=\"center\">\n<img src=resources/logo.svg width=\"15%\"/>\n</div>\n<p align=\"center\">\n    👋 Join our <a href=\"resources/WECHAT.md\" target=\"_blank\">Wechat</a> or <a href=\"https://discord.gg/Hc5z9bx5Xw\" target=\"_blank\">Discord</a> community.\n    <br>\n    📖 Check out the GLM-5.2 <a href=\"https://z.ai/blog/glm-5.2\" target=\"_blank\">blog</a> and GLM-5 <a href=\"https://arxiv.org/abs/2602.15763\" target=\"_blank\">Technical report</a>.\n    <br>\n    📍 Use GLM-5.2 API services on <a href=\"https://docs.z.ai/guides/llm/glm-5.2\">Z.ai API Platform. </a>\n    <br>\n    🔜 Try GLM-5.2 at <a href=\"https://z.ai\">z.ai</a>.\n</p>\n\n## Introduction\n\n### GLM-5.2\n\nGLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over it"
+  },
+  {
+    "repo_name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "stars_today": 2322,
+    "stars_total": 7266,
+    "topics": [
+      "claude-code",
+      "code-analysis",
+      "code-intelligence",
+      "developer-tools",
+      "knowledge-graph",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "sqlite",
+      "tree-sitter",
+      "codex",
+      "cursor",
+      "windsurf",
+      "aider",
+      "gemini-cli",
+      "graph-visualization",
+      "kilocode",
+      "opencode",
+      "ast",
+      "cypher"
+    ],
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "readme_snippet": "# codebase-memory-mcp\n\n[![GitHub Release](https://img.shields.io/github/v/release/DeusData/codebase-memory-mcp?style=flat&color=blue)](https://github.com/DeusData/codebase-memory-mcp/releases/latest)\n[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)\n[![CI](https://img.shields.io/github/actions/workflow/status/DeusData/codebase-memory-mcp/dry-run.yml?label=CI)](https://github.com/DeusData/codebase-memory-mcp/actions/workflows/dry-run.yml)\n[![Tests](https://img.shields.io/badge/tests-5604_passing-brightgreen)](https://github.com/DeusData/codebase-memory-mcp)\n[![Languages](https://img.shields.io/badge/languages-158-orange)](https://github.com/DeusData/codebase-memory-mcp)\n[![Hybrid LSP](https://img.shields.io/badge/Hybrid_LSP-9_languages-blue)](#hybrid-lsp)\n[![Agents](http"
+  },
+  {
+    "repo_name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "stars_today": 259,
+    "stars_total": 11321,
+    "topics": [
+      "rag",
+      "agent-skills",
+      "embedded",
+      "faiss",
+      "hnsw",
+      "llm-memory",
+      "search-engine",
+      "semantic-search",
+      "similarity-search",
+      "vector-database",
+      "local",
+      "db",
+      "vector-db"
+    ],
+    "url": "https://github.com/alibaba/zvec",
+    "readme_snippet": "<p align=\"right\">\n  English | <a href=\"./README_CN.md\">中文</a>\n</p>\n\n<div align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" />\n    <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" />\n  </picture>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://codecov.io/github/alibaba/zvec\"><img src=\"https://codecov.io/github/alibaba/zvec/graph/badge.svg?token=O81CT45B66\" alt=\"Code Coverage\"/></a>\n  <a href=\"https://github.com/alibaba/zvec/actions/workflows/01-ci-pipeline.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/01-ci-pipeline.yml/badge.svg?branch=main\" alt=\"Main\"/></a>\n  <a href=\"https://github.com/alibaba/zvec/blob/main/LICENSE\"><"
+  },
+  {
+    "repo_name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "stars_today": 162,
+    "stars_total": 5565,
+    "topics": [],
+    "url": "https://github.com/withastro/flue",
+    "readme_snippet": "# Flue — The Agent Harness Framework\n\nNot another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness.\n\n```ts\n// agents/triage.ts\nimport { createAgent, type AgentRouteHandler } from '@flue/runtime';\nimport { local } from '@flue/runtime/node';\nimport triage from '../skills/triage/SKILL.md' with { type: 'skill' };\nimport verify from '../skills/verify/SKILL.md' with { type: 'skill' };\nimport * as githubTools from '../tools/github.ts';\n\n// Give agents the context and autonomy to solve complex tasks:\nconst instructions = `\nTriage a bug report end-to-end: reproduce the bug,\ndiagnose the root cause, verify whether the behavior is\nintentional, and attempt a fix.\n\n...`;\n\n// Expose (and protect) your agents over HTTP:\nexport const route: AgentRouteHandl"
+  },
+  {
+    "repo_name": "Kilo-Org/kilocode",
+    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "language": "TypeScript",
+    "stars_today": 1345,
+    "stars_total": 22339,
+    "topics": [
+      "ai-coding",
+      "vscode",
+      "vscode-extension",
+      "ai-developer-tools",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "sonnet",
+      "ai",
+      "ai-age",
+      "cli",
+      "jetbrains"
+    ],
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "readme_snippet": "<p align=\"center\">\n  English | <a href=\"README.zh.md\">简体中文</a> | <a href=\"README.zht.md\">繁體中文</a> | <a href=\"README.ko.md\">한국어</a> | <a href=\"README.de.md\">Deutsch</a> | <a href=\"README.es.md\">Español</a> | <a href=\"README.fr.md\">Français</a> | <a href=\"README.it.md\">Italiano</a> | <a href=\"README.da.md\">Dansk</a> | <a href=\"README.ja.md\">日本語</a> | <a href=\"README.pl.md\">Polski</a> | <a href=\"README.ru.md\">Русский</a> | <a href=\"README.bs.md\">Bosanski</a> | <a href=\"README.ar.md\">العربية</a> | <a href=\"README.no.md\">Norsk</a> | <a href=\"README.br.md\">Português (Brasil)</a> | <a href=\"README.th.md\">ไทย</a> | <a href=\"README.tr.md\">Türkçe</a> | <a href=\"README.uk.md\">Українська</a> | <a href=\"README.bn.md\">বাংলা</a> | <a href=\"README.gr.md\">Ελληνικά</a> | <a href=\"README.vi.md\">Tiếng Việt</a"
+  },
+  {
+    "repo_name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "stars_today": 613,
+    "stars_total": 51908,
+    "topics": [
+      "django",
+      "docker",
+      "kanban",
+      "project-management",
+      "python",
+      "react",
+      "jira",
+      "jira-alternative",
+      "linear",
+      "postgresql",
+      "redis",
+      "issue-tracker",
+      "product-management",
+      "work-management",
+      "vite",
+      "boards",
+      "bug-tracker",
+      "gantt",
+      "project-planning",
+      "typescipt"
+    ],
+    "url": "https://github.com/makeplane/plane",
+    "readme_snippet": "<br /><br />\n\n<p align=\"center\">\n<a href=\"https://plane.so\">\n  <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\">\n</a>\n</p>\n<p align=\"center\"><b>Modern project management for all teams</b></p>\n\n<p align=\"center\">\n    <a href=\"https://plane.so/\"><b>Website</b></a> •\n    <a href=\"https://forum.plane.so\"><b>Forum</b></a> •\n    <a href=\"https://x.com/planepowers\"><b>X</b></a> •\n    <a href=\"https://docs.plane.so/\"><b>Documentation</b></a>\n</p>\n\n<p>\n    <a href=\"https://app.plane.so/#gh-light-mode-only\" target=\"_blank\">\n      <img\n        src=\"https://media.docs.plane.so/GitHub-readme/github-top.webp\"\n        alt=\"Plane Screens\"\n        width=\"100%\"\n      />\n    </a>\n</p>\n\nMeet [Plane](https://plane.so/), an open-source project management tool to t"
+  },
+  {
+    "repo_name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "stars_today": 18,
+    "stars_total": 38744,
+    "topics": [
+      "electron-app",
+      "rest-api",
+      "api-client",
+      "curl",
+      "http-client",
+      "graphql",
+      "api-design",
+      "api",
+      "grpc",
+      "websockets"
+    ],
+    "url": "https://github.com/Kong/insomnia",
+    "readme_snippet": "# Insomnia API Client\n\n[![Website](https://img.shields.io/badge/Get%20started%20for%20free-8A2BE2)](https://insomnia.rest)\n![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat-square)\n![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kong/insomnia?style=flat-square)\n[![Slack Channel](https://chat.insomnia.rest/badge.svg)](https://chat.insomnia.rest/)\n[![license](https://img.shields.io/github/license/Kong/insomnia.svg)](LICENSE)\n![Twitter Follow](https://img.shields.io/twitter/follow/GetInsomnia?style=social)\n\nInsomnia is an open-source, cross-platform API client for GraphQL, REST, WebSockets, Server-Sent Events (SSE), gRPC and any other HTTP compatible protocol.\n\nWith Insomnia you can:\n\n- **Debug APIs** using the most popular protocols and formats.\n"
+  },
+  {
+    "repo_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "language": "Rust",
+    "stars_today": 244,
+    "stars_total": 7966,
+    "topics": [
+      "adb",
+      "android",
+      "bloatware-removal",
+      "debloat",
+      "debloater",
+      "debloating",
+      "privacy",
+      "bloatware-list"
+    ],
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "readme_snippet": "# Universal Android Debloater Next Generation\n\n> [!warning]\n> **DISCLAIMER**: Use at your own risk. We're not responsible for anything that could happen to your devices.\n\n<div align=center>\n<img width=75% alt=\"screenshot of apps view\" src=./resources/screenshots/v1.0.2.png>\n</div>\n\nThis is a detached fork of the [UAD project](https://github.com/0x192/universal-android-debloater). This aims to improve privacy and efficiency (energy, speed, memory) by removing unnecessary and obscure system apps.\nThis can also improve security by reducing the [attack surface](https://en.wikipedia.org/wiki/Attack_surface). Read [the wiki](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki) for more details.\n\n## Documentation\n\nEverything about UAD-ng (and related s"
+  },
+  {
+    "repo_name": "dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "stars_today": 14,
+    "stars_total": 38108,
+    "topics": [
+      "dotnet",
+      "aspnetcore",
+      "hacktoberfest",
+      "help-wanted"
+    ],
+    "url": "https://github.com/dotnet/aspnetcore",
+    "readme_snippet": "ASP.NET Core\n============\n\n[![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg)](https://www.dotnetfoundation.org/)\n[![MIT License](https://img.shields.io/github/license/dotnet/aspnetcore?color=%230b0&style=flat-square)](https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt) [![Help Wanted](https://img.shields.io/github/issues/dotnet/aspnetcore/help%20wanted?color=%232EA043&label=help%20wanted&style=flat-square)](https://github.com/dotnet/aspnetcore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![Good First Issues](https://img.shields.io/github/issues/dotnet/aspnetcore/good%20first%20issue?color=%23512BD4&label=good%20first%20issue&style=flat-square)](https://github.com/dotnet/aspnetcore/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issu"
+  },
+  {
+    "repo_name": "owainlewis/awesome-artificial-intelligence",
+    "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "language": null,
+    "stars_today": 40,
+    "stars_total": 14472,
+    "topics": [
+      "machine-learning",
+      "machine-intelligence",
+      "artificial-intelligence",
+      "reinforcement-learning",
+      "intelligent-systems",
+      "deep-learning",
+      "intelligent-machines",
+      "ai",
+      "statistical-learning",
+      "unsupervised-learning",
+      "neural-network"
+    ],
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "readme_snippet": "# Awesome Artificial Intelligence\n\nA curated collection of **must-use, actively maintained resources** for building and shipping AI systems.\n\nFocus: **AI engineering** (RAG, agents, evals, guardrails, deploy) plus the best books, guides, papers, and a *carefully selected* set of tools.\n\n![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)\n\n---\n\n## 📚 Learn\n_Deep, durable knowledge — still valuable five years from now._\n\n### Books\n**Modern & Practical**\n- [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).\n- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — End-to-end AI product building (Chip Huyen).\n- [Build a Large Language Model f"
+  },
+  {
+    "repo_name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "stars_today": 51,
+    "stars_total": 7528,
+    "topics": [
+      "generative-ai",
+      "ltx",
+      "ltx-2"
+    ],
+    "url": "https://github.com/Lightricks/LTX-2",
+    "readme_snippet": "# LTX-2\n\n[![Website](https://img.shields.io/badge/Website-LTX-181717?logo=google-chrome)](https://ltx.io)\n[![Model](https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface)](https://huggingface.co/Lightricks/LTX-2.3)\n[![Demo](https://img.shields.io/badge/Demo-Try%20Now-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAACmElEQVQ4Ea1VP2haYRA/fRo0mESRIIqb2IwxuNUl0CGFQBC6OAWcikMottCpqYtDQIgdQsBFhAjZqiQhbhmySJBOgmNU0EGCg9r61Bivd0ffoykE0iQH37/77n7f3e/uqQFIPB7P/N3d3QeDwfAFEedZ91ghnyH5JM1m87dWq6UavF6vdTKZfDcajW/p4rE49+wIFMj33Gq1vlNo+kxg758KpiETqP/29vaXweVyqaS0aBfPXEfGFwTjWCwM+KBQoWA4HAJx/KDNvxcmTTGbzYAH8SljOp2C2+2GjY0NqNfrcHFx"
+  },
+  {
+    "repo_name": "LibreTranslate/LibreTranslate",
+    "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+    "language": "Python",
+    "stars_today": 51,
+    "stars_total": 15033,
+    "topics": [
+      "translation",
+      "translate",
+      "api",
+      "machine",
+      "translator"
+    ],
+    "url": "https://github.com/LibreTranslate/LibreTranslate",
+    "readme_snippet": "# LibreTranslate\n\n[Try it online!](https://libretranslate.com) | [API Docs](https://docs.libretranslate.com) | [Community Forum](https://community.libretranslate.com/) | [Bluesky](https://bsky.app/profile/libretranslate.com)\n\n[![Python versions](https://img.shields.io/pypi/pyversions/libretranslate)](https://pypi.org/project/libretranslate) [![Run tests](https://github.com/LibreTranslate/LibreTranslate/workflows/Run%20tests/badge.svg)](https://github.com/LibreTranslate/LibreTranslate/actions?query=workflow%3A%22Run+tests%22) [![Build and Publish Docker Image](https://github.com/LibreTranslate/LibreTranslate/actions/workflows/publish-docker.yml/badge.svg)](https://github.com/LibreTranslate/LibreTranslate/actions/workflows/publish-docker.yml) [![Publish package](https://github.com/LibreTrans"
+  }
+]
