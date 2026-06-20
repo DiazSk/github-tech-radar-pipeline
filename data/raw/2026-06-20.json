@@ -1,0 +1,293 @@
+[
+  {
+    "repo_name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "stars_today": 1058,
+    "stars_total": 8436,
+    "topics": [
+      "claude-code",
+      "code-analysis",
+      "code-intelligence",
+      "developer-tools",
+      "knowledge-graph",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "sqlite",
+      "tree-sitter",
+      "codex",
+      "cursor",
+      "windsurf",
+      "aider",
+      "gemini-cli",
+      "graph-visualization",
+      "kilocode",
+      "opencode",
+      "ast",
+      "cypher"
+    ],
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "readme_snippet": "# codebase-memory-mcp\n\n[![GitHub Release](https://img.shields.io/github/v/release/DeusData/codebase-memory-mcp?style=flat&color=blue)](https://github.com/DeusData/codebase-memory-mcp/releases/latest)\n[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)\n[![CI](https://img.shields.io/github/actions/workflow/status/DeusData/codebase-memory-mcp/dry-run.yml?label=CI)](https://github.com/DeusData/codebase-memory-mcp/actions/workflows/dry-run.yml)\n[![Tests](https://img.shields.io/badge/tests-5604_passing-brightgreen)](https://github.com/DeusData/codebase-memory-mcp)\n[![Languages](https://img.shields.io/badge/languages-158-orange)](https://github.com/DeusData/codebase-memory-mcp)\n[![Hybrid LSP](https://img.shields.io/badge/Hybrid_LSP-9_languages-blue)](#hybrid-lsp)\n[![Agents](http"
+  },
+  {
+    "repo_name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "stars_today": 1510,
+    "stars_total": 24144,
+    "topics": [],
+    "url": "https://github.com/google-research/timesfm",
+    "readme_snippet": "# TimesFM\n\nTimesFM (Time Series Foundation Model) is a pretrained time-series foundation\nmodel developed by Google Research for time-series forecasting.\n\n*   Paper:\n    [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688),\n    ICML 2024.\n*   All checkpoints:\n    [TimesFM Hugging Face Collection](https://huggingface.co/collections/google/timesfm-release-66e4be5fdb56e960c1e482a6).\n*   [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/).\n*   TimesFM in Google 1P Products:\n    *   [BigQuery ML](https://cloud.google.com/bigquery/docs/timesfm-model): Enterprise level SQL queries for scalability and reliability.\n    *   [Google Sheets](https://workspaceupdates.googleblog.com/2026/02/forecast-d"
+  },
+  {
+    "repo_name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "language": "Swift",
+    "stars_today": 756,
+    "stars_total": 2046,
+    "topics": [
+      "ai-video",
+      "macos",
+      "mcp",
+      "swift",
+      "video-editor",
+      "claude",
+      "seedance2"
+    ],
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "readme_snippet": "<div align=\"center\">\n\n# Palmier Pro\n\n**The video editor built for AI.**\n\n<a href=\"https://github.com/palmier-io/palmier-pro/releases/latest/download/PalmierPro.dmg\">\n  <img src=\"./assets/macos-badge.png\" alt=\"Download palmierpro for macOS\" width=\"180\" />\n</a>\n\n<sub><i>Requires macOS 26 (Tahoe) on Apple Silicon</i></sub>\n\n<a href=\"https://x.com/Palmier_io\"><img src=\"https://img.shields.io/badge/Follow-%40Palmier__io-000000?style=flat&logo=x&logoColor=white\" alt=\"Follow on X\" /></a>\n<a href=\"https://discord.com/invite/SMVW6pKYmg\"><img src=\"https://img.shields.io/badge/Join-Discord-5865F2?style=flat&logo=discord&logoColor=white\" alt=\"Join Discord\" /></a>\n<a href=\"https://www.ycombinator.com/companies/palmier\"><img src=\"https://img.shields.io/badge/Y%20Combinator-S24-orange\" alt=\"Y Combinator "
+  },
+  {
+    "repo_name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "stars_today": 156,
+    "stars_total": 57378,
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "osint",
+      "opensource",
+      "palantir",
+      "situation"
+    ],
+    "url": "https://github.com/koala73/worldmonitor",
+    "readme_snippet": "# World Monitor\n\n**Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.\n\n[![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz)\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)\n[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)\n[![Last commit](https://img.shields.io/github/last-commit/koala73/worldmoni"
+  },
+  {
+    "repo_name": "aishwaryanr/awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "language": "HTML",
+    "stars_today": 107,
+    "stars_total": 27690,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "interview-questions",
+      "large-language-models",
+      "llms",
+      "notebook-jupyter",
+      "vision-and-language"
+    ],
+    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "readme_snippet": "# :star: :bookmark: awesome-generative-ai-guide\n\nGenerative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!\n\n<a href=\"https://trendshift.io/repositories/7663\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/7663\" alt=\"aishwaryanr%2Fawesome-generative-ai-guide | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\nExplore the following resources:\n\n1. [Monthly Best GenAI Papers List](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#star-best-genai-papers-list-january-2024)\n2. [GenAI Interview Resources](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#computer-interview-pr"
+  },
+  {
+    "repo_name": "BuilderIO/agent-native",
+    "description": "A framework for building agent-native applications.",
+    "language": "TypeScript",
+    "stars_today": 147,
+    "stars_total": 1108,
+    "topics": [
+      "agents",
+      "ai",
+      "react"
+    ],
+    "url": "https://github.com/BuilderIO/agent-native",
+    "readme_snippet": "# Agent-Native\n\n### Open-source framework for agentic applications you own.\n\nDon't choose between rich user interfaces and autonomous agents. Every Agent-Native app is both.\n\n## Agents and UIs — Fully Connected\n\nThe agent and the UI are equal citizens of the same system. Every action works both ways — click it or ask for it.\n\n![Agents and UIs fully connected](https://cdn.builder.io/api/v1/file/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fadc1e9e9368e4a8cb1b4dbb5aae5aaa2)\n\n- **Everything syncs** — Agent and UI share one database and one state. Changes from either side show up instantly on the other.\n- **Real-time multiplayer** — Humans and agents collaborate in the same document simultaneously: CRDT merging, live presence (cursors, selection rings, who's on which slide), and the agent as a first-class p"
+  },
+  {
+    "repo_name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "stars_today": 4005,
+    "stars_total": 39221,
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "claude-code",
+      "cursor",
+      "prompt-engineering",
+      "tokens",
+      "typescript"
+    ],
+    "url": "https://github.com/chopratejas/headroom",
+    "readme_snippet": "<div align=\"center\"><pre>\n  ██╗  ██╗███████╗ █████╗ ██████╗ ██████╗  ██████╗  ██████╗ ███╗   ███╗\n  ██║  ██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║\n  ███████║█████╗  ███████║██║  ██║██████╔╝██║   ██║██║   ██║██╔████╔██║\n  ██╔══██║██╔══╝  ██╔══██║██║  ██║██╔══██╗██║   ██║██║   ██║██║╚██╔╝██║\n  ██║  ██║███████╗██║  ██║██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║\n  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝\n                  The context compression layer for AI agents\n</pre></div>\n\n<p align=\"center\"><strong>60–95% fewer tokens · library · proxy · MCP · 6 algorithms · local-first · reversible</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/chopratejas/headroom/actions/workflows/ci.yml\"><img src=\"https://github.com/chopratejas/hea"
+  },
+  {
+    "repo_name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "stars_today": 156,
+    "stars_total": 6400,
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "flux",
+      "image-generation",
+      "open-source",
+      "openai",
+      "python",
+      "remotion",
+      "stable-diffusion",
+      "text-to-speech",
+      "text-to-video",
+      "video-generation",
+      "video-production"
+    ],
+    "url": "https://github.com/calesthio/OpenMontage",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"OpenMontage\" width=\"200\">\n</p>\n\n<h1 align=\"center\">OpenMontage</h1>\n\n<p align=\"center\"><strong>The first open-source, agentic video production system.</strong></p>\n\n<p align=\"center\">\n  <a href=\"#start-from-a-video-you-already-love\">Paste A Video</a> &nbsp;·&nbsp;\n  <a href=\"#quick-start\">Quick Start</a> &nbsp;·&nbsp;\n  <a href=\"#try-these-prompts\">Try These Prompts</a> &nbsp;·&nbsp;\n  <a href=\"#pipelines\">Pipelines</a> &nbsp;·&nbsp;\n  <a href=\"#how-it-works\">How It Works</a> &nbsp;·&nbsp;\n  <a href=\"docs/PROVIDERS.md\">Providers</a> &nbsp;·&nbsp;\n  <a href=\"AGENT_GUIDE.md\">Agent Guide</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-AGPLv3-blue.svg\" alt=\"License\"></a>\n</p>\n\n<p align=\"center\""
+  },
+  {
+    "repo_name": "zai-org/GLM-5",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "language": null,
+    "stars_today": 480,
+    "stars_total": 4641,
+    "topics": [
+      "agentic-ai",
+      "coding",
+      "llm",
+      "long-horizon"
+    ],
+    "url": "https://github.com/zai-org/GLM-5",
+    "readme_snippet": "# GLM-5.2 & GLM-5.1 & GLM-5\n\n<div align=\"center\">\n<img src=resources/logo.svg width=\"15%\"/>\n</div>\n<p align=\"center\">\n    👋 Join our <a href=\"resources/WECHAT.md\" target=\"_blank\">Wechat</a> or <a href=\"https://discord.gg/Hc5z9bx5Xw\" target=\"_blank\">Discord</a> community.\n    <br>\n    📖 Check out the GLM-5.2 <a href=\"https://z.ai/blog/glm-5.2\" target=\"_blank\">blog</a> and GLM-5 <a href=\"https://arxiv.org/abs/2602.15763\" target=\"_blank\">Technical report</a>.\n    <br>\n    📍 Use GLM-5.2 API services on <a href=\"https://docs.z.ai/guides/llm/glm-5.2\">Z.ai API Platform. </a>\n    <br>\n    🔜 Try GLM-5.2 at <a href=\"https://z.ai\">z.ai</a>.\n</p>\n\n## Introduction\n\n### GLM-5.2\n\nGLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over it"
+  },
+  {
+    "repo_name": "withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "stars_today": 309,
+    "stars_total": 5881,
+    "topics": [],
+    "url": "https://github.com/withastro/flue",
+    "readme_snippet": "# Flue — The Agent Harness Framework\n\nNot another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness.\n\n```ts\n// agents/triage.ts\nimport { createAgent, type AgentRouteHandler } from '@flue/runtime';\nimport { local } from '@flue/runtime/node';\nimport triage from '../skills/triage/SKILL.md' with { type: 'skill' };\nimport verify from '../skills/verify/SKILL.md' with { type: 'skill' };\nimport * as githubTools from '../tools/github.ts';\n\n// Give agents the context and autonomy to solve complex tasks:\nconst instructions = `\nTriage a bug report end-to-end: reproduce the bug,\ndiagnose the root cause, verify whether the behavior is\nintentional, and attempt a fix.\n\n...`;\n\n// Expose (and protect) your agents over HTTP:\nexport const route: AgentRouteHandl"
+  },
+  {
+    "repo_name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "stars_today": 302,
+    "stars_total": 10269,
+    "topics": [
+      "rust",
+      "memes",
+      "realtime",
+      "tags",
+      "does-anyone-read-these",
+      "tagsoftags",
+      "p2p",
+      "holepunching",
+      "multipath",
+      "quic"
+    ],
+    "url": "https://github.com/n0-computer/iroh",
+    "readme_snippet": "<h1 align=\"center\"><a href=\"https://iroh.computer\"><img alt=\"iroh\" src=\"./.img/iroh_wordmark.svg\" width=\"100\" /></a></h1>\n\n<h3 align=\"center\">\nless net work for networks\n</h3>\n\n[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square)](https://docs.rs/iroh/)\n[![Crates.io](https://img.shields.io/crates/v/iroh.svg?style=flat-square)](https://crates.io/crates/iroh)\n[![downloads](https://img.shields.io/crates/d/iroh.svg?style=flat-square)](https://crates.io/crates/iroh)\n[![Chat](https://img.shields.io/discord/1161119546170687619?logo=discord&style=flat-square)](https://discord.com/invite/DpmJgtU7cW)\n[![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@n0computer)\n[![License: MIT](https://img."
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 1110,
+    "stars_total": 233526,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi"
+  },
+  {
+    "repo_name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "stars_today": 85,
+    "stars_total": 50657,
+    "topics": [
+      "ux-design",
+      "ux-experience",
+      "prototyping",
+      "clojure",
+      "clojurescript",
+      "ui",
+      "design"
+    ],
+    "url": "https://github.com/penpot/penpot",
+    "readme_snippet": "<img width=\"100%\" src=\"https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602\" />\n\n[uri_license]: https://www.mozilla.org/en-US/MPL/2.0\n[uri_license_image]: https://img.shields.io/badge/MPL-2.0-blue.svg\n\n<p align=\"center\">\n  <a href=\"https://www.digitalpublicgoods.net/r/penpot\" rel=\"nofollow\">\n    <img alt=\"Verified DPG\" src=\"https://img.shields.io/badge/Verified-DPG-3333AB?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMSAzMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjIwMDggMjEuMzY3OEwxMC4xNzM2IDE4LjAxMjRMMTEuNTIxOSAxNi40MDAzTDEzLjk5MjggMTguNDU5TDE5LjYyNjkgMTIuMjExMUwyMS4xOTA5IDEzLjYxNkwxNC4yMDA4IDIxLjM2NzhaTTI0LjYyNDEgOS4zNTEyN0wyNC44MDcxIDMuMDcyOTdMMTguODgxIDUuMTg2NjJMMTUuMzMxNCAtM"
+  },
+  {
+    "repo_name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "stars_today": 292,
+    "stars_total": 39032,
+    "topics": [
+      "electron-app",
+      "rest-api",
+      "api-client",
+      "curl",
+      "http-client",
+      "graphql",
+      "api-design",
+      "api",
+      "grpc",
+      "websockets"
+    ],
+    "url": "https://github.com/Kong/insomnia",
+    "readme_snippet": "# Insomnia API Client\n\n[![Website](https://img.shields.io/badge/Get%20started%20for%20free-8A2BE2)](https://insomnia.rest)\n![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat-square)\n![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kong/insomnia?style=flat-square)\n[![Slack Channel](https://chat.insomnia.rest/badge.svg)](https://chat.insomnia.rest/)\n[![license](https://img.shields.io/github/license/Kong/insomnia.svg)](LICENSE)\n![Twitter Follow](https://img.shields.io/twitter/follow/GetInsomnia?style=social)\n\nInsomnia is an open-source, cross-platform API client for GraphQL, REST, WebSockets, Server-Sent Events (SSE), gRPC and any other HTTP compatible protocol.\n\nWith Insomnia you can:\n\n- **Debug APIs** using the most popular protocols and formats.\n"
+  },
+  {
+    "repo_name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "stars_today": 196,
+    "stars_total": 7700,
+    "topics": [
+      "generative-ai",
+      "ltx",
+      "ltx-2"
+    ],
+    "url": "https://github.com/Lightricks/LTX-2",
+    "readme_snippet": "# LTX-2\n\n[![Website](https://img.shields.io/badge/Website-LTX-181717?logo=google-chrome)](https://ltx.io)\n[![Model](https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface)](https://huggingface.co/Lightricks/LTX-2.3)\n[![Demo](https://img.shields.io/badge/Demo-Try%20Now-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAACmElEQVQ4Ea1VP2haYRA/fRo0mESRIIqb2IwxuNUl0CGFQBC6OAWcikMottCpqYtDQIgdQsBFhAjZqiQhbhmySJBOgmNU0EGCg9r61Bivd0ffoykE0iQH37/77n7f3e/uqQFIPB7P/N3d3QeDwfAFEedZ91ghnyH5JM1m87dWq6UavF6vdTKZfDcajW/p4rE49+wIFMj33Gq1vlNo+kxg758KpiETqP/29vaXweVyqaS0aBfPXEfGFwTjWCwM+KBQoWA4HAJx/KDNvxcmTTGbzYAH8SljOp2C2+2GjY0NqNfrcHFx"
+  }
+]
