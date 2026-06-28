@@ -1,0 +1,382 @@
+[
+  {
+    "repo_name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "language": "Haskell",
+    "stars_today": 1469,
+    "stars_total": 13996,
+    "topics": [
+      "chat",
+      "protocol",
+      "e2ee",
+      "privacy",
+      "haskell",
+      "security",
+      "messaging",
+      "encryption",
+      "double-ratchet"
+    ],
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "readme_snippet": "[![build](https://github.com/simplex-chat/simplex-chat/actions/workflows/build.yml/badge.svg?branch=stable)](https://github.com/simplex-chat/simplex-chat/actions/workflows/build.yml)\n[![GitHub downloads](https://img.shields.io/github/downloads/simplex-chat/simplex-chat/total)](https://github.com/simplex-chat/simplex-chat/releases)\n[![GitHub release](https://img.shields.io/github/v/release/simplex-chat/simplex-chat)](https://github.com/simplex-chat/simplex-chat/releases)\n[![Join on Reddit](https://img.shields.io/reddit/subreddit-subscribers/SimpleXChat?style=social)](https://www.reddit.com/r/SimpleXChat)\n<a rel=\"me\" href=\"https://mastodon.social/@simplex\">![Follow on Mastodon](https://img.shields.io/mastodon/follow/108619463746856738?domain=https%3A%2F%2Fmastodon.social&style=social)</a>\n\n|"
+  },
+  {
+    "repo_name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "language": "Python",
+    "stars_today": 685,
+    "stars_total": 4403,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "berkshire-hathaway",
+      "charlie-munger",
+      "china-stock",
+      "claude",
+      "claude-code",
+      "financial-analysis",
+      "fintech",
+      "fundamental-analysis",
+      "investment",
+      "investment-research",
+      "llm",
+      "mcp",
+      "portfolio-management",
+      "stock-analysis",
+      "stock-market",
+      "value-investing",
+      "warren-buffett"
+    ],
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "readme_snippet": "中文 | [English](README_EN.md)\n\n# AI Berkshire - AI 时代的价值投资研究框架\n\n> \"Price is what you pay, value is what you get.\" — Warren Buffett\n>\n> 用 AI 重新定义投资研究的深度与效率。\n\n**AI Berkshire** 是一套同时兼容 Claude Code 与 Codex 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究。\n\n一个人 + Claude Code / Codex = 一个投研团队。\n\n---\n\n## Real Track Record\n\n> 不是纸上谈兵。这套框架背后是真金白银验证的投资体系。\n\n### 2024 全年收益：+69.29%\n\n<img src=\"assets/2024-returns.jpg\" width=\"300\" />\n\n### 2025 年至今收益：+66.38%\n\n<img src=\"assets/2025-returns.jpg\" width=\"300\" />\n\n### 与主要指数对比\n\n| 指标 | 2024 全年 | 2025 至今 |\n|------|----------|----------|\n| **本框架实盘** | **+69.29%** | **+66.38%** |\n| 恒生指数 | +17.67% | +27.77% |\n| 标普500 | +23.31% | +16.39% |\n| 沪深300 | +14.68% | +17.66% |\n| 纳斯达克 | +28.64% | +20.36% |\n\n**2024 年超额收益**：跑赢标普500 **46个百分点**，跑赢恒生指数 **52个百分点**"
+  },
+  {
+    "repo_name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "stars_today": 322,
+    "stars_total": 62115,
+    "topics": [
+      "driver-assistance-systems",
+      "robotics",
+      "advanced-driver-assistance-systems"
+    ],
+    "url": "https://github.com/commaai/openpilot",
+    "readme_snippet": "<div align=\"center\" style=\"text-align: center;\">\n\n<h1>openpilot</h1>\n\n<p>\n  <b>openpilot is an operating system for robotics.</b>\n  <br>\n  Currently, it upgrades the driver assistance system in 300+ supported cars.\n</p>\n\n<h3>\n  <a href=\"https://docs.comma.ai\">Docs</a>\n  <span> · </span>\n  <a href=\"https://docs.comma.ai/contributing/roadmap/\">Roadmap</a>\n  <span> · </span>\n  <a href=\"https://github.com/commaai/openpilot/blob/master/docs/CONTRIBUTING.md\">Contribute</a>\n  <span> · </span>\n  <a href=\"https://discord.comma.ai\">Community</a>\n  <span> · </span>\n  <a href=\"https://comma.ai/shop\">Try it on a comma four</a>\n</h3>\n\nQuick start: `bash <(curl -fsSL openpilot.comma.ai)`\n\n[![openpilot tests](https://github.com/commaai/openpilot/actions/workflows/tests.yaml/badge.svg)](https://github.com/"
+  },
+  {
+    "repo_name": "IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "language": "Go",
+    "stars_today": 502,
+    "stars_total": 35851,
+    "topics": [
+      "docker",
+      "golang",
+      "vuejs",
+      "home-automation",
+      "home-server",
+      "raspberry",
+      "self-hosted",
+      "iot",
+      "home-cloud",
+      "casaos"
+    ],
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "readme_snippet": "# CasaOS - Your Personal Cloud \n<!-- Readme i18n links -->\n<!-- > English | [中文](#) | [Français](#) -->\n\n<p align=\"center\">\n    <!-- CasaOS Banner -->\n    <picture>\n        <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_dark_night_800x300.png\">\n        <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png\">\n        <img alt=\"CasaOS\" src=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png\">\n    </picture>\n    <br/>\n    <i>Connect with the community, establish autonomy, reduce the cost of SaaS, and MAXIMIZE the potential for a personalized copilot.</i>\n  "
+  },
+  {
+    "repo_name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars_today": 459,
+    "stars_total": 124236,
+    "topics": [
+      "free-for-developers",
+      "awesome-list"
+    ],
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "readme_snippet": "# free-for.dev\n\nDevelopers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.\n\nThis is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.\n\nThe scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.\n\nThis list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add "
+  },
+  {
+    "repo_name": "google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "language": "TypeScript",
+    "stars_today": 1541,
+    "stars_total": 22456,
+    "topics": [],
+    "url": "https://github.com/google-labs-code/design.md",
+    "readme_snippet": "# DESIGN.md\n\nA format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.\n\n## The Format\n\nA DESIGN.md file combines machine-readable design tokens (YAML front matter) with human-readable design rationale (markdown prose). Tokens give agents exact values. Prose tells them *why* those values exist and how to apply them.\n\n```md\n---\nname: Heritage\ncolors:\n  primary: \"#1A1C1E\"\n  secondary: \"#6C7278\"\n  tertiary: \"#B8422E\"\n  neutral: \"#F7F5F2\"\ntypography:\n  h1:\n    fontFamily: Public Sans\n    fontSize: 3rem\n  body-md:\n    fontFamily: Public Sans\n    fontSize: 1rem\n  label-caps:\n    fontFamily: Space Grotesk\n    fontSize: 0.75rem\nrounded:\n  sm: 4px\n  md: 8px\nspacing:\n  sm: 8px\n  md: 16px\n---\n\n## Overview"
+  },
+  {
+    "repo_name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "language": "C",
+    "stars_today": 57,
+    "stars_total": 135750,
+    "topics": [
+      "powertoys",
+      "desktop",
+      "windows",
+      "fancyzones",
+      "microsoft-powertoys",
+      "powerrename",
+      "keyboard-manager",
+      "color-picker",
+      "command-palette",
+      "windows-10",
+      "windows-11",
+      "advanced-paste"
+    ],
+    "url": "https://github.com/microsoft/PowerToys",
+    "readme_snippet": "<p align=\"center\">\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" />\n      <img src=\"./doc/images/readme/pt-hero.dark.png\" />\n  </picture>\n</p>\n<h1 align=\"center\">\n  <span>Microsoft PowerToys</span>\n</h1>\n<p align=\"center\">\n  <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span>\n</p>\n<h3 align=\"center\">\n  <a href=\"#-installation\">Installation</a>\n  <span> · </span>\n  <a href=\"https://aka.ms/powertoys-docs\">Documentation</a>\n  <span> · </span>\n  <a href=\"https://aka.ms/powertoys-releaseblog\">Blog</a>\n  <span> · </span>\n  <a href=\"#-whats-new\">Release notes</a>\n</h3>\n\n## 🔨 Utilities\n\nPowerToys includes over 30 utilities to help you customize "
+  },
+  {
+    "repo_name": "hugohe3/ppt-master",
+    "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+    "language": "Python",
+    "stars_today": 589,
+    "stars_total": 33239,
+    "topics": [
+      "ai-agent",
+      "powerpoint",
+      "pptx",
+      "presentation",
+      "office",
+      "slides",
+      "powerpoint-generation",
+      "ppt",
+      "slide",
+      "aippt"
+    ],
+    "url": "https://github.com/hugohe3/ppt-master",
+    "readme_snippet": "# PPT Master — AI generates natively editable PPTX from any document\n\n[![Version](https://img.shields.io/badge/version-v2.11.0-blue.svg)](https://github.com/hugohe3/ppt-master/releases)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![GitHub stars](https://img.shields.io/github/stars/hugohe3/ppt-master.svg)](https://github.com/hugohe3/ppt-master/stargazers)\n[![AtomGit stars](https://atomgit.com/hugohe3/ppt-master/star/badge.svg)](https://atomgit.com/hugohe3/ppt-master)\n[![The Agentic Leaderboard](https://www.theagenticleaderboard.com/badges/ppt-master.svg)](https://www.theagenticleaderboard.com/agent/?q=ppt-master)\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25760?utm_source=repository-badge&amp;utm_medium="
+  },
+  {
+    "repo_name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "language": "TypeScript",
+    "stars_today": 750,
+    "stars_total": 22247,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "boilerplate",
+      "claude",
+      "claude-code",
+      "clone",
+      "developer-tools",
+      "nextjs",
+      "react",
+      "reverse-engineering",
+      "shadcn-ui",
+      "skills",
+      "tailwindcss",
+      "template",
+      "typescript",
+      "web-scraping",
+      "website-clone"
+    ],
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "readme_snippet": "# AI Website Cloner Template\n\n<a href=\"https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-blue\" alt=\"MIT License\" /></a> <a href=\"https://github.com/JCodesMore/ai-website-cloner-template/stargazers\"><img src=\"https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=flat\" alt=\"Stars\" /></a> <a href=\"https://discord.gg/hrTSX5yTpB\"><img src=\"https://img.shields.io/discord/1400896964597383279?label=discord\" alt=\"Discord\" /></a>\n\nA reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. \n\n**Recommended: [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with Opus 4.7 for best results** — but works with a variety of AI coding "
+  },
+  {
+    "repo_name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "stars_today": 674,
+    "stars_total": 117363,
+    "topics": [],
+    "url": "https://github.com/garrytan/gstack",
+    "readme_snippet": "# gstack\n\n> \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — [Andrej Karpathy](https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/), No Priors podcast, March 2026\n\nWhen I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twenty? Peter Steinberger built [OpenClaw](https://github.com/openclaw/openclaw) — 247K GitHub stars — essentially solo with AI agents. The revolution is here. A single builder with the right tooling can move faster than a traditional team.\n\nI'm [Garry Tan](https://x.com/garrytan), President & CEO of [Y Combinator](https://www.ycombinator.com/). I've worked with thousands of startups — Coinbase, Instacart"
+  },
+  {
+    "repo_name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "stars_today": 394,
+    "stars_total": 53836,
+    "topics": [],
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "readme_snippet": "# 🔥 MediaCrawler - 自媒体平台爬虫 🕷️\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\">\n  <img src=\"https://trendshift.io/api/badge/repositories/8291\" alt=\"NanmiCoder%2FMediaCrawler | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n</a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/stargazers)\n[![GitHub Forks](https://img.shields.io/github/forks/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/network/members)\n[![GitHub Issues](https://img.shields.io/github/issues/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/issues)\n[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/NanmiCod"
+  },
+  {
+    "repo_name": "Anil-matcha/Open-Generative-AI",
+    "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "language": "JavaScript",
+    "stars_today": 255,
+    "stars_total": 21461,
+    "topics": [
+      "ai-image-generation",
+      "ai-video-generation",
+      "generative-ai",
+      "muapi",
+      "text-to-video",
+      "creative-tools",
+      "flux-1",
+      "image-to-video",
+      "javascript",
+      "kling-ai",
+      "open-source",
+      "sora-alternative",
+      "wan-video",
+      "ai-art-generator",
+      "midjourney-alternative",
+      "uncensored",
+      "flux",
+      "lipsync",
+      "text-to-image",
+      "seedance2"
+    ],
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "readme_snippet": "# Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms\n\n[![Powered by MuAPI](https://img.shields.io/badge/Powered%20by-MuAPI-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNGgtMnYtMmg0djZoLTJ6bTAtOFY2aDJ2MmgtMnoiLz48L3N2Zz4=)](https://muapi.ai?utm_source=github&utm_medium=badge&utm_campaign=open-generative-ai)\n\n\n> **The free, open-source alternative to AI Video Platforms.** Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees.\n\n**Community:** Join [Discord](https://discord.gg"
+  },
+  {
+    "repo_name": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "language": "Python",
+    "stars_today": 780,
+    "stars_total": 24123,
+    "topics": [
+      "ai",
+      "cognitive-architecture",
+      "vector-database",
+      "ai-agents",
+      "graph-database",
+      "ai-memory",
+      "cognitive-memory",
+      "knowledge",
+      "knowledge-graph",
+      "graph-rag",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "help-wanted",
+      "open-source",
+      "context-engineering",
+      "agent-memory",
+      "agent-skills",
+      "memory-management"
+    ],
+    "url": "https://github.com/topoteretes/cognee",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://github.com/topoteretes/cognee\">\n    <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\">\n  </a>\n\n  <br />\n\n  Cognee - The Open-Source AI Memory Platform for Agents\n\n  <p align=\"center\">\n  <a href=\"https://www.youtube.com/watch?v=8hmqS2Y5RVQ&t=13s\">Demo</a>\n  .\n  <a href=\"https://docs.cognee.ai/\">Docs</a>\n  .\n  <a href=\"https://cognee.ai\">Learn More</a>\n  ·\n  <a href=\"https://discord.gg/NQPKmU5CCg\">Join Discord</a>\n  ·\n  <a href=\"https://www.reddit.com/r/AIMemory/\">Join r/AIMemory</a>\n  .\n  <a href=\"https://github.com/topoteretes/cognee-community\">Community Plugins & Add-ons</a>\n  </p>\n\n\n  [![GitHub forks](https://img.shields.io/github/forks/topoteretes/cognee."
+  },
+  {
+    "repo_name": "dbt-labs/dbt-core",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "language": "Rust",
+    "stars_today": 18,
+    "stars_total": 13250,
+    "topics": [
+      "dbt-viewpoint",
+      "slack",
+      "pypa",
+      "data-modeling",
+      "business-intelligence",
+      "analytics",
+      "elt"
+    ],
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg\" alt=\"dbt logo\" width=\"750\"/>\n</p>\n\n> [!WARNING]\n> **dbt Core v1 development has moved to the [`1.latest`](https://github.com/dbt-labs/dbt-core/tree/1.latest) branch.**\n> The `main` branch now hosts dbt Core v2.0 (alpha) — a ground-up rewrite in Rust that is the foundation of the Fusion engine. If you're looking for the Python implementation of dbt Core, switch to [`1.latest`](https://github.com/dbt-labs/dbt-core/tree/1.latest).\n\n**[dbt](https://www.getdbt.com/)** enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.\n\n![architecture](https://raw.githubusercontent.com/dbt"
+  },
+  {
+    "repo_name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "stars_today": 141,
+    "stars_total": 38691,
+    "topics": [
+      "claude-code",
+      "guide",
+      "tutorial"
+    ],
+    "url": "https://github.com/luongnv89/claude-howto",
+    "readme_snippet": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\">\n  <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\">\n</picture>\n\n<p align=\"center\">\n  <a href=\"https://github.com/trending\">\n    <img src=\"https://img.shields.io/badge/GitHub-🔥%20%231%20Trending-purple?style=for-the-badge&logo=github\"/>\n  </a>\n</p>\n\n[![GitHub Stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat&color=gold)](https://github.com/luongnv89/claude-howto/stargazers)\n[![GitHub Forks](https://img.shields.io/github/forks/luongnv89/claude-howto?style=flat)](https://github.com/luongnv89/claude-howto/network/members)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Version](https://img.shields.io/badge/"
+  },
+  {
+    "repo_name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars_today": 392,
+    "stars_total": 179863,
+    "topics": [],
+    "url": "https://github.com/anomalyco/opencode",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/opencode-ai\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/opencode-ai?style=flat-square\" /></a>\n  <a href=\"https:/"
+  },
+  {
+    "repo_name": "Fission-AI/OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "language": "TypeScript",
+    "stars_today": 177,
+    "stars_total": 57216,
+    "topics": [
+      "spec",
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdlc",
+      "spec-driven-development",
+      "specification",
+      "sdd"
+    ],
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://github.com/Fission-AI/OpenSpec\">\n    <picture>\n      <source srcset=\"assets/openspec_bg.png\">\n      <img src=\"assets/openspec_bg.png\" alt=\"OpenSpec logo\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml/badge.svg\" /></a>\n  <a href=\"https://www.npmjs.com/package/@fission-ai/openspec\"><img alt=\"npm version\" src=\"https://img.shields.io/npm/v/@fission-ai/openspec?style=flat-square\" /></a>\n  <a href=\"./LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square\" /></a>\n  <a href=\"https://discord.gg/YctCnvvshC\"><img alt=\"Discord\" src=\"https://img.shields.io/"
+  },
+  {
+    "repo_name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "stars_today": 92,
+    "stars_total": 13798,
+    "topics": [
+      "backtesting",
+      "multi-agent",
+      "quantitative-finance",
+      "trading",
+      "ai-agent",
+      "algorithmic-trading",
+      "fintech",
+      "llm",
+      "mcp",
+      "python"
+    ],
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "readme_snippet": "<p align=\"center\">\n  <b>English</b> | <a href=\"README_zh.md\">中文</a> | <a href=\"README_ja.md\">日本語</a> | <a href=\"README_ko.md\">한국어</a> | <a href=\"README_ar.md\">العربية</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/>\n</p>\n\n<h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1>\n\n<p align=\"center\">\n  <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25527\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25527\" alt=\"HKUDS%2FVibe-Trading | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&l"
+  },
+  {
+    "repo_name": "keycloak/keycloak",
+    "description": "Open Source Identity and Access Management For Modern Applications and Services",
+    "language": "Java",
+    "stars_today": 20,
+    "stars_total": 35326,
+    "topics": [
+      "keycloak",
+      "oidc",
+      "saml"
+    ],
+    "url": "https://github.com/keycloak/keycloak",
+    "readme_snippet": "![Keycloak](https://github.com/keycloak/keycloak-misc/blob/main/logo/logo.svg)\n\n![GitHub Release](https://img.shields.io/github/v/release/keycloak/keycloak?label=latest%20release)\n[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6818/badge)](https://bestpractices.coreinfrastructure.org/projects/6818)\n[![CLOMonitor](https://img.shields.io/endpoint?url=https://clomonitor.io/api/projects/cncf/keycloak/badge)](https://clomonitor.io/projects/cncf/keycloak)\n[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/keycloak/keycloak/badge)](https://securityscorecards.dev/viewer/?uri=github.com/keycloak/keycloak)\n[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/keycloak-operator)](https://artifacthub.io/"
+  },
+  {
+    "repo_name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "stars_today": 239,
+    "stars_total": 3495,
+    "topics": [
+      "backlink-analysis",
+      "keyword-research",
+      "mcp",
+      "seo",
+      "seo-tools",
+      "site-audit",
+      "google-search-console-mcp"
+    ],
+    "url": "https://github.com/every-app/open-seo",
+    "readme_snippet": "# OpenSEO\n\n> Open source alternative to Semrush and Ahrefs\n\nOpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.\n\n> All-in-one SEO tool for you and your AI agent.\n\nConnect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs.\n\n<img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fd208249-44ea-4849-bb4b-5fc896aeab73\" />\n\n## Table of Contents\n\n- [Why use OpenSEO?](#why-use-openseo)\n- [Main SEO Workflows](#main-seo-workflows)\n- [OpenSEO MCP](#openseo-mcp)\n- [OpenSEO Agent Skills](#openseo-agent-skills)\n- [Roadmap](#roadmap)\n- [Community](#community)\n- [Prici"
+  }
+]
