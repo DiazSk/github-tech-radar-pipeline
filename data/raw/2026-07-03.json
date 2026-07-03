@@ -1,0 +1,302 @@
+[
+  {
+    "repo_name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "stars_today": 2137,
+    "stars_total": 32617,
+    "topics": [
+      "agents",
+      "artificial-intelligence",
+      "cybersecurity",
+      "penetration-testing",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security",
+      "bug-bounty",
+      "ctf-tools",
+      "cybersecurity-tools",
+      "ethical-hacking",
+      "llm-security",
+      "offensive-security",
+      "pentesting-tools",
+      "red-teaming",
+      "security-automation",
+      "security",
+      "code-quality",
+      "ai-hacking",
+      "hacking"
+    ],
+    "url": "https://github.com/usestrix/strix",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://strix.ai/\">\n    <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\">\n  </a>\n</p>\n\n<div align=\"center\">\n\n# Strix\n\n### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities.\n\n<br/>\n\n\n<a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a>\n<a href=\"https://strix.ai\"><img src=\"https://img.shields.io/badge/Website-strix.ai-f0f0f0?style=for-the-badge&logoColor=000000\" alt=\"Website\"></a>\n[![](https://dcbadge.limes.pink/api/server/strix-ai)](https://discord.gg/strix-ai)\n\n<a href=\"https://deepwiki.com/usestrix/strix\"><img src=\"https://deepwiki.com/badge.svg\""
+  },
+  {
+    "repo_name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "JavaScript",
+    "stars_today": 926,
+    "stars_total": 81390,
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"https://em-content.zobj.net/source/apple/391/rock_1faa8.png\" width=\"120\" />\n</p>\n\n<h1 align=\"center\">caveman</h1>\n\n<p align=\"center\">\n  <strong>why use many token when few do trick</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/JuliusBrussee/caveman/stargazers\"><img src=\"https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/JuliusBrussee/caveman/commits/main\"><img src=\"https://img.shields.io/github/last-commit/JuliusBrussee/caveman?style=flat\" alt=\"Last Commit\"></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/JuliusBrussee/caveman?style=flat\" alt=\"License\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#before--after\">Before/After</a> •\n  <a href=\"#i"
+  },
+  {
+    "repo_name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "stars_today": 3032,
+    "stars_total": 125729,
+    "topics": [],
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "readme_snippet": "# 🎭 The Agency: AI Specialists Ready to Transform Your Workflow\n\n> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)\n[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)\n[![Download the app](https://"
+  },
+  {
+    "repo_name": "hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "language": "HTML",
+    "stars_today": 938,
+    "stars_total": 9391,
+    "topics": [
+      "excercises",
+      "fitness",
+      "fitness-app"
+    ],
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "readme_snippet": "<div align=\"center\">\n\n# 💪 Exercises Dataset\n\n**A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group data and step-by-step instructions in 6 languages (English, Spanish, Italian, Turkish, Russian, Chinese). Exercise media is not included.**\n\n[![Exercises](https://img.shields.io/badge/Exercises-1324-blue?style=flat-square)](data/exercises.json)\n[![Languages](https://img.shields.io/badge/Languages-6-green?style=flat-square)](#-overview)\n[![Format](https://img.shields.io/badge/Format-JSON-orange?style=flat-square)](data/exercises.json)\n[![Media](https://img.shields.io/badge/Media-not%20included-lightgrey?style=flat-square)]"
+  },
+  {
+    "repo_name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "language": "JavaScript",
+    "stars_today": 372,
+    "stars_total": 58009,
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "career",
+      "claude",
+      "claude-code",
+      "cli",
+      "golang",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume",
+      "careerops",
+      "beginner-friendly",
+      "first-timers-only",
+      "good-first-issue"
+    ],
+    "url": "https://github.com/santifer/career-ops",
+    "readme_snippet": "# Career-Ops\n\n[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.zh-TW.md) | [Українська](README.ua.md) | [Русский](README.ru.md) | [Polski](README.pl.md) | [Dansk](README.da.md) | [العربية](README.ar.md)\n\n<p align=\"center\">\n  <a href=\"https://x.com/santifer\"><img src=\"docs/hero-banner.jpg\" alt=\"Career-Ops Multi-Agent Job Search System\" width=\"800\"></a>\n</p>\n\n<p align=\"center\">\n  <em>I spent months applying to jobs the hard way. So I engineered the system I wish I had.</em><br>\n  Companies use AI to filter candidates. <strong>I just gave candidates AI to <em>choose</em> companies.</strong><br>\n  <em>Now it's open sour"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 897,
+    "stars_total": 244656,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nI"
+  },
+  {
+    "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars_today": 104,
+    "stars_total": 45159,
+    "topics": [
+      "mcp-server",
+      "puppeteer",
+      "chrome-devtools",
+      "browser",
+      "chrome",
+      "debugging",
+      "devtools",
+      "mcp"
+    ],
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "readme_snippet": "# Chrome DevTools for agents\n\n[![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)\n\nChrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot)\ncontrol and inspect a live Chrome browser. It acts as a Model-Context-Protocol\n(MCP) server, giving your AI coding assistant access to the full power of\nChrome DevTools for reliable automation, in-depth debugging, and performance analysis.\nA [CLI](docs/cli.md) is also provided for use without MCP.\n\n## [Tool reference](./docs/tool-reference.md) | [Changelog](./CHANGELOG.md) | [Contributing](./CONTRIBUTING.md) | [Troubleshooting](./docs/troubleshooting.md) | [Design Principles](./docs/design-principles.md"
+  },
+  {
+    "repo_name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "stars_today": 554,
+    "stars_total": 13922,
+    "topics": [],
+    "url": "https://github.com/browser-use/video-use",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\">\n</p>\n\n# video-use\n\nIntroducing **video-use** — edit videos with Claude Code. 100% open source.\n\nDrop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus.\n\nTry video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github).\n\n## What it does\n\n- **Cuts out filler words** (`umm`, `uh`, false starts) and dead space between takes\n- **Auto color grades** every segment (warm cinematic, neutral punch, or any custom ffmpeg chain)\n- **30ms audio fades** at every cut so you never hear a pop\n- **Burns subtitles** in your style — 2-word"
+  },
+  {
+    "repo_name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "stars_today": 26,
+    "stars_total": 8187,
+    "topics": [],
+    "url": "https://github.com/actions/checkout",
+    "readme_snippet": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)\n\n# Checkout v7\n\n## What's new\n\n- Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads to \"pwn request\" vulnerabilities.\n  - To opt in after [reviewing the risks](https://gh.io/securely-using-pull_request_target), set the new `allow-unsafe-pr-checkout: true` input.\n- Migrated `actions/checkout` to ESM to support new versions of the `@actions/*` packages.\n- Updated direct and transi"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 486,
+    "stars_total": 225290,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "**Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) | [Русский](docs/ru/README.md) | [Tiếng Việt](docs/vi-VN/README.md) | [ไทย](docs/th/README.md) | [Deutsch](docs/de-DE/README.md) | [Español](docs/es/README.md)\n\n![ECC — the agent harness operating system](assets/hero.png)\n\n[![Discord](https://img.shields.io/discord/1496644400590094540?logo=discord&logoColor=white&label=Join%20the%20Discord&color=5865F2)](https://discord.gg/36yGMHGFbR)\n[![Website](https://img.shields.io/badge/Website-ecc.tools-E07856?logo=googlechrome&logoColor=white)](https://ecc.tools)\n[![GitHub App](https://img.shields.io/badge/GitHub%20App-ECC%20Tools-181717?l"
+  },
+  {
+    "repo_name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "stars_today": 939,
+    "stars_total": 17447,
+    "topics": [
+      "backtesting",
+      "multi-agent",
+      "quantitative-finance",
+      "trading",
+      "ai-agent",
+      "algorithmic-trading",
+      "fintech",
+      "llm",
+      "mcp",
+      "python"
+    ],
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "readme_snippet": "<p align=\"center\">\n  <b>English</b> | <a href=\"README_zh.md\">中文</a> | <a href=\"README_ja.md\">日本語</a> | <a href=\"README_ko.md\">한국어</a> | <a href=\"README_ar.md\">العربية</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/>\n</p>\n\n<h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1>\n\n<p align=\"center\">\n  <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25527\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25527\" alt=\"HKUDS%2FVibe-Trading | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&l"
+  },
+  {
+    "repo_name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "language": "Python",
+    "stars_today": 86,
+    "stars_total": 21687,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/agentskills/agentskills",
+    "readme_snippet": "# Agent Skills\n\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/MKPE9g8aUy)\n\nA standardized way to give AI agents new capabilities and expertise.\n\n## What are Agent Skills?\n\nAgent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows.\n\nAt its core, a skill is a folder containing a `SKILL.md` file. This file includes metadata (`name` and `description`, at minimum) and instructions that tell an agent how to perform a specific task. Skills can also bundle scripts, reference materials, templates, and other resources.\n\n```\nmy-skill/\n├── SKILL.md          # Required: metadata + instructions\n├── scripts/          # Optional: executable code\n├── references/       # Optional: "
+  },
+  {
+    "repo_name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "stars_today": 352,
+    "stars_total": 22749,
+    "topics": [],
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "readme_snippet": "# Codex plugin for Claude Code\n\nUse Codex from inside Claude Code for code reviews or to delegate tasks to Codex.\n\nThis plugin is for Claude Code users who want an easy way to start using Codex from the workflow\nthey already have.\n\n<video src=\"./docs/plugin-demo.webm\" controls muted playsinline autoplay></video>\n\n## What You Get\n\n- `/codex:review` for a normal read-only Codex review\n- `/codex:adversarial-review` for a steerable challenge review\n- `/codex:rescue`, `/codex:transfer`, `/codex:status`, `/codex:result`, and `/codex:cancel` to delegate work, hand off sessions, and manage background jobs\n\n## Requirements\n\n- **ChatGPT subscription (incl. Free) or OpenAI API key.**\n  - Usage will contribute to your Codex usage limits. [Learn more](https://developers.openai.com/codex/pricing).\n- **N"
+  },
+  {
+    "repo_name": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "language": "Python",
+    "stars_today": 117,
+    "stars_total": 150855,
+    "topics": [
+      "react-flow",
+      "chatgpt",
+      "large-language-models",
+      "generative-ai",
+      "agents",
+      "multiagent"
+    ],
+    "url": "https://github.com/langflow-ai/langflow",
+    "readme_snippet": "<!-- markdownlint-disable MD030 -->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/langflow-logo-color-blue-bg.svg\">\n  <img src=\"./docs/static/img/langflow-logo-color-black-solid.svg\" alt=\"Langflow logo\">\n</picture>\n\n[![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases)\n[![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)\n[![PyPI - Downloads](https://img.shields.io/pypi/dm/langflow?style=flat-square)](https://pypistats.org/packages/langflow)\n[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langflow-ai.svg?style=social&label=Follow%20%40Langflow)](https://twitter.com/langflow_ai)\n[![YouTube Chan"
+  },
+  {
+    "repo_name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars_today": 65,
+    "stars_total": 101273,
+    "topics": [
+      "neural-network",
+      "autograd",
+      "gpu",
+      "numpy",
+      "deep-learning",
+      "tensor",
+      "python",
+      "machine-learning"
+    ],
+    "url": "https://github.com/pytorch/pytorch",
+    "readme_snippet": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-light.png\" />\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" />\n  <img src=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" alt=\"PyTorch logo\" />\n</picture>\n\n--------------------------------------------------------------------------------\n\nPyTorch is a Python package that provides two high-level features:\n- Tensor computation (like NumPy) with strong GPU acceleration\n- Deep neural networks built on a tape-based autograd system\n\nYou can reuse your favorite Python packages such as NumPy, SciPy, and Cython to"
+  },
+  {
+    "repo_name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "language": "Python",
+    "stars_today": 68,
+    "stars_total": 25704,
+    "topics": [
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
+    ],
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "readme_snippet": "# Machine Learning Systems\n*Principles and Practices of Engineering Artificially Intelligent Systems*\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> •\n  <a href=\"README/README_zh.md\">中文</a> •\n  <a href=\"README/README_ja.md\">日本語</a> •\n  <a href=\"README/README_ko.md\">한국어</a>\n</p>\n\n<div align=\"center\">\n\n<!-- Build Status -->\n<p align=\"center\">\n  <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/book-validate-dev.yml?branch=dev&event=push&label=Book&logo=githubactions&cacheSeconds=300\" alt=\"Book\"></a>\n  <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow"
+  },
+  {
+    "repo_name": "ryanmcdermott/clean-code-javascript",
+    "description": "Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "stars_today": 27,
+    "stars_total": 94608,
+    "topics": [
+      "javascript",
+      "principles",
+      "composition",
+      "inheritance",
+      "clean-code",
+      "clean-architecture",
+      "best-practices"
+    ],
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "readme_snippet": "# clean-code-javascript\n\n## Table of Contents\n\n1. [Introduction](#introduction)\n2. [Variables](#variables)\n3. [Functions](#functions)\n4. [Objects and Data Structures](#objects-and-data-structures)\n5. [Classes](#classes)\n6. [SOLID](#solid)\n7. [Testing](#testing)\n8. [Concurrency](#concurrency)\n9. [Error Handling](#error-handling)\n10. [Formatting](#formatting)\n11. [Comments](#comments)\n12. [Translation](#translation)\n\n## Introduction\n\n![Humorous image of software quality estimation as a count of how many expletives\nyou shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)\n\nSoftware engineering principles, from Robert C. Martin's book\n[_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),\nadapted for JavaScript. This is not a style gu"
+  }
+]
