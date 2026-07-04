@@ -1,0 +1,328 @@
+[
+  {
+    "repo_name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "stars_today": 2803,
+    "stars_total": 34839,
+    "topics": [
+      "agents",
+      "artificial-intelligence",
+      "cybersecurity",
+      "penetration-testing",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security",
+      "bug-bounty",
+      "ctf-tools",
+      "cybersecurity-tools",
+      "ethical-hacking",
+      "llm-security",
+      "offensive-security",
+      "pentesting-tools",
+      "red-teaming",
+      "security-automation",
+      "security",
+      "code-quality",
+      "ai-hacking",
+      "hacking"
+    ],
+    "url": "https://github.com/usestrix/strix",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://strix.ai/\">\n    <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\">\n  </a>\n</p>\n\n<div align=\"center\">\n\n# Strix\n\n### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities.\n\n<br/>\n\n\n<a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a>\n<a href=\"https://strix.ai\"><img src=\"https://img.shields.io/badge/Website-strix.ai-f0f0f0?style=for-the-badge&logoColor=000000\" alt=\"Website\"></a>\n[![](https://dcbadge.limes.pink/api/server/strix-ai)](https://discord.gg/strix-ai)\n\n<a href=\"https://deepwiki.com/usestrix/strix\"><img src=\"https://deepwiki.com/badge.svg\""
+  },
+  {
+    "repo_name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "stars_today": 634,
+    "stars_total": 23338,
+    "topics": [],
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "readme_snippet": "# Codex plugin for Claude Code\n\nUse Codex from inside Claude Code for code reviews or to delegate tasks to Codex.\n\nThis plugin is for Claude Code users who want an easy way to start using Codex from the workflow\nthey already have.\n\n<video src=\"./docs/plugin-demo.webm\" controls muted playsinline autoplay></video>\n\n## What You Get\n\n- `/codex:review` for a normal read-only Codex review\n- `/codex:adversarial-review` for a steerable challenge review\n- `/codex:rescue`, `/codex:transfer`, `/codex:status`, `/codex:result`, and `/codex:cancel` to delegate work, hand off sessions, and manage background jobs\n\n## Requirements\n\n- **ChatGPT subscription (incl. Free) or OpenAI API key.**\n  - Usage will contribute to your Codex usage limits. [Learn more](https://developers.openai.com/codex/pricing).\n- **N"
+  },
+  {
+    "repo_name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "JavaScript",
+    "stars_today": 2863,
+    "stars_total": 83079,
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/caveman-logo-banner.png\" alt=\"Caveman\" width=\"720\">\n</p>\n\n<p align=\"center\">\n  <strong>why use many token when few do trick</strong>\n</p>\n\n<p align=\"center\">\n  Make your AI coding agent talk like a caveman.<br>\n  Same answers, <strong>65% fewer output tokens</strong>. Brain still big. Mouth small.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/JuliusBrussee/caveman/stargazers\"><img src=\"https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow\" alt=\"Stars\"></a>\n  <a href=\"./INSTALL.md\"><img src=\"https://img.shields.io/badge/works_with-30%2B_agents-orange?style=flat\" alt=\"30+ agents\"></a>\n  <a href=\"https://github.com/JuliusBrussee/caveman/commits/main\"><img src=\"https://img.shields.io/github/last-commit/JuliusBrusse"
+  },
+  {
+    "repo_name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "stars_today": 91,
+    "stars_total": 77366,
+    "topics": [
+      "elasticsearch",
+      "java",
+      "search-engine"
+    ],
+    "url": "https://github.com/elastic/elasticsearch",
+    "readme_snippet": "= Elasticsearch\n\nElasticsearch is a distributed search and analytics engine, scalable data store and vector database optimized for speed and relevance on production-scale workloads. Elasticsearch is the foundation of Elastic's open Stack platform. Search in near real-time over massive datasets, perform vector searches, integrate with generative AI applications, and much more.\n\nUse cases enabled by Elasticsearch include:\n\n* https://www.elastic.co/search-labs/blog/articles/retrieval-augmented-generation-rag[Retrieval Augmented Generation (RAG)]\n* https://www.elastic.co/search-labs/blog/categories/vector-search[Vector search]\n* Full-text search\n* Logs\n* Metrics\n* Application performance monitoring (APM)\n* Security logs\n\n\\... and more!\n\nTo learn more about Elasticsearch's features and capabili"
+  },
+  {
+    "repo_name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "language": "TypeScript",
+    "stars_today": 129,
+    "stars_total": 8278,
+    "topics": [],
+    "url": "https://github.com/actions/checkout",
+    "readme_snippet": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)\n\n# Checkout v7\n\n## What's new\n\n- Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads to \"pwn request\" vulnerabilities.\n  - To opt in after [reviewing the risks](https://gh.io/securely-using-pull_request_target), set the new `allow-unsafe-pr-checkout: true` input.\n- Migrated `actions/checkout` to ESM to support new versions of the `@actions/*` packages.\n- Updated direct and transi"
+  },
+  {
+    "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars_today": 405,
+    "stars_total": 45532,
+    "topics": [
+      "mcp-server",
+      "puppeteer",
+      "chrome-devtools",
+      "browser",
+      "chrome",
+      "debugging",
+      "devtools",
+      "mcp"
+    ],
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "readme_snippet": "# Chrome DevTools for agents\n\n[![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)\n\nChrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot)\ncontrol and inspect a live Chrome browser. It acts as a Model-Context-Protocol\n(MCP) server, giving your AI coding assistant access to the full power of\nChrome DevTools for reliable automation, in-depth debugging, and performance analysis.\nA [CLI](docs/cli.md) is also provided for use without MCP.\n\n## [Tool reference](./docs/tool-reference.md) | [Changelog](./CHANGELOG.md) | [Contributing](./CONTRIBUTING.md) | [Troubleshooting](./docs/troubleshooting.md) | [Design Principles](./docs/design-principles.md"
+  },
+  {
+    "repo_name": "ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+    "language": "Python",
+    "stars_today": 65,
+    "stars_total": 69236,
+    "topics": [
+      "python",
+      "ansible"
+    ],
+    "url": "https://github.com/ansible/ansible",
+    "readme_snippet": "[![PyPI version](https://img.shields.io/pypi/v/ansible-core.svg)](https://pypi.org/project/ansible-core)\n[![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/ansible/latest/)\n[![Chat badge](https://img.shields.io/badge/chat-Matrix-brightgreen.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#real-time-chat)\n[![Ansible forum](https://img.shields.io/badge/forum-Ansible-orange.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#forum)\n[![Build Status](https://dev.azure.com/ansible/ansible/_apis/build/status/CI?branchName=devel)](https://dev.azure.com/ansible/ansible/_build/latest?definitionId=20&branchName=devel)\n[![Ansible Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-Ansible-silve"
+  },
+  {
+    "repo_name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars_today": 885,
+    "stars_total": 4783,
+    "topics": [],
+    "url": "https://github.com/facebook/astryx",
+    "readme_snippet": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. -->\n\n# Astryx\n\nAn open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them.\n\n> **Currently in Beta** · Built on [React](https://react.dev) and [StyleX](https://stylexjs.com)\n\n## Overview\n\nAstryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day.\n\nIt ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as one cohesive system. You import pre-built CSS and use typed React components — no build"
+  },
+  {
+    "repo_name": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "language": "Python",
+    "stars_today": 239,
+    "stars_total": 9862,
+    "topics": [
+      "retrogaming",
+      "self-hosted",
+      "open-source",
+      "emulation",
+      "rommapp"
+    ],
+    "url": "https://github.com/rommapp/romm",
+    "readme_snippet": "<!-- trunk-ignore-all(markdownlint/MD033) -->\n<!-- trunk-ignore(markdownlint/MD041) -->\n<div align=\"center\">\n  <img src=\".github/resources/isotipo.png\" height=\"180px\" width=\"auto\" alt=\"romm logo\">\n\n  <h3 style=\"font-size: 25px;\">\n    A beautiful, powerful, self-hosted ROM manager and player.\n  </h3>\n\n[![discord-badge-img]][discord-badge]\n[![docs-badge-img]][docs]\n[![license-badge-img]][license-badge]\n[![release-badge-img]][release-badge]\n[![docker-pulls-badge-img]][docker-pulls-badge]\n\n  </div>\n</div>\n\n# Overview\n\nRomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators.\n\n## Features\n\n- Scan and"
+  },
+  {
+    "repo_name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "language": "Python",
+    "stars_today": 793,
+    "stars_total": 26247,
+    "topics": [
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
+    ],
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "readme_snippet": "# Machine Learning Systems\n*Principles and Practices of Engineering Artificially Intelligent Systems*\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> •\n  <a href=\"README/README_zh.md\">中文</a> •\n  <a href=\"README/README_ja.md\">日本語</a> •\n  <a href=\"README/README_ko.md\">한국어</a>\n</p>\n\n<div align=\"center\">\n\n<!-- Build Status -->\n<p align=\"center\">\n  <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/book-validate-dev.yml?branch=dev&event=push&label=Book&logo=githubactions&cacheSeconds=300\" alt=\"Book\"></a>\n  <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow"
+  },
+  {
+    "repo_name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars_today": 293,
+    "stars_total": 101459,
+    "topics": [
+      "neural-network",
+      "autograd",
+      "gpu",
+      "numpy",
+      "deep-learning",
+      "tensor",
+      "python",
+      "machine-learning"
+    ],
+    "url": "https://github.com/pytorch/pytorch",
+    "readme_snippet": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-light.png\" />\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" />\n  <img src=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" alt=\"PyTorch logo\" />\n</picture>\n\n--------------------------------------------------------------------------------\n\nPyTorch is a Python package that provides two high-level features:\n- Tensor computation (like NumPy) with strong GPU acceleration\n- Deep neural networks built on a tape-based autograd system\n\nYou can reuse your favorite Python packages such as NumPy, SciPy, and Cython to"
+  },
+  {
+    "repo_name": "apache/maven",
+    "description": "Apache Maven core",
+    "language": "Java",
+    "stars_today": 58,
+    "stars_total": 5244,
+    "topics": [
+      "maven",
+      "java",
+      "build-management",
+      "apache-maven",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/apache/maven",
+    "readme_snippet": "<!---\n Licensed to the Apache Software Foundation (ASF) under one or more\n contributor license agreements.  See the NOTICE file distributed with\n this work for additional information regarding copyright ownership.\n The ASF licenses this file to You under the Apache License, Version 2.0\n (the \"License\"); you may not use this file except in compliance with\n the License.  You may obtain a copy of the License at\n\n      http://www.apache.org/licenses/LICENSE-2.0\n\n Unless required by applicable law or agreed to in writing, software\n distributed under the License is distributed on an \"AS IS\" BASIS,\n WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n See the License for the specific language governing permissions and\n limitations under the License.\n-->\nApache Maven\n========="
+  },
+  {
+    "repo_name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Python",
+    "stars_today": 221,
+    "stars_total": 135898,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-code",
+    "readme_snippet": "# Claude Code\n\n![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)\n\n[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square\n\nClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github.\n\n**Learn more in the [official documentation](https://code.claude.com/docs/en/overview)**.\n\n<img src=\"./demo.gif\" />\n\n## Get started\n> [!NOTE]\n> Installation via npm is deprecated. Use one of the recommended methods below.\n\nFor more installation options, un"
+  },
+  {
+    "repo_name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "stars_today": 478,
+    "stars_total": 10888,
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "devtools",
+      "multiplexer",
+      "rust",
+      "terminal",
+      "terminal-multiplexer",
+      "terminal-ui",
+      "tmux",
+      "tui",
+      "workspace-manager"
+    ],
+    "url": "https://github.com/ogulcancelik/herdr",
+    "readme_snippet": "# herdr\n\n\n<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"herdr\" width=\"100\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://herdr.dev\">herdr.dev</a> · <a href=\"#install\">install</a> · <a href=\"#quick-start\">quick start</a> · <a href=\"#supported-agents\">supported agents</a> · <a href=\"https://herdr.dev/docs/\">docs</a> · <a href=\"https://herdr.dev/docs/socket-api/\">socket api</a> · <a href=\"#sponsors\">sponsor</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/32084\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/32084\" alt=\"herdr was #1 GitHub Trending repository of the day on Jun 30, 2026\" width=\"250\" height=\"55\" />\n  </a>\n</p>\n\n---\n\nhttps://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 1209,
+    "stars_total": 245631,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nI"
+  },
+  {
+    "repo_name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "language": "Python",
+    "stars_today": 406,
+    "stars_total": 22047,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/agentskills/agentskills",
+    "readme_snippet": "# Agent Skills\n\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/MKPE9g8aUy)\n\nA standardized way to give AI agents new capabilities and expertise.\n\n## What are Agent Skills?\n\nAgent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows.\n\nAt its core, a skill is a folder containing a `SKILL.md` file. This file includes metadata (`name` and `description`, at minimum) and instructions that tell an agent how to perform a specific task. Skills can also bundle scripts, reference materials, templates, and other resources.\n\n```\nmy-skill/\n├── SKILL.md          # Required: metadata + instructions\n├── scripts/          # Optional: executable code\n├── references/       # Optional: "
+  },
+  {
+    "repo_name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars_today": 169,
+    "stars_total": 105535,
+    "topics": [
+      "firebase",
+      "supabase",
+      "realtime",
+      "postgrest",
+      "postgres",
+      "postgresql",
+      "websockets",
+      "deno",
+      "embeddings",
+      "vectors",
+      "alternative",
+      "auth",
+      "database",
+      "example",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "ai"
+    ],
+    "url": "https://github.com/supabase/supabase",
+    "readme_snippet": "<p align=\"center\">\n<img src=\"https://user-images.githubusercontent.com/8291514/213727234-cda046d6-28c6-491a-b284-b86c5cede25d.png#gh-light-mode-only\">\n<img src=\"https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only\">\n</p>\n\n# Supabase\n\n[Supabase](https://supabase.com) is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools.\n\n- [x] Hosted Postgres Database. [Docs](https://supabase.com/docs/guides/database)\n- [x] Authentication and Authorization. [Docs](https://supabase.com/docs/guides/auth)\n- [x] Auto-generated APIs.\n  - [x] REST. [Docs](https://supabase.com/docs/guides/api)\n  - [x] GraphQL. [Docs](https://supabase.com/docs/guides/graphql)\n  - [x] Realtime subscript"
+  },
+  {
+    "repo_name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "stars_today": 60,
+    "stars_total": 7203,
+    "topics": [
+      "agents",
+      "container",
+      "sandbox"
+    ],
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/cube-sandbox-logo.png\" alt=\"Cube Sandbox Logo\" width=\"140\" />\n</p>\n\n<h1 align=\"center\">CubeSandbox</h1>\n\n<p align=\"center\">\n  <strong>Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/tencentcloud/CubeSandbox/stargazers\"><img src=\"https://img.shields.io/github/stars/tencentcloud/cubesandbox?style=social\" alt=\"GitHub Stars\" /></a>\n  <a href=\"https://github.com/tencentcloud/CubeSandbox/issues\"><img src=\"https://img.shields.io/github/issues/tencentcloud/cubesandbox\" alt=\"GitHub Issues\" /></a>\n  <a href=\"./LICENSE\"><img src=\"https://img.shields.io/badge/License-Apache_2.0-green\" alt=\"Apache 2.0 License\" /></a>\n  <a href=\"./CONTRIBUTING.md\"><img src=\"https://img.shiel"
+  },
+  {
+    "repo_name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "stars_today": 1208,
+    "stars_total": 126595,
+    "topics": [],
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "readme_snippet": "# 🎭 The Agency: AI Specialists Ready to Transform Your Workflow\n\n> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)\n[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)\n[![Download the app](https://"
+  }
+]
