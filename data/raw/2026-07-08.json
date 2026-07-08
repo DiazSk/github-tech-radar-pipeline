@@ -1,0 +1,253 @@
+[
+  {
+    "repo_name": "MadsLorentzen/ai-job-search",
+    "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "language": "TypeScript",
+    "stars_today": 2514,
+    "stars_total": 11603,
+    "topics": [],
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"claude_animation.gif\" alt=\"AI Job Search Assistant\" width=\"200\">\n</p>\n\n# AI Job Search\n\nAn AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n\n> Note: This is an independent open-source project and is not affiliated with, endorsed by, sponsored by, or maintained by Anthropic. Anthropic and Claude Code are referenced only to describe the toolchain this workflow uses.\n\n<p align=\"center\">\n  <a href=\"https://ko-fi.com/madslorentzen\">\n    <img src=\"https://storage.ko-fi.com/cdn/kofi3.png?v=6\" alt=\"Buy me a coffee at ko-fi.com\" height=\"40\">\n  </a>\n</p>\n\n## What this is\n\nA structured workf"
+  },
+  {
+    "repo_name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+    "language": "Rust",
+    "stars_today": 1777,
+    "stars_total": 20940,
+    "topics": [
+      "meeting-minutes",
+      "meeting-notes",
+      "llm",
+      "mac",
+      "windows",
+      "rust",
+      "whisper",
+      "whisper-cpp",
+      "ai",
+      "transcription",
+      "privacy-tools",
+      "self-hosted",
+      "parakeet",
+      "local-ai",
+      "privacy-focused",
+      "ai-meeting-assistant",
+      "offline-first",
+      "ollama",
+      "speech-to-text",
+      "sortformer"
+    ],
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "readme_snippet": "<div align=\"center\" style=\"border-bottom: none\">\n    <h1>\n        <img src=\"docs/Meetily-6.png\" style=\"border-radius: 10px;\" />\n        <br>\n        Privacy-First AI Meeting Assistant\n    </h1>\n    <a href=\"https://trendshift.io/repositories/21958\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/21958\" alt=\"Zackriya-Solutions%2Fmeetily | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n    <br>\n    <br>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases/\"><img src=\"https://img.shields.io/badge/Pre_Release-Link-brightgreen\" alt=\"Pre-Release\"></a>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases\"><img alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/zackriya-solutions/meeti"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 1317,
+    "stars_total": 72333,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars_today": 1129,
+    "stars_total": 78598,
+    "topics": [
+      "densepose",
+      "wifi",
+      "esp32",
+      "monitoring",
+      "rf",
+      "wifi-security",
+      "self-learning",
+      "firmware",
+      "pose-estimation",
+      "spatial-intelligence",
+      "home-assistant",
+      "home-automation",
+      "skills",
+      "networking",
+      "claude",
+      "iot",
+      "react",
+      "typescript",
+      "npm",
+      "awesome"
+    ],
+    "url": "https://github.com/ruvnet/RuView",
+    "readme_snippet": "# π RuView\n\n<p align=\"center\">\n  <a href=\"https://cognitum.one/seed\">\n    <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://cognitum.one/seed\">\n    <img src=\"assets/seed.png\" alt=\"Cognitum Seed\" width=\"100%\">\n  </a>\n</p>\n\n## **See through walls with WiFi** ##\n\n**Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.\n\nWorks natively with the four major smart-home ecosystems: **[Home Assistant](docs/integrations/home-assistant.md)** via the HA-DISCO MQTT publisher, **[Apple Home & HomePod](docs/user-guide-apple-homepod.md)** as a discoverable HAP-1."
+  },
+  {
+    "repo_name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "language": "JavaScript",
+    "stars_today": 1691,
+    "stars_total": 53203,
+    "topics": [
+      "ai",
+      "anthropic",
+      "awesome",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "deep-learning",
+      "education",
+      "gemini",
+      "generative-ai",
+      "google",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "open-source",
+      "openai",
+      "prompt-engineering",
+      "ai-agents"
+    ],
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "readme_snippet": "> **As seen in The Washington Post:** [See the hidden rules behind AI. Then use them to rewrite this article.](https://wapo.st/49t4gSb) (May 11, 2026)\n# System Prompts Leaks\nThe purpose of this repo is to document the System Prompt instructions for all the AI chatbots out there - Claude, ChatGPT, Gemini etc.\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/banner-dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\".github/banner-light.png\">\n  <img alt=\"ChatGPT leaking its system prompt after being asked to repeat all of the above\" src=\".github/banner-light.png\">\n</picture>\n\n[![GitHub Views per Week](https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/traffic/traffic-system_prompts_leaks/views_per_week.svg)](https://github.com/asgeirtj/sys"
+  },
+  {
+    "repo_name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "stars_today": 664,
+    "stars_total": 8541,
+    "topics": [
+      "agents",
+      "container",
+      "sandbox"
+    ],
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/cube-sandbox-logo.png\" alt=\"Cube Sandbox Logo\" width=\"140\" />\n</p>\n\n<h1 align=\"center\">CubeSandbox</h1>\n\n<p align=\"center\">\n  <strong>Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/26338?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26338\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26338\" alt=\"TencentCloud/CubeSandbox | Trendshift\" width=\"250\" height=\"55\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/tencentcloud/CubeSandbox/stargazers\"><img src=\"https://img.shields.io/github/stars/tencentcloud/cubesandbox?style=social\" alt=\"GitHub Stars\" "
+  },
+  {
+    "repo_name": "AhmadIbrahiim/Website-downloader",
+    "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+    "language": "HTML",
+    "stars_today": 140,
+    "stars_total": 4155,
+    "topics": [
+      "offline-web-pages",
+      "downloader",
+      "scraper",
+      "assets"
+    ],
+    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+    "readme_snippet": "## Complete Website Downloader 💾\nDownload the complete source code of any website (including all assets) 🔨.\n\n👉 Live Demo: https://website-downloader.onrender.com\n\n![enter image description here](https://github.com/AhmadIbrahiim/Website-downloader/blob/master/public/Record.gif?raw=true)\n<div align=\"center\">\n\n  <a href=\"\">![CodeFactor](https://www.codefactor.io/repository/github/ahmadibrahiim/website-downloader/badge)</a>\n\n</div>\n\n## Description 📒\n Website downloader works with `wget` and `archiver` to download all websites assets and compress then sends it back to the user through socket channel\n \n **wget params the being used**\n \n `wget --mirror --convert-links --adjust-extension --page-requisites \n--no-parent http://example.org`\n\n **Explanation of the various flags:**\n\n - --mirror – Makes"
+  },
+  {
+    "repo_name": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "language": "Swift",
+    "stars_today": 376,
+    "stars_total": 17079,
+    "topics": [
+      "ai",
+      "codex",
+      "swift",
+      "claude-code"
+    ],
+    "url": "https://github.com/steipete/CodexBar",
+    "readme_snippet": "# CodexBar 🎚️ — May your tokens never run out.\n\n> Every AI coding limit, in your menu bar.\n\n[![Latest release](https://img.shields.io/github/v/release/steipete/CodexBar?style=flat-square&color=0a0a0c)](https://github.com/steipete/CodexBar/releases/latest)\n[![macOS 14+](https://img.shields.io/badge/macOS-14%2B-0a0a0c?style=flat-square)](https://github.com/steipete/CodexBar/releases/latest)\n[![Homebrew](https://img.shields.io/badge/brew-steipete%2Ftap%2Fcodexbar-orange?style=flat-square)](https://github.com/steipete/homebrew-tap)\n[![AUR](https://img.shields.io/aur/version/codexbar-cli?style=flat-square&color=1793d1)](https://aur.archlinux.org/packages/codexbar-cli)\n[![License: MIT](https://img.shields.io/badge/license-MIT-6e5aff?style=flat-square)](LICENSE)\n[![Site](https://img.shields.io/ba"
+  },
+  {
+    "repo_name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "language": "C#",
+    "stars_today": 64,
+    "stars_total": 4345,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/dotnet/skills",
+    "readme_snippet": "# .NET Agent Skills\n\n[![Dashboard](https://github.com/dotnet/skills/actions/workflows/pages/pages-build-deployment/badge.svg)](https://dotnet.github.io/skills/)\n\nThis repository contains the .NET team's curated set of core skills and custom agents for coding agents. For information about the Agent Skills standard, see [agentskills.io](https://agentskills.io).\n\n[**📊 Dashboard**](https://dotnet.github.io/skills/) - Accuracy and efficiency scoring trends for contained plugins (https://dotnet.github.io/skills/)\n\n## What's Included\n\n| Plugin | Description |\n|--------|-------------|\n| [dotnet](plugins/dotnet/) | C# language server (LSP) integration for coding agents and high-level .NET development skills. |\n| [dotnet-advanced](plugins/dotnet-advanced/) | Collection of .NET skills for handling sp"
+  },
+  {
+    "repo_name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "stars_today": 893,
+    "stars_total": 10306,
+    "topics": [
+      "agent",
+      "ai",
+      "cli",
+      "office",
+      "skills",
+      "openclaw",
+      "claude-code",
+      "codex",
+      "docx",
+      "pptx",
+      "xlsx",
+      "excel",
+      "presentation",
+      "word"
+    ],
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "readme_snippet": "# OfficeCLI\n\n> **OfficeCLI is the world's first and the best Office suite designed for AI agents.**\n\n**Give any AI agent full control over Word, Excel, and PowerPoint — in one line of code.**\n\nOpen-source. Single binary. No Office installation. No dependencies. Works everywhere.\n\n**OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity — and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render → look → fix* loop.\n\n[![GitHub Release](https://img.shields.io/github/v/release/iOfficeAI/OfficeCLI)](https://github.com/iOfficeAI/OfficeCLI/releases)\n[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)\n\n**English** | [中文](README_zh.md) | [日本語](README_ja.md) | [한국어](README_ko.md)\n\n<p align=\"ce"
+  },
+  {
+    "repo_name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "stars_today": 965,
+    "stars_total": 5324,
+    "topics": [],
+    "url": "https://github.com/bradautomates/claude-video",
+    "readme_snippet": "# /watch\n\n**Give Claude the ability to watch any video.**\n\nClaude Code (recommended — auto-updates via marketplace):\n```\n/plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video\n```\n\nCodex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts:\n```bash\nnpx skills add bradautomates/claude-video -g\n```\n(`-g` installs globally for your user, available across all projects. Drop it to scope per-project.)\n\nMore install options (claude.ai web, manual) in the [Install](#install) section below.\n\nZero config to start — `yt-dlp` and `ffmpeg` install on first run via `brew` on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions.\n\n---\n\nClaude can"
+  },
+  {
+    "repo_name": "kyutai-labs/pocket-tts",
+    "description": "A TTS that fits in your CPU (and pocket)",
+    "language": "Python",
+    "stars_today": 531,
+    "stars_total": 6291,
+    "topics": [],
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "readme_snippet": "# Pocket TTS\n\n<img width=\"1446\" height=\"622\" alt=\"pocket-tts-logo-v2-transparent\" src=\"https://github.com/user-attachments/assets/637b5ed6-831f-4023-9b4c-741be21ab238\" />\n\nA lightweight text-to-speech (TTS) application designed to run efficiently on CPUs.\nForget about the hassle of using GPUs and web APIs serving TTS models. With Kyutai's Pocket TTS, generating audio is just a pip install and a function call away.\n\nSupports Python 3.10, 3.11, 3.12, 3.13 and 3.14. Requires PyTorch 2.5+. Does not require the gpu version of PyTorch.\n\n[🔊 Demo](https://kyutai.org/pocket-tts) | \n[🐱‍💻GitHub Repository](https://github.com/kyutai-labs/pocket-tts) | \n[🤗 Hugging Face Model Card](https://huggingface.co/kyutai/pocket-tts) | \n[⚙️ Tech report](https://kyutai.org/blog/2026-01-13-pocket-tts) |\n[📄 Paper](ht"
+  },
+  {
+    "repo_name": "hesreallyhim/awesome-claude-code",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "language": "Python",
+    "stars_today": 144,
+    "stars_total": 49242,
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant",
+      "agent-skills",
+      "coding-assistants",
+      "llm",
+      "awesome-claude-code"
+    ],
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "readme_snippet": "![Awesome Claude Code](assets/awesome-claude-code-banner.png)\n\n<!-- Awesome Claude Code -->\n\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n\n_A hand-picked collection of the finest of resources for the most awesome of agents, [Claude Code](https://code.claude.com/docs/), the undisputed champion of coding companions, from the unstoppable team at [Anthropic PBC](https://github.com/anthropics/claude-code). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins. Suitable for beginners and veterans, with an emphasis on code quality, security, and originality._\n\n<br>\n\nThe current iteration of the list, such as you see it today, was launched with the express intent to highlight resources that"
+  }
+]
