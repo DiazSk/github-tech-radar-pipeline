@@ -1,0 +1,310 @@
+[
+  {
+    "repo_name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "stars_today": 328,
+    "stars_total": 7389,
+    "topics": [
+      "agent",
+      "ai",
+      "code-analysis",
+      "code-generation",
+      "mcp",
+      "terminal-ai",
+      "terminal-automation",
+      "vibe-coding",
+      "gemini-cli-extension"
+    ],
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "readme_snippet": "# Desktop Commander MCP\n### Search, update, manage files and run terminal commands with AI\n\n[![npm downloads](https://img.shields.io/npm/dw/@wonderwhy-er/desktop-commander)](https://www.npmjs.com/package/@wonderwhy-er/desktop-commander)\n[![AgentAudit Verified](https://agentaudit.dev/api/badge/desktop-commander)](https://agentaudit.dev/skills/desktop-commander)\n[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/wonderwhy-er/DesktopCommanderMCP)](https://archestra.ai/mcp-catalog/wonderwhy-er__desktopcommandermcp)\n[![smithery badge](https://smithery.ai/badge/@wonderwhy-er/desktop-commander)](https://smithery.ai/server/@wonderwhy-er/desktop-commander)\n[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/wonderw"
+  },
+  {
+    "repo_name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "stars_today": 209,
+    "stars_total": 94303,
+    "topics": [
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "transpiler",
+      "typescript",
+      "rust",
+      "rust-lang"
+    ],
+    "url": "https://github.com/oven-sh/bun",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a>\n</p>\n<h1 align=\"center\">Bun</h1>\n\n<p align=\"center\">\n<a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a>\n<img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\">\n<a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https://img.shields.io/static/v1?label=speed&message=fast&color=success\" alt=\"Bun speed\" /></a>\n</p>\n\n<div align=\"center\">\n  <a href=\"https://bun.com/docs\">Documentation</a>\n  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>\n  <a href=\"https://bun.com/discord\">Discord</a>\n  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span"
+  },
+  {
+    "repo_name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "stars_today": 89,
+    "stars_total": 17539,
+    "topics": [],
+    "url": "https://github.com/abseil/abseil-cpp",
+    "readme_snippet": "# Abseil - C++ Common Libraries\n\nThe repository contains the Abseil C++ library code. Abseil is an open-source\ncollection of C++ code (compliant to C++17) designed to augment the C++\nstandard library.\n\n## Table of Contents\n\n- [About Abseil](#about)\n- [Quickstart](#quickstart)\n- [Building Abseil](#build)\n- [Support](#support)\n- [Codemap](#codemap)\n- [Releases](#releases)\n- [License](#license)\n- [Links](#links)\n\n<a name=\"about\"></a>\n## About Abseil\n\nAbseil is an open-source collection of C++ library code designed to augment\nthe C++ standard library. The Abseil library code is collected from Google's\nown C++ code base, has been extensively tested and used in production, and\nis the same code we depend on in our daily coding lives.\n\nIn some cases, Abseil provides pieces missing from the C++ sta"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 1116,
+    "stars_total": 76910,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "jbeder/yaml-cpp",
+    "description": "A YAML parser and emitter in C++",
+    "language": "C++",
+    "stars_today": 69,
+    "stars_total": 6091,
+    "topics": [],
+    "url": "https://github.com/jbeder/yaml-cpp",
+    "readme_snippet": "# yaml-cpp ![Build Status](https://github.com/jbeder/yaml-cpp/actions/workflows/build.yml/badge.svg) [![Documentation](https://codedocs.xyz/jbeder/yaml-cpp.svg)](https://codedocs.xyz/jbeder/yaml-cpp/)\n\n`yaml-cpp` is a [YAML](http://www.yaml.org/) parser and emitter in C++ matching the [YAML 1.2 spec](http://www.yaml.org/spec/1.2/spec.html).\n\n## Usage\n\nSee [Tutorial](https://github.com/jbeder/yaml-cpp/wiki/Tutorial) and [How to Emit YAML](https://github.com/jbeder/yaml-cpp/wiki/How-To-Emit-YAML) for reference. For the old API (until 0.5.0), see [How To Parse A Document](https://github.com/jbeder/yaml-cpp/wiki/How-To-Parse-A-Document-(Old-API)).\n\n## How to Build\n\n`yaml-cpp` uses [CMake](http://www.cmake.org) to support cross-platform building. Install [CMake](http://www.cmake.org) _(Resource"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "stars_today": 1712,
+    "stars_total": 164798,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 1013,
+    "stars_total": 251881,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nI"
+  },
+  {
+    "repo_name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "stars_today": 177,
+    "stars_total": 109802,
+    "topics": [
+      "typescript",
+      "javascript",
+      "language",
+      "typechecker"
+    ],
+    "url": "https://github.com/microsoft/TypeScript",
+    "readme_snippet": "# TypeScript\r\n\r\n<!-- CODING AGENTS: READ AGENTS.md BEFORE WRITING CODE -->\r\n\r\n[![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml)\r\n[![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)\r\n[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)\r\n[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)\r\n\r\n\r\n[TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaS"
+  },
+  {
+    "repo_name": "catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars_today": 76,
+    "stars_total": 20624,
+    "topics": [
+      "testing",
+      "test-framework",
+      "tdd",
+      "bdd",
+      "no-dependencies",
+      "framework",
+      "cpp14",
+      "cpp"
+    ],
+    "url": "https://github.com/catchorg/Catch2",
+    "readme_snippet": "<a id=\"top\"></a>\n![Catch2 logo](data/artwork/catch2-logo-full-with-background.svg)\n\n[![Github Releases](https://img.shields.io/github/release/catchorg/catch2.svg)](https://github.com/catchorg/catch2/releases)\n[![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml/badge.svg)](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml)\n[![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-other-builds.yml/badge.svg)](https://github.com/catchorg/Catch2/actions/workflows/linux-other-builds.yml)\n[![MacOS build status](https://github.com/catchorg/Catch2/actions/workflows/mac-builds.yml/badge.svg)](https://github.com/catchorg/Catch2/actions/workflows/mac-builds.yml)\n[![Build Status](https://ci.appveyor.com/"
+  },
+  {
+    "repo_name": "chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "language": "C++",
+    "stars_today": 92,
+    "stars_total": 6080,
+    "topics": [],
+    "url": "https://github.com/chriskohlhoff/asio",
+    "readme_snippet": "asio version 1.38.1\nReleased Thursday, 14 May 2026.\n\nVisit https://think-async.com/ or see packaged doc/index.html for API\ndocumentation and a tutorial.\n"
+  },
+  {
+    "repo_name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "language": "TypeScript",
+    "stars_today": 123,
+    "stars_total": 8284,
+    "topics": [
+      "agent",
+      "llm",
+      "memory",
+      "openclaw-plugin",
+      "ai-agent",
+      "embedding",
+      "local-first",
+      "long-term-memory",
+      "vector-search"
+    ],
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" />\n\n### Agents remember,Humans innovate.\n\n[![npm](https://img.shields.io/npm/v/@tencentdb-agent-memory/memory-tencentdb?color=blue)](https://www.npmjs.com/package/@tencentdb-agent-memory/memory-tencentdb)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)\n[![Node](https://img.shields.io/badge/node-%3E=22.16-brightgreen)](https://nodejs.org/)\n[![OpenClaw](https://img.shields.io/badge/OpenClaw-%3E=2026.3.13-orange)](https://github.com/openclaw/openclaw)\n[![Hermes](https://img.shields.io/badge/Hermes-Gateway-7B61FF)](https://hermes-agent.nousresearch.com/docs/)\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discor"
+  },
+  {
+    "repo_name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "stars_today": 118,
+    "stars_total": 28795,
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
+    ],
+    "url": "https://github.com/davila7/claude-code-templates",
+    "readme_snippet": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates)\n[![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)\n[![Sponsored by Z.AI](https://img.shields.io/badge/Sponsored%20by-Z.AI-2563eb?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)](https://z.ai/subscribe?ic="
+  },
+  {
+    "repo_name": "zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "language": "C++",
+    "stars_today": 91,
+    "stars_total": 8036,
+    "topics": [
+      "gpu",
+      "mesh-processing",
+      "optimization",
+      "compression",
+      "simplification",
+      "gltf"
+    ],
+    "url": "https://github.com/zeux/meshoptimizer",
+    "readme_snippet": "# 🐇 meshoptimizer [![Actions Status](https://github.com/zeux/meshoptimizer/workflows/build/badge.svg)](https://github.com/zeux/meshoptimizer/actions) [![codecov.io](https://codecov.io/github/zeux/meshoptimizer/coverage.svg?branch=master)](https://codecov.io/github/zeux/meshoptimizer?branch=master) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) [![GitHub](https://img.shields.io/badge/repo-github-green.svg)](https://github.com/zeux/meshoptimizer)\n\n## Purpose\n\nWhen a GPU renders triangle meshes, various stages of the GPU pipeline have to process vertex and index data. The efficiency of these stages depends on the data you feed to them; this library provides algorithms to help optimize meshes for these stages, as well as algorithms to reduce the mesh complexity and sto"
+  },
+  {
+    "repo_name": "tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.",
+    "language": "Go",
+    "stars_today": 143,
+    "stars_total": 33704,
+    "topics": [
+      "wireguard",
+      "oauth",
+      "sso",
+      "2fa",
+      "vpn",
+      "tailscale"
+    ],
+    "url": "https://github.com/tailscale/tailscale",
+    "readme_snippet": "# Tailscale\n\nhttps://tailscale.com\n\nPrivate WireGuard® networks made easy\n\n## Overview\n\nThis repository contains the majority of Tailscale's open source code.\nNotably, it includes the `tailscaled` daemon and\nthe `tailscale` CLI tool. The `tailscaled` daemon runs on Linux, Windows,\n[macOS](https://tailscale.com/kb/1065/macos-variants/), and to varying degrees\non FreeBSD and OpenBSD. The Tailscale iOS and Android apps use this repo's\ncode, but this repo doesn't contain the mobile GUI code.\n\nOther [Tailscale repos](https://github.com/orgs/tailscale/repositories) of note:\n\n* the Android app is at https://github.com/tailscale/tailscale-android\n* the Synology package is at https://github.com/tailscale/tailscale-synology\n* the QNAP package is at https://github.com/tailscale/tailscale-qpkg\n* the C"
+  },
+  {
+    "repo_name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars_today": 117,
+    "stars_total": 6791,
+    "topics": [],
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "readme_snippet": "# Stitch Design Skills\n\nA collection of agent skills and plugins for [Google Stitch](https://stitch.withgoogle.com), following the [Agent Skills](https://agentskills.io) open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, and Cursor.\n\n## Quick Start\n\n### 1. Install Plugins (Recommended)\nThe fastest way to set up the full Stitch plugin suite globally.\n\n#### Codex\n\nAdd the Stitch Skills marketplace, then install the plugins you need.\n\n<details open>\n<summary><strong>Via CLI</strong> (recommended)</summary>\n\n```bash\ncodex plugin marketplace add google-labs-code/stitch-skills --ref main \\\n  --sparse .agents/plugins \\\n  --sparse plugins/stitch-design \\\n  --sparse plugins/stitch-build \\\n  --sparse plugins/stitch-utilities\n```\n\n> [!TIP]\n> The `--spars"
+  },
+  {
+    "repo_name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "stars_today": 1224,
+    "stars_total": 14533,
+    "topics": [
+      "agent",
+      "ai",
+      "cli",
+      "office",
+      "skills",
+      "openclaw",
+      "claude-code",
+      "codex",
+      "docx",
+      "pptx",
+      "xlsx",
+      "excel",
+      "presentation",
+      "word"
+    ],
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "readme_snippet": "# OfficeCLI\n\n> **OfficeCLI is the world's first and the best Office suite designed for AI agents.**\n\n**Give any AI agent full control over Word, Excel, and PowerPoint — in one line of code.**\n\nOpen-source. Single binary. No Office installation. No dependencies. Works everywhere.\n\n**OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity — and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render → look → fix* loop.\n\n[![GitHub Release](https://img.shields.io/github/v/release/iOfficeAI/OfficeCLI)](https://github.com/iOfficeAI/OfficeCLI/releases)\n[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)\n\n**English** | [中文](README_zh.md) | [日本語](README_ja.md) | [한국어](README_ko.md)\n\n<p align=\"ce"
+  },
+  {
+    "repo_name": "hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars_today": 172,
+    "stars_total": 49199,
+    "topics": [
+      "graph",
+      "infrastructure-as-code",
+      "terraform",
+      "cloud",
+      "cloud-management"
+    ],
+    "url": "https://github.com/hashicorp/terraform",
+    "readme_snippet": "# Terraform\n\n- Website: https://developer.hashicorp.com/terraform\n- Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core)\n- Documentation: [https://developer.hashicorp.com/terraform/docs](https://developer.hashicorp.com/terraform/docs)\n- Tutorials: [HashiCorp's Learn Platform](https://developer.hashicorp.com/terraform/tutorials)\n- Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate)\n\n<img alt=\"Terraform\" src=\"https://www.datocms-assets.com/2885/1731373310-terraform_white.svg\" width=\"600px\">\n\nTerraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solu"
+  },
+  {
+    "repo_name": "grpc/grpc",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "language": "C++",
+    "stars_today": 78,
+    "stars_total": 45153,
+    "topics": [],
+    "url": "https://github.com/grpc/grpc",
+    "readme_snippet": "# gRPC – An RPC library and framework\n\ngRPC is a modern, open source, high-performance remote procedure call (RPC)\nframework that can run anywhere. gRPC enables client and server applications to\ncommunicate transparently, and simplifies the building of connected systems.\n\n<table>\n  <tr>\n    <td><b>Homepage:</b></td>\n    <td><a href=\"https://grpc.io/\">grpc.io</a></td>\n  </tr>\n  <tr>\n    <td><b>Mailing List:</b></td>\n    <td><a href=\"https://groups.google.com/forum/#!forum/grpc-io\">grpc-io@googlegroups.com</a></td>\n  </tr>\n</table>\n\n[![Join the chat at https://gitter.im/grpc/grpc](https://badges.gitter.im/grpc/grpc.svg)](https://gitter.im/grpc/grpc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\n\n## To start using gRPC\n\nTo maximize usability, gRPC supports the stan"
+  },
+  {
+    "repo_name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars_today": 191,
+    "stars_total": 140753,
+    "topics": [
+      "react",
+      "server-rendering",
+      "universal",
+      "node",
+      "components",
+      "browser",
+      "nextjs",
+      "vercel",
+      "static-site-generator",
+      "hybrid",
+      "ssg",
+      "static",
+      "blog",
+      "compiler"
+    ],
+    "url": "https://github.com/vercel/next.js",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://nextjs.org\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\">\n      <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\">\n    </picture>\n  </a>\n  <h1>Next.js</h1>\n\n<a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000\"></a>\n<a href=\"https://www.npmjs.com/package/next\"><img alt=\"NPM version\" src=\"https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000\"></a>\n<a href=\"https://github.com/vercel/next.js/blob/canary/license.md\"><img alt=\"License\" src"
+  }
+]
