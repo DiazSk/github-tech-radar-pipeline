@@ -1,0 +1,265 @@
+[
+  {
+    "repo_name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars_today": 1068,
+    "stars_total": 527513,
+    "topics": [
+      "programming",
+      "tutorials",
+      "tutorial-code",
+      "tutorial-exercises",
+      "free",
+      "awesome-list"
+    ],
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "readme_snippet": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)\n\n## Build your own &lt;insert-technology-here&gt;\n\nThis repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. \n\n> *What I cannot create, I do not understand — Richard Feynman.*\n\nIt's a great way to learn.\n\n* [3D Renderer](#build-your-own-3d-renderer)\n* [AI Model](#build-your-own-ai-model)\n* [Augmented Reality](#build-your-own-augmented-reality)\n* [BitTorrent Client](#build-your-own-bittorrent-client)\n* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)\n* [Bot](#build-your-own-bot)\n* [Command-Line Tool](#build-your-own-command-line-tool)\n* [Database](#build-your-own-database)\n* [Docker](#build-you"
+  },
+  {
+    "repo_name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "stars_today": 438,
+    "stars_total": 36242,
+    "topics": [
+      "analytics",
+      "python",
+      "react",
+      "javascript",
+      "typescript",
+      "ab-testing",
+      "experiments",
+      "feature-flags",
+      "session-replay",
+      "ai-analytics",
+      "cdp",
+      "data-warehouse",
+      "product-analytics",
+      "surveys",
+      "web-analytics"
+    ],
+    "url": "https://github.com/PostHog/posthog",
+    "readme_snippet": "<p align=\"center\">\n  <img alt=\"posthoglogo\" src=\"https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png\">\n</p>\n<p align=\"center\">\n  <a href='https://posthog.com/contributors'><img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/posthog/posthog\"/></a>\n  <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a>\n  <img alt=\"Docker Pulls\" src=\"https://img.shields.io/docker/pulls/posthog/posthog\"/>\n  <a href=\"https://github.com/PostHog/posthog/commits/master\"><img alt=\"GitHub commit activity\" src=\"https://img.shields.io/github/commit-activity/m/posthog/posthog\"/> </a>\n  <a href=\"https://github.com/PostHog/posthog/issues?q=is%3Aissue%20sta"
+  },
+  {
+    "repo_name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "language": "TypeScript",
+    "stars_today": 200,
+    "stars_total": 6682,
+    "topics": [
+      "algorithms",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "math",
+      "mathematics",
+      "python",
+      "ai-textbook",
+      "artificial-intelligence",
+      "computer-science",
+      "computer-vision",
+      "linear-algebra",
+      "multimodal-learning",
+      "nlp",
+      "probability",
+      "reinforcement-learning",
+      "speech-processing",
+      "statistics"
+    ],
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "readme_snippet": "# Maths, CS & AI Compendium\n\n<img src=\"images/logo.png\" alt=\"Logo\" style=\"border-radius: 30px; width: 100%;\">\n\n**Read online**: [henryndubuaku.github.io/maths-cs-ai-compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/)\n\n## Overview\nMost textbooks bury good ideas under dense notation, skip the intuition, assume you already know half the material, and quickly get outdated in fast-moving fields like AI. This is an open, unconventional textbook covering maths, computing, and artificial intelligence from the ground up. Written for curious practitioners looking to deeply understand the stuff, not just survive an exam/interview. \n\n## Background\nOver the past years working in AI/ML, I filled notebooks with intuition first, real-world context, no hand-waving explanations of maths, co"
+  },
+  {
+    "repo_name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars_today": 1485,
+    "stars_total": 12156,
+    "topics": [],
+    "url": "https://github.com/Nutlope/hallmark",
+    "readme_snippet": "# Hallmark\n\n**A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.**\n\n[Live demo →](https://www.usehallmark.com) &nbsp;·&nbsp; twenty themes &nbsp;·&nbsp; four verbs &nbsp;·&nbsp; press `T` to cycle.\n\nMade by Together AI.\n\n<p align=\"center\">\n  <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" />\n</p>\n\nHallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pre-emit self-critique, and refuses the on-distribution defaults every LLM was trained into. Two pages by Hallmark for two different briefs feel like different sites, not colour-swaps of the same template.\n\n---\n\n## Four verbs\n\n| Verb | What it does |\n| --- | --- |\n| *(default)* | Build new UI. "
+  },
+  {
+    "repo_name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "language": "Java",
+    "stars_today": 233,
+    "stars_total": 9813,
+    "topics": [],
+    "url": "https://github.com/github/copilot-sdk",
+    "readme_snippet": "# GitHub Copilot CLI SDKs\n\n![GitHub Copilot SDK](./assets/RepoHeader_01.png)\n\n[![NPM Downloads](https://img.shields.io/npm/dm/%40github%2Fcopilot-sdk?label=npm)](https://www.npmjs.com/package/@github/copilot-sdk)\n[![PyPI - Downloads](https://img.shields.io/pypi/dm/github-copilot-sdk?label=PyPI)](https://pypi.org/project/github-copilot-sdk/)\n[![NuGet Downloads](https://img.shields.io/nuget/dt/GitHub.Copilot.SDK?label=NuGet)](https://www.nuget.org/packages/GitHub.Copilot.SDK)\n[![Go Reference](https://img.shields.io/badge/Go-Reference-00ADD8?logo=go&logoColor=white)](https://pkg.go.dev/github.com/github/copilot-sdk/go)\n[![crates.io](https://img.shields.io/crates/v/github-copilot-sdk?label=crates.io)](https://crates.io/crates/github-copilot-sdk)\n[![Maven Central](https://img.shields.io/maven-c"
+  },
+  {
+    "repo_name": "anthropics/cwc-workshops",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 45,
+    "stars_total": 1613,
+    "topics": [],
+    "url": "https://github.com/anthropics/cwc-workshops",
+    "readme_snippet": "<!-- Copyright 2026 Anthropic PBC -->\n<!-- SPDX-License-Identifier: Apache-2.0 -->\n\n# cwc-workshops\n\nWorkshop materials. Not maintained and not accepting contributions.\n\nMaterials from Anthropic-run **Code with Claude** workshops.\n\n## Workshops\n\n- [`rightmodel/`](./rightmodel) — *Picking the Right Model*: use a Claude Code SKILL to audit an LLM eval suite and sweep it across models and inference parameters (extended thinking, effort) to find the best quality-per-dollar and quality-per-second configuration.\n- [`agent-decomposition/`](./agent-decomposition) — *Compose Multi-Agent Systems with Skills and MCP*: decompose a 400-line-prompt inventory agent into skills + code execution + callable_agents on Claude Managed Agents, with evals to verify each step.\n- [`how-we-claude-code/`](./how-we-c"
+  },
+  {
+    "repo_name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo",
+    "language": "Shell",
+    "stars_today": 278,
+    "stars_total": 1728,
+    "topics": [
+      "bonsai",
+      "llm",
+      "prism-ml",
+      "llamacpp",
+      "mlx",
+      "small-models"
+    ],
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "readme_snippet": "# Bonsai Demo\n\n<p align=\"center\">\n  <img src=\"./assets/bonsai-logo.svg\" width=\"280\" alt=\"Bonsai\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://prismml.com\"><b>Website</b></a> &nbsp;|&nbsp;\n  <a href=\"https://github.com/PrismML-Eng/Bonsai-demo\"><b>GitHub</b></a> &nbsp;|&nbsp;\n  <a href=\"https://discord.gg/prismml\"><b>Discord</b></a>\n</p>\n\n<p align=\"center\">\n  <b>HF Collections:</b>\n  <a href=\"https://huggingface.co/collections/prism-ml/bonsai-27b\">Bonsai 27B</a> ·\n  <a href=\"https://huggingface.co/collections/prism-ml/bonsai\">Bonsai (1-bit)</a> ·\n  <a href=\"https://huggingface.co/collections/prism-ml/ternary-bonsai\">Ternary-Bonsai</a>\n</p>\n\n<p align=\"center\">\n  <b>Whitepapers:</b>\n  <a href=\"bonsai-27b-whitepaper.pdf\">Bonsai 27B</a> ·\n  <a href=\"1-bit-bonsai-8b-whitepaper.pdf\">1-bit Bonsai 8"
+  },
+  {
+    "repo_name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars_today": 11,
+    "stars_total": 71549,
+    "topics": [
+      "protobuf",
+      "protocol-buffers",
+      "protocol-compiler",
+      "protobuf-runtime",
+      "protoc",
+      "serialization",
+      "marshalling",
+      "rpc"
+    ],
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "readme_snippet": "Protocol Buffers - Google's data interchange format\n===================================================\n\n[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/protocolbuffers/protobuf/badge)](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf)\n\nCopyright 2008 Google LLC\n\nOverview\n--------\n\nProtocol Buffers (a.k.a., protobuf) are Google's language-neutral,\nplatform-neutral, extensible mechanism for serializing structured data. You\ncan learn more about it in [protobuf's documentation](https://protobuf.dev).\n\nThis README file contains protobuf installation instructions. To install\nprotobuf, you need to install the protocol compiler (used to compile .proto\nfiles) and the protobuf runtime for your chosen programming language.\n\nWorking With Prot"
+  },
+  {
+    "repo_name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "stars_today": 74,
+    "stars_total": 19805,
+    "topics": [
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "code-review",
+      "graphrag",
+      "incremental",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "python",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "readme_snippet": "<h1 align=\"center\">code-review-graph</h1>\n\n<p align=\"center\">\n  <strong>Stop burning tokens. Start reviewing smarter.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"README.ja-JP.md\">日本語</a> |\n  <a href=\"README.ko-KR.md\">한국어</a> |\n  <a href=\"README.hi-IN.md\">हिन्दी</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://pypi.org/project/code-review-graph/\"><img src=\"https://img.shields.io/pypi/v/code-review-graph?style=flat-square&color=blue\" alt=\"PyPI\"></a>\n  <a href=\"https://pepy.tech/project/code-review-graph\"><img src=\"https://img.shields.io/pepy/dt/code-review-graph?style=flat-square\" alt=\"Downloads\"></a>\n  <a href=\"https://github.com/tirth8205/code-review-graph/stargazers\"><img src=\"https://img.shields.io/github/stars/ti"
+  },
+  {
+    "repo_name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "language": "Ruby",
+    "stars_today": 91,
+    "stars_total": 17888,
+    "topics": [
+      "documents",
+      "pdf",
+      "self-hosted",
+      "document-signing",
+      "e-signature",
+      "open-source",
+      "ruby-on-rails",
+      "tailwindcss",
+      "webpack",
+      "hotwired-turbo",
+      "pdf-sign",
+      "pdf-signature",
+      "vue"
+    ],
+    "url": "https://github.com/docusealco/docuseal",
+    "readme_snippet": "<h1 align=\"center\" style=\"border-bottom: none\">\n  <div>\n    <a href=\"https://www.docuseal.com\">\n      <img  alt=\"DocuSeal\" src=\"https://github.com/user-attachments/assets/38b45682-ffa4-4919-abde-d2d422325c44\" width=\"80\" />\n      <br>\n    </a>\n    DocuSeal\n  </div>\n</h1>\n<h3 align=\"center\">\n  Open source document filling and signing\n</h3>\n<p align=\"center\">\n  <a href=\"https://hub.docker.com/r/docuseal/docuseal\">\n    <img alt=\"Docker releases\" src=\"https://img.shields.io/docker/v/docuseal/docuseal\">\n  </a>\n  <a href=\"https://discord.gg/qygYCDGck9\">\n    <img src=\"https://img.shields.io/discord/1125112641170448454?logo=discord\"/>\n  </a>\n  <a href=\"https://twitter.com/intent/follow?screen_name=docusealco\">\n    <img src=\"https://img.shields.io/twitter/follow/docusealco?style=social\" alt=\"Follow "
+  },
+  {
+    "repo_name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "language": "Rust",
+    "stars_today": 431,
+    "stars_total": 66426,
+    "topics": [
+      "coding-agent",
+      "deepseek",
+      "kimi",
+      "qwen",
+      "rust",
+      "acp"
+    ],
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "readme_snippet": "<h1 align=\"center\">Open Interpreter</h1>\n\n<p align=\"center\">A coding agent optimized for low-cost models. <a href=\"https://www.openinterpreter.com/blog/open-interpreter?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=readme&amp;utm_content=hero_text\"><strong>Blog post ↗</strong></a></p>\n\n<p align=\"center\">\n  <b>English</b> • <a href=\"README_ES.md\">Español</a> • <a href=\"README_ZH.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/Hvz9Axh84z\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1146610656779440188?style=flat-square&label=Discord\" /></a>\n  <a href=\"https://www.openinterpreter.com/docs/terminal?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=readme&amp;utm_content=docs_badge\"><img alt=\"Documentation\" src=\"https://img.shields.io/badge/D"
+  },
+  {
+    "repo_name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "language": "Python",
+    "stars_today": 280,
+    "stars_total": 13369,
+    "topics": [
+      "ann",
+      "avx512",
+      "embeddings",
+      "faiss",
+      "nearest-neighbor",
+      "neon",
+      "python",
+      "quantization",
+      "rag",
+      "rust",
+      "simd",
+      "vector-search",
+      "embedding",
+      "quant",
+      "turboquant"
+    ],
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/header.png\" alt=\"turbovec — Google's TurboQuant for vector search\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a>\n  <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a>\n  <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/v/turbovec?label=crates.io&color=blue\" alt=\"crates.io version\"></a>\n  <a href=\"https://arxiv.org/abs/2504.19874\"><img src=\"https://img.shields.io/badge/paper-arXiv-b31b1b.svg\" alt=\"TurboQuant paper\"></a>\n</p>\n\n---\n\n**A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits "
+  },
+  {
+    "repo_name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+    "language": "Python",
+    "stars_today": 531,
+    "stars_total": 27419,
+    "topics": [
+      "ai-tutor",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag",
+      "ai-agents",
+      "clawdbot",
+      "cli-tool"
+    ],
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "readme_snippet": "<div align=\"center\">\n\n<p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p>\n\n# DeepTutor: Lifelong Personalized Tutoring\n\n<p align=\"center\">\n  <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs — deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=F5F5F4\" height=\"36\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/17099?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-17099\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/17099\""
+  },
+  {
+    "repo_name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "stars_today": 1074,
+    "stars_total": 74957,
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "readme_snippet": "<table width=\"100%\">\n  <tr>\n    <td align=\"left\" width=\"120\">\n      <img src=\"https://assets.opencut.app/branding/symbol.svg\" alt=\"OpenCut Logo\" width=\"100\" />\n    </td>\n    <td align=\"right\">\n      <h1>OpenCut</h1>\n      <h3 style=\"margin-top: -10px;\">A free and open source video editor for web, desktop, and mobile.</h3>\n    </td>\n  </tr>\n</table>\n\n[![Discord](https://img.shields.io/discord/1386309140057690133?label=Discord&logo=discord&logoColor=fff&color=5865F2&style=flat)](https://discord.gg/zmR9N35cjK)\n[![X](https://img.shields.io/badge/follow-%40opencutapp-000?logo=x&logoColor=fff&style=flat)](https://x.com/opencutapp)\n[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE)\n\n## Status\n\n**OpenCut is being rewritten from the ground up.** What's coming:\n\n- "
+  }
+]
