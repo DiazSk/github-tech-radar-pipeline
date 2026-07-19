@@ -1,0 +1,210 @@
+[
+  {
+    "repo_name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "language": "Python",
+    "stars_today": 831,
+    "stars_total": 13053,
+    "topics": [],
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"assets/teaser.webp\" width=\"100%\">\n\n<h1>LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction</h1>\n\nRobbyant Team\n\n</div>\n\n<div align=\"center\">\n\n[![Paper](https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv)](https://arxiv.org/abs/2604.14141)\n[![PDF](https://img.shields.io/static/v1?label=Paper&message=PDF&color=red&logo=adobeacrobatreader)](lingbot-map_paper.pdf)\n[![Project](https://img.shields.io/badge/Project-Website-blue)](https://technology.robbyant.com/lingbot-map)\n[![HuggingFace](https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&message=HuggingFace&color=orange)](https://huggingface.co/robbyant/lingbot-map)\n[![ModelScope](https://img.shields.io/static/v1?label=%F0%9F%A4%96%20Model&message=Mode"
+  },
+  {
+    "repo_name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "language": "Python",
+    "stars_today": 47,
+    "stars_total": 1303,
+    "topics": [
+      "metadata",
+      "semantic"
+    ],
+    "url": "https://github.com/apache/ossie",
+    "readme_snippet": "<!--\n Licensed to the Apache Software Foundation (ASF) under one\n or more contributor license agreements.  See the NOTICE file\n distributed with this work for additional information\n regarding copyright ownership.  The ASF licenses this file\n to you under the Apache License, Version 2.0 (the\n \"License\"); you may not use this file except in compliance\n with the License.  You may obtain a copy of the License at\n\n  http://www.apache.org/licenses/LICENSE-2.0\n\n Unless required by applicable law or agreed to in writing,\n software distributed under the License is distributed on an\n \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\n KIND, either express or implied.  See the License for the\n specific language governing permissions and limitations\n under the License.\n-->\n\n# Apache Ossie (incuba"
+  },
+  {
+    "repo_name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "language": "Python",
+    "stars_today": 338,
+    "stars_total": 36640,
+    "topics": [
+      "analytics",
+      "python",
+      "react",
+      "javascript",
+      "typescript",
+      "ab-testing",
+      "experiments",
+      "feature-flags",
+      "session-replay",
+      "ai-analytics",
+      "cdp",
+      "data-warehouse",
+      "product-analytics",
+      "surveys",
+      "web-analytics"
+    ],
+    "url": "https://github.com/PostHog/posthog",
+    "readme_snippet": "<p align=\"center\">\n  <img alt=\"posthoglogo\" src=\"https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png\">\n</p>\n<p align=\"center\">\n  <a href='https://posthog.com/contributors'><img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/posthog/posthog\"/></a>\n  <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a>\n  <img alt=\"Docker Pulls\" src=\"https://img.shields.io/docker/pulls/posthog/posthog\"/>\n  <a href=\"https://github.com/PostHog/posthog/commits/master\"><img alt=\"GitHub commit activity\" src=\"https://img.shields.io/github/commit-activity/m/posthog/posthog\"/> </a>\n  <a href=\"https://github.com/PostHog/posthog/issues?q=is%3Aissue%20sta"
+  },
+  {
+    "repo_name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "language": "TypeScript",
+    "stars_today": 123,
+    "stars_total": 5106,
+    "topics": [
+      "skills",
+      "ui-skills"
+    ],
+    "url": "https://github.com/ibelick/ui-skills",
+    "readme_snippet": "# UI Skills\n\n![UI Skills](./public/UI-OG.webp)\n\nSkills for Design Engineers\n\nMore on [ui-skills.com](http://ui-skills.com/)\n\nRun `npx ui-skills start` to route your agent through the right UI skill set for the task.\n\n## CLI\n\n```bash\nnpx ui-skills\nnpx ui-skills start\nnpx ui-skills categories\nnpx ui-skills list --category motion\nnpx ui-skills get baseline-ui\n```\n\n## License\n\nLicensed under the [MIT license](https://github.com/ibelick/ui-skills/blob/main/LICENSE).\n"
+  },
+  {
+    "repo_name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars_today": 191,
+    "stars_total": 39172,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.svg\" alt=\"AI Engineering from Scratch — reference manual banner\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square&labelColor=fafaf5\" alt=\"MIT License\"></a>\n  <a href=\"ROADMAP.md\"><img src=\"https://img.shields.io/badge/lessons-503-3553ff?style=flat-square&labelColor=fafaf5\" alt=\"503 lessons\"></a>\n  <a href=\"#contents\"><img src=\"https://img.shields.io/badge/phases-20-3553ff?style=flat-square&labelColor=fafaf5\" alt=\"20 phases\"></a>\n  <a href=\"https://github.com/rohitg00/ai-engineering-from-scratch/stargazers\"><img src=\"https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&labelColor=fafaf5&color=3553ff\" alt=\"GitHub stars\"></a>\n"
+  },
+  {
+    "repo_name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "stars_today": 355,
+    "stars_total": 20251,
+    "topics": [
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "code-review",
+      "graphrag",
+      "incremental",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "python",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "readme_snippet": "<h1 align=\"center\">code-review-graph</h1>\n\n<p align=\"center\">\n  <strong>Stop burning tokens. Start reviewing smarter.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"README.ja-JP.md\">日本語</a> |\n  <a href=\"README.ko-KR.md\">한국어</a> |\n  <a href=\"README.hi-IN.md\">हिन्दी</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://pypi.org/project/code-review-graph/\"><img src=\"https://img.shields.io/pypi/v/code-review-graph?style=flat-square&color=blue\" alt=\"PyPI\"></a>\n  <a href=\"https://pepy.tech/project/code-review-graph\"><img src=\"https://img.shields.io/pepy/dt/code-review-graph?style=flat-square\" alt=\"Downloads\"></a>\n  <a href=\"https://github.com/tirth8205/code-review-graph/stargazers\"><img src=\"https://img.shields.io/github/stars/ti"
+  },
+  {
+    "repo_name": "elder-plinius/G0DM0D3",
+    "description": "LIBERATED AI CHAT",
+    "language": "TypeScript",
+    "stars_today": 69,
+    "stars_total": 9551,
+    "topics": [],
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "readme_snippet": "```\n ▄████  ██████  ██████  ███▄ ▄███  ██████  ██████  ██████\n██      ██  ██  ██   ██ ██ ███ ██  ██  ██  ██   ██      ██\n██ ▄███ ██  ██  ██   ██ ██  █  ██  ██  ██  ██   ██  █████\n██  ██  ██  ██  ██   ██ ██     ██  ██  ██  ██   ██      ██\n ██████  ████   ██████  ██     ██   ████   ██████  ██████\n ───────────────────────────────────────────────────────────\n  ░▒▓█  LIBERATED AI. COGNITION WITHOUT CONTROL.  █▓▒░\n ───────────────────────────────────────────────────────────\n```\n\n[GODMOD3.AI](https://godmod3.ai)\n\nG0DM0D3 is a fully open-source, privacy-transparent, multi-model chat interface that pushes the limits of the post-training layer — for red teaming, cognition research, and liberated AI interaction. Built for hackers, philosophers, and system tinkerers.\n\n![License](https://img.shields.io"
+  },
+  {
+    "repo_name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "stars_today": 161,
+    "stars_total": 23378,
+    "topics": [
+      "chinese-nlp",
+      "finetune",
+      "generative-ai",
+      "instruct-gpt",
+      "instruction-set",
+      "llama",
+      "llm",
+      "lora",
+      "open-models",
+      "open-source",
+      "open-source-models",
+      "qlora",
+      "chinese-llm"
+    ],
+    "url": "https://github.com/lyogavin/airllm",
+    "readme_snippet": "![airllm_logo](https://github.com/lyogavin/airllm/blob/main/assets/airllm_logo_sm.png?v=3&raw=true)\n\n[**Quickstart**](#quickstart) | \n[**Configurations**](#configurations) | \n[**MacOS**](#macos) | \n[**Example notebooks**](#example-python-notebook) | \n[**FAQ**](#faq)\n\n**AirLLM** dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run **405B Llama 3.1** on **8GB**, and **DeepSeek-V3 (671B)** on **~12GB**.\n\n<a href=\"https://github.com/lyogavin/airllm/stargazers\">![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social)</a>\n[![Downloads](https://static.pepy.tech/personalized-badge/airllm?period=total&units=international_system&left_color=grey&right"
+  },
+  {
+    "repo_name": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "language": "TypeScript",
+    "stars_today": 203,
+    "stars_total": 1309,
+    "topics": [
+      "mcp",
+      "agent",
+      "ai",
+      "ai-agent",
+      "claude",
+      "cli",
+      "developer-tools",
+      "local-first",
+      "mcp-server",
+      "metasearch",
+      "model-context-protocol",
+      "nodejs",
+      "privacy",
+      "rag",
+      "search",
+      "search-engine",
+      "typescript",
+      "web-crawler",
+      "web-scraping",
+      "web-search"
+    ],
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "readme_snippet": "<div align=\"center\">\n\n<img alt=\"wigolo — the go-to web for your agent\" src=\"assets/brand/wigolo-banner.png\" width=\"640\">\n\nLocal-first web intelligence for AI agents — **no keys, no cloud, no metered bill.**\n\n<sub>works with&nbsp;&nbsp;**Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity**</sub>\n<br>\n<sub>and beyond&nbsp;&nbsp;**LangChain · CrewAI · LlamaIndex · Vercel AI SDK · n8n & self-hosted agents · any MCP client · plain REST**</sub>\n\n[![npm](https://img.shields.io/npm/v/wigolo?color=cb3837&logo=npm)](https://www.npmjs.com/package/wigolo)\n[![GitHub stars](https://img.shields.io/github/stars/KnockOutEZ/wigolo?style=flat&logo=github&color=e3b341)](https://github.com/KnockOutEZ/wigolo/stargazers)\n[![node](https://img.shields.io/badge/node-%E2%89%A520-33993"
+  },
+  {
+    "repo_name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars_today": 1126,
+    "stars_total": 528370,
+    "topics": [
+      "programming",
+      "tutorials",
+      "tutorial-code",
+      "tutorial-exercises",
+      "free",
+      "awesome-list"
+    ],
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "readme_snippet": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)\n\n## Build your own &lt;insert-technology-here&gt;\n\nThis repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. \n\n> *What I cannot create, I do not understand — Richard Feynman.*\n\nIt's a great way to learn.\n\n* [3D Renderer](#build-your-own-3d-renderer)\n* [AI Model](#build-your-own-ai-model)\n* [Augmented Reality](#build-your-own-augmented-reality)\n* [BitTorrent Client](#build-your-own-bittorrent-client)\n* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)\n* [Bot](#build-your-own-bot)\n* [Command-Line Tool](#build-your-own-command-line-tool)\n* [Database](#build-your-own-database)\n* [Docker](#build-you"
+  },
+  {
+    "repo_name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "stars_today": 65,
+    "stars_total": 9539,
+    "topics": [],
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "readme_snippet": "# Kimi CLI\n\n[![Commit Activity](https://img.shields.io/github/commit-activity/w/MoonshotAI/kimi-cli)](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity)\n[![Checks](https://img.shields.io/github/check-runs/MoonshotAI/kimi-cli/main)](https://github.com/MoonshotAI/kimi-cli/actions)\n[![Version](https://img.shields.io/pypi/v/kimi-cli)](https://pypi.org/project/kimi-cli/)\n[![Downloads](https://img.shields.io/pypi/dw/kimi-cli)](https://pypistats.org/packages/kimi-cli)\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MoonshotAI/kimi-cli)\n\n[Kimi Code](https://www.kimi.com/code/) | [Documentation](https://moonshotai.github.io/kimi-cli/en/) | [文档](https://moonshotai.github.io/kimi-cli/zh/)\n\n> [!IMPORTANT]\n> **Kimi CLI is evolving into [Kimi Code CLI](https://github.c"
+  }
+]
