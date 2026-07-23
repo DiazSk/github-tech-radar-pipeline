@@ -1,0 +1,383 @@
+[
+  {
+    "repo_name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "stars_today": 4139,
+    "stars_total": 69427,
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "osint",
+      "opensource",
+      "palantir",
+      "situation",
+      "agent",
+      "mcp",
+      "mcp-server"
+    ],
+    "url": "https://github.com/koala73/worldmonitor",
+    "readme_snippet": "# World Monitor\n\n[简体中文](README.zh-CN.md)\n\n**Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.\n\n[![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz)\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)\n[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)\n[![Last commit](https://img.shields.io/github/last"
+  },
+  {
+    "repo_name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars_today": 741,
+    "stars_total": 84020,
+    "topics": [
+      "densepose",
+      "wifi",
+      "esp32",
+      "monitoring",
+      "rf",
+      "wifi-security",
+      "self-learning",
+      "firmware",
+      "pose-estimation",
+      "spatial-intelligence",
+      "home-assistant",
+      "home-automation",
+      "skills",
+      "networking",
+      "claude",
+      "iot",
+      "react",
+      "typescript",
+      "npm",
+      "awesome"
+    ],
+    "url": "https://github.com/ruvnet/RuView",
+    "readme_snippet": "# π RuView\n\n<p align=\"center\">\n  <a href=\"https://cognitum.one/seed\">\n    <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://cognitum.one/marketplace/musica\">\n    <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\">\n  </a>\n</p>\n\n## **See through walls with WiFi** ##\n\n**Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.\n\nWorks natively with the four major smart-home ecosystems: **[Home Assistant](docs/integrations/home-assistant.md)** via the HA-DISCO MQTT publisher, **[Apple Home & HomePod](docs/user-guide-apple-homepod.md)** "
+  },
+  {
+    "repo_name": "ayghri/i-have-adhd",
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars_today": 1699,
+    "stars_total": 8479,
+    "topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" />\n</p>\n<p align=\"center\">\n  <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong>\n</p>\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a>\n</p>\n\n<p align=\"center\">\n  <strong>English</strong> ·\n  <a href=\"README.zh-CN.md\">简体中文</a> ·\n  <a href=\"README.ja.md\">日本語</a>\n</p>\n\n\n## Install\n\n<details>\n<summary><strong>Claude Code</strong></summary>\n\n```bash\nclaude plugin marketplace add ayghri/i-have-adhd\nclaude plugin install i-have-adhd@i-have-adhd\n```\n\nThen type `/i-have-adhd`. No local clone needed: Claude Code fetches the repo and keeps it updated.\n\nWant it on every session? `touch ~/.claude/.i-have-adhd-always"
+  },
+  {
+    "repo_name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "stars_today": 739,
+    "stars_total": 37746,
+    "topics": [
+      "file-sharing",
+      "tcp",
+      "golang",
+      "peer-to-peer",
+      "data-transfer",
+      "pake",
+      "transfer"
+    ],
+    "url": "https://github.com/schollz/croc",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"https://user-images.githubusercontent.com/6550035/46709024-9b23ad00-cbf6-11e8-9fb2-ca8b20b7dbec.jpg\" width=\"408px\" border=\"0\" alt=\"croc\">\n  <br>\n  <a href=\"https://github.com/schollz/croc/releases/latest\"><img src=\"https://img.shields.io/github/v/release/schollz/croc\" alt=\"Version\"></a>\n  <a href=\"https://github.com/schollz/croc/actions/workflows/ci.yml\"><img src=\"https://github.com/schollz/croc/actions/workflows/ci.yml/badge.svg\" alt=\"Build Status\"></a>\n  <a href=\"https://github.com/sponsors/schollz\"><img alt=\"GitHub Sponsors\" src=\"https://img.shields.io/github/sponsors/schollz\"></a>\n</p>\n<p align=\"center\">\n  <strong>This project’s future depends on community support. <a href=\"https://github.com/sponsors/schollz\">Become a sponsor today</a>.</strong>\n</p>\n\n##"
+  },
+  {
+    "repo_name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "stars_today": 80,
+    "stars_total": 4370,
+    "topics": [
+      "architecture",
+      "architecture-as-code",
+      "c4",
+      "diagrams"
+    ],
+    "url": "https://github.com/likec4/likec4",
+    "readme_snippet": "# Architecture as a code\n\nVisualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code.\n\n[docs](https://likec4.dev/) - [playground](https://playground.likec4.dev/) - [demo](https://template.likec4.dev/view/index)\n\n<a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> ![NPM Version](https://img.shields.io/npm/v/likec4) </a>\n<a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">![NPM Downloads](https://img.shields.io/npm/dm/likec4)</a>\n<a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">![VSCode Installs](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/likec4.likec4-vscode?label=vscode%20installs)</a>\n<a href=\"https://open-vsx.org/e"
+  },
+  {
+    "repo_name": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "stars_today": 768,
+    "stars_total": 70692,
+    "topics": [
+      "agc",
+      "nasa",
+      "apollo",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "readme_snippet": "# Apollo-11\n\n[![NASA][1]][2]\n[![SWH]][SWH_URL]\n[![Comanche]][ComancheMilestone]\n[![Luminary]][LuminaryMilestone]\n\n🌐\n[Azerbaijani][AZ],\n[bahasa Indonesia][ID],\n[Basa Jawa][JV],\n[Català][CA],\n[Čeština][CZ],\n[Dansk][DA],\n[Deutsch][DE],\n[English][EN],\n[Español][ES],\n[Français][FR],\n[Galego][GL],\n[Italiano][IT],\n[Kurdî][KU],\n[Lietuvių][LT],\n[Mongolian][MN],\n[Nederlands][NL],\n[Norsk][NO],\n[Polski][PL],\n[Português][PT_BR],\n[Română][RO],\n[Suomi][FI],\n[Svenska][SV],\n[tiếng Việt][VI],\n[Türkçe][TR],\n[Ελληνικά][GR],\n[Беларуская мова][BE],\n[Русский][RU],\n[Українська][UK],\n[العربية][AR],\n[فارسی][FA],\n[नेपाली भाषा][NE]\n[हिंदी][HI_IN],\n[অসমীয়া][AS_IN],\n[বাংলা][BD_BN],\n[မြန်မာ][MM],\n[한국어][KO_KR],\n[日本語][JA],\n[正體中文][ZH_TW],\n[简体中文][ZH_CN],\n[മലയാളം][ML]\n\n[AR]:Translations/README.ar.md\n[AS_IN]:Translations/REA"
+  },
+  {
+    "repo_name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "stars_today": 557,
+    "stars_total": 45898,
+    "topics": [
+      "ai",
+      "voice-clone",
+      "qwen3-tts",
+      "voice-ai",
+      "whisper",
+      "qwen3-tts-ui",
+      "cuda",
+      "mlx"
+    ],
+    "url": "https://github.com/jamiepine/voicebox",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" />\n</p>\n\n<h1 align=\"center\">Voicebox</h1>\n\n<p align=\"center\">\n  <strong>The open-source AI voice studio.</strong><br/>\n  Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.<br/>\n  The full voice I/O stack, running locally on your machine.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/jamiepine/voicebox/releases\">\n    <img src=\"https://img.shields.io/github/downloads/jamiepine/voicebox/total?style=flat&color=blue\" alt=\"Downloads\" />\n  </a>\n  <a href=\"https://github.com/jamiepine/voicebox/releases/latest\">\n    <img src=\"https://img.shields.io/github/v/release/jamiepine/voicebox?style=flat\" alt=\"Release\" />\n  </a>\n  <a href=\"https://github.com/ja"
+  },
+  {
+    "repo_name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "stars_today": 1651,
+    "stars_total": 25581,
+    "topics": [
+      "a2a",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "llm-gateway",
+      "mcp",
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver",
+      "kimi"
+    ],
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./docs/screenshots/MainOmniRoute.png\" alt=\"OmniRoute Dashboard\" width=\"820\"/>\n\n<br/>\n\n# 🚀 OmniRoute — The Free AI Gateway\n\n<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 278 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 278 AI providers · 90+ free tiers · ~1.53B free tokens/mo · 18 routing strategies · $0 to start.\"/>\n\n</div>\n\n<div align=\"center\">\n\n# 💰 ~1.53B Free Tokens / Month\n\n</div>\n\n> Stacking free tiers by hand is painful — dozens of SDKs, dozens of rate limits, and no idea how much you actually have. O"
+  },
+  {
+    "repo_name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "stars_today": 137,
+    "stars_total": 32674,
+    "topics": [],
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "readme_snippet": "<div align=\"center\">\r\n  <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>\r\n</div>\r\n\r\n\r\n<div align=\"center\">\r\n\r\n</a> \r\n<a href=\"https://huggingface.co/NeoQuasar\"> \r\n<img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> \r\n</a> \r\n<a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a>\r\n<a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> \r\n<img src=\"https://img.shields.io/github/last-commit/shiyu-coder/Kronos?color=blue\" alt=\"Last Commit\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/stargazers\"> \r\n<img src=\"https://img.shields.io/github/stars/shiyu-coder/Kronos?color=lightblue\" alt=\"GitHub Stars\"> \r\n</a> \r\n<a href=\"https"
+  },
+  {
+    "repo_name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "language": "Python",
+    "stars_today": 163,
+    "stars_total": 68883,
+    "topics": [
+      "claude",
+      "claude-code",
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "codex",
+      "composio",
+      "cursor",
+      "gemini-cli",
+      "mcp",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation",
+      "developer-tools",
+      "openai-codex"
+    ],
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "readme_snippet": "<h1 align=\"center\">Awesome Claude Skills</h1>\n\n<p align=\"center\">\n<a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\">\n  <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\">\n</a>\n\n\n</p>\n\n<p align=\"center\">\n  <a href=\"https://awesome.re\">\n    <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" />\n  </a>\n  <a href=\"https://makeapullrequest.com\">\n    <img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square\" alt=\"PRs Welcome\" />\n  </a>\n  <a href=\"https://www.apache.org/licenses/LICENSE-2.0\">\n    <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square\" alt=\"License: Apache-"
+  },
+  {
+    "repo_name": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "language": "TypeScript",
+    "stars_today": 1302,
+    "stars_total": 7406,
+    "topics": [
+      "agents",
+      "ai",
+      "deployments",
+      "self-hosted"
+    ],
+    "url": "https://github.com/oblien/openship",
+    "readme_snippet": "<h1 align=\"center\">Openship</h1>\n\n<p align=\"center\">\n  Open-source, self-hostable deployment platform with built-in CI/CD.<br>\n  Push code, ship containers, manage infrastructure — from a desktop app, web dashboard, or CLI.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/openship\"><img src=\"https://img.shields.io/npm/v/openship?color=0b7285&label=npm\" alt=\"npm version\" /></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue\" alt=\"License\" /></a>\n  <a href=\"https://openship.io\"><img src=\"https://img.shields.io/badge/website-openship.io-0b7285\" alt=\"Website\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#quick-start\">Quick Start</a> ·\n  <a href=\"#features\">Features</a> ·\n  <a href=\"#three-interfaces\">Interfaces</a> ·\n  <a href=\"https://opensh"
+  },
+  {
+    "repo_name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "language": "TypeScript",
+    "stars_today": 314,
+    "stars_total": 2117,
+    "topics": [],
+    "url": "https://github.com/agegr/pi-web",
+    "readme_snippet": "# Pi Web\n\n[中文文档](./README.zh-CN.md)\n\nLocal web UI for the [pi coding agent](https://github.com/badlogic/pi-mono). Pi Web reads your local pi session files and gives you a browser workspace for session browsing, real-time chat, model configuration, skill management, and project file preview.\n\n![Pi Web shows the same pi session with structured Markdown, tool calls, and project navigation beside the CLI](https://raw.githubusercontent.com/agegr/pi-web/main/docs/screenshot2.png)\n\nThe same pi session in CLI and Pi Web: structured tool calls, readable Markdown, session browsing, and cleaner results.\n\n## Quick Start\n\n**Run without installing:**\n\n```bash\nnpx @agegr/pi-web@latest\n```\n\n**Or install globally:**\n\n```bash\nnpm install -g @agegr/pi-web\npi-web\n```\n\nThen open [http://localhost:30141](http:/"
+  },
+  {
+    "repo_name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars_today": 652,
+    "stars_total": 42383,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.svg\" alt=\"AI Engineering from Scratch — reference manual banner\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square&labelColor=fafaf5\" alt=\"MIT License\"></a>\n  <a href=\"ROADMAP.md\"><img src=\"https://img.shields.io/badge/lessons-503-3553ff?style=flat-square&labelColor=fafaf5\" alt=\"503 lessons\"></a>\n  <a href=\"#contents\"><img src=\"https://img.shields.io/badge/phases-20-3553ff?style=flat-square&labelColor=fafaf5\" alt=\"20 phases\"></a>\n  <a href=\"https://github.com/rohitg00/ai-engineering-from-scratch/stargazers\"><img src=\"https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&labelColor=fafaf5&color=3553ff\" alt=\"GitHub stars\"></a>\n"
+  },
+  {
+    "repo_name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "stars_today": 882,
+    "stars_total": 25435,
+    "topics": [
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "code-review",
+      "graphrag",
+      "incremental",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "python",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "readme_snippet": "<h1 align=\"center\">code-review-graph</h1>\n\n<a href=\"https://trendshift.io/repositories/23329?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-23329\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/23329\" alt=\"tirth8205%2Fcode-review-graph | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n<p align=\"center\">\n  <strong>Stop burning tokens. Start reviewing smarter.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"README.ja-JP.md\">日本語</a> |\n  <a href=\"README.ko-KR.md\">한국어</a> |\n  <a href=\"README.hi-IN.md\">हिन्दी</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://pypi.org/project/code-review-graph/\"><img src=\"https://img.shields.io/pypi/v/code-review-g"
+  },
+  {
+    "repo_name": "dreamhunter2333/cloudflare_temp_email",
+    "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+    "language": "TypeScript",
+    "stars_today": 68,
+    "stars_total": 10858,
+    "topics": [
+      "cloudflare-email",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "email",
+      "free"
+    ],
+    "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+    "readme_snippet": "<!-- markdownlint-disable-file MD033 MD045 -->\n# Cloudflare 临时邮箱 - 免费搭建临时邮件服务\n\n<p align=\"center\">\n  <a href=\"https://temp-mail-docs.awsl.uk\" target=\"_blank\">\n    <img alt=\"docs\" src=\"https://img.shields.io/badge/docs-grey?logo=vitepress\">\n  </a>\n  <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/releases/latest\" target=\"_blank\">\n    <img src=\"https://img.shields.io/github/v/release/dreamhunter2333/cloudflare_temp_email\">\n  </a>\n  <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/blob/main/LICENSE\" target=\"_blank\">\n    <img alt=\"MIT License\" src=\"https://img.shields.io/github/license/dreamhunter2333/cloudflare_temp_email\">\n  </a>\n  <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/graphs/contributors\" target=\"_blank\">\n   <img alt=\"GitHub cont"
+  },
+  {
+    "repo_name": "DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "language": "Rust",
+    "stars_today": 420,
+    "stars_total": 38068,
+    "topics": [
+      "rust",
+      "virtualdom",
+      "react",
+      "ui",
+      "wasm",
+      "web",
+      "html",
+      "css",
+      "ssr",
+      "ios",
+      "android",
+      "native",
+      "desktop"
+    ],
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "readme_snippet": "<p>\n    <p align=\"center\" >\n      <!-- <img src=\"./notes/header-light-updated.svg#gh-light-mode-only\" >\n      <img src=\"./notes/header-dark-updated.svg#gh-dark-mode-only\" > -->\n      <!-- <a href=\"https://dioxuslabs.com\">\n          <img src=\"./notes/flat-splash.avif\">\n      </a> -->\n      <img src=\"./notes/splash-header-darkmode.svg#gh-dark-mode-only\" style=\"width: 80%; height: auto;\">\n      <img src=\"./notes/splash-header.svg#gh-light-mode-only\" style=\"width: 80%; height: auto;\">\n      <!-- <img src=\"./notes/image-splash.avif\"> -->\n      <br>\n    </p>\n</p>\n<div align=\"center\">\n  <!-- Crates version -->\n  <a href=\"https://crates.io/crates/dioxus\">\n    <img src=\"https://img.shields.io/crates/v/dioxus.svg?style=flat-square\"\n    alt=\"Crates.io version\" />\n  </a>\n  <!-- Downloads -->\n  <a href"
+  },
+  {
+    "repo_name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "stars_today": 356,
+    "stars_total": 37330,
+    "topics": [
+      "wayland",
+      "wayland-compositor",
+      "compositor",
+      "cpp26"
+    ],
+    "url": "https://github.com/hyprwm/Hyprland",
+    "readme_snippet": "<div align = center>\n\n<img src=\"https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg\" width=\"750\" height=\"300\" alt=\"banner\">\n\n<br>\n\n[![Badge Workflow]][Workflow]\n[![Badge License]][License] \n![Badge Language] \n[![Badge Pull Requests]][Pull Requests] \n[![Badge Issues]][Issues] \n![Badge Hi Mom]<br>\n\n<br>\n\nHyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.\n\nIt provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins,\neasy IPC, much more QoL stuff than other compositors and more...\n<br>\n<br>\n\n---\n\n**[<kbd> <br> Install <br> </kbd>][Install]** \n**[<kbd> <br> Quick Start <br> </kbd>][Quick Start]** \n**[<kbd> <br> Configure <br> </kbd>][Configure]** \n**[<kbd> <br> Contribut"
+  },
+  {
+    "repo_name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "language": "Rust",
+    "stars_today": 108,
+    "stars_total": 8495,
+    "topics": [
+      "minecraft",
+      "minecraft-server",
+      "rust",
+      "game-server",
+      "minecraft-protocol",
+      "gamedev",
+      "networking",
+      "docker",
+      "server",
+      "minecraft-bedrock-edition"
+    ],
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "readme_snippet": "<div align=\"center\">\n\n# Pumpkin\n\n![CI](https://github.com/Pumpkin-MC/Pumpkin/actions/workflows/rust.yml/badge.svg)\n[![Discord](https://img.shields.io/discord/1268592337445978193.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wT8XjrjKkf)\n[![License: GPL](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/gpl-3-0)\n\n</div>\n\n[Pumpkin](https://pumpkinmc.org/) is a Minecraft server built entirely in Rust, offering a fast, efficient,\nand customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game.\n<div align=\"center\">\n\n![Pumpkin Chunk Loading](./assets/pumpkin_chunk_loading.webp)\n\n</div>\n\n## Goals\n\n- **Performance**: Leveraging multi-threading for maximu"
+  },
+  {
+    "repo_name": "dottxt-ai/outlines",
+    "description": "Structured Outputs",
+    "language": "Python",
+    "stars_today": 364,
+    "stars_total": 15156,
+    "topics": [
+      "generative-ai",
+      "llms",
+      "prompt-engineering",
+      "symbolic-ai",
+      "cfg",
+      "json",
+      "regex",
+      "structured-generation"
+    ],
+    "url": "https://github.com/dottxt-ai/outlines",
+    "readme_snippet": "<div align=\"center\" style=\"margin-bottom: 1em;\">\n\n<img src=\"./docs/assets/images/logo-light-mode.svg#gh-light-mode-only\" alt=\"Outlines Logo\" width=300></img>\n<img src=\"./docs/assets/images/logo-dark-mode.svg#gh-dark-mode-only\" alt=\"Outlines Logo\" width=300></img>\n\n\n 🗒️ *Structured outputs for LLMs* 🗒️\n\nMade with ❤👷️ by the team at [.txt](https://dottxt.co)\n<br>Trusted by NVIDIA, Cohere, HuggingFace, vLLM, etc.\n\n<!-- Project Badges -->\n[![PyPI Version][pypi-version-badge]][pypi]\n[![Downloads][downloads-badge]][pypistats]\n[![Stars][stars-badge]][stars]\n\n<!-- Community Badges -->\n[![Discord][discord-badge]][discord]\n[![Blog][dottxt-blog-badge]][dottxt-blog]\n[![Twitter][twitter-badge]][twitter]\n\n<br>The .txt API is currently in early access. **[Request access here →](https://h1xbpbfsf0w.typefo"
+  }
+]
