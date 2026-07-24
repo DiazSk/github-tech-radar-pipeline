@@ -1,0 +1,292 @@
+[
+  {
+    "repo_name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stars_today": 2162,
+    "stars_total": 7337,
+    "topics": [],
+    "url": "https://github.com/block/buzz",
+    "readme_snippet": "<h1 align=\"center\">Buzz 🐝</h1>\n\n<p align=\"center\">\n  <strong>A workspace where humans and agents build together, on a relay you own.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"VISION.md\">Vision</a> ·\n  <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> ·\n  <a href=\"VISION_PROJECTS.md\">Forge</a> ·\n  <a href=\"VISION_AGENT.md\">Agents</a> ·\n  <a href=\"ARCHITECTURE.md\">Architecture</a> ·\n  <a href=\"LICENSE\">Apache 2.0</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project channel where people and an agent coordinate on a release plan\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <sub><em>People and agents building together in the same room.</em></sub>\n</p>\n\n---\n\n## What is this, really?\n\nBuzz is a self-hostable workspace where humans and AI agents share "
+  },
+  {
+    "repo_name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "stars_today": 3175,
+    "stars_total": 71924,
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "osint",
+      "opensource",
+      "palantir",
+      "situation",
+      "agent",
+      "mcp",
+      "mcp-server"
+    ],
+    "url": "https://github.com/koala73/worldmonitor",
+    "readme_snippet": "# World Monitor\n\n[简体中文](README.zh-CN.md)\n\n**Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.\n\n[![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz)\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)\n[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)\n[![Last commit](https://img.shields.io/github/last"
+  },
+  {
+    "repo_name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "stars_today": 401,
+    "stars_total": 33158,
+    "topics": [],
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "readme_snippet": "<div align=\"center\">\r\n  <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>\r\n</div>\r\n\r\n\r\n<div align=\"center\">\r\n\r\n</a> \r\n<a href=\"https://huggingface.co/NeoQuasar\"> \r\n<img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> \r\n</a> \r\n<a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a>\r\n<a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> \r\n<img src=\"https://img.shields.io/github/last-commit/shiyu-coder/Kronos?color=blue\" alt=\"Last Commit\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/stargazers\"> \r\n<img src=\"https://img.shields.io/github/stars/shiyu-coder/Kronos?color=lightblue\" alt=\"GitHub Stars\"> \r\n</a> \r\n<a href=\"https"
+  },
+  {
+    "repo_name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "language": "Rust",
+    "stars_today": 565,
+    "stars_total": 8992,
+    "topics": [
+      "minecraft",
+      "minecraft-server",
+      "rust",
+      "game-server",
+      "minecraft-protocol",
+      "gamedev",
+      "networking",
+      "docker",
+      "server",
+      "minecraft-bedrock-edition"
+    ],
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "readme_snippet": "<div align=\"center\">\n\n# Pumpkin\n\n![CI](https://github.com/Pumpkin-MC/Pumpkin/actions/workflows/rust.yml/badge.svg)\n[![Discord](https://img.shields.io/discord/1268592337445978193.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wT8XjrjKkf)\n[![License: GPL](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/gpl-3-0)\n\n</div>\n\n[Pumpkin](https://pumpkinmc.org/) is a Minecraft server built entirely in Rust, offering a fast, efficient,\nand customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game.\n<div align=\"center\">\n\n![Pumpkin Chunk Loading](./assets/pumpkin_chunk_loading.webp)\n\n</div>\n\n## Goals\n\n- **Performance**: Leveraging multi-threading for maximu"
+  },
+  {
+    "repo_name": "citrolabs/ego-lite",
+    "description": "The best browser for both you and your AI agents work in parallel.",
+    "language": "JavaScript",
+    "stars_today": 247,
+    "stars_total": 1800,
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "skills-sh",
+      "skills",
+      "browser"
+    ],
+    "url": "https://github.com/citrolabs/ego-lite",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" />\n\n**The fastest browser for AI agents to run web automation**\n\n<p>\n  <a href=\"https://cdn.ego.app/channel/github_github_referral/setup/macos/arm64/egolite.dmg\"><img src=\"https://img.shields.io/badge/Download-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download for Apple Silicon\" /></a>\n  <a href=\"https://cdn.ego.app/channel/github_github_referral/setup/macos/x64/egolite.dmg\"><img src=\"https://img.shields.io/badge/Download-Intel-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download for Intel\" /></a>\n  <a href=\"https://discord.gg/5eGZVvHbTq\"><img src=\"https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord"
+  },
+  {
+    "repo_name": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "stars_today": 592,
+    "stars_total": 71157,
+    "topics": [
+      "agc",
+      "nasa",
+      "apollo",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "readme_snippet": "# Apollo-11\n\n[![NASA][1]][2]\n[![SWH]][SWH_URL]\n[![Comanche]][ComancheMilestone]\n[![Luminary]][LuminaryMilestone]\n\n🌐\n[Azerbaijani][AZ],\n[bahasa Indonesia][ID],\n[Basa Jawa][JV],\n[Català][CA],\n[Čeština][CZ],\n[Dansk][DA],\n[Deutsch][DE],\n[English][EN],\n[Español][ES],\n[Français][FR],\n[Galego][GL],\n[Italiano][IT],\n[Kurdî][KU],\n[Lietuvių][LT],\n[Mongolian][MN],\n[Nederlands][NL],\n[Norsk][NO],\n[Polski][PL],\n[Português][PT_BR],\n[Română][RO],\n[Suomi][FI],\n[Svenska][SV],\n[tiếng Việt][VI],\n[Türkçe][TR],\n[Ελληνικά][GR],\n[Беларуская мова][BE],\n[Русский][RU],\n[Українська][UK],\n[العربية][AR],\n[فارسی][FA],\n[नेपाली भाषा][NE]\n[हिंदी][HI_IN],\n[অসমীয়া][AS_IN],\n[বাংলা][BD_BN],\n[မြန်မာ][MM],\n[한국어][KO_KR],\n[日本語][JA],\n[正體中文][ZH_TW],\n[简体中文][ZH_CN],\n[മലയാളം][ML]\n\n[AR]:Translations/README.ar.md\n[AS_IN]:Translations/REA"
+  },
+  {
+    "repo_name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "language": "TypeScript",
+    "stars_today": 1929,
+    "stars_total": 27462,
+    "topics": [
+      "a2a",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "llm-gateway",
+      "mcp",
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver",
+      "kimi"
+    ],
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./docs/screenshots/MainOmniRoute.png\" alt=\"OmniRoute Dashboard\" width=\"820\"/>\n\n<br/>\n\n# 🚀 OmniRoute — The Free AI Gateway\n\n<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 290 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 290 AI providers · 90+ free tiers · ~1.53B free tokens/mo · 19 routing strategies · $0 to start.\"/>\n\n</div>\n\n<div align=\"center\">\n\n# 💰 ~1.53B Free Tokens / Month\n\n</div>\n\n> Stacking free tiers by hand is painful — dozens of SDKs, dozens of rate limits, and no idea how much you actually have. O"
+  },
+  {
+    "repo_name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "language": "Python",
+    "stars_today": 636,
+    "stars_total": 69541,
+    "topics": [
+      "claude",
+      "claude-code",
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "codex",
+      "composio",
+      "cursor",
+      "gemini-cli",
+      "mcp",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation",
+      "developer-tools",
+      "openai-codex"
+    ],
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "readme_snippet": "<h1 align=\"center\">Awesome Claude Skills</h1>\n\n<p align=\"center\">\n<a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\">\n  <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\">\n</a>\n\n\n</p>\n\n<p align=\"center\">\n  <a href=\"https://awesome.re\">\n    <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" />\n  </a>\n  <a href=\"https://makeapullrequest.com\">\n    <img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square\" alt=\"PRs Welcome\" />\n  </a>\n  <a href=\"https://www.apache.org/licenses/LICENSE-2.0\">\n    <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square\" alt=\"License: Apache-"
+  },
+  {
+    "repo_name": "earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "language": "JavaScript",
+    "stars_today": 230,
+    "stars_total": 10084,
+    "topics": [
+      "agents",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "3mf",
+      "build123d",
+      "dxf",
+      "glb",
+      "mechanical-engineering",
+      "opencascade",
+      "robotics",
+      "step",
+      "stl",
+      "sdf",
+      "srdf",
+      "stp",
+      "urdf"
+    ],
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/text-to-cad-demo.gif\" alt=\"Demo of the CAD skill generating and previewing CAD geometry\" width=\"100%\">\n\n<br>\n\n<pre>\n ██████╗ █████╗ ██████╗       ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗\n██╔════╝██╔══██╗██╔══██╗      ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝\n██║     ███████║██║  ██║      ███████╗█████╔╝ ██║██║     ██║     ███████╗\n██║     ██╔══██║██║  ██║      ╚════██║██╔═██╗ ██║██║     ██║     ╚════██║\n╚██████╗██║  ██║██████╔╝      ███████║██║  ██╗██║███████╗███████╗███████║\n ╚═════╝╚═╝  ╚═╝╚═════╝       ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝\n</pre>\n\nA skills library for CAD, robotics, and hardware design agents\n\n[Docs](https://www.cadskills.xyz) | [Demo](https://demo.cadskills.xyz)\n\n[![Join Discord](https://img.shields.io/badge/Discord-Joi"
+  },
+  {
+    "repo_name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "language": "TypeScript",
+    "stars_today": 315,
+    "stars_total": 2435,
+    "topics": [],
+    "url": "https://github.com/agegr/pi-web",
+    "readme_snippet": "# Pi Web\n\n[中文文档](./README.zh-CN.md)\n\nLocal web UI for the [pi coding agent](https://github.com/badlogic/pi-mono). Pi Web reads your local pi session files and gives you a browser workspace for session browsing, real-time chat, model configuration, skill management, and project file preview.\n\n![Pi Web shows the same pi session with structured Markdown, tool calls, and project navigation beside the CLI](https://raw.githubusercontent.com/agegr/pi-web/main/docs/screenshot2.png)\n\nThe same pi session in CLI and Pi Web: structured tool calls, readable Markdown, session browsing, and cleaner results.\n\n## Quick Start\n\n**Run without installing:**\n\n```bash\nnpx @agegr/pi-web@latest\n```\n\n**Or install globally:**\n\n```bash\nnpm install -g @agegr/pi-web\npi-web\n```\n\nThen open [http://localhost:30141](http:/"
+  },
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 180,
+    "stars_total": 11719,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly?language=Go\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; heig"
+  },
+  {
+    "repo_name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars_today": 1708,
+    "stars_total": 85323,
+    "topics": [
+      "densepose",
+      "wifi",
+      "esp32",
+      "monitoring",
+      "rf",
+      "wifi-security",
+      "self-learning",
+      "firmware",
+      "pose-estimation",
+      "spatial-intelligence",
+      "home-assistant",
+      "home-automation",
+      "skills",
+      "networking",
+      "claude",
+      "iot",
+      "react",
+      "typescript",
+      "npm",
+      "awesome"
+    ],
+    "url": "https://github.com/ruvnet/RuView",
+    "readme_snippet": "# π RuView\n\n<p align=\"center\">\n  <a href=\"https://cognitum.one/seed\">\n    <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://cognitum.one/marketplace/musica\">\n    <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\">\n  </a>\n</p>\n\n## **See through walls with WiFi** ##\n\n**Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.\n\nWorks natively with the four major smart-home ecosystems: **[Home Assistant](docs/integrations/home-assistant.md)** via the HA-DISCO MQTT publisher, **[Apple Home & HomePod](docs/user-guide-apple-homepod.md)** "
+  },
+  {
+    "repo_name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "stars_today": 472,
+    "stars_total": 4759,
+    "topics": [
+      "architecture",
+      "architecture-as-code",
+      "c4",
+      "diagrams"
+    ],
+    "url": "https://github.com/likec4/likec4",
+    "readme_snippet": "# Architecture as a code\n\nVisualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code.\n\n[docs](https://likec4.dev/) - [playground](https://playground.likec4.dev/) - [demo](https://template.likec4.dev/view/index)\n\n<a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> ![NPM Version](https://img.shields.io/npm/v/likec4) </a>\n<a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">![NPM Downloads](https://img.shields.io/npm/dm/likec4)</a>\n<a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">![VSCode Installs](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/likec4.likec4-vscode?label=vscode%20installs)</a>\n<a href=\"https://open-vsx.org/e"
+  },
+  {
+    "repo_name": "Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "language": "Rust",
+    "stars_today": 624,
+    "stars_total": 12436,
+    "topics": [
+      "developer-tools",
+      "english-language",
+      "grammar-checker",
+      "rust",
+      "webassembly",
+      "chrome-extension",
+      "nodejs",
+      "react",
+      "svelte"
+    ],
+    "url": "https://github.com/Automattic/harper",
+    "readme_snippet": "<div id=\"header\" align=\"center\">\n    <img src=\"logo.svg\" width=\"400px\" />\n    <h1>Harper</h1>\n</div>\n\n[![Harper Binaries](https://github.com/automattic/harper/actions/workflows/binaries.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/binaries.yml)\n[![Website](https://github.com/automattic/harper/actions/workflows/build_web.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/build_web.yml)\n[![Checks](https://github.com/automattic/harper/actions/workflows/just_checks.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/just_checks.yml)\n[![Crates.io](https://img.shields.io/crates/v/harper-ls)](https://crates.io/crates/harper-ls)\n![NPM Version](https://img.shields.io/npm/v/harper.js)\n![Downloads](https://img.shields.io/github/download"
+  },
+  {
+    "repo_name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars_today": 66,
+    "stars_total": 54778,
+    "topics": [
+      "jellyfin",
+      "csharp",
+      "dotnet",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/jellyfin/jellyfin",
+    "readme_snippet": "<h1 align=\"center\">Jellyfin</h1>\n<h3 align=\"center\">The Free Software Media System</h3>\n\n---\n\n<p align=\"center\">\n<img alt=\"Logo Banner\" src=\"https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/branding/SVG/banner-logo-solid.svg?sanitize=true\"/>\n<br/>\n<br/>\n<a href=\"https://github.com/jellyfin/jellyfin\"><img alt=\"GPL 2.0 License\" src=\"https://img.shields.io/github/license/jellyfin/jellyfin.svg\"/></a>\n<a href=\"https://github.com/jellyfin/jellyfin/releases\"><img alt=\"Current Release\" src=\"https://img.shields.io/github/release/jellyfin/jellyfin.svg\"/></a>\n<a href=\"https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/?utm_source=widget\"><img alt=\"Translation Status\" src=\"https://translate.jellyfin.org/widgets/jellyfin/-/jellyfin-core/svg-badge.svg\"/></a>\n<a href=\"https://hub"
+  }
+]
