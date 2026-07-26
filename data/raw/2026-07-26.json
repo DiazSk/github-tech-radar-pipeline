@@ -1,0 +1,303 @@
+[
+  {
+    "repo_name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stars_today": 2491,
+    "stars_total": 12127,
+    "topics": [],
+    "url": "https://github.com/block/buzz",
+    "readme_snippet": "<h1 align=\"center\">Buzz 🐝</h1>\n\n<p align=\"center\">\n  <strong>A workspace where humans and agents build together, on a relay you own.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"VISION.md\">Vision</a> ·\n  <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> ·\n  <a href=\"VISION_PROJECTS.md\">Forge</a> ·\n  <a href=\"VISION_AGENT.md\">Agents</a> ·\n  <a href=\"ARCHITECTURE.md\">Architecture</a> ·\n  <a href=\"LICENSE\">Apache 2.0</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project channel where people and an agent coordinate on a release plan\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <sub><em>People and agents building together in the same room.</em></sub>\n</p>\n\n---\n\n## What is this, really?\n\nBuzz is a self-hostable workspace where humans and AI agents share "
+  },
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 431,
+    "stars_total": 13078,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly?language=Go\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; heig"
+  },
+  {
+    "repo_name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "language": "JavaScript",
+    "stars_today": 986,
+    "stars_total": 3705,
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "skills-sh",
+      "skills",
+      "browser"
+    ],
+    "url": "https://github.com/citrolabs/ego-lite",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" />\n\n**The fastest browser for AI agents to run web automation**\n\n<a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n<p>\n  <a href=\"https://cdn.ego.app/channel/github_github_referral/setup/macos/arm64/egolite.dmg\"><img src=\"https://img.shields.io/badge/Download-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download for Apple Silicon\" /></a>\n  <a href=\"https://cdn.ego.app/channel/github_github_referral/setup/macos/x64/eg"
+  },
+  {
+    "repo_name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "language": "Python",
+    "stars_today": 577,
+    "stars_total": 70655,
+    "topics": [
+      "claude",
+      "claude-code",
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "codex",
+      "composio",
+      "cursor",
+      "gemini-cli",
+      "mcp",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation",
+      "developer-tools",
+      "openai-codex"
+    ],
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "readme_snippet": "<h1 align=\"center\">Awesome Claude Skills</h1>\n\n<p align=\"center\">\n<a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\">\n  <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\">\n</a>\n\n\n</p>\n\n<p align=\"center\">\n  <a href=\"https://awesome.re\">\n    <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" />\n  </a>\n  <a href=\"https://makeapullrequest.com\">\n    <img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square\" alt=\"PRs Welcome\" />\n  </a>\n  <a href=\"https://www.apache.org/licenses/LICENSE-2.0\">\n    <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square\" alt=\"License: Apache-"
+  },
+  {
+    "repo_name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars_today": 132,
+    "stars_total": 49938,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "readme_snippet": "# Claude Cookbooks\n\nThe Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.\n\n## Prerequisites\n\nTo make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)).\n\nWhile the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Claude API.\n\nIf you're new to working with the Claude API, we recommend starting with our [Claude API Fundamentals course](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals) to get a solid foundation.\n\n## Explore Further\n\nLooking for more resources to enhance your experie"
+  },
+  {
+    "repo_name": "Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "language": "Rust",
+    "stars_today": 503,
+    "stars_total": 13467,
+    "topics": [
+      "developer-tools",
+      "english-language",
+      "grammar-checker",
+      "rust",
+      "webassembly",
+      "chrome-extension",
+      "nodejs",
+      "react",
+      "svelte"
+    ],
+    "url": "https://github.com/Automattic/harper",
+    "readme_snippet": "<div id=\"header\" align=\"center\">\n    <img src=\"logo.svg\" width=\"400px\" />\n    <h1>Harper</h1>\n</div>\n\n[![Harper Binaries](https://github.com/automattic/harper/actions/workflows/binaries.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/binaries.yml)\n[![Website](https://github.com/automattic/harper/actions/workflows/build_web.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/build_web.yml)\n[![Checks](https://github.com/automattic/harper/actions/workflows/just_checks.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/just_checks.yml)\n[![Crates.io](https://img.shields.io/crates/v/harper-ls)](https://crates.io/crates/harper-ls)\n![NPM Version](https://img.shields.io/npm/v/harper.js)\n![Downloads](https://img.shields.io/github/download"
+  },
+  {
+    "repo_name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "stars_today": 319,
+    "stars_total": 33845,
+    "topics": [],
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "readme_snippet": "<div align=\"center\">\r\n  <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>\r\n</div>\r\n\r\n\r\n<div align=\"center\">\r\n\r\n</a> \r\n<a href=\"https://huggingface.co/NeoQuasar\"> \r\n<img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> \r\n</a> \r\n<a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a>\r\n<a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> \r\n<img src=\"https://img.shields.io/github/last-commit/shiyu-coder/Kronos?color=blue\" alt=\"Last Commit\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/stargazers\"> \r\n<img src=\"https://img.shields.io/github/stars/shiyu-coder/Kronos?color=lightblue\" alt=\"GitHub Stars\"> \r\n</a> \r\n<a href=\"https"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 479,
+    "stars_total": 261167,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi"
+  },
+  {
+    "repo_name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "language": "Rust",
+    "stars_today": 358,
+    "stars_total": 9742,
+    "topics": [
+      "minecraft",
+      "minecraft-server",
+      "rust",
+      "game-server",
+      "minecraft-protocol",
+      "gamedev",
+      "networking",
+      "docker",
+      "server",
+      "minecraft-bedrock-edition"
+    ],
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "readme_snippet": "<div align=\"center\">\n\n# Pumpkin\n\n![CI](https://github.com/Pumpkin-MC/Pumpkin/actions/workflows/rust.yml/badge.svg)\n[![Discord](https://img.shields.io/discord/1268592337445978193.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wT8XjrjKkf)\n[![License: GPL](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/gpl-3-0)\n\n</div>\n\n[Pumpkin](https://pumpkinmc.org/) is a Minecraft server built entirely in Rust, offering a fast, efficient,\nand customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game.\n<div align=\"center\">\n\n![Pumpkin Chunk Loading](./assets/pumpkin_chunk_loading.gif)\n\n</div>\n\n## Goals\n\n- **Performance**: Leveraging multi-threading for maximum"
+  },
+  {
+    "repo_name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Swift",
+    "stars_today": 1720,
+    "stars_total": 28817,
+    "topics": [],
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "readme_snippet": "<img width=\"256\" height=\"256\" alt=\"icon_128x128@2x\" src=\"https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47\" />\n\n## bitchat\n\nA decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat.\n\n[bitchat.free](http://bitchat.free)\n\n📲 [App Store](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)\n\n## License\n\nThis project is released into the public domain. See the [LICENSE](LICENSE) file for details.\n\n## Features\n\n- **Dual Transport Architecture**: Bluetooth mesh for offline + Nostr protocol for internet-based messaging\n- **Location-Based Channels**: Geographic chat "
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 1740,
+    "stars_total": 188468,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "language": "Swift",
+    "stars_today": 412,
+    "stars_total": 12264,
+    "topics": [
+      "ai-video",
+      "macos",
+      "mcp",
+      "swift",
+      "video-editor",
+      "claude",
+      "seedance2"
+    ],
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "readme_snippet": "<div align=\"center\">\n\n# Palmier Pro\n\n**The video editor built for AI.**\n\n<a href=\"https://github.com/palmier-io/palmier-pro/releases/latest/download/PalmierPro.dmg\">\n  <img src=\"./assets/macos-badge.png\" alt=\"Download Palmier Pro for macOS\" width=\"180\" />\n</a>\n\n<sub><i>Requires macOS 26 (Tahoe) on Apple Silicon</i></sub>\n\n<a href=\"https://x.com/Palmier_io\"><img src=\"https://img.shields.io/badge/Follow-%40Palmier__io-000000?style=flat&logo=x&logoColor=white\" alt=\"Follow on X\" /></a>\n<a href=\"https://discord.com/invite/SMVW6pKYmg\"><img src=\"https://img.shields.io/badge/Join-Discord-5865F2?style=flat&logo=discord&logoColor=white\" alt=\"Join Discord\" /></a>\n<a href=\"https://www.ycombinator.com/companies/palmier\"><img src=\"https://img.shields.io/badge/Y%20Combinator-S24-orange\" alt=\"Y Combinator"
+  },
+  {
+    "repo_name": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "language": "TypeScript",
+    "stars_today": 426,
+    "stars_total": 5164,
+    "topics": [
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static",
+      "website"
+    ],
+    "url": "https://github.com/CoreBunch/Instatic",
+    "readme_snippet": "<div align=\"center\">\n\n# Instatic\n\n**Own your site. Love building it.**\n\nA self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun server — and the pages it ships are clean enough to read in view-source.\n\n<p>\n  <a href=\"https://trendshift.io/repositories/66792?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-66792\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/66792\" alt=\"CoreBunch/Instatic | Trendshift\" width=\"250\" height=\"55\">\n  </a>\n</p>\n\n[![Release](https://img.shields.io/github/v/release/corebunch/instatic?color=black&labelColor=black)](https://github.com/corebunch/instatic/releases)\n[![GitHub stars](https://img.shields.io/github/stars/corebunch/instatic?style=flat&label"
+  },
+  {
+    "repo_name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "stars_today": 408,
+    "stars_total": 45407,
+    "topics": [],
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "readme_snippet": "<p align=\"center\">\n<h1 align=\"center\">《动手学大模型》系列编程实践教程</h1>\n</p>\n<p align=\"center\">\n  \t<a href=\"https://img.shields.io/badge/version-v0.1.0-blue\">\n      <img alt=\"version\" src=\"https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922\" />\n    </a>\n  <a >\n       <img alt=\"Status-building\" src=\"https://img.shields.io/badge/Status-building-blue\" />\n  \t</a>\n  <a >\n       <img alt=\"PRs-Welcome\" src=\"https://img.shields.io/badge/PRs-Welcome-red\" />\n  \t</a>\n   \t<a href=\"https://github.com/Lordog/dive-into-llms/stargazers\">\n       <img alt=\"stars\" src=\"https://img.shields.io/github/stars/Lordog/dive-into-llms\" />\n  \t</a>\n  \t<a href=\"https://github.com/Lordog/dive-into-llms/network/members\">\n       <img alt=\"FORK\" src=\"https://img.shields.io/github/forks/Lordog/dive-into-llms?color"
+  },
+  {
+    "repo_name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "language": "Python",
+    "stars_today": 86,
+    "stars_total": 14314,
+    "topics": [
+      "ann",
+      "avx512",
+      "embeddings",
+      "faiss",
+      "nearest-neighbor",
+      "neon",
+      "python",
+      "quantization",
+      "rag",
+      "rust",
+      "simd",
+      "vector-search",
+      "embedding",
+      "quant",
+      "turboquant"
+    ],
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/header.png\" alt=\"turbovec — Google's TurboQuant for vector search\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a>\n  <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a>\n  <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/v/turbovec?label=crates.io&color=blue\" alt=\"crates.io version\"></a>\n  <a href=\"https://arxiv.org/abs/2504.19874\"><img src=\"https://img.shields.io/badge/paper-arXiv-b31b1b.svg\" alt=\"TurboQuant paper\"></a>\n</p>\n\n---\n\n**A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits "
+  },
+  {
+    "repo_name": "OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "language": "Java",
+    "stars_today": 360,
+    "stars_total": 26727,
+    "topics": [
+      "ai",
+      "chatgpt",
+      "datagrip",
+      "dbeaver",
+      "gpt",
+      "mysql",
+      "navicat",
+      "oracle",
+      "postgresql",
+      "redis",
+      "sqlserver",
+      "bi",
+      "database",
+      "clickhouse",
+      "db2",
+      "hive",
+      "redis-client",
+      "text2sql",
+      "clickhouse-client"
+    ],
+    "url": "https://github.com/OtterMind/Chat2DB",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"./icon.png\" alt=\"Chat2DB\" width=\"100\">\n  <div align=\"center\">\n  Powered by  <a href=\"https://ottermind.ai\">OtterMind</a>\n</div>\n  <br/>\n  <p><strong>An AI-powered database client and SQL workspace for developers, DBAs, analysts, and data teams.</strong></p>\n</div>\n\n<div align=\"center\">\n  <a href=\"./README.md\"><img alt=\"README in English\" src=\"https://img.shields.io/badge/English-d9d9d9\"></a>\n  <a href=\"./README_CN.md\"><img alt=\"简体中文版自述文件\" src=\"https://img.shields.io/badge/简体中文-d9d9d9\"></a>\n  <a href=\"./README_JA.md\"><img alt=\"日本語のREADME\" src=\"https://img.shields.io/badge/日本語-d9d9d9\"></a>\n  <a href=\"./README_ES.md\"><img alt=\"README en español\" src=\"https://img.shields.io/badge/Español-d9d9d9\"></a>\n  <a href=\"./README_KO.md\"><img alt=\"한국어 README\" src=\"https:/"
+  },
+  {
+    "repo_name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars_today": 77,
+    "stars_total": 15255,
+    "topics": [],
+    "url": "https://github.com/andrewyng/aisuite",
+    "readme_snippet": "> ![OpenWorker](https://img.shields.io/badge/%E2%9C%A8-OpenWorker-8250df?style=for-the-badge)\n> ## OpenWorker\n> **A desktop AI coworker, built on aisuite — now in its own repository: [andrewyng/openworker](https://github.com/andrewyng/openworker).**\n>\n> OpenWorker chats, does deep research, and carries out real tasks on your computer — reading files with\n> permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled\n> automations. Bring your own API key (OpenAI, Anthropic, Google) or run fully local with Ollama; your data\n> stays on your machine.\n>\n> [**⬇ Download for macOS**](https://github.com/andrewyng/openworker/releases/latest/download/OpenWorker-macos-arm64.dmg) <sub>macOS 13+ (Apple Silicon)</sub> &nbsp;·&nbsp; [**⬇ Download for Windows**"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 377,
+    "stars_total": 233374,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "**Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) | [Русский](docs/ru/README.md) | [Tiếng Việt](docs/vi-VN/README.md) | [ไทย](docs/th/README.md) | [Deutsch](docs/de-DE/README.md) | [Español](docs/es/README.md)\n\n![ECC — the agent harness operating system](assets/hero.png)\n\n[![Discord](https://img.shields.io/discord/1496644400590094540?logo=discord&logoColor=white&label=Join%20the%20Discord&color=5865F2)](https://discord.gg/36yGMHGFbR)\n[![Website](https://img.shields.io/badge/Website-ecc.tools-E07856?logo=googlechrome&logoColor=white)](https://ecc.tools)\n[![GitHub App](https://img.shields.io/badge/GitHub%20App-ECC%20Tools-181717?l"
+  }
+]
