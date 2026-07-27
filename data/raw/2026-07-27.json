@@ -1,0 +1,277 @@
+[
+  {
+    "repo_name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Swift",
+    "stars_today": 1166,
+    "stars_total": 30694,
+    "topics": [
+      "bluetooth",
+      "bluetooth-le",
+      "decentralized",
+      "e2e-encryption",
+      "ios",
+      "macos",
+      "mesh-network",
+      "messaging",
+      "nostr",
+      "swift"
+    ],
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "readme_snippet": "<img width=\"256\" height=\"256\" alt=\"icon_128x128@2x\" src=\"https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47\" />\n\n## bitchat\n\nA decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat.\n\n[bitchat.free](http://bitchat.free)\n\n📲 [App Store](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)\n\n### Getting a copy you can trust\n\nInstall from the App Store, or build from source you have verified. A compiled build from anywhere else cannot be verified — see [Verifying bitchat](docs/VERIFYING-A-BUILD.md) for how to check source against the per-release hash manifest, an"
+  },
+  {
+    "repo_name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "language": "JavaScript",
+    "stars_today": 900,
+    "stars_total": 4836,
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "skills-sh",
+      "skills",
+      "browser"
+    ],
+    "url": "https://github.com/citrolabs/ego-lite",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" />\n\n**The fastest browser for AI agents to run web automation**\n\n<a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n<p>\n  <a href=\"https://cdn.ego.app/channel/github_github_referral/setup/macos/arm64/egolite.dmg\"><img src=\"https://img.shields.io/badge/Download-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download for Apple Silicon\" /></a>\n  <a href=\"https://cdn.ego.app/channel/github_github_referral/setup/macos/x64/eg"
+  },
+  {
+    "repo_name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stars_today": 1710,
+    "stars_total": 13548,
+    "topics": [],
+    "url": "https://github.com/block/buzz",
+    "readme_snippet": "<h1 align=\"center\">Buzz 🐝</h1>\n\n<p align=\"center\">\n  <strong>A workspace where humans and agents build together, on a relay you own.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"VISION.md\">Vision</a> ·\n  <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> ·\n  <a href=\"VISION_PROJECTS.md\">Forge</a> ·\n  <a href=\"VISION_AGENT.md\">Agents</a> ·\n  <a href=\"ARCHITECTURE.md\">Architecture</a> ·\n  <a href=\"LICENSE\">Apache 2.0</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project channel where people and an agent coordinate on a release plan\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <sub><em>People and agents building together in the same room.</em></sub>\n</p>\n\n---\n\n## What is this, really?\n\nBuzz is a self-hostable workspace where humans and AI agents share "
+  },
+  {
+    "repo_name": "pingdotgg/t3code",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 149,
+    "stars_total": 15107,
+    "topics": [],
+    "url": "https://github.com/pingdotgg/t3code",
+    "readme_snippet": "# T3 Code\n\nT3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon).\n\n## Installation\n\n> [!WARNING]\n> T3 Code currently supports Codex, Claude, Cursor, and OpenCode.\n> Install and authenticate at least one provider before use:\n>\n> - Codex: install [Codex CLI](https://developers.openai.com/codex/cli) and run `codex login`\n> - Claude: install [Claude Code](https://claude.com/product/claude-code) and run `claude auth login`\n> - Cursor: install [Cursor CLI](https://cursor.com/cli) and run `cursor-agent login`\n> - OpenCode: install [OpenCode](https://opencode.ai) and run `opencode auth login`\n\n### Run without installing\n\n```bash\nnpx t3@latest\n```\n\nTip: Use `npx t3@latest --help` for the full CLI reference.\n\n### Desktop app\n\nInstall the lat"
+  },
+  {
+    "repo_name": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "language": "TypeScript",
+    "stars_today": 888,
+    "stars_total": 5789,
+    "topics": [
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static",
+      "website"
+    ],
+    "url": "https://github.com/CoreBunch/Instatic",
+    "readme_snippet": "<div align=\"center\">\n\n# Instatic\n\n**Own your site. Love building it.**\n\nA self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun server — and the pages it ships are clean enough to read in view-source.\n\n<p>\n  <a href=\"https://trendshift.io/repositories/66792?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-66792\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/66792\" alt=\"CoreBunch/Instatic | Trendshift\" width=\"250\" height=\"55\">\n  </a>\n</p>\n\n[![Release](https://img.shields.io/github/v/release/corebunch/instatic?color=black&labelColor=black)](https://github.com/corebunch/instatic/releases)\n[![GitHub stars](https://img.shields.io/github/stars/corebunch/instatic?style=flat&label"
+  },
+  {
+    "repo_name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "language": "Go",
+    "stars_today": 131,
+    "stars_total": 20347,
+    "topics": [
+      "bubbletea",
+      "cli",
+      "file-manager",
+      "filesystem",
+      "golang",
+      "linux-app",
+      "terminal-app",
+      "tui",
+      "filemanager",
+      "terminal-based",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/yorukot/superfile",
+    "readme_snippet": "<div align=\"center\">\n\n<h4>superfile is supported by the community.</h4>\n\n<a href=\"https://ko-fi.com/yorukot\">\n  <img alt=\"Donate to superfile on Ko-fi\" src=\"https://ko-fi.com/img/githubbutton_sm.svg\">\n</a>\n\n<hr>\n\n</div>\n\n<div align=\"center\">\n<br>\n<picture>\n  <source width=\"300\" media=\"(prefers-color-scheme: dark)\" srcset=\"website/src/assets/superfile-night.svg\" />\n  <source width=\"300\" media=\"(prefers-color-scheme: light)\" srcset=\"website/src/assets/superfile-day.svg\" />\n  <img alt=\"superfile LOGO\" src=\"website/src/assets/superfile-day.svg\" />\n</picture>\n<br><br>\n\n[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/yorukot/superfile/refs/heads/main/LICENSE) [![Discord Link](https://img.shields.io/discord/1338415256875307110?label=discord&lo"
+  },
+  {
+    "repo_name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars_today": 36,
+    "stars_total": 118507,
+    "topics": [
+      "nodejs",
+      "javascript",
+      "node",
+      "js",
+      "runtime",
+      "mit",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "url": "https://github.com/nodejs/node",
+    "readme_snippet": "# Node.js\n\nNode.js is an open-source, cross-platform JavaScript runtime environment.\n\nFor information on using Node.js, see the [Node.js website][].\n\nThe Node.js project uses an [open governance model](./GOVERNANCE.md). The\n[OpenJS Foundation][] provides support for the project.\n\nContributors are expected to act in a collaborative manner to move\nthe project forward. We encourage the constructive exchange of contrary\nopinions and compromise. The [TSC](./GOVERNANCE.md#technical-steering-committee)\nreserves the right to limit or block contributors who repeatedly act in ways\nthat discourage, exhaust, or otherwise negatively affect other participants.\n\n**This project has a [Code of Conduct][].**\n\n## Table of contents\n\n* [Support](#support)\n* [Release types](#release-types)\n  * [Download](#downl"
+  },
+  {
+    "repo_name": "OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "language": "Java",
+    "stars_today": 398,
+    "stars_total": 27225,
+    "topics": [
+      "ai",
+      "chatgpt",
+      "datagrip",
+      "dbeaver",
+      "gpt",
+      "mysql",
+      "navicat",
+      "oracle",
+      "postgresql",
+      "redis",
+      "sqlserver",
+      "bi",
+      "database",
+      "clickhouse",
+      "db2",
+      "hive",
+      "redis-client",
+      "text2sql",
+      "clickhouse-client"
+    ],
+    "url": "https://github.com/OtterMind/Chat2DB",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"./icon.png\" alt=\"Chat2DB\" width=\"100\">\n  <div align=\"center\">\n  Powered by  <a href=\"https://ottermind.ai\">OtterMind</a>\n</div>\n  <br/>\n  <p><strong>An AI-powered database client and SQL workspace for developers, DBAs, analysts, and data teams.</strong></p>\n</div>\n\n<div align=\"center\">\n  <a href=\"./README.md\"><img alt=\"README in English\" src=\"https://img.shields.io/badge/English-d9d9d9\"></a>\n  <a href=\"./README_CN.md\"><img alt=\"简体中文版自述文件\" src=\"https://img.shields.io/badge/简体中文-d9d9d9\"></a>\n  <a href=\"./README_JA.md\"><img alt=\"日本語のREADME\" src=\"https://img.shields.io/badge/日本語-d9d9d9\"></a>\n  <a href=\"./README_ES.md\"><img alt=\"README en español\" src=\"https://img.shields.io/badge/Español-d9d9d9\"></a>\n  <a href=\"./README_KO.md\"><img alt=\"한국어 README\" src=\"https:/"
+  },
+  {
+    "repo_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars_today": 413,
+    "stars_total": 50823,
+    "topics": [],
+    "url": "https://github.com/pbakaus/impeccable",
+    "readme_snippet": "# Impeccable\n\nDesign guidance for AI coding agents. 1 skill, 23 commands, live browser iteration, and 60 deterministic detector rules for AI-generated frontend design.\n\n> **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style).\n\n## Why Impeccable?\n\nAnthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used design skill for Claude. Impeccable started from there.\n\nEvery model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards, gray text on colored backgrounds, the rounded-s"
+  },
+  {
+    "repo_name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "stars_today": 321,
+    "stars_total": 34235,
+    "topics": [],
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "readme_snippet": "<div align=\"center\">\r\n  <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>\r\n</div>\r\n\r\n\r\n<div align=\"center\">\r\n\r\n</a> \r\n<a href=\"https://huggingface.co/NeoQuasar\"> \r\n<img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> \r\n</a> \r\n<a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a>\r\n<a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> \r\n<img src=\"https://img.shields.io/github/last-commit/shiyu-coder/Kronos?color=blue\" alt=\"Last Commit\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/stargazers\"> \r\n<img src=\"https://img.shields.io/github/stars/shiyu-coder/Kronos?color=lightblue\" alt=\"GitHub Stars\"> \r\n</a> \r\n<a href=\"https"
+  },
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 832,
+    "stars_total": 14027,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly?language=Go\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; heig"
+  },
+  {
+    "repo_name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars_today": 187,
+    "stars_total": 15440,
+    "topics": [],
+    "url": "https://github.com/andrewyng/aisuite",
+    "readme_snippet": "> ![OpenWorker](https://img.shields.io/badge/%E2%9C%A8-OpenWorker-8250df?style=for-the-badge)\n> ## OpenWorker\n> **A desktop AI coworker, built on aisuite — now in its own repository: [andrewyng/openworker](https://github.com/andrewyng/openworker).**\n>\n> OpenWorker chats, does deep research, and carries out real tasks on your computer — reading files with\n> permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled\n> automations. Bring your own API key (OpenAI, Anthropic, Google) or run fully local with Ollama; your data\n> stays on your machine.\n>\n> [**⬇ Download for macOS**](https://github.com/andrewyng/openworker/releases/latest/download/OpenWorker-macos-arm64.dmg) <sub>macOS 13+ (Apple Silicon)</sub> &nbsp;·&nbsp; [**⬇ Download for Windows**"
+  },
+  {
+    "repo_name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars_today": 379,
+    "stars_total": 50308,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "readme_snippet": "# Claude Cookbooks\n\nThe Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.\n\n## Prerequisites\n\nTo make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)).\n\nWhile the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Claude API.\n\nIf you're new to working with the Claude API, we recommend starting with our [Claude API Fundamentals course](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals) to get a solid foundation.\n\n## Explore Further\n\nLooking for more resources to enhance your experie"
+  },
+  {
+    "repo_name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "language": "Rust",
+    "stars_today": 338,
+    "stars_total": 10065,
+    "topics": [
+      "minecraft",
+      "minecraft-server",
+      "rust",
+      "game-server",
+      "minecraft-protocol",
+      "gamedev",
+      "networking",
+      "docker",
+      "server",
+      "minecraft-bedrock-edition"
+    ],
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "readme_snippet": "<div align=\"center\">\n\n# Pumpkin\n\n![CI](https://github.com/Pumpkin-MC/Pumpkin/actions/workflows/rust.yml/badge.svg)\n[![Discord](https://img.shields.io/discord/1268592337445978193.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wT8XjrjKkf)\n[![License: GPL](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/gpl-3-0)\n\n</div>\n\n[Pumpkin](https://pumpkinmc.org/) is a Minecraft server built entirely in Rust, offering a fast, efficient,\nand customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game.\n<div align=\"center\">\n\n![Pumpkin Chunk Loading](./assets/pumpkin-chunk-loading.webp)\n\n</div>\n\n## Goals\n\n- **Performance**: Leveraging multi-threading for maximu"
+  },
+  {
+    "repo_name": "permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Kotlin",
+    "stars_today": 260,
+    "stars_total": 6785,
+    "topics": [],
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "readme_snippet": "<p align=\"center\">\n    <img src=\"https://github.com/user-attachments/assets/188c42f8-d249-4a72-b27a-e2b4f10a00a8\" alt=\"Bitchat Android Logo\" width=\"480\">\n</p>\n\n> [!WARNING]\n> This software has not received external security review and may contain vulnerabilities and may not necessarily meet its stated security goals. Do not use it for sensitive use cases, and do not rely on its security until it has been reviewed. Work in progress.\n\n# bitchat for Android\n\nA secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required for mesh chats, no servers, no phone numbers - just pure encrypted communication. Bitchat also supports geohash channels, which use an internet connection to connect you with others in your geographic area.\n\nThis is the **Andr"
+  },
+  {
+    "repo_name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "language": "Java",
+    "stars_today": 18,
+    "stars_total": 25741,
+    "topics": [
+      "continuous-integration",
+      "continuous-delivery",
+      "continuous-deployment",
+      "java",
+      "groovy",
+      "jenkins",
+      "pipelines-as-code",
+      "devops",
+      "cicd",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/jenkinsci/jenkins",
+    "readme_snippet": "<a href=\"https://jenkins.io\">\n    <img width=\"400\" src=\"https://www.jenkins.io/images/jenkins-logo-title-dark.svg\" alt=\"Jenkins logo\"> \n</a>\n\n[![Jenkins Regular Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog%2Fbadge.json)](https://www.jenkins.io/changelog)\n[![Jenkins LTS Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog-stable%2Fbadge.json)](https://www.jenkins.io/changelog-stable)\n[![Docker Pulls](https://img.shields.io/docker/pulls/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)\n[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3538/badge)](https://bestpractices.coreinfrastructure.org/projects/3538)\n[![Reproducible Builds](https://img.shields.io/badge/Reproducible_Builds"
+  },
+  {
+    "repo_name": "amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)",
+    "language": "C++",
+    "stars_today": 35,
+    "stars_total": 13396,
+    "topics": [
+      "vpn",
+      "vpn-client",
+      "vpn-server",
+      "openvpn",
+      "wireguard",
+      "shadowsocks",
+      "ikev2",
+      "cloak",
+      "gfw"
+    ],
+    "url": "https://github.com/amnezia-vpn/amnezia-client",
+    "readme_snippet": "# Amnezia VPN\n\n### _The best client for self-hosted VPN_\n\n\n[![Build Status](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml/badge.svg?branch=dev)](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)\n[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/amnezia-vpn/amnezia-client)\n\n### [English]([https://github.com/amnezia-vpn/amnezia-client/blob/dev/README_RU.md](https://github.com/amnezia-vpn/amnezia-client/tree/dev?tab=readme-ov-file#)) | [Русский](https://github.com/amnezia-vpn/amnezia-client/blob/dev/README_RU.md)\n\n\n[Amnezia](https://amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en) is an open-source VPN client, with a k"
+  }
+]
