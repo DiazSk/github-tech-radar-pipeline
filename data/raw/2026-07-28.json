@@ -1,0 +1,263 @@
+[
+  {
+    "repo_name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "language": "Swift",
+    "stars_today": 2346,
+    "stars_total": 32452,
+    "topics": [
+      "bluetooth",
+      "bluetooth-le",
+      "decentralized",
+      "e2e-encryption",
+      "ios",
+      "macos",
+      "mesh-network",
+      "messaging",
+      "nostr",
+      "swift"
+    ],
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "readme_snippet": "<img width=\"256\" height=\"256\" alt=\"icon_128x128@2x\" src=\"https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47\" />\n\n## bitchat\n\nA decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat.\n\n[bitchat.free](http://bitchat.free)\n\n📲 [App Store](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)\n\n### Getting a copy you can trust\n\nInstall from the App Store, or build from source you have verified. A compiled build from anywhere else cannot be verified — see [Verifying bitchat](docs/VERIFYING-A-BUILD.md) for how to check source against the per-release hash manifest, an"
+  },
+  {
+    "repo_name": "amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)",
+    "language": "C++",
+    "stars_today": 515,
+    "stars_total": 13927,
+    "topics": [
+      "vpn",
+      "vpn-client",
+      "vpn-server",
+      "openvpn",
+      "wireguard",
+      "shadowsocks",
+      "ikev2",
+      "cloak",
+      "gfw"
+    ],
+    "url": "https://github.com/amnezia-vpn/amnezia-client",
+    "readme_snippet": "# Amnezia VPN\n\n### _The best client for self-hosted VPN_\n\n\n[![Build Status](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml/badge.svg?branch=dev)](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)\n[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/amnezia-vpn/amnezia-client)\n\n### [English]([https://github.com/amnezia-vpn/amnezia-client/blob/dev/README_RU.md](https://github.com/amnezia-vpn/amnezia-client/tree/dev?tab=readme-ov-file#)) | [Русский](https://github.com/amnezia-vpn/amnezia-client/blob/dev/README_RU.md)\n\n\n[Amnezia](https://amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en) is an open-source VPN client, with a k"
+  },
+  {
+    "repo_name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "TypeScript",
+    "stars_today": 572,
+    "stars_total": 44180,
+    "topics": [
+      "ai-vtuber",
+      "live2d",
+      "neuro-sama",
+      "neurosama",
+      "vrm",
+      "vtuber",
+      "grok-companion",
+      "ai-companion",
+      "digital-life",
+      "openclaw",
+      "airi"
+    ],
+    "url": "https://github.com/moeru-ai/airi",
+    "readme_snippet": "<picture>\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-dark-1280x640.avif\"\n    media=\"(prefers-color-scheme: dark)\"\n  />\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-light-1280x640.avif\"\n    media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\"\n  />\n  <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" />\n</picture>\n\n<h1 align=\"center\">Project AIRI</h1>\n\n<p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>\n\n<p align=\"center\">\n  [<a href=\"https://discord.gg/TgQ3Cu2F7A\">Join Discord Server</a>] [<a href=\"https://airi.moeru.ai\">Try it</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md\">简体中文</a>] [<a href=\""
+  },
+  {
+    "repo_name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "language": "TypeScript",
+    "stars_today": 420,
+    "stars_total": 2820,
+    "topics": [
+      "data-science",
+      "geospatial",
+      "maplibre",
+      "maplibre-gl-js",
+      "tauri-app",
+      "duckdb"
+    ],
+    "url": "https://github.com/opengeos/GeoLibre",
+    "readme_snippet": "# GeoLibre\n\n[![Launch GeoLibre Web](https://img.shields.io/badge/Launch-GeoLibre%20Web-green.svg)](https://web.geolibre.app/)\n[![GeoLibre shared project](https://img.shields.io/badge/GeoLibre-share-green.svg)](https://share.geolibre.app)\n[![GeoLibre plugins](https://img.shields.io/badge/GeoLibre-plugins-green.svg)](https://plugins.geolibre.app)\n[![image](https://img.shields.io/pypi/v/geolibre.svg)](https://pypi.python.org/pypi/geolibre)\n[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/GeoLibre/blob/main/python/examples/getting-started.ipynb)\n[![image](https://img.shields.io/conda/vn/conda-forge/geolibre.svg)](https://anaconda.org/conda-forge/geolibre)\n[![Conda Recipe](https://img.shields.io/badge/recipe-geolibre-green.sv"
+  },
+  {
+    "repo_name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "language": "Go",
+    "stars_today": 600,
+    "stars_total": 20990,
+    "topics": [
+      "bubbletea",
+      "cli",
+      "file-manager",
+      "filesystem",
+      "golang",
+      "linux-app",
+      "terminal-app",
+      "tui",
+      "filemanager",
+      "terminal-based",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/yorukot/superfile",
+    "readme_snippet": "<div align=\"center\">\n\n<h4>superfile is supported by the community.</h4>\n\n<a href=\"https://ko-fi.com/yorukot\">\n  <img alt=\"Donate to superfile on Ko-fi\" src=\"https://ko-fi.com/img/githubbutton_sm.svg\">\n</a>\n\n<hr>\n\n</div>\n\n<div align=\"center\">\n<br>\n<picture>\n  <source width=\"300\" media=\"(prefers-color-scheme: dark)\" srcset=\"website/src/assets/superfile-night.svg\" />\n  <source width=\"300\" media=\"(prefers-color-scheme: light)\" srcset=\"website/src/assets/superfile-day.svg\" />\n  <img alt=\"superfile LOGO\" src=\"website/src/assets/superfile-day.svg\" />\n</picture>\n<br><br>\n\n[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/yorukot/superfile/refs/heads/main/LICENSE) [![Discord Link](https://img.shields.io/discord/1338415256875307110?label=discord&lo"
+  },
+  {
+    "repo_name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "stars_today": 362,
+    "stars_total": 58424,
+    "topics": [],
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "readme_snippet": "# 🔥 MediaCrawler - 自媒体平台爬虫 🕷️\n\n<div align=\"center\">\n\n### 🤝 特别感谢白金赞助商\n\n<a href=\"https://www.browseract.ai/mediacrawler\" target=\"_blank\">\n  <img src=\"docs/static/images/browseract_ad.jpg\" alt=\"BrowserAct\" width=\"600\">\n</a>\n\n<br>\n\n<a href=\"https://www.browseract.ai/mediacrawler\" target=\"_blank\">\n<small>BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。</small>\n</a>\n\n</div>\n\n---\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\">\n  <img src=\"https://trendshift.io/api/badge/repositories/8291\" alt=\"NanmiCoder%2FMediaCrawler | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n</a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style="
+  },
+  {
+    "repo_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars_today": 847,
+    "stars_total": 51690,
+    "topics": [],
+    "url": "https://github.com/pbakaus/impeccable",
+    "readme_snippet": "# Impeccable\n\nDesign guidance for AI coding agents. 1 skill, 23 commands, live browser iteration, and 60 deterministic detector rules for AI-generated frontend design.\n\n> **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style).\n\n## Why Impeccable?\n\nAnthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used design skill for Claude. Impeccable started from there.\n\nEvery model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards, gray text on colored backgrounds, the rounded-s"
+  },
+  {
+    "repo_name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "stars_today": 441,
+    "stars_total": 34621,
+    "topics": [],
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "readme_snippet": "<div align=\"center\">\r\n  <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>\r\n</div>\r\n\r\n\r\n<div align=\"center\">\r\n\r\n</a> \r\n<a href=\"https://huggingface.co/NeoQuasar\"> \r\n<img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> \r\n</a> \r\n<a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a>\r\n<a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> \r\n<img src=\"https://img.shields.io/github/last-commit/shiyu-coder/Kronos?color=blue\" alt=\"Last Commit\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/stargazers\"> \r\n<img src=\"https://img.shields.io/github/stars/shiyu-coder/Kronos?color=lightblue\" alt=\"GitHub Stars\"> \r\n</a> \r\n<a href=\"https"
+  },
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 979,
+    "stars_total": 15014,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly?language=Go\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; heig"
+  },
+  {
+    "repo_name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "language": "Java",
+    "stars_today": 180,
+    "stars_total": 25912,
+    "topics": [
+      "continuous-integration",
+      "continuous-delivery",
+      "continuous-deployment",
+      "java",
+      "groovy",
+      "jenkins",
+      "pipelines-as-code",
+      "devops",
+      "cicd",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/jenkinsci/jenkins",
+    "readme_snippet": "<a href=\"https://jenkins.io\">\n    <img width=\"400\" src=\"https://www.jenkins.io/images/jenkins-logo-title-dark.svg\" alt=\"Jenkins logo\"> \n</a>\n\n[![Jenkins Regular Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog%2Fbadge.json)](https://www.jenkins.io/changelog)\n[![Jenkins LTS Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog-stable%2Fbadge.json)](https://www.jenkins.io/changelog-stable)\n[![Docker Pulls](https://img.shields.io/docker/pulls/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)\n[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3538/badge)](https://bestpractices.coreinfrastructure.org/projects/3538)\n[![Reproducible Builds](https://img.shields.io/badge/Reproducible_Builds"
+  },
+  {
+    "repo_name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "stars_today": 434,
+    "stars_total": 11252,
+    "topics": [],
+    "url": "https://github.com/bradautomates/claude-video",
+    "readme_snippet": "# /watch\n\n**Give Claude the ability to watch any video.**\n\nClaude Code (recommended — auto-updates via marketplace):\n```\n/plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video\n```\n\nCodex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts:\n```bash\nnpx skills add bradautomates/claude-video -g\n```\n(`-g` installs globally for your user, available across all projects. Drop it to scope per-project.)\n\nMore install options (claude.ai web, manual) in the [Install](#install) section below.\n\nZero config to start — `yt-dlp` and `ffmpeg` install on first run via `brew` on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions.\n\n---\n\nClaude can"
+  },
+  {
+    "repo_name": "vudovn/ag-kit",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 14,
+    "stars_total": 7997,
+    "topics": [],
+    "url": "https://github.com/vudovn/ag-kit",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/vudovn/ag-kit/main/web/public/images/logo.png\" width=\"128\" height=\"128\" alt=\"AG Kit\">\n</p>\n\n<h1 align=\"center\">AG KIT</h1>\n\n<p align=\"center\">\n  Antigravity-first agent engineering kit with rules, skills, specialist agents, workflows, persistent memory, MCP guidance, orchestration, and a native safety hook.\n</p>\n\n<div align=\"center\">\n  <a href=\"https://unikorn.vn/p/antigravity-kit?ref=unikorn\" target=\"_blank\"><img src=\"https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark\" alt=\"AG Kit on Unikorn.vn\" width=\"210\" height=\"54\" /></a>\n  <a href=\"https://trendshift.io/repositories/21490\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/21490\" alt=\"AG Kit on Trendshift\" width=\"250\" height=\"55\" /></a>\n"
+  },
+  {
+    "repo_name": "apache/cassandra",
+    "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+    "language": "Java",
+    "stars_today": 11,
+    "stars_total": 9988,
+    "topics": [
+      "cassandra",
+      "java",
+      "database"
+    ],
+    "url": "https://github.com/apache/cassandra",
+    "readme_snippet": "image:https://img.shields.io/badge/License-Apache%202.0-blue.svg[License, link=https://github.com/apache/cassandra/blob/trunk/LICENSE.txt]\nimage:https://ci-cassandra.apache.org/job/Cassandra-trunk/badge/icon[Build Status, link=https://ci-cassandra.apache.org/job/Cassandra-trunk/]      \nimage:https://img.shields.io/badge/Official-Downloads-brightgreen[Official Downloads, link=https://cassandra.apache.org/$$_$$/download.html]\nimage:https://img.shields.io/docker/pulls/$$_$$/cassandra[Docker Pulls, link=https://hub.docker.com/r/$$_$$/cassandra]      \nimage:https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white[Slack, link=https://infra.apache.org/slack.html]\nimage:https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&color=0285FF[Bluesky, link=https://"
+  },
+  {
+    "repo_name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars_today": 240,
+    "stars_total": 54270,
+    "topics": [
+      "ai-prompts",
+      "claude",
+      "claude-code",
+      "reddit",
+      "twitter",
+      "hackernews",
+      "polymarket",
+      "research",
+      "youtube",
+      "ai-skill",
+      "bluesky",
+      "clawhub",
+      "deep-research",
+      "instagram",
+      "openclaw",
+      "recency",
+      "social-media",
+      "tiktok",
+      "trends",
+      "web-search"
+    ],
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "readme_snippet": "# /last30days\n\n<p align=\"center\">\n  <img src=\"media/pr-assets/last30days-ad.gif\" width=\"720\" alt=\"last30days - an AI agent-led search engine that searches people, not editors\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/mvanhorn/last30days-skill\">\n    <img src=\"https://img.shields.io/badge/%231-Repository%20Of%20The%20Day-6f42c1?style=for-the-badge&logo=github&label=GITHUB%20TRENDING\" alt=\"GitHub Trending #1 Repository Of The Day\" />\n  </a>\n  <br/>\n  <a href=\"https://trendshift.io/repositories/21997\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/21997\" alt=\"mvanhorn/last30days-skill | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n  </a>\n</p>\n\n**An AI agent-led search engine scored by upvotes, likes, and real money - no"
+  },
+  {
+    "repo_name": "ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "stars_today": 51,
+    "stars_total": 75239,
+    "topics": [
+      "gui",
+      "gamedev",
+      "tools",
+      "ui",
+      "toolkit",
+      "native",
+      "imgui",
+      "api",
+      "cplusplus",
+      "framework",
+      "library",
+      "game-development",
+      "game-engine",
+      "multi-platform",
+      "immediate-gui"
+    ],
+    "url": "https://github.com/ocornut/imgui",
+    "readme_snippet": "Dear ImGui\n=====\n\n<center><b><i>\"Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime.\"</i></b></center> <a href=\"https://twitter.com/rygorous/status/1507178315886444544\">-ryg</a>\n\n----\n\n[![Build Status](https://github.com/ocornut/imgui/workflows/build/badge.svg)](https://github.com/ocornut/imgui/actions?workflow=build) [![Static Analysis Status](https://github.com/ocornut/imgui/workflows/static-analysis/badge.svg)](https://github.com/ocornut/imgui/actions?workflow=static-analysis) [![Tests Status](https://github.com/ocornut/imgui_test_engine/workflows/tests/badge.svg)](https://github.com/ocornut/imgui_test_engine/actions?workflow=tests)\n\n<sub>(This library is ava"
+  }
+]
