@@ -1,0 +1,241 @@
+[
+  {
+    "repo_name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "language": "TypeScript",
+    "stars_today": 341,
+    "stars_total": 18885,
+    "topics": [],
+    "url": "https://github.com/pascalorg/editor",
+    "readme_snippet": "# Pascal Editor\n\nA 3D building editor built with React Three Fiber and WebGPU.\n\n[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core)\n[![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/SaBRA9t2)\n[![X (Twitter)](https://img.shields.io/badge/follow-%40pascal__app-black?logo=x&logoColor=white)](https://x.com/pascal_app)\n\nhttps://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b\n\n## "
+  },
+  {
+    "repo_name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "language": "Java",
+    "stars_today": 180,
+    "stars_total": 26110,
+    "topics": [
+      "continuous-integration",
+      "continuous-delivery",
+      "continuous-deployment",
+      "java",
+      "groovy",
+      "jenkins",
+      "pipelines-as-code",
+      "devops",
+      "cicd",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/jenkinsci/jenkins",
+    "readme_snippet": "<a href=\"https://jenkins.io\">\n    <img width=\"400\" src=\"https://www.jenkins.io/images/jenkins-logo-title-dark.svg\" alt=\"Jenkins logo\"> \n</a>\n\n[![Jenkins Regular Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog%2Fbadge.json)](https://www.jenkins.io/changelog)\n[![Jenkins LTS Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog-stable%2Fbadge.json)](https://www.jenkins.io/changelog-stable)\n[![Docker Pulls](https://img.shields.io/docker/pulls/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)\n[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3538/badge)](https://bestpractices.coreinfrastructure.org/projects/3538)\n[![Reproducible Builds](https://img.shields.io/badge/Reproducible_Builds"
+  },
+  {
+    "repo_name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "TypeScript",
+    "stars_today": 797,
+    "stars_total": 44892,
+    "topics": [
+      "ai-vtuber",
+      "live2d",
+      "neuro-sama",
+      "neurosama",
+      "vrm",
+      "vtuber",
+      "grok-companion",
+      "ai-companion",
+      "digital-life",
+      "openclaw",
+      "airi"
+    ],
+    "url": "https://github.com/moeru-ai/airi",
+    "readme_snippet": "<picture>\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-dark-1280x640.avif\"\n    media=\"(prefers-color-scheme: dark)\"\n  />\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-light-1280x640.avif\"\n    media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\"\n  />\n  <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" />\n</picture>\n\n<h1 align=\"center\">Project AIRI</h1>\n\n<p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>\n\n<p align=\"center\">\n  [<a href=\"https://discord.gg/TgQ3Cu2F7A\">Join Discord Server</a>] [<a href=\"https://airi.moeru.ai\">Try it</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md\">简体中文</a>] [<a href=\""
+  },
+  {
+    "repo_name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "stars_today": 62,
+    "stars_total": 15727,
+    "topics": [],
+    "url": "https://github.com/andrewyng/aisuite",
+    "readme_snippet": "> ![OpenWorker](https://img.shields.io/badge/%E2%9C%A8-OpenWorker-8250df?style=for-the-badge)\n> ## OpenWorker\n> **A desktop AI coworker, built on aisuite — now in its own repository: [andrewyng/openworker](https://github.com/andrewyng/openworker).**\n>\n> OpenWorker chats, does deep research, and carries out real tasks on your computer — reading files with\n> permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled\n> automations. Bring your own API key (OpenAI, Anthropic, Google) or run fully local with Ollama; your data\n> stays on your machine.\n>\n> [**⬇ Download for macOS**](https://github.com/andrewyng/openworker/releases/latest/download/OpenWorker-macos-arm64.dmg) <sub>macOS 13+ (Apple Silicon)</sub> &nbsp;·&nbsp; [**⬇ Download for Windows**"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 636,
+    "stars_total": 234957,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <strong>Language:</strong>\n  <a href=\"README.md\">English</a> |\n  <a href=\"docs/pt-BR/README.md\">Português (Brasil)</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"docs/zh-TW/README.md\">繁體中文</a> |\n  <a href=\"docs/ja-JP/README.md\">日本語</a> |\n  <a href=\"docs/ko-KR/README.md\">한국어</a> |\n  <a href=\"docs/tr/README.md\">Türkçe</a> |\n  <a href=\"docs/ru/README.md\">Русский</a> |\n  <a href=\"docs/vi-VN/README.md\">Tiếng Việt</a> |\n  <a href=\"docs/th/README.md\">ไทย</a> |\n  <a href=\"docs/de-DE/README.md\">Deutsch</a> |\n  <a href=\"docs/es/README.md\">Español</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/36yGMHGFbR\"><img src=\"https://img.shields.io/discor"
+  },
+  {
+    "repo_name": "hello245m/free-stockdb",
+    "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+    "language": "HTML",
+    "stars_today": 50,
+    "stars_total": 1427,
+    "topics": [
+      "a-share",
+      "algorithmic-trading",
+      "backtesting",
+      "china-stock-market",
+      "kline",
+      "local-first",
+      "market-data",
+      "mcp",
+      "quant-research",
+      "quantitative-finance",
+      "stock-data",
+      "stock-market",
+      "technical-analysis",
+      "time-series-database"
+    ],
+    "url": "https://github.com/hello245m/free-stockdb",
+    "readme_snippet": "[07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！\n# free-stockdb\n\n## 本地量化数据引擎\n\n面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。\n\n**❤️双击更新 -> 双击启动 -> 直接调用。**\n\n[下载地址1](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)\n\n数据本地落盘，研究不再依赖远程接口。\n\n| 本地优先 | 增量同步 | 数据支持(按需) | 本地指标计算 | 五种调用方式 |\n|---|---|---|---|---|\n| 数据在用户磁盘 | 只处理变化数据 | 日/周/月/1/5/15/30分钟/tick | 39 种指标、5 种指数 | Python / HTTP / Excel / HTML / MCP |\n\n```mermaid\nflowchart TB\n    A[\"数据更新：同步、清洗、复权、增量\"] --> B[\"free-stockdb 本地数据与计算引擎\"]\n    B --> C[\"Python SDK\"]\n    B --> D[\"HTTP API\"]\n    B --> E[\"Excel / WPS\"]\n    B --> F[\"HTML 网页\"]\n    B --> G[\"AI MCP\"]\n```\n\n同步后的查询、计算、回测和接口都使用本机数据，不与远程请求链路耦合。\n\n## 为什么需要本地数据引擎\n\n全市场批量回"
+  },
+  {
+    "repo_name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "stars_today": 227,
+    "stars_total": 7365,
+    "topics": [
+      "ai",
+      "assistant",
+      "language-model",
+      "machine-learning",
+      "python",
+      "speech",
+      "speech-synthesis",
+      "speech-to-text",
+      "speech-translation"
+    ],
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "readme_snippet": "<div align=\"center\">\n  <div>&nbsp;</div>\n  <img src=\"https://raw.githubusercontent.com/huggingface/speech-to-speech/main/logo.png\" width=\"600\"/>\n\n# Speech To Speech: Build voice agents with open-source models\n\n[![PyPI](https://img.shields.io/pypi/v/speech-to-speech)](https://pypi.org/project/speech-to-speech/)\n[![Python](https://img.shields.io/pypi/pyversions/speech-to-speech)](https://pypi.org/project/speech-to-speech/)\n[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](./LICENSE)\n\n</div>\n\nA low-latency, fully modular voice-agent pipeline: **VAD -> STT -> LLM -> TTS**, exposed through an **OpenAI Realtime-compatible WebSocket API**. Every component is swappable. The LLM slot speaks OpenAI-compatible protocols, so you can point it at a hosted provider, at [HF Inference Pr"
+  },
+  {
+    "repo_name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "stars_today": 423,
+    "stars_total": 11638,
+    "topics": [],
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/logo.png\" alt=\"book-to-skill logo\" width=\"120\">\n</p>\n\n<h1 align=\"center\">book-to-skill</h1>\n\n<p align=\"center\">\n  <strong>Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, or Claude Code.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/virgiliojr94/book-to-skill/releases\"><img src=\"https://img.shields.io/github/v/release/virgiliojr94/book-to-skill?style=for-the-badge&color=blueviolet\" alt=\"Latest release\"></a>\n  <img src=\"https://img.shields.io/badge/Agent_Skills-Open_Standard-blueviolet?style=for-the-badge\" alt=\"Agent Skills standard\">\n  <img src=\"https://img.shields.io/badge/PDF%20%E2%80%A2%20EPUB%20%E2%80%A"
+  },
+  {
+    "repo_name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "language": "TypeScript",
+    "stars_today": 607,
+    "stars_total": 3494,
+    "topics": [
+      "data-science",
+      "geospatial",
+      "maplibre",
+      "maplibre-gl-js",
+      "tauri-app",
+      "duckdb"
+    ],
+    "url": "https://github.com/opengeos/GeoLibre",
+    "readme_snippet": "# GeoLibre\n\n[![Launch GeoLibre Web](https://img.shields.io/badge/Launch-GeoLibre%20Web-green.svg)](https://web.geolibre.app/)\n[![GeoLibre shared project](https://img.shields.io/badge/GeoLibre-share-green.svg)](https://share.geolibre.app)\n[![GeoLibre plugins](https://img.shields.io/badge/GeoLibre-plugins-green.svg)](https://plugins.geolibre.app)\n[![image](https://img.shields.io/pypi/v/geolibre.svg)](https://pypi.python.org/pypi/geolibre)\n[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/GeoLibre/blob/main/python/examples/getting-started.ipynb)\n[![image](https://img.shields.io/conda/vn/conda-forge/geolibre.svg)](https://anaconda.org/conda-forge/geolibre)\n[![Conda Recipe](https://img.shields.io/badge/recipe-geolibre-green.sv"
+  },
+  {
+    "repo_name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "language": "Python",
+    "stars_today": 309,
+    "stars_total": 9782,
+    "topics": [
+      "finance",
+      "awesome",
+      "book",
+      "paper",
+      "trading-bot",
+      "algotrading",
+      "quant",
+      "awesome-list",
+      "trading-strategies",
+      "trading-algorithms",
+      "quantitative-finance",
+      "algorithmic-trading",
+      "quantitative-trading",
+      "arbitrage-bot",
+      "futures-historical-data",
+      "alpha",
+      "futures",
+      "futures-market",
+      "futuresmarkets"
+    ],
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"static/images/awesome-systematic-trading.jpeg\" height=200 alt=\"\"/>\n  <h1>Awesome Systematic Trading</h1>\n</div>\n<div align=center><img src=\"https://awesome.re/badge.svg\" /></div>\n\n[希望阅读中文版？点我](./README_zh.md)\n\nWe are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies.\n\n<!-- omit in toc -->\n### What will you find here?\n\n- [97 libraries and packages](#libraries-and-packages) for research and live trading\n- [40+ strategies](#strategies) described by institutionals and academics\n- [55 books](#books) for beginners and professionals\n- [23 videos](#videos) and interviews\n- And also some [blogs](#blogs) and [courses](#courses)\n\n<div align=\"center\" style=\"margin-"
+  },
+  {
+    "repo_name": "microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "language": "Python",
+    "stars_today": 46,
+    "stars_total": 5286,
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "ai-safety",
+      "compliance",
+      "governance",
+      "microsoft",
+      "owasp",
+      "policy-engine",
+      "python",
+      "security",
+      "trust",
+      "zero-trust"
+    ],
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "readme_snippet": "🌍 [English](/README.md) | [日本語](./docs/i18n/README.ja.md) | [简体中文](./docs/i18n/README.zh-CN.md) | [한국어](./docs/i18n/README.ko.md)\n\n![Agent Governance Toolkit](docs/assets/readme-banner.svg)\n\n# Agent Governance Toolkit\n\n### Ship agents to production without losing sleep\n\n<p align=\"center\">\n  <a href=\"https://microsoft.github.io/agent-governance-toolkit\">\n    <img src=\"https://img.shields.io/badge/%F0%9F%93%96_Full_Documentation-microsoft.github.io%2Fagent--governance--toolkit-0078D4?style=for-the-badge&logoColor=white\" alt=\"Full Documentation\" height=\"40\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <strong>\n    🚀 <a href=\"#quick-start\">Quick Start</a> ·\n    📋 <a href=\"#specifications\">Specifications</a> ·\n    📦 <a href=\"https://pypi.org/project/agent-governance-toolkit/\">PyPI</a> ·\n    📝 <a href=\"CH"
+  },
+  {
+    "repo_name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "language": "Go",
+    "stars_today": 662,
+    "stars_total": 21563,
+    "topics": [
+      "bubbletea",
+      "cli",
+      "file-manager",
+      "filesystem",
+      "golang",
+      "linux-app",
+      "terminal-app",
+      "tui",
+      "filemanager",
+      "terminal-based",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/yorukot/superfile",
+    "readme_snippet": "<div align=\"center\">\n\n<h4>superfile is supported by the community.</h4>\n\n<a href=\"https://ko-fi.com/yorukot\">\n  <img alt=\"Donate to superfile on Ko-fi\" src=\"https://ko-fi.com/img/githubbutton_sm.svg\">\n</a>\n\n<hr>\n\n</div>\n\n<div align=\"center\">\n<br>\n<picture>\n  <source width=\"300\" media=\"(prefers-color-scheme: dark)\" srcset=\"website/src/assets/superfile-night.svg\" />\n  <source width=\"300\" media=\"(prefers-color-scheme: light)\" srcset=\"website/src/assets/superfile-day.svg\" />\n  <img alt=\"superfile LOGO\" src=\"website/src/assets/superfile-day.svg\" />\n</picture>\n<br><br>\n\n[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/yorukot/superfile/refs/heads/main/LICENSE) [![Discord Link](https://img.shields.io/discord/1338415256875307110?label=discord&lo"
+  },
+  {
+    "repo_name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "language": "Python",
+    "stars_today": 988,
+    "stars_total": 12246,
+    "topics": [],
+    "url": "https://github.com/bradautomates/claude-video",
+    "readme_snippet": "# /watch\n\n**Give Claude the ability to watch any video.**\n\nClaude Code (recommended — auto-updates via marketplace):\n```\n/plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video\n```\n\nCodex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts:\n```bash\nnpx skills add bradautomates/claude-video -g\n```\n(`-g` installs globally for your user, available across all projects. Drop it to scope per-project.)\n\nMore install options (claude.ai web, manual) in the [Install](#install) section below.\n\nZero config to start — `yt-dlp` and `ffmpeg` install on first run via `brew` on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions.\n\n---\n\nClaude can"
+  }
+]
