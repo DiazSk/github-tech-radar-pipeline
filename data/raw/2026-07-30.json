@@ -1,0 +1,281 @@
+[
+  {
+    "repo_name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "language": "TypeScript",
+    "stars_today": 671,
+    "stars_total": 4150,
+    "topics": [
+      "data-science",
+      "geospatial",
+      "maplibre",
+      "maplibre-gl-js",
+      "tauri-app",
+      "duckdb",
+      "geolibre"
+    ],
+    "url": "https://github.com/opengeos/GeoLibre",
+    "readme_snippet": "# GeoLibre\n\n[![Launch GeoLibre Web](https://img.shields.io/badge/Launch-GeoLibre%20Web-green.svg)](https://web.geolibre.app/)\n[![GeoLibre shared project](https://img.shields.io/badge/GeoLibre-share-green.svg)](https://share.geolibre.app)\n[![GeoLibre plugins](https://img.shields.io/badge/GeoLibre-plugins-green.svg)](https://plugins.geolibre.app)\n[![image](https://img.shields.io/pypi/v/geolibre.svg)](https://pypi.python.org/pypi/geolibre)\n[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/GeoLibre/blob/main/python/examples/getting-started.ipynb)\n[![image](https://img.shields.io/conda/vn/conda-forge/geolibre.svg)](https://anaconda.org/conda-forge/geolibre)\n[![Conda Recipe](https://img.shields.io/badge/recipe-geolibre-green.sv"
+  },
+  {
+    "repo_name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "TypeScript",
+    "stars_today": 682,
+    "stars_total": 45483,
+    "topics": [
+      "ai-vtuber",
+      "live2d",
+      "neuro-sama",
+      "neurosama",
+      "vrm",
+      "vtuber",
+      "grok-companion",
+      "ai-companion",
+      "digital-life",
+      "openclaw",
+      "airi"
+    ],
+    "url": "https://github.com/moeru-ai/airi",
+    "readme_snippet": "<picture>\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-dark-1280x640.avif\"\n    media=\"(prefers-color-scheme: dark)\"\n  />\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-light-1280x640.avif\"\n    media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\"\n  />\n  <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" />\n</picture>\n\n<h1 align=\"center\">Project AIRI</h1>\n\n<p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>\n\n<p align=\"center\">\n  [<a href=\"https://discord.gg/TgQ3Cu2F7A\">Join Discord Server</a>] [<a href=\"https://airi.moeru.ai\">Try it</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md\">简体中文</a>] [<a href=\""
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 857,
+    "stars_total": 235682,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <strong>Language:</strong>\n  <a href=\"README.md\">English</a> |\n  <a href=\"docs/pt-BR/README.md\">Português (Brasil)</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"docs/zh-TW/README.md\">繁體中文</a> |\n  <a href=\"docs/ja-JP/README.md\">日本語</a> |\n  <a href=\"docs/ko-KR/README.md\">한국어</a> |\n  <a href=\"docs/tr/README.md\">Türkçe</a> |\n  <a href=\"docs/ru/README.md\">Русский</a> |\n  <a href=\"docs/vi-VN/README.md\">Tiếng Việt</a> |\n  <a href=\"docs/th/README.md\">ไทย</a> |\n  <a href=\"docs/de-DE/README.md\">Deutsch</a> |\n  <a href=\"docs/es/README.md\">Español</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/36yGMHGFbR\"><img src=\"https://img.shields.io/discor"
+  },
+  {
+    "repo_name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "language": "Python",
+    "stars_today": 827,
+    "stars_total": 7976,
+    "topics": [
+      "ai",
+      "assistant",
+      "language-model",
+      "machine-learning",
+      "python",
+      "speech",
+      "speech-synthesis",
+      "speech-to-text",
+      "speech-translation"
+    ],
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "readme_snippet": "<div align=\"center\">\n  <div>&nbsp;</div>\n  <img src=\"https://raw.githubusercontent.com/huggingface/speech-to-speech/main/logo.png\" width=\"600\"/>\n\n# Speech To Speech: Build voice agents with open-source models\n\n[![PyPI](https://img.shields.io/pypi/v/speech-to-speech)](https://pypi.org/project/speech-to-speech/)\n[![Python](https://img.shields.io/pypi/pyversions/speech-to-speech)](https://pypi.org/project/speech-to-speech/)\n[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](./LICENSE)\n\n</div>\n\nA low-latency, fully modular voice-agent pipeline: **VAD -> STT -> LLM -> TTS**, exposed through an **OpenAI Realtime-compatible WebSocket API**. Every component is swappable. The LLM slot speaks OpenAI-compatible protocols, so you can point it at a hosted provider, at [HF Inference Pr"
+  },
+  {
+    "repo_name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "language": "Rust",
+    "stars_today": 640,
+    "stars_total": 13564,
+    "topics": [
+      "ai",
+      "claude",
+      "cli",
+      "coding-agent",
+      "llm",
+      "mcp",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "ai-agent",
+      "ai-coding-agent"
+    ],
+    "url": "https://github.com/1jehuang/jcode",
+    "readme_snippet": "<div align=\"center\">\n\n# jcode\n\n[![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)\n[![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases)\n[![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https://github.com/1jehuang/jcode/commits/master)\n[![GitHub Stars](https://badgen.net/github/stars/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/stargazers)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https:/"
+  },
+  {
+    "repo_name": "grokability/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "language": "PHP",
+    "stars_today": 164,
+    "stars_total": 14501,
+    "topics": [
+      "assets-management",
+      "asset-manager",
+      "itam",
+      "license-management",
+      "asset-management"
+    ],
+    "url": "https://github.com/grokability/snipe-it",
+    "readme_snippet": "![snipe-it-by-grok](https://github.com/grokability/snipe-it/assets/197404/b515673b-c7c8-4d9a-80f5-9fa58829a602)\n\n[![Crowdin](https://d322cqt584bo4o.cloudfront.net/snipe-it/localized.svg)](https://crowdin.com/project/snipe-it) [![Docker Pulls](https://img.shields.io/docker/pulls/snipe/snipe-it.svg)](https://hub.docker.com/r/snipe/snipe-it/)  [![Tests in MySQL](https://github.com/grokability/snipe-it/actions/workflows/tests-mysql.yml/badge.svg)](https://github.com/grokability/snipe-it/actions/workflows/tests-mysql.yml)\n[![All Contributors](https://img.shields.io/badge/all_contributors-331-orange.svg?style=flat-square)](#contributing) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/yZFtShAcKk)\n\n## Snipe-IT - Open Source Asset Management System\n\nThis i"
+  },
+  {
+    "repo_name": "deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "stars_today": 166,
+    "stars_total": 56407,
+    "topics": [
+      "faceswap",
+      "face-swap",
+      "deep-learning",
+      "deeplearning",
+      "deep-neural-networks",
+      "deepfakes",
+      "deepface",
+      "deep-face-swap",
+      "fakeapp",
+      "neural-networks",
+      "neural-nets",
+      "openfaceswap",
+      "myfakeapp",
+      "machine-learning"
+    ],
+    "url": "https://github.com/deepfakes/faceswap",
+    "readme_snippet": "# deepfakes_faceswap\n\n### Important information for **Patreon** and **PayPal** supporters. Please see this forum post: https://forum.faceswap.dev/viewtopic.php?f=14&t=3120\n\n<p align=\"center\">\n  <a href=\"https://faceswap.dev\"><img src=\"https://i.imgur.com/zHvjHnb.png\"></img></a>\n<br />FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.\n</p>\n<p align=\"center\">\n<img src = \"https://i.imgur.com/nWHFLDf.jpg\"></img>\n</p>\n\n<p align=\"center\">\n<a href=\"https://www.patreon.com/bePatron?u=23238350\"><img src=\"https://c5.patreon.com/external/logo/become_a_patron_button.png\"></img></a>\n&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://discord.gg/FC54sYg\"><img src=\"https://i.imgur.com/gIpztkv.png\"></img></a></p>\n\n<p align=\"center\">\n  <a href=\"https://www.dailymotion.c"
+  },
+  {
+    "repo_name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars_today": 336,
+    "stars_total": 51394,
+    "topics": [],
+    "url": "https://github.com/microsoft/VibeVoice",
+    "readme_snippet": "<div align=\"center\">\n\n## 🎙️ VibeVoice: Open-Source Frontier Voice AI\n[![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice)\n[![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f)\n[![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv)\n[![ASR Report](https://img.shields.io/badge/ASR-Report-yellow?logo=arxiv)](https://arxiv.org/pdf/2601.18184)\n[![Colab](https://img.shields.io/badge/StreamingTTS-Colab-green?logo=googlecolab)](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb)\n[![ASR Playground](https://i"
+  },
+  {
+    "repo_name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "language": "TypeScript",
+    "stars_today": 97,
+    "stars_total": 18062,
+    "topics": [],
+    "url": "https://github.com/different-ai/openwork",
+    "readme_snippet": "# OpenWork\n\nOpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux.\n\nAdd one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible agent and reuse the same skills, MCPs, and connected services across your tools, teammates, and machines. Create something once, share it with coworkers or friends, or keep it for yourself.\n\nThe desktop app is there when you want a dedicated workspace, but it is not required. You can use OpenWork from the agent you already have. For larger organizations, the admin interface lets you publish capabilities, manage access, and configure shared or per-user connections.\n\n[**Download OpenWork**](https://openworklabs.com/download)\n\n<img width=\"1481\""
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 616,
+    "stars_total": 263398,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nIt starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. \n\nOnce it's "
+  },
+  {
+    "repo_name": "MoonshotAI/FlashKDA",
+    "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+    "language": "Cuda",
+    "stars_today": 91,
+    "stars_total": 1021,
+    "topics": [],
+    "url": "https://github.com/MoonshotAI/FlashKDA",
+    "readme_snippet": "# FlashKDA\n\nFlashKDA: Flash Kimi Delta Attention — high-performance KDA kernels built on CUTLASS\n\n## News\n\n- **2026-04-22** — Deep-Dive Blog: the design decisions behind FlashKDA v1, read it [here](docs/20260420-flashkda-v1-deep-dive.md).\n\n## Requirements\n- SM90 and above\n- CUDA 12.9 and above\n- PyTorch 2.4 and above\n\n## Installation\n```bash\ngit clone https://github.com/MoonshotAI/FlashKDA.git flash-kda\ncd flash-kda\ngit submodule update --init --recursive\npip install -v --no-build-isolation .\n```\n\nBy default, the build detects the current CUDA device and compiles for that architecture. For wheel or CI builds, compile all supported architectures explicitly:\n\n```bash\nFLASH_KDA_CUDA_ARCHS=all pip install -v --no-build-isolation .\n```\n\nSupported values are `auto` (default), `all`, or a comma-s"
+  },
+  {
+    "repo_name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "stars_today": 154,
+    "stars_total": 59188,
+    "topics": [],
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "readme_snippet": "# 🔥 MediaCrawler - 自媒体平台爬虫 🕷️\n\n<div align=\"center\">\n\n### 🤝 特别感谢白金赞助商\n\n<a href=\"https://www.browseract.ai/mediacrawler\" target=\"_blank\">\n  <img src=\"docs/static/images/browseract_ad.jpg\" alt=\"BrowserAct\" width=\"600\">\n</a>\n\n<br>\n\n<a href=\"https://www.browseract.ai/mediacrawler\" target=\"_blank\">\n<small>BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。</small>\n</a>\n\n</div>\n\n---\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\">\n  <img src=\"https://trendshift.io/api/badge/repositories/8291\" alt=\"NanmiCoder%2FMediaCrawler | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n</a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style="
+  },
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 359,
+    "stars_total": 16139,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly?language=Go\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; heig"
+  },
+  {
+    "repo_name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "language": "Python",
+    "stars_today": 945,
+    "stars_total": 10476,
+    "topics": [
+      "finance",
+      "awesome",
+      "book",
+      "paper",
+      "trading-bot",
+      "algotrading",
+      "quant",
+      "awesome-list",
+      "trading-strategies",
+      "trading-algorithms",
+      "quantitative-finance",
+      "algorithmic-trading",
+      "quantitative-trading",
+      "arbitrage-bot",
+      "futures-historical-data",
+      "alpha",
+      "futures",
+      "futures-market",
+      "futuresmarkets"
+    ],
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"static/images/awesome-systematic-trading.jpeg\" height=200 alt=\"\"/>\n  <h1>Awesome Systematic Trading</h1>\n</div>\n<div align=center><img src=\"https://awesome.re/badge.svg\" /></div>\n\n[希望阅读中文版？点我](./README_zh.md)\n\nWe are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies.\n\n<!-- omit in toc -->\n### What will you find here?\n\n- [97 libraries and packages](#libraries-and-packages) for research and live trading\n- [40+ strategies](#strategies) described by institutionals and academics\n- [55 books](#books) for beginners and professionals\n- [23 videos](#videos) and interviews\n- And also some [blogs](#blogs) and [courses](#courses)\n\n<div align=\"center\" style=\"margin-"
+  },
+  {
+    "repo_name": "maderix/ANE",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "language": "Objective-C",
+    "stars_today": 22,
+    "stars_total": 7166,
+    "topics": [],
+    "url": "https://github.com/maderix/ANE",
+    "readme_snippet": "# ANE Training — Backpropagation on Apple Neural Engine\r\n\r\nTraining neural networks directly on Apple's Neural Engine (ANE) via reverse-engineered private APIs. No CoreML training APIs, no Metal, no GPU — pure ANE compute.\r\n\r\n## Project Scope & Intent\r\n\r\nI'm genuinely grateful for all the attention this project has received — I never expected a weekend research hack to blow up like this. Thank you to everyone who starred, forked, ran benchmarks on their own hardware, and shared the work. It means a lot.\r\n\r\nThat said, I want to set clear expectations about what this project is and isn't.\r\n\r\nThis is a **research project**, not a production framework.\r\n\r\nThe goal was to demonstrate that **training on the Apple Neural Engine — and potentially other NPUs — is possible**, and that the barrier ha"
+  },
+  {
+    "repo_name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "language": "TypeScript",
+    "stars_today": 1022,
+    "stars_total": 19657,
+    "topics": [],
+    "url": "https://github.com/pascalorg/editor",
+    "readme_snippet": "# Pascal Editor\n\nA 3D building editor built with React Three Fiber and WebGPU.\n\n[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core)\n[![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/SaBRA9t2)\n[![X (Twitter)](https://img.shields.io/badge/follow-%40pascal__app-black?logo=x&logoColor=white)](https://x.com/pascal_app)\n\nhttps://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b\n\n## "
+  },
+  {
+    "repo_name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "stars_today": 1421,
+    "stars_total": 12959,
+    "topics": [],
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/logo.png\" alt=\"book-to-skill logo\" width=\"120\">\n</p>\n\n<h1 align=\"center\">book-to-skill</h1>\n\n<p align=\"center\">\n  <strong>Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, or Claude Code.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/virgiliojr94/book-to-skill/releases\"><img src=\"https://img.shields.io/github/v/release/virgiliojr94/book-to-skill?style=for-the-badge&color=blueviolet\" alt=\"Latest release\"></a>\n  <img src=\"https://img.shields.io/badge/Agent_Skills-Open_Standard-blueviolet?style=for-the-badge\" alt=\"Agent Skills standard\">\n  <img src=\"https://img.shields.io/badge/PDF%20%E2%80%A2%20EPUB%20%E2%80%A"
+  }
+]
