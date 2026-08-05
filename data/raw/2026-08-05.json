@@ -1,0 +1,352 @@
+[
+  {
+    "repo_name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "stars_today": 1111,
+    "stars_total": 13945,
+    "topics": [
+      "agent",
+      "llm",
+      "memory",
+      "openclaw-plugin",
+      "ai-agent",
+      "embedding",
+      "local-first",
+      "long-term-memory",
+      "vector-search"
+    ],
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "readme_snippet": "\n<div align=\"center\">\n\n<img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" />\n\n### Agents remember. Humans innovate.\n\n<a href=\"https://trendshift.io/repositories/29310?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-29310\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/29310\" alt=\"TencentCloud%2FTencentDB-Agent-Memory | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![npm](https://img.shields.io/npm/v/@tencentdb-agent-memory/memory-tencentdb?color=blue)](https://www.npmjs.com/package/@tencentdb-agent-memory/memory-tencentdb)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)\n[![Node](https://img.shields.io/badge/node-%3E=22.16-brightgreen)](https://nodejs"
+  },
+  {
+    "repo_name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "stars_today": 2297,
+    "stars_total": 18157,
+    "topics": [],
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" />\n</p>\n\n<h1 align=\"center\">reverse-skill</h1>\n<h3 align=\"center\">Cybersecurity Skills Router · 逆向技能路由包</h3>\n\n<p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases/tag/v1.0.0\"><img src=\"https://img.shields.io/badge/release-v1.0.0-blue\" alt=\"release\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/stargazers\"><img src=\"https://img.shields.io/github/stars/zhaoxuya520/reverse-skill?style=flat&logo=github\" alt=\"stars\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/forks\"><img src=\"https://img.shields.io/githu"
+  },
+  {
+    "repo_name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "stars_today": 2540,
+    "stars_total": 10257,
+    "topics": [
+      "markdown",
+      "nodejs",
+      "pdf",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction",
+      "ocr-routing",
+      "pdf-classification"
+    ],
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "readme_snippet": "# pdf-inspector\n\n[![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector)\n[![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector)\n[![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n\nFast Rust library for PDF classification and text extraction. Detects whether a PDF is text-based or scanned, extracts text with position awareness, and converts to clean Markdown — all without OCR. Includes bindings for [Python](docs/python.md), [Node.js](napi/README.md), and [browser WebAssembly](wasm/README.md).\n\nBuilt by [Firecrawl](https://firecrawl.dev) to handle te"
+  },
+  {
+    "repo_name": "uber/ADR",
+    "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "language": "Python",
+    "stars_today": 148,
+    "stars_total": 735,
+    "topics": [
+      "agent-security",
+      "ai-agents",
+      "ai-security",
+      "benchmark",
+      "llm-security",
+      "mcp",
+      "model-context-protocol",
+      "prompt-injection",
+      "threat-detection",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor"
+    ],
+    "url": "https://github.com/uber/ADR",
+    "readme_snippet": "# ADR: Agentic AI Detection and Response\n\nADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Claude Code, and Codex, as well as customer-facing agents such as AI support agents.\n\nADR is **deployed in production at Uber**, and the accompanying paper was accepted to **MLSys 2026**: [Paper PDF](docs/adr-paper.pdf) · [Slides PDF](docs/adr-mlsys-2026-slides.pdf)\n\n## How ADR secures enterprise AI agents\n\nADR secures enterprise AI agents through four complementary capabilities: observing agent activity, evaluating defenses, detecting threats, and preventing unsafe actions.\n\n1. **ADR Observability: Understand what AI agents are doing and why.** In production, ADR captures agent intent, tool us"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 653,
+    "stars_total": 266618,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nIt starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. \n\nOnce it's "
+  },
+  {
+    "repo_name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "language": "Jupyter Notebook",
+    "stars_today": 783,
+    "stars_total": 116358,
+    "topics": [
+      "ai",
+      "chatgpt",
+      "dall-e",
+      "generativeai",
+      "gpt",
+      "azure",
+      "generative-ai",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "language-model",
+      "semantic-search",
+      "transformers",
+      "microsoft-for-beginners"
+    ],
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "readme_snippet": "![Generative AI For Beginners](./images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst)\n\n### 21 Lessons teaching everything you need to know to start building Generative AI applications\n\n[![GitHub license](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)\n[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)\n[![GitHub issues](https://img.shields.io/github/issues/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/issues/?W"
+  },
+  {
+    "repo_name": "cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "TypeScript",
+    "stars_today": 11,
+    "stars_total": 50822,
+    "topics": [
+      "cypress",
+      "end-to-end-testing",
+      "angular-testing-library",
+      "component-testing",
+      "cypress-cloud",
+      "cypress-schematic",
+      "react-testing-library",
+      "svelte-testing-library",
+      "testing-framework",
+      "testing-library",
+      "testing-tool",
+      "vue-testing-library",
+      "test-replay"
+    ],
+    "url": "https://github.com/cypress-io/cypress",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://www.cypress.io\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\"  srcset=\"./assets/cypress-logo-dark.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/cypress-logo-light.png\">\n      <img alt=\"Cypress Logo\" src=\"./assets/cypress-logo-light.png\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://on.cypress.io\">Documentation</a> |\n  <a href=\"https://on.cypress.io/changelog\">Changelog</a> |\n  <a href=\"https://on.cypress.io/roadmap\">Roadmap</a>\n</p>\n\n<h3 align=\"center\">\n  The web has evolved. Finally, testing has too.\n</h3>\n\n<p align=\"center\">\n  Fast, easy and reliable testing for anything that runs in a browser.\n</p>\n<p align=\"center\">\n  Join us, we're <a href=\"https://cypress.io/jobs\">hiring</a>.\n</"
+  },
+  {
+    "repo_name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "stars_today": 1711,
+    "stars_total": 28507,
+    "topics": [
+      "chinese-nlp",
+      "finetune",
+      "generative-ai",
+      "instruct-gpt",
+      "instruction-set",
+      "llama",
+      "llm",
+      "lora",
+      "open-models",
+      "open-source",
+      "open-source-models",
+      "qlora",
+      "chinese-llm"
+    ],
+    "url": "https://github.com/lyogavin/airllm",
+    "readme_snippet": "![airllm_logo](https://github.com/lyogavin/airllm/blob/main/assets/airllm_logo_sm.png?v=3&raw=true)\n\n[**Quickstart**](#quickstart) | \n[**Configurations**](#configurations) | \n[**MacOS**](#macos) | \n[**Example notebooks**](#example-python-notebook) | \n[**FAQ**](#faq)\n\n**AirLLM** dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run **405B Llama 3.1** on **8GB**, **DeepSeek-V3 (671B)** on **~12GB**, and **Kimi K3 (2.8T)** — the largest open-source model released to date — on **under 4GB**, because sparse MoE models stream one expert at a time rather than a whole layer.\n\n<a href=\"https://github.com/lyogavin/airllm/stargazers\">![GitHub Repo stars](https://img.shields.io/gith"
+  },
+  {
+    "repo_name": "webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "language": "JavaScript",
+    "stars_today": 10,
+    "stars_total": 65951,
+    "topics": [
+      "webpack",
+      "javascript",
+      "module-bundler",
+      "loaders",
+      "plugins",
+      "build-tool",
+      "web",
+      "web-performance",
+      "compiler",
+      "javascript-compiler",
+      "commonjs",
+      "amd",
+      "esm",
+      "es6",
+      "es2015",
+      "javascript-modules"
+    ],
+    "url": "https://github.com/webpack/webpack",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://github.com/webpack/webpack\">\n    <img width=\"200\" height=\"200\" src=\"https://webpack.js.org/assets/icon-square-big.svg\">\n  </a>\n  <br>\n  <br>\n\n[![npm][npm]][npm-url]\n\n[![node][node]][node-url]\n[![builds1][builds1]][builds1-url]\n[![dependency-review][dependency-review]][dependency-review-url]\n[![coverage][cover]][cover-url]\n[![pkg.pr.new](https://pkg.pr.new/badge/webpack/webpack)](https://pkg.pr.new/~/webpack/webpack)\n[![PR's welcome][prs]][prs-url]\n[![compatibility-score](https://api.dependabot.com/badges/compatibility_score?dependency-name=webpack&package-manager=npm_and_yarn&previous-version=5.72.1&new-version=5.73.0)](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates#about-compatibilit"
+  },
+  {
+    "repo_name": "gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "stars_today": 10,
+    "stars_total": 29394,
+    "topics": [
+      "header-only",
+      "cpp11",
+      "cpp",
+      "logging",
+      "spdlog"
+    ],
+    "url": "https://github.com/gabime/spdlog",
+    "readme_snippet": "# spdlog\r\n\r\n \r\n[![ci](https://github.com/gabime/spdlog/actions/workflows/linux.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/linux.yml)&nbsp;\r\n[![ci](https://github.com/gabime/spdlog/actions/workflows/windows.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/windows.yml)&nbsp;\r\n[![ci](https://github.com/gabime/spdlog/actions/workflows/macos.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/macos.yml)&nbsp;\r\n[![Build status](https://ci.appveyor.com/api/projects/status/d2jnxclg20vd0o50?svg=true&branch=v1.x)](https://ci.appveyor.com/project/gabime/spdlog) [![Release](https://img.shields.io/github/release/gabime/spdlog.svg)](https://github.com/gabime/spdlog/releases/latest)\r\n\r\nFast C++ logging library\r\n\r\n\r\n## Install\r\n#### Header-only vers"
+  },
+  {
+    "repo_name": "denoland/deno",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "language": "Rust",
+    "stars_today": 31,
+    "stars_total": 108083,
+    "topics": [
+      "deno",
+      "typescript",
+      "javascript",
+      "rust"
+    ],
+    "url": "https://github.com/denoland/deno",
+    "readme_snippet": "# Deno\n\n[![](https://img.shields.io/crates/v/deno.svg)](https://crates.io/crates/deno)\n[![Twitter badge][]][Twitter link] [![Bluesky badge][]][Bluesky link]\n[![Discord badge][]][Discord link] [![YouTube badge][]][YouTube link]\n\n<img align=\"right\" src=\"https://deno.land/logo.svg\" height=\"150px\" alt=\"the deno mascot dinosaur standing in the rain\">\n\n[Deno](https://deno.com)\n([/ˈdiːnoʊ/](https://ipa-reader.com/?text=%CB%88di%CB%90no%CA%8A), pronounced\n`dee-no`) is a JavaScript, TypeScript, and WebAssembly runtime with secure\ndefaults and a great developer experience. It's built on [V8](https://v8.dev/),\n[Rust](https://www.rust-lang.org/), and [Tokio](https://tokio.rs/).\n\nLearn more about the Deno runtime\n[in the documentation](https://docs.deno.com/runtime/manual).\n\n## Installation\n\nInstall th"
+  },
+  {
+    "repo_name": "usekaneo/kaneo",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "language": "TypeScript",
+    "stars_today": 559,
+    "stars_total": 7339,
+    "topics": [
+      "kanban",
+      "project-management",
+      "react",
+      "self-hosted",
+      "typescript",
+      "hono",
+      "issue-management",
+      "issue-tracker",
+      "jira-alternative",
+      "linear-alternative",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/usekaneo/kaneo",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://kaneo.app\">\n    <img src=\"https://assets.kaneo.app/logo-text.png\" alt=\"Kaneo's logo\" width=\"450\" />\n  </a>\n</p>\n\n<div align=\"center\">\n\n[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/usekaneo/kaneo/ci.yml?branch=main)](https://github.com/usekaneo/kaneo/actions)\n[![Discord](https://img.shields.io/discord/1326250681530843178?color=7389D8&label=&logo=discord&logoColor=ffffff)](https://discord.gg/rU4tSyhXXU)\n[![Sponsors](https://img.shields.io/github/sponsors/andrejsshell)](https://github.com/sponsors/andrejsshell)\n\n</div>\n\n<div align=\"center\">\n  <h3>\n    <a href=\"https://kaneo.app/docs/core\">Quick Start</a>\n    <span> | </span>\n    <a href=\"https://ka"
+  },
+  {
+    "repo_name": "livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "language": "Python",
+    "stars_today": 432,
+    "stars_total": 12484,
+    "topics": [
+      "ai",
+      "real-time",
+      "voice",
+      "video",
+      "agents",
+      "openai"
+    ],
+    "url": "https://github.com/livekit/agents",
+    "readme_snippet": "<!--BEGIN_BANNER_IMAGE-->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\">\n  <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\">\n</picture>\n\n<!--END_BANNER_IMAGE-->\n<br />\n\n![PyPI - Version](https://img.shields.io/pypi/v/livekit-agents)\n[![PyPI Downloads](https://static.pepy.tech/badge/livekit-agents/month)](https://pepy.tech/projects/livekit-agents)\n[![Slack community](https://img.shields.io/endpoint?url=https%3A%2F%2Flivekit.io%2Fbadges%2Fslack)](https://livekit.io/join-slack)\n[![Twitter Follow](https://img.shields"
+  },
+  {
+    "repo_name": "angular/angular",
+    "description": "Deliver web apps with confidence 🚀",
+    "language": "TypeScript",
+    "stars_today": 13,
+    "stars_total": 100857,
+    "topics": [
+      "angular",
+      "typescript",
+      "web",
+      "javascript",
+      "pwa",
+      "web-framework",
+      "web-performance"
+    ],
+    "url": "https://github.com/angular/angular",
+    "readme_snippet": "<h1 align=\"center\">Angular - The modern web developer's platform</h1>\n\n<p align=\"center\">\n  <img src=\"adev/src/assets/images/press-kit/angular_icon_gradient.gif\" alt=\"angular-logo\" width=\"120px\" height=\"120px\"/>\n  <br>\n  <em>Angular is a development platform for building mobile and desktop web applications\n    <br> using TypeScript/JavaScript and other languages.</em>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://angular.dev/\"><strong>angular.dev</strong></a>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"CONTRIBUTING.md\">Contributing Guidelines</a>\n  ·\n  <a href=\"https://github.com/angular/angular/issues\">Submit an Issue</a>\n  ·\n  <a href=\"https://blog.angular.dev/\">Blog</a>\n  <br>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/@angular/core\">\n    <img src=\"https://img."
+  },
+  {
+    "repo_name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "TypeScript",
+    "stars_today": 52,
+    "stars_total": 96533,
+    "topics": [
+      "tailwindcss",
+      "css",
+      "css-framework",
+      "postcss",
+      "functional-css",
+      "utility-classes",
+      "responsive"
+    ],
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://tailwindcss.com\" target=\"_blank\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\">\n      <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=\"70\" style=\"max-width: 100%;\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  A utility-first CSS framework for rapidly building custom user interfaces.\n</p>\n\n<p align=\"center\">\n    <a href=\"https://github.com/tailwindlabs/tailwindcss/actions\"><img src=\"https://img.shields."
+  },
+  {
+    "repo_name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "stars_today": 320,
+    "stars_total": 19426,
+    "topics": [],
+    "url": "https://github.com/browser-use/video-use",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\">\n</p>\n\n# video-use\n\nIntroducing **video-use** — edit videos with Claude Code. 100% open source.\n\nDrop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus.\n\nTry video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github).\n\n## What it does\n\n- **Cuts out filler words** (`umm`, `uh`, false starts) and dead space between takes\n- **Auto color grades** every segment (warm cinematic, neutral punch, or any custom ffmpeg chain)\n- **30ms audio fades** at every cut so you never hear a pop\n- **Burns subtitles** in your style — 2-word"
+  },
+  {
+    "repo_name": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "language": "Go",
+    "stars_today": 922,
+    "stars_total": 30913,
+    "topics": [
+      "agent",
+      "agent-framework",
+      "deepseek",
+      "ink",
+      "llm",
+      "prompt-caching",
+      "r1",
+      "tool-use",
+      "tui",
+      "typescript",
+      "ai-agent",
+      "ai-coding",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "terminal"
+    ],
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/logo.svg\" alt=\"Reasonix\" width=\"640\"/>\n</p>\n\n<p align=\"center\">\n  <strong>English</strong>\n  &nbsp;·&nbsp;\n  <a href=\"./README.zh-CN.md\">简体中文</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/GUIDE.md\">Guide</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/ACP.md\">ACP</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/SPEC.md\">Spec</a>\n  &nbsp;·&nbsp;\n  <a href=\"https://esengine.github.io/DeepSeek-Reasonix/\">Website</a>\n  &nbsp;·&nbsp;\n  <strong><a href=\"https://discord.gg/XF78rEME2D\">Discord</a></strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/reasonix\"><img src=\"https://img.shields.io/npm/v/reasonix.svg?style=flat-square&color=cb3837&labelColor=161b22&logo=npm&logoColor=white\" alt=\"npm version\"/></a>\n  <a href=\"https://github.com/esengine/DeepSeek-Reasonix/actio"
+  },
+  {
+    "repo_name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "language": "TypeScript",
+    "stars_today": 40,
+    "stars_total": 23912,
+    "topics": [
+      "compound",
+      "engineering"
+    ],
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "readme_snippet": "# Compound Engineering\n\n[![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml)\n\nAI skills that make each unit of engineering work easier than the last.\n\n## Install\n\n### Claude Code\n\n```text\n/plugin marketplace add EveryInc/compound-engineering-plugin\n/plugin install compound-engineering\n```\n\n> **Already have Compound Engineering installed?** Compound Engineering moved to a root-native layout. You must refresh the marketplace *before* updating — see [Existing Installs](#existing-installs). Running `/plugin update` alone keeps you on the old version.\n\n### Cursor\n\nIn Cursor Agent chat, install from the plugin marketplace:\n\n```text\n/add-plugin compound-engine"
+  }
+]
