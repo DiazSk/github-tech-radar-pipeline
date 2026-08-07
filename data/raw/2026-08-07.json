@@ -1,0 +1,241 @@
+[
+  {
+    "repo_name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "language": "TypeScript",
+    "stars_today": 1057,
+    "stars_total": 16599,
+    "topics": [
+      "agent",
+      "llm",
+      "memory",
+      "openclaw-plugin",
+      "ai-agent",
+      "embedding",
+      "local-first",
+      "long-term-memory",
+      "vector-search"
+    ],
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "readme_snippet": "\n<div align=\"center\">\n\n<img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" />\n\n### Agents remember. Humans innovate.\n\n<a href=\"https://trendshift.io/repositories/29310?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-29310\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/29310\" alt=\"TencentCloud%2FTencentDB-Agent-Memory | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![npm](https://img.shields.io/npm/v/@tencentdb-agent-memory/memory-tencentdb?color=blue)](https://www.npmjs.com/package/@tencentdb-agent-memory/memory-tencentdb)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)\n[![Node](https://img.shields.io/badge/node-%3E=22.16-brightgreen)](https://nodejs"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 593,
+    "stars_total": 83063,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "language": "TypeScript",
+    "stars_today": 2802,
+    "stars_total": 4926,
+    "topics": [],
+    "url": "https://github.com/cloudflare/computer",
+    "readme_snippet": "# Cloudflare Computer\n\nCloudflare Computer is a virtual filesystem that lives inside a\nDurable Object. The Durable Object holds the authoritative state in\nSQLite and exposes one pluggable execution surface through\n`workspace.runtime`. Three backends ship today:\n\n- **Container** projects the SQLite state into a sandbox container as\n  a real FUSE mount. A sandbox-side daemon (`computerd`) mounts the state\n  as a filesystem and syncs changes back over a capnweb RPC channel.\n  Full Linux userland, real binaries, real network.\n- **Isolate shell** runs [just-bash](https://github.com/vercel-labs/just-bash)\n  in a Dynamic Worker. It reaches the authoritative Workspace over\n  Workers RPC, so there is no second store or sync round trip.\n- **Isolate JavaScript** runs an ECMAScript module in a fresh D"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 1873,
+    "stars_total": 207350,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "stars_today": 138,
+    "stars_total": 23189,
+    "topics": [
+      "saml",
+      "saml-idp",
+      "saml-sp",
+      "oauth2",
+      "oauth2-server",
+      "oauth2-client",
+      "oidc",
+      "oidc-provider",
+      "oidc-client",
+      "sso",
+      "proxy",
+      "reverse-proxy",
+      "authentication",
+      "authorization",
+      "authentik",
+      "kubernetes",
+      "security"
+    ],
+    "url": "https://github.com/goauthentik/authentik",
+    "readme_snippet": "<p align=\"center\">\n    <img src=\"https://goauthentik.io/img/icon_top_brand_colour.svg\" height=\"150\" alt=\"authentik logo\">\n</p>\n\n---\n\n[![Join Discord](https://img.shields.io/discord/809154715984199690?label=Discord&style=for-the-badge)](https://goauthentik.io/discord)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goauthentik/authentik/ci-main.yml?branch=main&label=core%20build&style=for-the-badge)](https://github.com/goauthentik/authentik/actions/workflows/ci-main.yml)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goauthentik/authentik/ci-outpost.yml?branch=main&label=outpost%20build&style=for-the-badge)](https://github.com/goauthentik/authentik/actions/workflows/ci-outpost.yml)\n[![GitHub Workflow Status](https://img.shie"
+  },
+  {
+    "repo_name": "huangruiteng/loopx",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "language": "Python",
+    "stars_today": 847,
+    "stars_total": 2972,
+    "topics": [
+      "agent-control-plane",
+      "ai-agents",
+      "codex",
+      "loopx",
+      "loop-engineering",
+      "agent-ops",
+      "long-running-agents",
+      "workflow-automation"
+    ],
+    "url": "https://github.com/huangruiteng/loopx",
+    "readme_snippet": "<div align=\"center\">\n\n<h1 align=\"center\">LoopX</h1>\n\n<img src=\"docs/assets/loopx-social-preview.png\" alt=\"LoopX loop engineering social preview banner\" width=\"560\">\n\n**The local control plane for long-running AI agent work.**\n\n<sub>Keep objectives, gates, todos, evidence, quota, and handoffs stable while Codex, Claude Code, Cursor, or your own runtime executes bounded turns.</sub>\n\n<a href=\"https://trendshift.io/repositories/102379?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-102379\"><img src=\"https://trendshift.io/api/badge/repositories/102379\" alt=\"huangruiteng/loopx on Trendshift\" width=\"220\" height=\"48\"></a>\n\n[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/huangruiteng/loo"
+  },
+  {
+    "repo_name": "google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "stars_today": 13,
+    "stars_total": 51654,
+    "topics": [
+      "guava",
+      "java"
+    ],
+    "url": "https://github.com/google/guava",
+    "readme_snippet": "# Guava: Google Core Libraries for Java\n\n[![GitHub Release](https://img.shields.io/github/v/release/google/guava)](https://github.com/google/guava/releases/latest)\n[![CI](https://github.com/google/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/google/guava/actions/workflows/ci.yml)\n[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7197/badge)](https://www.bestpractices.dev/projects/7197)\n\n\n\nGuava is a set of core Java libraries from Google that includes new collection\ntypes (such as multimap and multiset), immutable collections, a graph library,\nand utilities for concurrency, I/O, hashing, primitives, strings, and more! It\nis widely used on most Java projects within Google, and widely used by many\nother companies as well.\n\n\n\nGuava comes in two flavors:\n\n*   T"
+  },
+  {
+    "repo_name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars_today": 134,
+    "stars_total": 77244,
+    "topics": [],
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "readme_snippet": "## 项目的由来\n虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。\n\n还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。\n\n## 学习数学\n\n希望未来出现更多不是为了考学而读书的人。\n\n### 小学数学\n- [一年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)\n- [一年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)\n- [二年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/mas"
+  },
+  {
+    "repo_name": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "stars_today": 37,
+    "stars_total": 186077,
+    "topics": [
+      "ai",
+      "openai",
+      "python",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "llama-api",
+      "agentic-ai",
+      "agents",
+      "llm",
+      "claude",
+      "gpt"
+    ],
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=hero_banner\">\n    <img src=\"docs/home/.gitbook/assets/Banner_image.png\" alt=\"AutoGPT\" width=\"100%\" />\n  </a>\n</p>\n\n<h1 align=\"center\">AutoGPT — AI agents that finish the work</h1>\n\n<p align=\"center\">\n  <strong>Get 10 hours back every week.</strong><br />\n  Describe what you want done. AutoGPT builds the agent, runs it, and reports back.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=header_get_started\"><strong>Get started</strong></a>\n  ·\n  <a href=\"https://platform.agpt.co/tour?utm_source=github&amp;utm_medium=referral&amp;utm_cam"
+  },
+  {
+    "repo_name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "language": "Python",
+    "stars_today": 237,
+    "stars_total": 29102,
+    "topics": [
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "code-review",
+      "graphrag",
+      "incremental",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "python",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "readme_snippet": "<h1 align=\"center\">code-review-graph</h1>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/23329?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-23329\"\n     target=\"_blank\"\n     rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/23329\"\n         alt=\"tirth8205%2Fcode-review-graph | Trendshift\"\n         width=\"250\"\n         height=\"55\" />\n  </a>\n</p>\n\n<p align=\"center\">\n  <strong>Stop burning tokens. Start reviewing smarter.</strong>\n</p>\n<p align=\"center\">\n  <a href=\"README.md\">English</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"README.ja-JP.md\">日本語</a> |\n  <a href=\"README.ko-KR.md\">한국어</a> |\n  <a href=\"README.hi-IN.md\">हिन्दी</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://pypi.org/project/co"
+  },
+  {
+    "repo_name": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "language": "Go",
+    "stars_today": 888,
+    "stars_total": 32541,
+    "topics": [
+      "agent",
+      "agent-framework",
+      "deepseek",
+      "ink",
+      "llm",
+      "prompt-caching",
+      "r1",
+      "tool-use",
+      "tui",
+      "typescript",
+      "ai-agent",
+      "ai-coding",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "terminal"
+    ],
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/logo.svg\" alt=\"Reasonix\" width=\"640\"/>\n</p>\n\n<p align=\"center\">\n  <strong>English</strong>\n  &nbsp;·&nbsp;\n  <a href=\"./README.zh-CN.md\">简体中文</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/GUIDE.md\">Guide</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/ACP.md\">ACP</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/EXTENSIONS.md\">Extensions</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/SPEC.md\">Spec</a>\n  &nbsp;·&nbsp;\n  <a href=\"https://esengine.github.io/DeepSeek-Reasonix/\">Website</a>\n  &nbsp;·&nbsp;\n  <strong><a href=\"https://discord.gg/XF78rEME2D\">Discord</a></strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/reasonix\"><img src=\"https://img.shields.io/npm/v/reasonix.svg?style=flat-square&color=cb3837&labelColor=161b22&logo=npm&logoColor=white\" alt=\"npm version\"/></a"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 858,
+    "stars_total": 268201,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nIt starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. \n\nOnce it's "
+  },
+  {
+    "repo_name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "stars_today": 1190,
+    "stars_total": 12574,
+    "topics": [
+      "markdown",
+      "nodejs",
+      "pdf",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction",
+      "ocr-routing",
+      "pdf-classification"
+    ],
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "readme_snippet": "# pdf-inspector\n\n[![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector)\n[![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector)\n[![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n\nFast Rust library for PDF classification and text extraction. Detects whether a PDF is text-based or scanned, extracts text with position awareness, and converts to clean Markdown — all without OCR. Includes bindings for [Python](docs/python.md), [Node.js](napi/README.md), and [browser WebAssembly](wasm/README.md).\n\nBuilt by [Firecrawl](https://firecrawl.dev) to handle te"
+  }
+]
