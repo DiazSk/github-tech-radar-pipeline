@@ -1,0 +1,291 @@
+[
+  {
+    "repo_name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "stars_today": 2293,
+    "stars_total": 6715,
+    "topics": [],
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://primeintellect.ai\">\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\">\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\">\n      <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\">\n    </picture>\n  </a>\n</p>\n\n<h3 align=\"center\">\nPrime Agent: A Self-Improving RLM Agent\n</h3>\n\n<p align=\"center\">\n  <a href=\"packages/coding-agent/docs/index.md\">Documentation</a> &bull;\n  <a href=\"https://github.com/PrimeIntellect-ai/verifiers\">Verifiers</a> &bull;\n  <a href=\"https://gi"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 1131,
+    "stars_total": 83950,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "language": "TypeScript",
+    "stars_today": 872,
+    "stars_total": 5813,
+    "topics": [],
+    "url": "https://github.com/cloudflare/computer",
+    "readme_snippet": "# Cloudflare Computer\n\nCloudflare Computer is a virtual filesystem that lives inside a\nDurable Object. The Durable Object holds the authoritative state in\nSQLite and exposes one pluggable execution surface through\n`workspace.runtime`. Three backends ship today:\n\n- **Container** projects the SQLite state into a sandbox container as\n  a real FUSE mount. A sandbox-side daemon (`computerd`) mounts the state\n  as a filesystem and syncs changes back over a capnweb RPC channel.\n  Full Linux userland, real binaries, real network.\n- **Isolate shell** runs [just-bash](https://github.com/vercel-labs/just-bash)\n  in a Dynamic Worker. It reaches the authoritative Workspace over\n  Workers RPC, so there is no second store or sync round trip.\n- **Isolate JavaScript** runs an ECMAScript module in a fresh D"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 2152,
+    "stars_total": 208927,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 782,
+    "stars_total": 268789,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## Quickstart\n\nGive your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).\n\n## How it works\n\nIt starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. \n\nOnce it's "
+  },
+  {
+    "repo_name": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "stars_today": 530,
+    "stars_total": 23639,
+    "topics": [
+      "saml",
+      "saml-idp",
+      "saml-sp",
+      "oauth2",
+      "oauth2-server",
+      "oauth2-client",
+      "oidc",
+      "oidc-provider",
+      "oidc-client",
+      "sso",
+      "proxy",
+      "reverse-proxy",
+      "authentication",
+      "authorization",
+      "authentik",
+      "kubernetes",
+      "security"
+    ],
+    "url": "https://github.com/goauthentik/authentik",
+    "readme_snippet": "<p align=\"center\">\n    <img src=\"https://goauthentik.io/img/icon_top_brand_colour.svg\" height=\"150\" alt=\"authentik logo\">\n</p>\n\n---\n\n[![Join Discord](https://img.shields.io/discord/809154715984199690?label=Discord&style=for-the-badge)](https://goauthentik.io/discord)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goauthentik/authentik/ci-main.yml?branch=main&label=core%20build&style=for-the-badge)](https://github.com/goauthentik/authentik/actions/workflows/ci-main.yml)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goauthentik/authentik/ci-outpost.yml?branch=main&label=outpost%20build&style=for-the-badge)](https://github.com/goauthentik/authentik/actions/workflows/ci-outpost.yml)\n[![GitHub Workflow Status](https://img.shie"
+  },
+  {
+    "repo_name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "stars_today": 122,
+    "stars_total": 2376,
+    "topics": [
+      "ai",
+      "ai-governance",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "decision-intelligence",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "ai-infrastructure",
+      "data-engineering",
+      "developer-tools",
+      "semantic-search",
+      "agent-memory"
+    ],
+    "url": "https://github.com/semantica-agi/semantica",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"Semantica Logo.png\" alt=\"Semantica\" width=\"420\"/>\n\n### Graph-Native Infrastructure for Context and Accountable AI Systems\n\n#### *The Open Source Palantir for AI Agents*\n\n> Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by design.\n\n**Decision Intelligence &nbsp;·&nbsp; Context Management &nbsp;·&nbsp; Deterministic Reasoning &nbsp;·&nbsp; Ontology Management &nbsp;·&nbsp; Knowledge Modeling &nbsp;·&nbsp; End-to-End Traceability**\n\n**Open Source &nbsp;·&nbsp; Self-Hostable &nbsp;·&nbsp; Auditable &nbsp;·&nbsp; Governed &nbsp;·&nbsp; Zero Vendor Lock-In**\n\n**Polyglot Grap"
+  },
+  {
+    "repo_name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "language": "Python",
+    "stars_today": 141,
+    "stars_total": 70539,
+    "topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ],
+    "url": "https://github.com/666ghj/MiroFish",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/>\n\n<a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n简洁通用的群体智能引擎，预测万物\n</br>\n<em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em>\n\n<a href=\"https://www.shanda.com/\" target=\"_blank\"><img src=\"./static/image/shanda_logo.png\" alt=\"666ghj%2FMiroFish | Shanda\" height=\"40\"/></a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=flat-square&color=DAA520)](https://github.com/666ghj/MiroFish/stargazers)\n[![GitHub Watchers](https://img.shields.io/github/watchers"
+  },
+  {
+    "repo_name": "chenyme/grok2api",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "language": "Go",
+    "stars_today": 55,
+    "stars_total": 7150,
+    "topics": [
+      "grok",
+      "grok-imagine",
+      "grok-build",
+      "grok-video",
+      "grok-console",
+      "grok-web"
+    ],
+    "url": "https://github.com/chenyme/grok2api",
+    "readme_snippet": "<p align=\"center\">\n  <img alt=\"Grok2API\" src=\"./frontend/public/grok2api.png\" width=\"720\" />\n</p>\n\n<p align=\"center\">\n  <strong>A multi-account API gateway for Grok Build, Grok Web, and Grok Console</strong>\n</p>\n\n<p align=\"center\">\n  English | <a href=\"./README.zh-CN.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"./backend/go.mod\"><img alt=\"Go\" src=\"https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white\" /></a>\n  <a href=\"./frontend/package.json\"><img alt=\"React\" src=\"https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=111827\" /></a>\n  <a href=\"https://github.com/chenyme/grok2api/pkgs/container/grok2api\"><img alt=\"Docker\" src=\"https://img.shields.io/badge/Docker-amd64%20%7C%20arm64-2496ED?logo=docker&logoColor=white\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\""
+  },
+  {
+    "repo_name": "jdx/mise",
+    "description": "dev tools, env vars, task runner",
+    "language": "Rust",
+    "stars_today": 135,
+    "stars_total": 32087,
+    "topics": [],
+    "url": "https://github.com/jdx/mise",
+    "readme_snippet": "<div align=\"center\">\n\n<h1 align=\"center\">\n  <a href=\"https://mise.jdx.dev\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/public/logo-dark.svg\" />\n      <img src=\"docs/public/logo-light.svg\" alt=\"mise\" width=\"256\" height=\"256\" />\n    </picture>\n    <br>\n    mise-en-place\n  </a>\n</h1>\n\n<p>\n  <a href=\"https://crates.io/crates/mise\"><img alt=\"Crates.io\" src=\"https://img.shields.io/crates/v/mise?style=for-the-badge&color=8B2252\"></a>\n  <a href=\"https://github.com/jdx/mise/blob/main/LICENSE\"><img alt=\"GitHub\" src=\"https://img.shields.io/github/license/jdx/mise?style=for-the-badge&color=6B7F4E\"></a>\n  <a href=\"https://github.com/jdx/mise/actions/workflows/test.yml\"><img alt=\"GitHub Workflow Status\" src=\"https://img.shields.io/github/actions/workflow/status/jdx/mis"
+  },
+  {
+    "repo_name": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "stars_today": 355,
+    "stars_total": 186346,
+    "topics": [
+      "ai",
+      "openai",
+      "python",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "llama-api",
+      "agentic-ai",
+      "agents",
+      "llm",
+      "claude",
+      "gpt"
+    ],
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=hero_banner\">\n    <img src=\"docs/home/.gitbook/assets/Banner_image.png\" alt=\"AutoGPT\" width=\"100%\" />\n  </a>\n</p>\n\n<h1 align=\"center\">AutoGPT — AI agents that finish the work</h1>\n\n<p align=\"center\">\n  <strong>Get 10 hours back every week.</strong><br />\n  Describe what you want done. AutoGPT builds the agent, runs it, and reports back.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=header_get_started\"><strong>Get started</strong></a>\n  ·\n  <a href=\"https://platform.agpt.co/tour?utm_source=github&amp;utm_medium=referral&amp;utm_cam"
+  },
+  {
+    "repo_name": "google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "stars_today": 152,
+    "stars_total": 51767,
+    "topics": [
+      "guava",
+      "java"
+    ],
+    "url": "https://github.com/google/guava",
+    "readme_snippet": "# Guava: Google Core Libraries for Java\n\n[![GitHub Release](https://img.shields.io/github/v/release/google/guava)](https://github.com/google/guava/releases/latest)\n[![CI](https://github.com/google/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/google/guava/actions/workflows/ci.yml)\n[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7197/badge)](https://www.bestpractices.dev/projects/7197)\n\n\n\nGuava is a set of core Java libraries from Google that includes new collection\ntypes (such as multimap and multiset), immutable collections, a graph library,\nand utilities for concurrency, I/O, hashing, primitives, strings, and more! It\nis widely used on most Java projects within Google, and widely used by many\nother companies as well.\n\n\n\nGuava comes in two flavors:\n\n*   T"
+  },
+  {
+    "repo_name": "unclebob/swarm-forge",
+    "description": "A simple tool for coordinating several AI agents.",
+    "language": "Clojure",
+    "stars_today": 81,
+    "stars_total": 1851,
+    "topics": [],
+    "url": "https://github.com/unclebob/swarm-forge",
+    "readme_snippet": "<p align=\"center\" style=\"color: red; font-weight: bold; font-size: 2em; font-style: italic; text-decoration: underline;\">\nDo not spend any money on a bankrbot SWARM token.\n</p>\n\n# SwarmForge\n\n**A disciplined tmux-based agent orchestration platform that turns swarms of AI agents into reliable, professional software engineers.**\n\n## Intent\n\nThis `main` branch is documentary: it explains the system and carries the shared operational scripts and default constitution articles. The runnable workflow branches carry the project-facing configurations, role prompts, and local constitution articles that define specific workflows.\n\nSwarmForge is an agent coordination system that facilitates communication between agents working in different git worktrees.\n\nIt provides a shared structure for role-specif"
+  },
+  {
+    "repo_name": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "language": "Rust",
+    "stars_today": 516,
+    "stars_total": 2232,
+    "topics": [],
+    "url": "https://github.com/denoland/celld",
+    "readme_snippet": "# celld\n\nSelf-hosted, distributed **Durable Objects**.\n\ncelld is an open-source daemon that runs Cloudflare Workers and Durable\nObjects on your own machines. Each object is its own SQLite database,\naddressed by name and replicated to an\nS3-compatible bucket you own; nodes coordinate through that bucket alone, with\nno control plane or consensus. Because every object is its own small database,\napplications shard by construction — the contention and blast-radius failures\nof one shared database are designed out, not managed. Idle cells hibernate to\nnearly nothing. Learn more at [celld.dev](https://celld.dev) or read the\n[documentation](https://celld.dev/docs).\n\n## How it works\n\nEvery `celld` node embeds V8 and executes Wrangler bundles. The fleet shares an\nS3-compatible bucket containing deplo"
+  },
+  {
+    "repo_name": "K2SOsint/Legendary_OSINT",
+    "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+    "language": null,
+    "stars_today": 109,
+    "stars_total": 1467,
+    "topics": [
+      "cti",
+      "cyberthreatintelligence",
+      "osint",
+      "osint-tools-list",
+      "socmint"
+    ],
+    "url": "https://github.com/K2SOsint/Legendary_OSINT",
+    "readme_snippet": "# 🛰 Legendary OSINT\n\nA curated list of **OSINT** tools & resources.  \nThe sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections.  \n\n⚠️ Most tools are **third-party**, always vet and use responsibly.\n⭐ If you use this repository, don't forget to star it and incluse me as a source.\n\n---\n\n## 📖 Table of Contents\n\n- [👤 People Search & Social Media](./docs/people-social.md)  \n- [✈️ Aviation Movements & Flight Tracking](./docs/aviation.md)\n- [⚓ Vessel Movements, Databases & Shipping](./docs/maritime.md)\n- [🚂 Railways, live train maps and more](./docs/railways.md)  \n- [🌍 Domains, IPs & Infrastructure](./docs/infra-domains.md)  \n- [🎣 Phishing & Email Investigation](./docs/phishing-email.md)  \n- [🦠 Malware Analysis & CTI](."
+  },
+  {
+    "repo_name": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "language": "Go",
+    "stars_today": 234,
+    "stars_total": 19797,
+    "topics": [
+      "cli",
+      "devops",
+      "freebsd",
+      "golang",
+      "linux",
+      "macos",
+      "observability",
+      "sysadmin",
+      "troubleshooting",
+      "tui",
+      "windows",
+      "containers",
+      "docker",
+      "incident-response",
+      "process-management",
+      "systemd",
+      "go",
+      "kubernetes",
+      "monitoring",
+      "terminal"
+    ],
+    "url": "https://github.com/pranshuparmar/witr",
+    "readme_snippet": "<div align=\"center\">\n\n# witr\n\n### Why is this running?\nTrace any process, port, container, or file back to the exact chain that started it —<br>\none command, machine-readable JSON, or an [interactive TUI](#3-interactive-mode-tui).\n\n[![Latest Release](https://img.shields.io/github/v/release/pranshuparmar/witr?label=Latest%20Release&style=flat-square)](https://github.com/pranshuparmar/witr/releases/latest) [![Platforms](https://img.shields.io/badge/platforms-linux%20%7C%20macos%20%7C%20windows%20%7C%20freebsd-blue?style=flat-square)](#8-platform-support) <br> [![Package Managers](https://img.shields.io/badge/Package%20Managers-brew%20|%20conda%20|%20aur%20|%20winget%20|%20npm%20|%20ports%20|%20...%20-blue?style=flat-square)](https://repology.org/project/witr/versions)\n\n<a href=\"https://trend"
+  },
+  {
+    "repo_name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars_today": 327,
+    "stars_total": 16286,
+    "topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "url": "https://github.com/google/skills",
+    "readme_snippet": "# Agent Skills\n\n[![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills)\n\nThis repository contains [Agent Skills](https://agentskills.io/home) for Google\nproducts and technologies, including [Google Cloud](https://cloud.google.com).\n\n> [!NOTE]\n> This repository is under active development.\n\n## Installation\n\n```bash\nnpx skills add google/skills\n```\n\nFrom the `npx install` command, you can select the specific skills from this\nrepo to install.\n\n## Available Skills\n\n<!-- BEGIN SKILLS -->\n- **Getting started with Google Cloud**\n  - [**Authenticating to Google Cloud**](./skills/cloud/google-cloud-recipe-auth)\n  - [**Google Cloud Recipe: Foundation Builder**](./skills/cloud/google-cloud-recipe-foundation-builder)\n  - [**Onboarding to Google"
+  }
+]
