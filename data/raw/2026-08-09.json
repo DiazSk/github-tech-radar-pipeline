@@ -1,0 +1,175 @@
+[
+  {
+    "repo_name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "stars_today": 2483,
+    "stars_total": 9114,
+    "topics": [],
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://primeintellect.ai\">\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\">\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\">\n      <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\">\n    </picture>\n  </a>\n</p>\n\n<h3 align=\"center\">\nPrime Agent: A Self-Improving RLM Agent\n</h3>\n\n<p align=\"center\">\n  <a href=\"packages/coding-agent/docs/index.md\">Documentation</a> &bull;\n  <a href=\"https://github.com/PrimeIntellect-ai/verifiers\">Verifiers</a> &bull;\n  <a href=\"https://gi"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 779,
+    "stars_total": 84623,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars_today": 118,
+    "stars_total": 77977,
+    "topics": [],
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "readme_snippet": "## 项目的由来\n虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。\n\n还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。\n\n## 学习数学\n\n希望未来出现更多不是为了考学而读书的人。\n\n### 小学数学\n- [一年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)\n- [一年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)\n- [二年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/mas"
+  },
+  {
+    "repo_name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars_today": 481,
+    "stars_total": 16784,
+    "topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "url": "https://github.com/google/skills",
+    "readme_snippet": "# Agent Skills\n\n[![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills)\n\nThis repository contains [Agent Skills](https://agentskills.io/home) for Google\nproducts and technologies, including [Google Cloud](https://cloud.google.com).\n\n> [!NOTE]\n> This repository is under active development.\n\n## Installation\n\n```bash\nnpx skills add google/skills\n```\n\nFrom the `npx install` command, you can select the specific skills from this\nrepo to install.\n\n## Available Skills\n\n<!-- BEGIN SKILLS -->\n- **Getting started with Google Cloud**\n  - [**Authenticating to Google Cloud**](./skills/cloud/google-cloud-recipe-auth)\n  - [**Google Cloud Recipe: Foundation Builder**](./skills/cloud/google-cloud-recipe-foundation-builder)\n  - [**Onboarding to Google"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 1359,
+    "stars_total": 210125,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "stars_today": 467,
+    "stars_total": 24000,
+    "topics": [
+      "saml",
+      "saml-idp",
+      "saml-sp",
+      "oauth2",
+      "oauth2-server",
+      "oauth2-client",
+      "oidc",
+      "oidc-provider",
+      "oidc-client",
+      "sso",
+      "proxy",
+      "reverse-proxy",
+      "authentication",
+      "authorization",
+      "authentik",
+      "kubernetes",
+      "security"
+    ],
+    "url": "https://github.com/goauthentik/authentik",
+    "readme_snippet": "<p align=\"center\">\n    <img src=\"https://goauthentik.io/img/icon_top_brand_colour.svg\" height=\"150\" alt=\"authentik logo\">\n</p>\n\n---\n\n[![Join Discord](https://img.shields.io/discord/809154715984199690?label=Discord&style=for-the-badge)](https://goauthentik.io/discord)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goauthentik/authentik/ci-main.yml?branch=main&label=core%20build&style=for-the-badge)](https://github.com/goauthentik/authentik/actions/workflows/ci-main.yml)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goauthentik/authentik/ci-outpost.yml?branch=main&label=outpost%20build&style=for-the-badge)](https://github.com/goauthentik/authentik/actions/workflows/ci-outpost.yml)\n[![GitHub Workflow Status](https://img.shie"
+  },
+  {
+    "repo_name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars_today": 153,
+    "stars_total": 96537,
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\">\n</p>\n\n<div align=\"center\" style=\"line-height: 1;\">\n  <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a>\n  <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a>\n  <a href=\"https://x.com/TauricResearch\" target=\"_blank\"><img alt=\"X Follow\" src=\"https://img.shields.io/badge/X-TauricResearch-white?logo=x&logoColor=white\"/></a>\n  <a href=\"https://github.com/TauricResearch/\" target=\"_blank\"><img alt=\"Community\" src=\"https://img.shields.io/badge/GitHub_Community-Taur"
+  },
+  {
+    "repo_name": "google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "stars_today": 93,
+    "stars_total": 51862,
+    "topics": [
+      "guava",
+      "java"
+    ],
+    "url": "https://github.com/google/guava",
+    "readme_snippet": "# Guava: Google Core Libraries for Java\n\n[![GitHub Release](https://img.shields.io/github/v/release/google/guava)](https://github.com/google/guava/releases/latest)\n[![CI](https://github.com/google/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/google/guava/actions/workflows/ci.yml)\n[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7197/badge)](https://www.bestpractices.dev/projects/7197)\n\n\n\nGuava is a set of core Java libraries from Google that includes new collection\ntypes (such as multimap and multiset), immutable collections, a graph library,\nand utilities for concurrency, I/O, hashing, primitives, strings, and more! It\nis widely used on most Java projects within Google, and widely used by many\nother companies as well.\n\n\n\nGuava comes in two flavors:\n\n*   T"
+  },
+  {
+    "repo_name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars_today": 48,
+    "stars_total": 65019,
+    "topics": [
+      "browser",
+      "browser-engine"
+    ],
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "readme_snippet": "# Ladybird\n\n[Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards.\n\n> [!IMPORTANT]\n> Ladybird is in a pre-alpha state, and only suitable for use by developers\n>\n\n## Features\n\nWe aim to build a complete, usable browser for the modern web.\n\nLadybird uses a multi-process architecture with a main UI process, several WebContent renderer processes,\nan ImageDecoder process, and a RequestServer process.\n\nImage decoding and network connections are done out of process to be more robust against malicious content.\nEach tab has its own renderer process, which is sandboxed from the rest of the system.\n\nAt the moment, many core library support components are inherited from SerenityOS:\n\n- LibWeb: Web rendering engine\n- LibJS: JavaScript engine\n- L"
+  },
+  {
+    "repo_name": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "language": "Rust",
+    "stars_today": 432,
+    "stars_total": 2617,
+    "topics": [],
+    "url": "https://github.com/denoland/celld",
+    "readme_snippet": "# celld\n\nSelf-hosted, distributed **Durable Objects**.\n\ncelld is an open-source daemon that runs Cloudflare Workers and Durable\nObjects on your own machines. Each object is its own SQLite database,\naddressed by name and replicated to an\nS3-compatible bucket you own; nodes coordinate through that bucket alone, with\nno control plane or consensus. Because every object is its own small database,\napplications shard by construction — the contention and blast-radius failures\nof one shared database are designed out, not managed. Idle cells hibernate to\nnearly nothing. Learn more at [celld.dev](https://celld.dev) or read the\n[documentation](https://celld.dev/docs).\n\n## How it works\n\nEvery `celld` node embeds V8 and executes Wrangler bundles. The fleet shares an\nS3-compatible bucket containing deplo"
+  },
+  {
+    "repo_name": "litu54/DevOps-Interview-Guide",
+    "description": "DevOps Interview Guide",
+    "language": null,
+    "stars_today": 68,
+    "stars_total": 716,
+    "topics": [],
+    "url": "https://github.com/litu54/DevOps-Interview-Guide",
+    "readme_snippet": "# DevOps & SRE Interview Questions\n\nReal interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no \"top 50 questions\" filler — these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep.\n\n## What's here\n\n- **151 interview write-ups**\n- **85 companies**, plus an `Others/` folder for interviews where the company wasn't named\n- Topics span Kubernetes, Docker, Terraform, AWS/Azure/GCP, CI/CD (Jenkins, GitHub Actions, Azure DevOps), Ansible, Linux, scripting, and SRE fundamentals (SLI/SLO/SLA, observability, incident response)\n\nSome companies show up more than once — different candidates, different rounds, sometimes years apart. Ea"
+  },
+  {
+    "repo_name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "Kotlin",
+    "stars_today": 101,
+    "stars_total": 49931,
+    "topics": [
+      "ssr",
+      "v2ray",
+      "shadowsocks",
+      "fanqiang",
+      "proxy",
+      "goflyway",
+      "daze",
+      "brook",
+      "lightsocks",
+      "trojan",
+      "psiphon"
+    ],
+    "url": "https://github.com/bannedbook/fanqiang",
+    "readme_snippet": "# 翻墙-科学上网、翻墙工具、翻墙教程项目库\r\n\r\n*   [翻墙新闻-FQNews-安卓APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)\r\n*   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)\r\n*   [安卓翻墙APP教程](https://github.com/bannedbook/fanqiang/tree/master/android)\r\n*   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)\r\n*   [Chrome一键翻墙包 Mac版](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacchrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85-mac%E7%89%88)\r\n*   [EdgeGo-Edge一键翻墙包](https://github.com/bannedbook/fanqiang/tree/master/EdgeGo)\r\n*   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"
+  }
+]
