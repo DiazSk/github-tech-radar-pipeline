@@ -1,0 +1,281 @@
+[
+  {
+    "repo_name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "stars_today": 970,
+    "stars_total": 4226,
+    "topics": [
+      "ai",
+      "ai-governance",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "decision-intelligence",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "ai-infrastructure",
+      "data-engineering",
+      "developer-tools",
+      "semantic-search",
+      "agent-memory"
+    ],
+    "url": "https://github.com/semantica-agi/semantica",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"Semantica Logo.png\" alt=\"Semantica\" width=\"420\"/>\n\n<a href=\"https://trendshift.io/repositories/18986?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-18986\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/18986\" alt=\"semantica-agi%2Fsemantica | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n### Graph-Native Infrastructure for Context and Accountable AI Systems\n\n#### *The Open Source Palantir for AI Agents*\n\n> Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by design.\n\n**Decision Intelligence "
+  },
+  {
+    "repo_name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "stars_today": 1349,
+    "stars_total": 141905,
+    "topics": [],
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "readme_snippet": "# 🎭 The Agency: AI Specialists Ready to Transform Your Workflow\n\n> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)\n[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)\n[![Download the app](https://"
+  },
+  {
+    "repo_name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "stars_today": 259,
+    "stars_total": 61182,
+    "topics": [],
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "readme_snippet": "# 🔥 MediaCrawler - 自媒体平台爬虫 🕷️\n\n<div align=\"center\">\n\n### 🤝 特别感谢白金赞助商\n\n<a href=\"https://www.browseract.ai/mediacrawler\" target=\"_blank\">\n  <img src=\"docs/static/images/browseract_ad.jpg\" alt=\"BrowserAct\" width=\"600\">\n</a>\n\n<br>\n\n<a href=\"https://www.browseract.ai/mediacrawler\" target=\"_blank\">\n<small>BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。</small>\n</a>\n\n</div>\n\n---\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\">\n  <img src=\"https://trendshift.io/api/badge/repositories/8291\" alt=\"NanmiCoder%2FMediaCrawler | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n</a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style="
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 659,
+    "stars_total": 85808,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars_today": 198,
+    "stars_total": 76587,
+    "topics": [],
+    "url": "https://github.com/paperclipai/paperclip",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot;\n  <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot;\n  <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot;\n  <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot;\n  <a href=\"https://x.com/papercliping\"><strong>Twitter</strong></a> &middot;\n  <a href=\"https://paperclip.ing\"><strong>Website</strong></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/paperclipai/paperclip/blob/master/LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-blue\" alt=\"MIT License\" /></a>\n  <a href"
+  },
+  {
+    "repo_name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "stars_today": 2642,
+    "stars_total": 13199,
+    "topics": [],
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://primeintellect.ai\">\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\">\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\">\n      <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\">\n    </picture>\n  </a>\n</p>\n\n<h3 align=\"center\">\nPrime Agent: A Self-Improving RLM Agent\n</h3>\n\n<p align=\"center\">\n  <a href=\"packages/coding-agent/docs/index.md\">Documentation</a> &bull;\n  <a href=\"https://github.com/PrimeIntellect-ai/verifiers\">Verifiers</a> &bull;\n  <a href=\"https://gi"
+  },
+  {
+    "repo_name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars_today": 56,
+    "stars_total": 65284,
+    "topics": [
+      "browser",
+      "browser-engine"
+    ],
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "readme_snippet": "# Ladybird\n\n[Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards.\n\n> [!IMPORTANT]\n> Ladybird is in a pre-alpha state, and only suitable for use by developers\n>\n\n## Features\n\nWe aim to build a complete, usable browser for the modern web.\n\nLadybird uses a multi-process architecture with a main UI process, several WebContent renderer processes,\nan ImageDecoder process, and a RequestServer process.\n\nImage decoding and network connections are done out of process to be more robust against malicious content.\nEach tab has its own renderer process, which is sandboxed from the rest of the system.\n\nAt the moment, many core library support components are inherited from SerenityOS:\n\n- LibWeb: Web rendering engine\n- LibJS: JavaScript engine\n- L"
+  },
+  {
+    "repo_name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars_today": 154,
+    "stars_total": 89403,
+    "topics": [
+      "densepose",
+      "wifi",
+      "esp32",
+      "monitoring",
+      "rf",
+      "wifi-security",
+      "self-learning",
+      "firmware",
+      "pose-estimation",
+      "spatial-intelligence",
+      "home-assistant",
+      "home-automation",
+      "skills",
+      "networking",
+      "claude",
+      "iot",
+      "react",
+      "typescript",
+      "npm",
+      "awesome"
+    ],
+    "url": "https://github.com/ruvnet/RuView",
+    "readme_snippet": "# π RuView\n\n<p align=\"center\">\n  <a href=\"https://cognitum.one/seed\">\n    <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://cognitum.one/marketplace\">\n    <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://github.com/ruvnet/RuCelium\">\n    <img src=\"assets/rucelium-hero.png\" alt=\"RuCelium — environmental intelligence\" width=\"100%\">\n  </a>\n</p>\n\n## **See through walls with WiFi** ##\n\n**Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.\n\nWorks natively with the four major smart"
+  },
+  {
+    "repo_name": "danielmiessler/LifeOS",
+    "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "language": "TypeScript",
+    "stars_today": 315,
+    "stars_total": 17980,
+    "topics": [
+      "ai",
+      "augmentation",
+      "productivity",
+      "humans",
+      "ai-harness",
+      "intent-engineering",
+      "personal-ai",
+      "coding",
+      "lifeos"
+    ],
+    "url": "https://github.com/danielmiessler/LifeOS",
+    "readme_snippet": "<p align=\"center\">\n  <br />\n  <img src=\"./images/lifeos-logo-full.png\" alt=\"LifeOS\" width=\"460\">\n  <br />\n</p>\n\n<div align=\"center\">\n\n**The AI-Powered Life Operating System**\n\n[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Your+Life+Operating+System;Current+State+%E2%86%92+Ideal+State;Open+source.+Free.+Forever.)](https://github.com/danielmiessler/LifeOS)\n\n[![Stars](https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat&logo=github&logoColor=white&label=Stars&color=FFB000&cacheSeconds=1800)](https://github.com/danielmiessler/LifeOS/stargazers)\n[![Forks](https://img.shields.io/github/forks/danielmiessler/LifeOS?style=flat&logo=github&logoColor=white&label=Forks&color=6366F1"
+  },
+  {
+    "repo_name": "firecrawl/firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+    "language": "TypeScript",
+    "stars_today": 835,
+    "stars_total": 165171,
+    "topics": [
+      "ai",
+      "crawler",
+      "markdown",
+      "scraper",
+      "html-to-markdown",
+      "llm",
+      "scraping",
+      "web-crawler",
+      "ai-scraping",
+      "webscraping",
+      "web-scraping",
+      "web-data",
+      "web-data-extraction",
+      "ai-agents",
+      "data-extraction",
+      "ai-crawler",
+      "ai-search",
+      "web-scraper",
+      "web-search"
+    ],
+    "url": "https://github.com/firecrawl/firecrawl",
+    "readme_snippet": "<h3 align=\"center\">\n  <a name=\"readme-top\"></a>\n  <img\n    src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png\"\n    height=\"200\"\n  >\n</h3>\n\n<div align=\"center\">\n  <a href=\"https://github.com/firecrawl/firecrawl/blob/main/LICENSE\">\n    <img src=\"https://img.shields.io/github/license/firecrawl/firecrawl\" alt=\"License\">\n  </a>\n  <a href=\"https://pepy.tech/project/firecrawl-py\">\n    <img src=\"https://static.pepy.tech/badge/firecrawl-py\" alt=\"Downloads\">\n  </a>\n  <a href=\"https://GitHub.com/firecrawl/firecrawl/graphs/contributors\">\n    <img src=\"https://img.shields.io/github/contributors/firecrawl/firecrawl.svg\" alt=\"GitHub Contributors\">\n  </a>\n  <a href=\"https://firecrawl.dev\">\n    <img src=\"https://img.shields.io/badge/Visit-firecrawl.dev-orange\" alt=\"Visit"
+  },
+  {
+    "repo_name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars_today": 177,
+    "stars_total": 97276,
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\">\n</p>\n\n<div align=\"center\" style=\"line-height: 1;\">\n  <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a>\n  <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a>\n  <a href=\"https://x.com/TauricResearch\" target=\"_blank\"><img alt=\"X Follow\" src=\"https://img.shields.io/badge/X-TauricResearch-white?logo=x&logoColor=white\"/></a>\n  <a href=\"https://github.com/TauricResearch/\" target=\"_blank\"><img alt=\"Community\" src=\"https://img.shields.io/badge/GitHub_Community-Taur"
+  },
+  {
+    "repo_name": "google-deepmind/weathernext",
+    "description": null,
+    "language": "Python",
+    "stars_today": 325,
+    "stars_total": 7377,
+    "topics": [
+      "weather",
+      "weather-forecast"
+    ],
+    "url": "https://github.com/google-deepmind/weathernext",
+    "readme_snippet": "# WeatherNext\n\n## WeatherNext 2\n\nThis repo contains the code for WeatherNext 2 (WN2), the global, medium-range\natmospheric and cyclone forecasting model developed by Google DeepMind and\nGoogle Research.\n\nIt also contains code for prior generation models\n[GraphCast](https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)\nand\n[GenCast](https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/).\n\n### Accessing Forecast Data Feeds\nIf you are interested in directly accessing daily data feeds of WN2 model\noutputs rather than running the model yourself, we provide them across multiple\nplatforms:\n\n*   [Google Cloud](https://developers.google.com/weathernext/guides/access-forecast)\n(including Earth"
+  },
+  {
+    "repo_name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "stars_today": 682,
+    "stars_total": 3569,
+    "topics": [
+      "ai",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-understanding",
+      "codebase-search",
+      "developer-tools",
+      "graph-database",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "memgraph",
+      "monorepo",
+      "multi-language",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "tree-sitter"
+    ],
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "readme_snippet": "<div align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark-any.png\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/logo-light-any.png\">\n    <img src=\"assets/logo-light-any.png\" alt=\"Code-Graph-RAG Logo\" width=\"480\">\n  </picture>\n\n  <p>\n    <a href=\"https://trendshift.io/repositories/99619\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/99619\" alt=\"vitali87/code-graph-rag | Trendshift\" width=\"250\" height=\"55\"/></a>\n  </p>\n\n  <p>\n  <!-- Badges below are commented out while the GitHub account is suspended. Restore them when the account is reinstated.\n       Stars/Forks: shields.io hits GitHub's API (returns \"repo not found\" for suspended accounts).\n       gitcgr: indexes from G"
+  },
+  {
+    "repo_name": "pingdotgg/t3code",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 389,
+    "stars_total": 18053,
+    "topics": [],
+    "url": "https://github.com/pingdotgg/t3code",
+    "readme_snippet": "# T3 Code\n\nT3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id6787819824), [Android](https://play.google.com/store/apps/details?id=com.t3tools.t3code)), [web app](https://app.t3.codes) and [Electron-based desktop app](https://t3.codes).\n\nWorks with your subscriptions on Claude Code, Codex, Cursor, Grok Build, and OpenCode. If they're set up on your computer, T3 Code can control them.\n\n## \"Wait, what are you selling me?\"\n\nNothing. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar.\n\n"
+  },
+  {
+    "repo_name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars_today": 922,
+    "stars_total": 126396,
+    "topics": [
+      "stable-diffusion",
+      "pytorch",
+      "ai",
+      "python",
+      "comfy",
+      "comfyui"
+    ],
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "readme_snippet": "<div align=\"center\">\n\n# ComfyUI\n**The most powerful and modular AI engine for content creation.**\n\n\n[![Website][website-shield]][website-url]\n[![Dynamic JSON Badge][discord-shield]][discord-url]\n[![Twitter][twitter-shield]][twitter-url]\n[![Matrix][matrix-shield]][matrix-url]\n<br>\n[![][github-release-shield]][github-release-link]\n[![][github-release-date-shield]][github-release-link]\n[![][github-downloads-shield]][github-downloads-link]\n[![][github-downloads-latest-shield]][github-downloads-link]\n\n[matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white\n[matrix-url]: https://app.element.io/#/room/%23comfyui_space%3Amatrix.org\n[website-shield]: https://img.shields.io/badge/ComfyOrg-4285F4?style=flat\n[website-url]: https://www.comfy.org/\n<!-- Workarou"
+  },
+  {
+    "repo_name": "opa334/Dopamine",
+    "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+    "language": "C",
+    "stars_today": 111,
+    "stars_total": 6061,
+    "topics": [],
+    "url": "https://github.com/opa334/Dopamine",
+    "readme_snippet": "<img src=\"https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e\" width=\"64\" />\n\n# Dopamine\n\nA rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64). More details will follow here soon.\n\nPlease note that all issues related to version support will be deleted without response.\n\nOfficial website / download: https://ellekit.space/dopamine/\n"
+  }
+]
