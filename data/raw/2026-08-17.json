@@ -1,0 +1,142 @@
+[
+  {
+    "repo_name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "stars_today": 720,
+    "stars_total": 4844,
+    "topics": [
+      "framework",
+      "nodejs",
+      "effect",
+      "plugin"
+    ],
+    "url": "https://github.com/cordiverse/cordis",
+    "readme_snippet": "<div align=\"center\">\n  <h1 id=\"satori\">Cordis</h1>\n</div>\n\nA Meta-Framework of Spatiotemporal Composability.\n\n**Cordis is under active development. The API is not yet stable and may change without notice.**\n\n- Paper: [_A Programming Paradigm for Spatiotemporal Composability_](https://github.com/cordiverse/paper)\n- Documentation: [cordis-primer](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)\n"
+  },
+  {
+    "repo_name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "language": "Shell",
+    "stars_today": 270,
+    "stars_total": 25449,
+    "topics": [],
+    "url": "https://github.com/basecamp/omarchy",
+    "readme_snippet": "# Omarchy\n\nOmarchy is a beautiful, modern & opinionated Linux distribution by DHH.\n\nRead more at [omarchy.org](https://omarchy.org).\n\n## The Omarchy Manual\n\nThe manual lives in [`manual/`](manual/), which is its authoritative source. It's\nmirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where\nits screenshots are also hosted.\n\n- [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md)\n\n**The Basics**\n\n- [Getting Started](manual/02-getting-started.md)\n- [Coming From Mac or Windows](manual/03-coming-from-mac-or-windows.md)\n- [Navigation](manual/04-navigation.md)\n- [The top bar](manual/05-the-top-bar.md)\n- [Themes](manual/06-themes.md)\n- [Hotkeys](manual/07-hotkeys.md)\n- [Unified Clipboard & History](manual/08-unified-clipboard-history.md)\n- [Reminders](manual/09-remi"
+  },
+  {
+    "repo_name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "stars_today": 572,
+    "stars_total": 72656,
+    "topics": [
+      "fine-tuning",
+      "llama",
+      "llms",
+      "gemma",
+      "unsloth",
+      "llm",
+      "deepseek",
+      "text-to-speech",
+      "tts",
+      "qwen",
+      "agent",
+      "openai",
+      "reinforcement-learning",
+      "self-hosted",
+      "ui",
+      "image-generation",
+      "stable-diffusion",
+      "chatgpt",
+      "ai",
+      "python"
+    ],
+    "url": "https://github.com/unslothai/unsloth",
+    "readme_snippet": "<h1 align=\"center\" style=\"margin:0;\">\n  <a href=\"https://unsloth.ai/docs\"><picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\">\n    <img alt=\"Unsloth logo\" src=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\" height=\"80\" style=\"max-width:100%;\">\n  </picture></a>\n</h1>\n<h3 align=\"center\" style=\"margin: 0; margin-top: 0;\">\nUnsloth is the first desktop app to run and train models.\n</h3>\n\n<p align=\"center\">\n  <a href=\"#-features\">Features</a> •\n  <a href=\"#-install\">Quickstart<"
+  },
+  {
+    "repo_name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "stars_today": 150,
+    "stars_total": 83956,
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "readme_snippet": "<table width=\"100%\">\n  <tr>\n    <td align=\"left\" width=\"120\">\n      <img src=\"https://assets.opencut.app/branding/symbol.svg\" alt=\"OpenCut Logo\" width=\"100\" />\n    </td>\n    <td align=\"right\">\n      <h1>OpenCut</h1>\n      <h3 style=\"margin-top: -10px;\">A free and open source video editor for web, desktop, and mobile.</h3>\n    </td>\n  </tr>\n</table>\n\n[![Discord](https://img.shields.io/discord/1386309140057690133?label=Discord&logo=discord&logoColor=fff&color=5865F2&style=flat)](https://discord.gg/zmR9N35cjK)\n[![X](https://img.shields.io/badge/follow-%40opencutapp-000?logo=x&logoColor=fff&style=flat)](https://x.com/opencutapp)\n[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE)\n\n## Status\n\n**OpenCut is being rewritten from the ground up.** What's coming:\n\n- "
+  },
+  {
+    "repo_name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars_today": 1588,
+    "stars_total": 461883,
+    "topics": [
+      "api",
+      "public-apis",
+      "free",
+      "apis",
+      "list",
+      "development",
+      "software",
+      "public",
+      "resources",
+      "dataset",
+      "open-source",
+      "public-api",
+      "lists"
+    ],
+    "url": "https://github.com/public-apis/public-apis",
+    "readme_snippet": "# APILayer Unified Suite in now Live! 🎉 🥳\n\n[APILayer unified suite](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) allows you to integrate production-grade REST APIs using **One Account, One Dashboard, and One API key.** Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.\n\n[Sign up](https://app.apilayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) and start building today!\n\nFork our official [APILayer Postman Collection](https://www.postman.com/apilayer/apilayer/collection/2uo8qbu/apilayer-suite) and get started in under 60 seconds.\n\n![APILayer Banner](https://raw.githubusercontent.com/public-apis/public-apis/refs/heads/master/.github/assets/apil"
+  },
+  {
+    "repo_name": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "language": "JavaScript",
+    "stars_today": 452,
+    "stars_total": 40084,
+    "topics": [
+      "javascript",
+      "internal-tools",
+      "self-hosted",
+      "reactjs",
+      "no-code",
+      "typescript",
+      "low-code",
+      "low-code-framework",
+      "internal-project",
+      "internal-tool",
+      "docker",
+      "web-development-tools",
+      "hacktoberfest",
+      "nodejs",
+      "low-code-development-platform",
+      "kubernetes",
+      "internal-applications",
+      "ai-app-builder",
+      "workflow-automation"
+    ],
+    "url": "https://github.com/ToolJet/ToolJet",
+    "readme_snippet": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tools, workflows and AI agents. The community edition provides a powerful visual builder, drag-and-drop UI, and integrations with databases, APIs, SaaS apps, and object storage. For AI-powered UI generation, query building, debugging, and enterprise features, see ToolJet AI.\n\n :star: If you find ToolJet useful, please consider giving us a star on GitHub! Your support helps us continue to innovate and deliver exciting features.\n\n![Docker Cloud Build Status](https://img.shields.io/docker/automated/tooljet/tooljet-ce)\n![Number of GitHub contributors](https://img.shields.io/github/contributors/tooljet/tooljet)\n[![Number of GitHub issues that are open](https://img.shields.io/github/i"
+  },
+  {
+    "repo_name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "stars_today": 443,
+    "stars_total": 6635,
+    "topics": [
+      "cactus",
+      "gemini",
+      "gemma",
+      "llm",
+      "on-device-ai"
+    ],
+    "url": "https://github.com/cactus-compute/needle",
+    "readme_snippet": "![Needle](assets/banner.png)\n\n# Needle 2\n\nNeedle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM2.5 230M and Apple FM, at 5x to 70x smaller, and 2 bits against their f16.\n\nThis repository is the Python package: inference, LoRA fine-tuning, and export. `pip install cactus-needle`, describe your tools, and call them from Python. The inference engine is fetched once from Hugging Face and cached; there is nothing else to build, and offline setup "
+  }
+]
