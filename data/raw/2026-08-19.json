@@ -1,0 +1,211 @@
+[
+  {
+    "repo_name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "stars_today": 2304,
+    "stars_total": 108687,
+    "topics": [
+      "python",
+      "tiktok",
+      "ai-video-generator",
+      "content-creation",
+      "ffmpeg",
+      "instagram-reels",
+      "llm",
+      "short-video",
+      "subtitles",
+      "text-to-speech",
+      "video-automation",
+      "video-workflow",
+      "workflow-automation",
+      "youtube-shorts"
+    ],
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "readme_snippet": "<div align=\"center\">\n\n# MoneyPrinterTurbo 💸\n\n### 一站式 AI 短视频生成工具\n\n只需提供视频<b>主题</b>或<b>关键词</b>，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n\n[![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases)\n[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)\n[![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)\n[![Downloads](https://img.shields.io/github/downloads/harry0703/MoneyPrinterTurbo/total)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)\n\n<a href=\"https://trendshift.io/repositories/8731\" target=\"_blank\"><i"
+  },
+  {
+    "repo_name": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness",
+    "language": "TypeScript",
+    "stars_today": 306,
+    "stars_total": 2093,
+    "topics": [
+      "agents",
+      "claude-code",
+      "free",
+      "harness",
+      "harness-engineering",
+      "memory"
+    ],
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./docs/logo.png\" alt=\"Munder Difflin — agent harness to run an office of your clones\" width=\"340\">\n\n# Munder Difflin\n\n### Agent harness to run an office of your clones\n\n**Free, open source and performant** — a multi-agent harness that works with the\nsubscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI\nyou already run into a clone of you, one that keeps working while you're away and\ncoordinates a whole office of agents on your own machine.\n\nWraps [Claude Code](https://claude.com/claude-code), Antigravity (Gemini), OpenAI Codex,\n**xAI Grok**, **Kimi Code**, **Qwen**, **OpenCode**, **Crush**, **pi.dev**, and\n**GitHub Copilot CLI** — with bring-your-own keys and local LLMs.\nAgents that message, route, and remember, coordina"
+  },
+  {
+    "repo_name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars_today": 648,
+    "stars_total": 2773,
+    "topics": [],
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\">\n    <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\">\n  </picture>\n</p>\n\n> Long-term memory for AI coding agents. Quit Claude Code mid-task,\n> start OpenAI Codex in the same directory, continue without\n> re-explaining the architecture, the failed approaches, or the open\n> questions.\n\n[![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/ai-memory/releases/latest)\n[![Rust](https://img.shields.io/badge/rust-1.95+-blue)](rust-toolchain.toml)\n[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)\n\n## Support Matrix\n\n| Area | Status | Notes |\n|---|---|---|\n| Linux | Supported | Primary Docker/server target and"
+  },
+  {
+    "repo_name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "language": "Python",
+    "stars_today": 213,
+    "stars_total": 29466,
+    "topics": [
+      "context-database",
+      "agentic-rag",
+      "agent-memory",
+      "self-evolving",
+      "agent-plugins",
+      "dsh-plugin"
+    ],
+    "url": "https://github.com/volcengine/OpenViking",
+    "readme_snippet": "<div align=\"center\">\n\n<a href=\"https://openviking.ai/\" target=\"_blank\">\n  <picture>\n    <img alt=\"OpenViking\" src=\"docs/images/ov-logo.png\" width=\"200px\" height=\"auto\">\n  </picture>\n</a>\n\n### OpenViking: The Context Database for AI Agents\n\nEnglish / [中文](README_CN.md) / [日本語](README_JA.md)\n\n<a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://openviking.ai/studio\">Live Demo</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://docs.openviking.ai/\">Docs</a>\n\n[![](https://img.shields.io/github/v/release/volcengine/OpenViking?color=369eff\\&labelColor=black\\&logo=github\\&style=flat-square)](https://github.com/volcengine/OpenViking/releases)\n[![](https://img.shields.io/github/st"
+  },
+  {
+    "repo_name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+    "language": "Python",
+    "stars_today": 730,
+    "stars_total": 29240,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cybersecurity",
+      "incident-response",
+      "mitre-attack",
+      "penetration-testing",
+      "red-team",
+      "security",
+      "cloud-security",
+      "malware-analysis",
+      "devsecops",
+      "ethical-hacking",
+      "infosec",
+      "llm",
+      "mcp",
+      "osint",
+      "security-automation",
+      "threat-intelligence",
+      "nist-csf",
+      "threat-hunting"
+    ],
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Anthropic Cybersecurity Skills\" width=\"100%\">\n</p>\n\n<div align=\"center\">\n\n#  Anthropic Cybersecurity Skills\n\n### The largest open-source cybersecurity skills library for AI agents\n\n[![GARS-2026 Survey](https://img.shields.io/badge/GARS--2026-Take%20the%20Survey-E8B84B?style=for-the-badge&logo=googleforms&logoColor=black)](https://mahipal.engineer/survey?utm_source=github_badge&utm_medium=readme&utm_campaign=gars2026)\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](LICENSE)\n[![Skills](https://img.shields.io/badge/skills-817-brightgreen?style=flat-square)](#whats-inside--29-security-domains)\n[![Frameworks](https://img.shields.io/badge/frameworks-6-orange?style=flat-square)](#six-frameworks-one-ski"
+  },
+  {
+    "repo_name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars_today": 1005,
+    "stars_total": 464650,
+    "topics": [
+      "api",
+      "public-apis",
+      "free",
+      "apis",
+      "list",
+      "development",
+      "software",
+      "public",
+      "resources",
+      "dataset",
+      "open-source",
+      "public-api",
+      "lists"
+    ],
+    "url": "https://github.com/public-apis/public-apis",
+    "readme_snippet": "# APILayer Unified Suite in now Live! 🎉 🥳\n\n[APILayer unified suite](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) allows you to integrate production-grade REST APIs using **One Account, One Dashboard, and One API key.** Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.\n\n[Sign up](https://app.apilayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) and start building today!\n\nFork our official [APILayer Postman Collection](https://www.postman.com/apilayer/apilayer/collection/2uo8qbu/apilayer-suite) and get started in under 60 seconds.\n\n![APILayer Banner](https://raw.githubusercontent.com/public-apis/public-apis/refs/heads/master/.github/assets/apil"
+  },
+  {
+    "repo_name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "language": "Shell",
+    "stars_today": 356,
+    "stars_total": 26458,
+    "topics": [],
+    "url": "https://github.com/basecamp/omarchy",
+    "readme_snippet": "# Omarchy\n\nOmarchy is a beautiful, modern & opinionated Linux distribution by DHH.\n\nRead more at [omarchy.org](https://omarchy.org).\n\n## The Omarchy Manual\n\nThe manual lives in [`manual/`](manual/), which is its authoritative source. It's\nmirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where\nits screenshots are also hosted.\n\n- [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md)\n\n**The Basics**\n\n- [Getting Started](manual/02-getting-started.md)\n- [Coming From Mac or Windows](manual/03-coming-from-mac-or-windows.md)\n- [Navigation](manual/04-navigation.md)\n- [The top bar](manual/05-the-top-bar.md)\n- [Themes](manual/06-themes.md)\n- [Hotkeys](manual/07-hotkeys.md)\n- [Unified Clipboard & History](manual/08-unified-clipboard-history.md)\n- [Reminders](manual/09-remi"
+  },
+  {
+    "repo_name": "agalwood/Motrix",
+    "description": "A full-featured download manager.",
+    "language": "TypeScript",
+    "stars_today": 609,
+    "stars_total": 53725,
+    "topics": [
+      "motrix",
+      "aria2",
+      "download-manager",
+      "macos",
+      "windows",
+      "linux",
+      "bittorrent",
+      "magnet",
+      "electron",
+      "bt",
+      "mac",
+      "download",
+      "torrent"
+    ],
+    "url": "https://github.com/agalwood/Motrix",
+    "readme_snippet": "<div>\n  <img src=\"./public/app-icon.png\" alt=\"Motrix\" width=\"256\" />\n  <h1>Motrix</h1>\n  <p>A modern, full-featured download manager that stays simple to use</p>\n</div>\n\n[![GitHub release](https://img.shields.io/github/v/release/agalwood/Motrix.svg)](https://github.com/agalwood/Motrix/releases) ![Build/release](https://github.com/agalwood/Motrix/workflows/Build/release/badge.svg) ![Total Downloads](https://img.shields.io/github/downloads/agalwood/Motrix/total.svg)\n\nEnglish | [简体中文](./README.zh-CN.md)\n\n## Overview\n\nMotrix is a clean, full-featured desktop download manager for HTTP, FTP, BitTorrent, magnet links, and more.\n\n**Motrix Turbo** is Motrix v2, rebuilt from the ground up with Electron, React, and TypeScript while keeping the clean, straightforward experience of v1. The download cor"
+  },
+  {
+    "repo_name": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "language": "PLSQL",
+    "stars_today": 192,
+    "stars_total": 24337,
+    "topics": [],
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "readme_snippet": "[![GitHub stars](https://img.shields.io/github/stars/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/stargazers)\n[![GitHub forks](https://img.shields.io/github/forks/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/network/members)\n[![GitHub watchers](https://img.shields.io/github/watchers/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/watchers)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Hardware: CERN-OHL-P](https://img.shields.io/badge/Hardware-CERN--OHL--P-blue.svg)](https://ohwr.org/cern_ohl_p_v2.txt)\n\n# AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar\n\n[![Hardware: CERN-OHL-P](https://im"
+  },
+  {
+    "repo_name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "language": "Python",
+    "stars_today": 370,
+    "stars_total": 19436,
+    "topics": [
+      "apple-silicon",
+      "inference-server",
+      "llm",
+      "macos",
+      "mlx",
+      "openai-api"
+    ],
+    "url": "https://github.com/jundot/omlx",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/icon-rounded-dark.svg\" width=\"140\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/images/icon-rounded-light.svg\" width=\"140\">\n    <img alt=\"oMLX\" src=\"docs/images/icon-rounded-light.svg\" width=\"140\">\n  </picture>\n</p>\n\n<h1 align=\"center\">oMLX</h1>\n<p align=\"center\"><b>LLM inference, optimized for your Mac</b><br>Continuous batching and tiered KV caching, managed directly from your menu bar.</p>\n\n<p align=\"center\">\n<a href=\"https://www.buymeacoffee.com/jundot\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" height=\"40\"></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/license-Apache%202.0-blue\" alt=\"License\">\n  "
+  },
+  {
+    "repo_name": "genlayerlabs/genlayer-project-boilerplate",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 535,
+    "stars_total": 15979,
+    "topics": [],
+    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "readme_snippet": "# Sample GenLayer project\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/)\n[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/8Jm4v89VAu)\n[![Telegram](https://img.shields.io/badge/Telegram--T.svg?style=social&logo=telegram)](https://t.me/genlayer)\n[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/yeagerai.svg?style=social&label=Follow%20%40GenLayer)](https://x.com/GenLayer)\n[![GitHub star chart](https://img.shields.io/github/stars/yeagerai/genlayer-project-boilerplate?style=social)](https://star-history.com/#yeagerai/genlayer-js)\n\n## About\nThis project includes the boilerplate code for a GenLayer use case implementation, specifically a football bets game"
+  },
+  {
+    "repo_name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "stars_today": 192,
+    "stars_total": 84828,
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "readme_snippet": "<table width=\"100%\">\n  <tr>\n    <td align=\"left\" width=\"120\">\n      <img src=\"https://assets.opencut.app/branding/symbol.svg\" alt=\"OpenCut Logo\" width=\"100\" />\n    </td>\n    <td align=\"right\">\n      <h1>OpenCut</h1>\n      <h3 style=\"margin-top: -10px;\">A free and open source video editor for web, desktop, and mobile.</h3>\n    </td>\n  </tr>\n</table>\n\n[![Discord](https://img.shields.io/discord/1386309140057690133?label=Discord&logo=discord&logoColor=fff&color=5865F2&style=flat)](https://discord.gg/zmR9N35cjK)\n[![X](https://img.shields.io/badge/follow-%40opencutapp-000?logo=x&logoColor=fff&style=flat)](https://x.com/opencutapp)\n[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE)\n\n## Status\n\n**OpenCut is being rewritten from the ground up.** What's coming:\n\n- "
+  }
+]
