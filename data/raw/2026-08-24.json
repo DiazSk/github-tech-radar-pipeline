@@ -1,0 +1,310 @@
+[
+  {
+    "repo_name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars_today": 2715,
+    "stars_total": 115437,
+    "topics": [],
+    "url": "https://github.com/openai/codex",
+    "readme_snippet": "<p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer.\n<p align=\"center\">\n  <img src=\"https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" />\n</p>\n</br>\nIf you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a>\n</br>If you want the desktop app experience, run <code>codex app</code> or visit <a href=\"https://chatgpt.com/codex?app-landing-page=true\">the Codex App page</a>.\n</br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href=\"https://chatgpt.com/codex\">chatgpt.com/codex</a>.</p>\n\n---\n\n## Quickstart\n\n### Installing and running Codex CLI\n\nRun "
+  },
+  {
+    "repo_name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "stars_today": 401,
+    "stars_total": 12944,
+    "topics": [
+      "agents",
+      "ai-image-generation",
+      "gpt-image-2",
+      "image-prompts",
+      "prompt-as-code",
+      "prompt-engineering",
+      "workflow-automation",
+      "chatgpt",
+      "skills",
+      "dsh-plugin"
+    ],
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "readme_snippet": "<p align=\"center\"><img src=\"./data/images/banner.svg\" alt=\"GPT-Image2 Prompt System\" width=\"800\" /></p>\n\n<h3 align=\"center\">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3>\n\n<p align=\"center\">\n  <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green\" alt=\"Forks\"></a>\n  <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/badge/Cases-532-bluevio"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 2447,
+    "stars_total": 233967,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "language": "Shell",
+    "stars_today": 750,
+    "stars_total": 29191,
+    "topics": [],
+    "url": "https://github.com/basecamp/omarchy",
+    "readme_snippet": "# Omarchy\n\nOmarchy is a beautiful, modern & opinionated Linux distribution by DHH.\n\nRead more at [omarchy.org](https://omarchy.org).\n\n## The Omarchy Manual\n\nThe manual lives in [`manual/`](manual/), which is its authoritative source. It's\nmirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where\nits screenshots are also hosted.\n\n- [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md)\n\n**The Basics**\n\n- [Getting Started](manual/02-getting-started.md)\n- [Coming From Mac or Windows](manual/03-coming-from-mac-or-windows.md)\n- [Navigation](manual/04-navigation.md)\n- [The top bar](manual/05-the-top-bar.md)\n- [Themes](manual/06-themes.md)\n- [Hotkeys](manual/07-hotkeys.md)\n- [Unified Clipboard & History](manual/08-unified-clipboard-history.md)\n- [Reminders](manual/09-remi"
+  },
+  {
+    "repo_name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "stars_today": 1009,
+    "stars_total": 15017,
+    "topics": [
+      "dpi",
+      "gpui",
+      "hid",
+      "hidpp",
+      "local-first",
+      "logitech",
+      "logitech-options",
+      "mouse-remapping",
+      "mx-master",
+      "privacy",
+      "rust",
+      "smartshift",
+      "logitech-mouse"
+    ],
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "readme_snippet": "> [!NOTE]\n> 🚀 **OpenLogi is live on Product Hunt!** If you find it useful, we'd really appreciate your [support and feedback](https://www.producthunt.com/products/openlogi).\n\n<h4 align=\"right\"><strong>English</strong> | <a href=\"docs/README.zh-CN.md\">简体中文</a> | <a href=\"docs/README.ja.md\">日本語</a> | <a href=\"docs/README.de.md\">Deutsch</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.ko.md\">한국어</a></h4>\n\n<p align=\"center\">\n    <img src=\"https://assets.openlogi.org/brand/openlogi-icon.png\" width=\"138\" alt=\"OpenLogi\"/>\n</p>\n\n<h1 align=\"center\">OpenLogi</h1>\n<p align=\"center\"><strong>⚡️ A native, local-first alternative to Logitech Options+, written in Rust 🦀<br/>Unlock the full capabilities of Logitech mice, keyboards, and webcams over HID++ and UVC</strong></p>\n\n> [!WARNI"
+  },
+  {
+    "repo_name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stars_today": 410,
+    "stars_total": 30147,
+    "topics": [],
+    "url": "https://github.com/block/buzz",
+    "readme_snippet": "<h1 align=\"center\">Buzz 🐝</h1>\n\n<p align=\"center\">\n  <strong>A workspace where humans and agents build together, on a relay you own.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"VISION.md\">Vision</a> ·\n  <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> ·\n  <a href=\"VISION_PROJECTS.md\">Forge</a> ·\n  <a href=\"VISION_AGENT.md\">Agents</a> ·\n  <a href=\"ARCHITECTURE.md\">Architecture</a> ·\n  <a href=\"RELEASING.md\">Releasing</a> ·\n  <a href=\"LICENSE\">Apache 2.0</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project channel where people and an agent coordinate on a release plan\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <sub><em>People and agents building together in the same room.</em></sub>\n</p>\n\n---\n\n## What is this, really?\n\nBuzz is a self-hostable wo"
+  },
+  {
+    "repo_name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "stars_today": 51,
+    "stars_total": 2379,
+    "topics": [
+      "agent-runtime",
+      "ai",
+      "ai-agent",
+      "apache",
+      "cli",
+      "desktop",
+      "electron",
+      "event-sourcing",
+      "llm",
+      "local-first",
+      "maka",
+      "tool-use",
+      "typescript",
+      "incubator"
+    ],
+    "url": "https://github.com/apache/maka",
+    "readme_snippet": "<!--\n  Licensed to the Apache Software Foundation (ASF) under one\n  or more contributor license agreements.  See the NOTICE file\n  distributed with this work for additional information\n  regarding copyright ownership.  The ASF licenses this file\n  to you under the Apache License, Version 2.0 (the\n  \"License\"); you may not use this file except in compliance\n  with the License.  You may obtain a copy of the License at\n\n      http://www.apache.org/licenses/LICENSE-2.0\n\n  Unless required by applicable law or agreed to in writing,\n  software distributed under the License is distributed on an\n  \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\n  KIND, either express or implied.  See the License for the\n  specific language governing permissions and limitations\n  under the License.\n-->\n\n<h1 a"
+  },
+  {
+    "repo_name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "stars_today": 1081,
+    "stars_total": 48024,
+    "topics": [],
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "readme_snippet": "<div align=\"center\">\n\n<h1>\n  <picture>\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/free-claude-code-wordmark-light.svg\">\n    <img src=\"assets/free-claude-code-wordmark-dark.svg\" alt=\"Free Claude Code\" width=\"610\">\n  </picture>\n</h1>\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)\n[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=for-the-badge)](https://github.com/astral-sh/uv)\n[![Testing: Pytest](https://img.shields.io/badge/Testing-Pytest-00c0ff.svg?style=for-the-badg"
+  },
+  {
+    "repo_name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+    "language": "Rust",
+    "stars_today": 39,
+    "stars_total": 36793,
+    "topics": [],
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "readme_snippet": "<h1 align=\"center\">OpenHuman</h1>\n\n<p align=\"center\">\n <img src=\"./gitbooks/.gitbook/assets/demo.png\" alt=\"The Tet\" />\n</p>\n\n<p align=\"center\" style=\"display: inline-block\">\n\t<a href=\"https://trendshift.io/repositories/23680\" target=\"_blank\" style=\"display: inline-block\">\n\t\t<img src=\"https://trendshift.io/api/badge/repositories/23680\" alt=\"tinyhumansai%2Fopenhuman | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n\t</a>\n\t<a href=\"https://www.producthunt.com/products/openhuman?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-openhuman\" target=\"_blank\" rel=\"noopener noreferrer\">\n\t\t<img alt=\"OpenHuman - An open source AI harness built with the human in mind | Product Hunt\" width=\"250\" height=\"54\" src=\"https://api.producthunt.c"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 427,
+    "stars_total": 242584,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "stars_today": 131,
+    "stars_total": 69105,
+    "topics": [
+      "claude-code",
+      "swarm",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "autonomous-agents",
+      "codex",
+      "mcp-server",
+      "multi-agent",
+      "ai-assistant",
+      "multi-agent-systems",
+      "swarm-intelligence",
+      "agents",
+      "ai-skills",
+      "skills",
+      "npm",
+      "typescript",
+      "ai-agents",
+      "harness",
+      "dsh-plugin"
+    ],
+    "url": "https://github.com/ruvnet/ruflo",
+    "readme_snippet": "<div align=\"center\">\n\n[![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering)\n\n<!-- Try Ruflo — the 4 badges first-time visitors actually act on -->\n[![Try the UI Beta — flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/)\n[![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/ruflo)\n[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Star on GitHub](https://img.shields.io/github/stars/ruvnet/claude-flow?style=for-the-badge&logo=github&color=gold)](https://github.com/ruvnet/claude-flow)\n\n<!-- Eco"
+  },
+  {
+    "repo_name": "VoltAgent/awesome-agent-skills",
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "language": null,
+    "stars_today": 156,
+    "stars_total": 31342,
+    "topics": [
+      "awesome-list",
+      "claude-code",
+      "claude-skills",
+      "ai-agents",
+      "skills",
+      "agent-skills",
+      "claude-code-skills",
+      "codex-skills",
+      "cursor-skills",
+      "gemini-skills",
+      "opencode-skills",
+      "awesome"
+    ],
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "readme_snippet": "\n<a href=\"https://github.com/VoltAgent/voltagent\">\n     <img width=\"1500\" alt=\"claude-skills\" src=\"https://github.com/user-attachments/assets/a890e563-e999-4b1f-8ce1-20399b0574f8\" />\n</a>\n\n\n<br/>\n<br/>\n\n<div align=\"center\">\n    <strong>A collection of official Agent Skills from leading development teams and the community.\n    <br />\n    Hand-picked, not AI-slop generated.\n    </strong>\n    <br />\n    <br />\n\n</div>\n\n<div align=\"center\">\n\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n![Skills Count](https://img.shields.io/badge/Skills-1497+-blue?style=flat-square)\n![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)\n<a href=\"https://github.com/VoltAgent/voltagent\">\n  <img alt=\"VoltAgent\" src=\"https://"
+  },
+  {
+    "repo_name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "stars_today": 417,
+    "stars_total": 24711,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "context-engineering",
+      "document-processing",
+      "edtech",
+      "knowledge-base",
+      "knowledge-management",
+      "llm",
+      "pdf-to-markdown",
+      "rag",
+      "self-study",
+      "study-tools",
+      "book-to-skill"
+    ],
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/banner.webp\" alt=\"Booklin, the book-to-skill wizard, holding an open book whose pages scatter into sparkles that settle into an ordered grid\" width=\"100%\">\n</p>\n\n<h1 align=\"center\">book-to-skill</h1>\n\n<p align=\"center\">\n  <a href=\"README.md\"><strong>English</strong></a> ·\n  <a href=\"README.ru.md\">Русский</a>\n</p>\n\n<p align=\"center\">\n  <strong>Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, or Claude Code.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/virgiliojr94/book-to-skill/releases\"><img src=\"https://img.shields.io/github/v/release/virgiliojr94/book-to-skill?style=for-the-badge&color=blueviolet\" alt=\"L"
+  },
+  {
+    "repo_name": "dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "language": "Rust",
+    "stars_today": 78,
+    "stars_total": 65971,
+    "topics": [
+      "vaultwarden",
+      "bitwarden",
+      "rust",
+      "docker",
+      "rocket",
+      "bitwarden-rs"
+    ],
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "readme_snippet": "![Vaultwarden Logo](./resources/vaultwarden-logo-auto.svg)\n\nAn alternative server implementation of the Bitwarden Client API, written in Rust and compatible with [official Bitwarden clients](https://bitwarden.com/download/) [[disclaimer](#disclaimer)], perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.\n\n---\n\n[![GitHub Release](https://img.shields.io/github/release/dani-garcia/vaultwarden.svg?style=for-the-badge&logo=vaultwarden&color=005AA4)](https://github.com/dani-garcia/vaultwarden/releases/latest)\n[![ghcr.io Pulls](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=fff&color=005AA4&url=https%3A%2F%2Fipitio.github.io%2Fbackage%2Fdani-garcia%2Fvaultwarden%2Fvaultwarden.json&query=%24.downloads&label=gh"
+  },
+  {
+    "repo_name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "stars_today": 225,
+    "stars_total": 995,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-plugins-community",
+    "readme_snippet": "# Claude Plugins — Community\n\nCommunity-contributed plugins for [Claude Cowork](https://claude.com/product/cowork) and [Claude Code](https://claude.com/product/claude-code).\n\n## What this repo is\n\nA **read-only mirror** of the community plugin marketplace. The `.claude-plugin/marketplace.json` file here is the list of community plugins available to install. It is synced nightly from Anthropic's internal review pipeline.\n\nEvery plugin listed here has been submitted via [claude.ai](https://clau.de/plugin-directory-submission), passed automated security scanning, and been approved for distribution.\n\n## Using this marketplace\n\n### Claude Cowork\n\nInstall plugins from [claude.com/plugins](https://claude.com/plugins/).\n\n### Claude Code\n\n```bash\nclaude plugin marketplace add anthropics/claude-plug"
+  },
+  {
+    "repo_name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars_today": 615,
+    "stars_total": 134476,
+    "topics": [
+      "free-for-developers",
+      "awesome-list"
+    ],
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "readme_snippet": "# free-for.dev\n\nDevelopers and open-source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.\n\nThis is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.\n\nThe scope of this particular list is limited to things that infrastructure developers (System Administrators, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.\n\nThis list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add"
+  },
+  {
+    "repo_name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars_today": 201,
+    "stars_total": 129428,
+    "topics": [
+      "stable-diffusion",
+      "pytorch",
+      "ai",
+      "python",
+      "comfy",
+      "comfyui"
+    ],
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "readme_snippet": "<div align=\"center\">\n\n# ComfyUI\n**The most powerful and modular AI engine for content creation.**\n\n\n[![Website][website-shield]][website-url]\n[![Dynamic JSON Badge][discord-shield]][discord-url]\n[![Twitter][twitter-shield]][twitter-url]\n[![Matrix][matrix-shield]][matrix-url]\n<br>\n[![][github-release-shield]][github-release-link]\n[![][github-release-date-shield]][github-release-link]\n[![][github-downloads-shield]][github-downloads-link]\n[![][github-downloads-latest-shield]][github-downloads-link]\n\n[matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white\n[matrix-url]: https://app.element.io/#/room/%23comfyui_space%3Amatrix.org\n[website-shield]: https://img.shields.io/badge/ComfyOrg-4285F4?style=flat\n[website-url]: https://www.comfy.org/\n<!-- Workarou"
+  },
+  {
+    "repo_name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stars_today": 454,
+    "stars_total": 235051,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "openai"
+    ],
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\">\n</p>\n\n# Hermes Agent ☤\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Agent</a> | <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Desktop</a>\n</p>\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n  <a href=\"https://github.com/NousResearch/hermes-agent/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-green?style=for-the-badge\" alt=\"Lice"
+  }
+]
