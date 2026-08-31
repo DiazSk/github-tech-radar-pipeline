@@ -1,0 +1,315 @@
+[
+  {
+    "repo_name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "stars_today": 1370,
+    "stars_total": 24910,
+    "topics": [],
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "readme_snippet": "<!-- <p align=\"center\">\n  <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/>\n</p> -->\n\n<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/>\n</p>\n\n<p align=\"center\">\n  Get an immersive, multi-agent learning experience in just one click\n</p>\n\n<p align=\"center\">\n  <a href=\"https://my.feishu.cn/wiki/UIfKw9Knti0LcKkTxDNcqlUrnzh\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"v1.0.0 User Guide (English)\"/></a>\n  &nbsp;&nbsp;\n  <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%99%20%E4%BD%93%E9%AA%8C%E6%8C%87%E5%8D%97-v1.0.0%20%C2%B7%20%E4%B8%AD%E6%96%87-FF6B35?style=for-the-badge\" alt=\"v1.0.0 体验指南（"
+  },
+  {
+    "repo_name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars_today": 1114,
+    "stars_total": 39801,
+    "topics": [
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization",
+      "agent-skills"
+    ],
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "readme_snippet": "# Scientific Agent Skills\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)\n[![Version](https://img.shields.io/badge/Version-2.65.0-blue.svg)](pyproject.toml)\n[![Skills](https://img.shields.io/badge/Skills-163-brightgreen.svg)](#-whats-included)\n[![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included)\n[![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/)\n[![Agent Plugins](https://img.shields.io/badge/Standard-Agent_Plugins-0A7A72.svg)](https://agent-plugins.org/)\n[![Security Scan](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.yml/badge.svg)](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.ym"
+  },
+  {
+    "repo_name": "Lakr233/vphone-cli",
+    "description": null,
+    "language": "Swift",
+    "stars_today": 361,
+    "stars_total": 9812,
+    "topics": [],
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "readme_snippet": "<div align=\"right\"><strong><a href=\"./docs/README_ko.md\">🇰🇷한국어</a></strong> | <strong><a href=\"./docs/README_ja.md\">🇯🇵日本語</a></strong> | <strong><a href=\"./docs/README_zh.md\">🇨🇳中文</a></strong> | <strong>🇬🇧English</strong></div>\n\n# vphone-cli\n\nBoot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.\n\n![poc](./docs/demo.jpeg)\n\n## Prerequisites\n\n**Host:**\n\n- Apple Silicon\n- macOS 15+ (Sequoia)\n- Xcode + iOS SDK (cross-compiles the guest daemon)\n- [SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binary](#sipamfi-relaxation)\n\n**Dependencies:**\n\n```bash\nbrew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procursus sshpass keystone cmake libusb ipsw zstd\n```\n\n## Install\n\n```bash\nbrew install zqxwce/tap/vphone-cli\n```\n\n## Build\n\n`"
+  },
+  {
+    "repo_name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "stars_today": 3722,
+    "stars_total": 35819,
+    "topics": [
+      "architecture-diagram",
+      "claude-skill",
+      "developer-tools",
+      "diagram-as-code",
+      "mermaid-alternative",
+      "system-design",
+      "agent-skills",
+      "codex",
+      "data-flow-diagram",
+      "opencode",
+      "sequence-diagram",
+      "deepseek-harness",
+      "dsh-plugin",
+      "architecture-as-code",
+      "code-visualization",
+      "coding-agents",
+      "diagrams",
+      "diagrams-as-code",
+      "software-architecture",
+      "text-to-diagram"
+    ],
+    "url": "https://github.com/tt-a1i/archify",
+    "readme_snippet": "<p align=\"center\">\n  <strong>English</strong> · <a href=\"./README_ZH.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n![Archify product preview](docs/assets/archify-readme-hero.png)\n\n# Archify\n\n**Turn a codebase or system description into a polished, interactive system map — directly in chat.**\n\nArchify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce typed JSON IR; Archify deterministically compiles it into HTML/SVG.\n\n- **Open it and p"
+  },
+  {
+    "repo_name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "language": "Python",
+    "stars_today": 369,
+    "stars_total": 29307,
+    "topics": [
+      "abliteration",
+      "llm",
+      "transformer"
+    ],
+    "url": "https://github.com/p-e-w/heretic",
+    "readme_snippet": "<img width=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" />\n\n# Heretic: Fully automatic censorship removal for language models<br><br>[![Discord](https://img.shields.io/discord/1447831134212984903?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gdXc48gSyT) [![Matrix](https://img.shields.io/badge/Matrix-black?logo=matrix&style=for-the-badge)](https://matrix.to/#/#heretic:matrix.org) [![Follow us on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-us-on-hf-md-dark.svg)](https://huggingface.co/heretic-org) [![Codeberg mirror](https://img.shields.io/badge/Codeberg%20mirror-black?logo=codeberg&style=for-the-badge)](https://c"
+  },
+  {
+    "repo_name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stars_today": 221,
+    "stars_total": 80401,
+    "topics": [],
+    "url": "https://github.com/unclecode/crawl4ai",
+    "readme_snippet": "# 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/11716\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11716\" alt=\"unclecode%2Fcrawl4ai | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)](https://github.com/unclecode/crawl4ai/stargazers)\n[![GitHub Forks](https://img.shields.io/github/forks/unclecode/crawl4ai?style=social)](https://github.com/unclecode/crawl4ai/network/members)\n\n[![PyPI version](https://badge.fury.io/py/crawl4ai.svg)](https://badge.fury.io/py/crawl4ai)\n[![Python Version](https://img.shields.io/pypi/pyversions/crawl4ai)](https://pypi.org/project/crawl4ai/)\n["
+  },
+  {
+    "repo_name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars_today": 230,
+    "stars_total": 60641,
+    "topics": [
+      "ai-prompts",
+      "claude",
+      "claude-code",
+      "reddit",
+      "twitter",
+      "hackernews",
+      "polymarket",
+      "research",
+      "youtube",
+      "ai-skill",
+      "bluesky",
+      "clawhub",
+      "deep-research",
+      "instagram",
+      "openclaw",
+      "recency",
+      "social-media",
+      "tiktok",
+      "trends",
+      "web-search"
+    ],
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "readme_snippet": "# /last30days\n\nEnglish | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)\n\n<p align=\"center\">\n  <img src=\"media/pr-assets/last30days-ad.gif\" width=\"720\" alt=\"last30days - an AI agent-led search engine that searches people, not editors\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/mvanhorn/last30days-skill\">\n    <img src=\"https://img.shields.io/badge/%231-Repository%20Of%20The%20Day-6f42c1?style=for-the-badge&logo=github&label=GITHUB%20TRENDING\" alt=\"GitHub Trending #1 Repository Of The Day\" />\n  </a>\n  <br/>\n  <a href=\"https://trendshift.io/repositories/21997\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/21997\" alt=\"mvanhorn/last30d"
+  },
+  {
+    "repo_name": "majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "language": "Go",
+    "stars_today": 58,
+    "stars_total": 10314,
+    "topics": [
+      "ios",
+      "appstore",
+      "apple",
+      "ipa",
+      "itunes",
+      "cli",
+      "macos",
+      "reverse-engineering",
+      "security",
+      "swift",
+      "tool",
+      "go",
+      "command-line",
+      "command-line-tool",
+      "golang",
+      "golang-library",
+      "research"
+    ],
+    "url": "https://github.com/majd/ipatool",
+    "readme_snippet": "# IPATool\n\n[![Release](https://img.shields.io/github/release/majd/ipatool.svg?label=Release)](https://GitHub.com/majd/ipatool/releases/)\n[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/majd/ipatool/blob/main/LICENSE)\n\n`ipatool` is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the [App Store](https://apps.apple.com) and download a copy of the app package, known as an _ipa_ file.\n\n![Demo](./resources/demo.gif)\n\n- [Requirements](#requirements)\n- [Installation](#installation)\n  - [Manual](#manual)\n  - [Package Manager (macOS)](#package-manager-macos)\n- [Usage](#usage)\n- [Compiling](#compiling)\n- [License](#license)\n- [Releases](https://github.com/majd/ipatool/releases)\n- [FAQ](https://github.com/majd/ipatool/wiki/"
+  },
+  {
+    "repo_name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "language": null,
+    "stars_today": 96,
+    "stars_total": 93469,
+    "topics": [
+      "ai",
+      "mcp"
+    ],
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "readme_snippet": ""
+  },
+  {
+    "repo_name": "checkstyle/checkstyle",
+    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "language": "Java",
+    "stars_today": 115,
+    "stars_total": 9251,
+    "topics": [
+      "java",
+      "static-code-analysis",
+      "command-line-tool",
+      "static-analysis",
+      "code-quality",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/checkstyle/checkstyle",
+    "readme_snippet": "# Checkstyle - Java Code Quality Tool\n\n![](https://raw.githubusercontent.com/checkstyle/resources/master/img/checkstyle-logos/checkstyle-logo-260x99.png)\n\n--------------------------\n\n*Checkstyle is a tool that ensures adherence to a code standard or a set of best practices.*\n\n[![][appveyor img]][appveyor]\n[![][circleci img]][circleci]\n[![][cirrusci img]][cirrusci]\n[![][coverage img]][coverage]\n[![][snyk img]][snyk]\n[![][semaphoreci img]][semaphoreci]\n[![][azure img]][azure]\n[![][error prone img]][error prone]\n[![][qodana img]][qodana]\n[![][pitest img]][pitest]\n[![][checker framework img]][checker framework]\n[![][dependabot img]][dependabot]\n[![][release notes/version img]][release notes/version]\n[![][closed issues img]][closed issues]\n[![][link check img]][link check]\n[![][milestone img]]["
+  },
+  {
+    "repo_name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars_today": 198,
+    "stars_total": 74025,
+    "topics": [
+      "software-analysis",
+      "disassembler",
+      "reverse-engineering"
+    ],
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "readme_snippet": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\">\n\n# Ghidra Software Reverse Engineering Framework\nGhidra is a software reverse engineering (SRE) framework created and maintained by the \n[National Security Agency][nsa] Research Directorate. This framework includes a suite of \nfull-featured, high-end software analysis tools that enable users to analyze compiled code on a \nvariety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, \nassembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra \nsupports a wide variety of processor instruction sets and executable formats and can be run in both \nuser-interactive and automated modes. Users may also develop their own Ghidra extension components \na"
+  },
+  {
+    "repo_name": "pollen-robotics/microduck_rl",
+    "description": "RL training environments for Microduck (mjlab)",
+    "language": "Python",
+    "stars_today": 168,
+    "stars_total": 897,
+    "topics": [],
+    "url": "https://github.com/pollen-robotics/microduck_rl",
+    "readme_snippet": "# Microduck RL\n\n<img width=\"2215\" height=\"884\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5db7cc83-b3ce-4f7c-83f0-0572a63baed7\" />\n\n\nRL training environments for [Microduck](https://github.com/pollen-robotics/microduck) —\na ~800 g, ~25 cm tall bipedal robot — built on\n[mjlab](https://github.com/mujocolab/mjlab) (MuJoCo Warp) with PPO.\nPolicies are trained here at 50 Hz, exported to ONNX, and deployed on the real\nrobot by the runtime in [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck).\n\n<!-- HERO VIDEO — real robot montage: walking, standup, roulade, roller skating.\n     Keep it short (~30 s) and real-robot-first: this is the \"why should I care\" shot. -->\n\nhttps://github.com/user-attachments/assets/50c3d537-8db2-4005-9d9c-3472faeec4d0\n\nThe repo enco"
+  },
+  {
+    "repo_name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "language": "Python",
+    "stars_today": 62,
+    "stars_total": 5901,
+    "topics": [
+      "chinese",
+      "disclosure",
+      "patent",
+      "skill",
+      "obsidian"
+    ],
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "readme_snippet": "<div align=\"center\">\n\n# 中国专利.skill\n\n> 专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)\n[![Playwright](https://img.shields.io/badge/Playwright-mermaid%20%2B%20CNIPA-2EAD33.svg)](https://playwright.dev/)\n[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)\n\n<br>\n\n有设计文档和代码，但**专利点还没梳**？交底书要**框图 + 可改 Word**？<br>\n定稿后还要**多轮补材料、纠错**并留下修改追溯？<br>\n公开专利晦涩难懂，想**快速看懂权要与落地语境**？\n\n[初衷](#初衷) · [运行效果](#运行效果) · [功能特性](#功能特性) · [示例](#示例) · [支持作者](#支持作者) · [参考文档](#参考文档) · [安装说明](INSTALL.md) · [技能入口](SKILL.md)\n\n</div>\n\n---\n\n## 初衷\n\n### 专利交底书编写\n\n> **做了多年核心研发，专利发明人那一栏从没写过我的名字。**\n\n代码是自己敲的，方案是自己扛的，轮到交底书却卡"
+  },
+  {
+    "repo_name": "corsairdev/corsair",
+    "description": "Connect your users to their apps",
+    "language": "TypeScript",
+    "stars_today": 126,
+    "stars_total": 11051,
+    "topics": [],
+    "url": "https://github.com/corsairdev/corsair",
+    "readme_snippet": "# Corsair: Connect your users to their apps\n\n<div align=\"center\">\n\n[Website](https://corsair.dev) · [Discord](https://discord.gg/uNgCP3mSzU) · [X](https://x.com/corsairdotdev) \n\n[![npm](https://img.shields.io/npm/dm/corsair?style=flat&colorA=000000&colorB=000000)](https://npm.chart.dev/corsair?primary=neutral&gray=neutral&theme=dark)\n\n<a href=\"https://trendshift.io/repositories/50327?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-50327\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/50327\" alt=\"corsairdev%2Fcorsair | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n</div>\n\nCorsair is a fully-featured product integration platform with a seamless DX. Build anything, from an agent working across all your integrati"
+  },
+  {
+    "repo_name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "stars_today": 469,
+    "stars_total": 15337,
+    "topics": [
+      "backlink-analysis",
+      "keyword-research",
+      "mcp",
+      "seo",
+      "seo-tools",
+      "site-audit",
+      "google-search-console-mcp"
+    ],
+    "url": "https://github.com/every-app/open-seo",
+    "readme_snippet": "# OpenSEO\n\n> Open source alternative to Semrush and Ahrefs\n\nOpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.\n\n> All-in-one SEO tool for you and your AI agent.\n\nConnect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs.\n\n<img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fd208249-44ea-4849-bb4b-5fc896aeab73\" />\n\n## Hosted Version\n\nTry OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month.\n\n[openseo.so](https://openseo.so)\n\n## Why use OpenSEO?\n\n- Best in class MCP and AI Skills.\n- Modern, simple UI."
+  },
+  {
+    "repo_name": "colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "language": "TypeScript",
+    "stars_today": 31,
+    "stars_total": 43684,
+    "topics": [
+      "typescript",
+      "schema-validation",
+      "type-inference",
+      "runtime-validation",
+      "static-types"
+    ],
+    "url": "https://github.com/colinhacks/zod",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"logo.svg\" width=\"200px\" align=\"center\" alt=\"Zod logo\" />\n  <h1 align=\"center\">Zod</h1>\n  <p align=\"center\">\n    TypeScript-first schema validation with static type inference\n    <br/>\n    by <a href=\"https://x.com/colinhacks\">@colinhacks</a>\n  </p>\n</p>\n<br/>\n\n<p align=\"center\">\n<a href=\"https://github.com/colinhacks/zod/actions?query=branch%3Amain\"><img src=\"https://github.com/colinhacks/zod/actions/workflows/test.yml/badge.svg?event=push&branch=main\" alt=\"Zod CI status\" /></a>\n<a href=\"https://opensource.org/licenses/MIT\" rel=\"nofollow\"><img src=\"https://img.shields.io/github/license/colinhacks/zod\" alt=\"License\"></a>\n<a href=\"https://www.npmjs.com/package/zod\" rel=\"nofollow\"><img src=\"https://img.shields.io/npm/dw/zod.svg\" alt=\"npm\"></a>\n<a href=\"https://d"
+  },
+  {
+    "repo_name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "language": "TypeScript",
+    "stars_today": 504,
+    "stars_total": 23001,
+    "topics": [],
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "readme_snippet": "<div align=\"center\">\n\n# FreeLLMAPI\n\n**7.4 billion tokens per month.  34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint.**\n\nAggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and audio endpoints, behind a single `/v1` API. Keys are stored encrypted. A router picks the best available model for each request, falls over to the next provider when one is rate-limited, and tracks per-key usage so you stay under every free-tier cap.\n\n[![CI](https://github.com/tashfeenahmed/freellmapi/actions/workflows/ci.yml/badge.svg)](https://github.com/tashfeenahmed/freellmapi/actions/workflows/ci.yml)\n[![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat&logo=github&color=yellow)](https://github.c"
+  },
+  {
+    "repo_name": "livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "language": "Python",
+    "stars_today": 132,
+    "stars_total": 13845,
+    "topics": [
+      "ai",
+      "real-time",
+      "voice",
+      "video",
+      "agents",
+      "openai"
+    ],
+    "url": "https://github.com/livekit/agents",
+    "readme_snippet": "<!--BEGIN_BANNER_IMAGE-->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\">\n  <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\">\n</picture>\n\n<!--END_BANNER_IMAGE-->\n<br />\n\n![PyPI - Version](https://img.shields.io/pypi/v/livekit-agents)\n[![PyPI Downloads](https://static.pepy.tech/badge/livekit-agents/month)](https://pepy.tech/projects/livekit-agents)\n[![Slack community](https://img.shields.io/endpoint?url=https%3A%2F%2Flivekit.io%2Fbadges%2Fslack)](https://livekit.io/join-slack)\n[![Twitter Follow](https://img.shields"
+  },
+  {
+    "repo_name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "stars_today": 182,
+    "stars_total": 46653,
+    "topics": [],
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "readme_snippet": "# GitNexus  (Akon Labs)\n\n**⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus.\n\n<div align=\"center\">\n\n  <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n  </a>\n\n  <p>\n    <a href=\"https://discord.gg/MgJrmsqr62\">\n      <img src=\"https://img.shields.io/discord/1477255801545429032?color=5865F2&logo=discord&logoColor=white\" alt=\"Discord\"/>\n    </a>\n"
+  }
+]
