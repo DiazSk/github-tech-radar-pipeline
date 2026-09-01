@@ -1,0 +1,309 @@
+[
+  {
+    "repo_name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "stars_today": 2824,
+    "stars_total": 27870,
+    "topics": [],
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "readme_snippet": "<!-- <p align=\"center\">\n  <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/>\n</p> -->\n\n<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/>\n</p>\n\n<p align=\"center\">\n  Get an immersive, multi-agent learning experience in just one click\n</p>\n\n<p align=\"center\">\n  <a href=\"https://my.feishu.cn/wiki/UIfKw9Knti0LcKkTxDNcqlUrnzh\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"v1.0.0 User Guide (English)\"/></a>\n  &nbsp;&nbsp;\n  <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%99%20%E4%BD%93%E9%AA%8C%E6%8C%87%E5%8D%97-v1.0.0%20%C2%B7%20%E4%B8%AD%E6%96%87-FF6B35?style=for-the-badge\" alt=\"v1.0.0 体验指南（"
+  },
+  {
+    "repo_name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "stars_today": 3991,
+    "stars_total": 39703,
+    "topics": [
+      "architecture-diagram",
+      "claude-skill",
+      "developer-tools",
+      "diagram-as-code",
+      "mermaid-alternative",
+      "system-design",
+      "agent-skills",
+      "codex",
+      "data-flow-diagram",
+      "opencode",
+      "sequence-diagram",
+      "deepseek-harness",
+      "dsh-plugin",
+      "architecture-as-code",
+      "code-visualization",
+      "coding-agents",
+      "diagrams",
+      "diagrams-as-code",
+      "software-architecture",
+      "text-to-diagram"
+    ],
+    "url": "https://github.com/tt-a1i/archify",
+    "readme_snippet": "<p align=\"center\">\n  <strong>English</strong> · <a href=\"./README_ZH.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n![Archify product preview](docs/assets/archify-readme-hero.png)\n\n# Archify\n\n**Turn a codebase or system description into a polished, interactive system map — directly in chat.**\n\nArchify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce typed JSON IR; Archify deterministically compiles it into HTML/SVG.\n\n- **Open it and p"
+  },
+  {
+    "repo_name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars_today": 1980,
+    "stars_total": 40961,
+    "topics": [
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization",
+      "agent-skills"
+    ],
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "readme_snippet": "# Scientific Agent Skills\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)\n[![Version](https://img.shields.io/badge/Version-2.65.0-blue.svg)](pyproject.toml)\n[![Skills](https://img.shields.io/badge/Skills-163-brightgreen.svg)](#-whats-included)\n[![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included)\n[![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/)\n[![Agent Plugins](https://img.shields.io/badge/Standard-Agent_Plugins-0A7A72.svg)](https://agent-plugins.org/)\n[![Security Scan](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.yml/badge.svg)](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.ym"
+  },
+  {
+    "repo_name": "k1tbyte/Wand-Enhancer",
+    "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+    "language": "C#",
+    "stars_today": 582,
+    "stars_total": 23468,
+    "topics": [
+      "wemod",
+      "csharp",
+      "wpf",
+      "wand",
+      "wand-pro",
+      "wand-enhancer"
+    ],
+    "url": "https://github.com/k1tbyte/Wand-Enhancer",
+    "readme_snippet": "<div align=\"center\">\n\n![logo](./assets/icon.svg)\n\n# WandEnhancer\n\n[![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer)\n\n</div>\n\n<h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4>\n\n**🚨 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. 🚨\nThere are no official videos showing how to install or use this tool. Scammers are creating fake tutorials using this project's name and placing malware/password stealers in the video descriptions. Official GitHub releases contain release notes only, not `.exe` files. If you downloaded an `.exe` or archive from a YouTube link, a random websit"
+  },
+  {
+    "repo_name": "majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "language": "Go",
+    "stars_today": 373,
+    "stars_total": 10619,
+    "topics": [
+      "ios",
+      "appstore",
+      "apple",
+      "ipa",
+      "itunes",
+      "cli",
+      "macos",
+      "reverse-engineering",
+      "security",
+      "swift",
+      "tool",
+      "go",
+      "command-line",
+      "command-line-tool",
+      "golang",
+      "golang-library",
+      "research"
+    ],
+    "url": "https://github.com/majd/ipatool",
+    "readme_snippet": "# IPATool\n\n[![Release](https://img.shields.io/github/release/majd/ipatool.svg?label=Release)](https://GitHub.com/majd/ipatool/releases/)\n[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/majd/ipatool/blob/main/LICENSE)\n\n`ipatool` is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the [App Store](https://apps.apple.com) and download a copy of the app package, known as an _ipa_ file.\n\n![Demo](./resources/demo.gif)\n\n- [Requirements](#requirements)\n- [Installation](#installation)\n  - [Manual](#manual)\n  - [Package Manager (macOS)](#package-manager-macos)\n- [Usage](#usage)\n- [Compiling](#compiling)\n- [License](#license)\n- [Releases](https://github.com/majd/ipatool/releases)\n- [FAQ](https://github.com/majd/ipatool/wiki/"
+  },
+  {
+    "repo_name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "stars_today": 495,
+    "stars_total": 56413,
+    "topics": [
+      "artificial-intelligence",
+      "large-language-model"
+    ],
+    "url": "https://github.com/jingyaogong/minimind",
+    "readme_snippet": "<div align=\"center\">\n\n![logo](./images/logo.png)\n\n</div>\n\n<div align=\"center\">\n\n![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind)\n[![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers)\n[![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE)\n[![GitHub last commit](https://img.shields.io/github/last-commit/jingyaogong/minimind)](https://github.com/jingyaogong/minimind/commits/master)\n[![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/jingyaogong/minimind/pulls)\n[![Collection](https://img.shields.io/badge/🤗-MiniMind%20%20Collection-blue)](https://huggingface.co/collections/jingyaogong/minimind-66c"
+  },
+  {
+    "repo_name": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "language": "Python",
+    "stars_today": 77,
+    "stars_total": 5626,
+    "topics": [
+      "ai-agents",
+      "llm",
+      "self-hosted",
+      "amd",
+      "comfyui",
+      "docker",
+      "llama-cpp",
+      "local-ai",
+      "n8n",
+      "nvidia",
+      "open-webui",
+      "rag",
+      "speech-to-text",
+      "strix-halo",
+      "text-to-speech",
+      "workflow-automation"
+    ],
+    "url": "https://github.com/Osmantic/ODS",
+    "readme_snippet": "<div align=\"center\">\n\n# ODS\n\n**Osmantic Deployment System**\n\n<p align=\"center\">\n  <a href=\"https://osmantic.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"ods/docs/images/osmantic-lockup.png\" alt=\"Osmantic\" width=\"800\">\n  </a>\n</p>\n\n**Turn your PC, Mac, or Linux box into a private AI server.**\n\nAI server and homelab setup is rapidly becoming a solved problem.\nIt should feel that way for everyone.\n\n[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)\n[![GitHub Stars](https://img.shields.io/github/stars/Osmantic/ODS)](https://github.com/Osmantic/ODS/stargazers)\n[![Release](https://img.shields.io/github/v/release/Osmantic/ODS)](https://github.com/Osmantic/ODS/releases)\n\n[![Watch the demo](https://img.shields.io/badge/Demo-Watch%20on%20Yo"
+  },
+  {
+    "repo_name": "checkstyle/checkstyle",
+    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "language": "Java",
+    "stars_today": 198,
+    "stars_total": 9456,
+    "topics": [
+      "java",
+      "static-code-analysis",
+      "command-line-tool",
+      "static-analysis",
+      "code-quality",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/checkstyle/checkstyle",
+    "readme_snippet": "# Checkstyle - Java Code Quality Tool\n\n![](https://raw.githubusercontent.com/checkstyle/resources/master/img/checkstyle-logos/checkstyle-logo-260x99.png)\n\n--------------------------\n\n*Checkstyle is a tool that ensures adherence to a code standard or a set of best practices.*\n\n[![][appveyor img]][appveyor]\n[![][circleci img]][circleci]\n[![][cirrusci img]][cirrusci]\n[![][coverage img]][coverage]\n[![][snyk img]][snyk]\n[![][semaphoreci img]][semaphoreci]\n[![][azure img]][azure]\n[![][error prone img]][error prone]\n[![][qodana img]][qodana]\n[![][pitest img]][pitest]\n[![][checker framework img]][checker framework]\n[![][dependabot img]][dependabot]\n[![][release notes/version img]][release notes/version]\n[![][closed issues img]][closed issues]\n[![][link check img]][link check]\n[![][milestone img]]["
+  },
+  {
+    "repo_name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "language": "PowerShell",
+    "stars_today": 1401,
+    "stars_total": 33380,
+    "topics": [],
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" />\n</p>\n<h1 align=\"center\">reverse-skill</h1>\n<h3 align=\"center\">Cybersecurity Skills Router · 逆向技能路由包</h3>\n\n<p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases\"><img src=\"https://img.shields.io/badge/release-v1.0.1-blue\" alt=\"release v1.0.1\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/stargazers\"><img src=\"https://img.shields.io/github/stars/zhaoxuya520/reverse-skill?style=flat&logo=github\" alt=\"stars\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/forks\"><img src=\"https://img.shields.io/github/for"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 512,
+    "stars_total": 245373,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "kaifcodec/user-scanner",
+    "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+    "language": "Python",
+    "stars_today": 93,
+    "stars_total": 4382,
+    "topics": [
+      "osint",
+      "osint-tool",
+      "python",
+      "osint-tools",
+      "email-osint",
+      "osint-email",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "threat-intelligence",
+      "ethical-hacking",
+      "ethical-hacking-tools",
+      "redteam-tools",
+      "redteaming",
+      "identification",
+      "pentesting",
+      "infosec",
+      "osint-username"
+    ],
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "readme_snippet": "# User Scanner\n\n<p align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/49ec8d24-665b-4115-8525-01a8d0ca2ef4\" alt=\"User Scanner Logo\" width=\"600\" />\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Version-1.5.1.1-blueviolet?style=for-the-badge&logo=github\" />\n  <img src=\"https://img.shields.io/github/issues/kaifcodec/user-scanner?style=for-the-badge&logo=github\" />\n  <img src=\"https://img.shields.io/badge/Tested%20on-Termux-black?style=for-the-badge&logo=termux\" />\n  <img src=\"https://img.shields.io/badge/Tested%20on-Windows-cyan?style=for-the-badge&logo=Windows\" />\n  <img src=\"https://img.shields.io/badge/Tested%20on-Linux-black?style=for-the-badge&logo=Linux\" />\n  <img src=\"https://img.shields.io/pepy/dt/user-scanner?style=for-the-badge\" />\n  <a href=\""
+  },
+  {
+    "repo_name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "language": "TypeScript",
+    "stars_today": 610,
+    "stars_total": 15862,
+    "topics": [
+      "backlink-analysis",
+      "keyword-research",
+      "mcp",
+      "seo",
+      "seo-tools",
+      "site-audit",
+      "google-search-console-mcp"
+    ],
+    "url": "https://github.com/every-app/open-seo",
+    "readme_snippet": "# OpenSEO\n\n> Open source alternative to Semrush and Ahrefs\n\nOpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.\n\n> All-in-one SEO tool for you and your AI agent.\n\nConnect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs.\n\n<img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fd208249-44ea-4849-bb4b-5fc896aeab73\" />\n\n## Hosted Version\n\nTry OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month.\n\n[openseo.so](https://openseo.so)\n\n## Why use OpenSEO?\n\n- Best in class MCP and AI Skills.\n- Modern, simple UI."
+  },
+  {
+    "repo_name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "language": "Python",
+    "stars_today": 537,
+    "stars_total": 29758,
+    "topics": [
+      "abliteration",
+      "llm",
+      "transformer"
+    ],
+    "url": "https://github.com/p-e-w/heretic",
+    "readme_snippet": "<img width=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" />\n\n# Heretic: Fully automatic censorship removal for language models<br><br>[![Discord](https://img.shields.io/discord/1447831134212984903?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gdXc48gSyT) [![Matrix](https://img.shields.io/badge/Matrix-black?logo=matrix&style=for-the-badge)](https://matrix.to/#/#heretic:matrix.org) [![Follow us on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-us-on-hf-md-dark.svg)](https://huggingface.co/heretic-org) [![Codeberg mirror](https://img.shields.io/badge/Codeberg%20mirror-black?logo=codeberg&style=for-the-badge)](https://c"
+  },
+  {
+    "repo_name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "language": "Python",
+    "stars_today": 571,
+    "stars_total": 6396,
+    "topics": [
+      "chinese",
+      "disclosure",
+      "patent",
+      "skill",
+      "obsidian"
+    ],
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "readme_snippet": "<div align=\"center\">\n\n# 中国专利.skill\n\n> 按发明人/申请人检索公开专利清单，专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)\n[![Playwright](https://img.shields.io/badge/Playwright-mermaid%20%2B%20CNIPA-2EAD33.svg)](https://playwright.dev/)\n[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)\n\n<br>\n\n有设计文档和代码，但**专利点还没梳**？交底书要**框图 + 可改 Word**？<br>\n定稿后还要**多轮补材料、纠错**并留下修改追溯？<br>\n公开专利晦涩难懂，想**快速看懂权要与落地语境**？\n\n[初衷](#初衷) · [运行效果](#运行效果) · [功能特性](#功能特性) · [示例](#示例) · [支持作者](#支持作者) · [参考文档](#参考文档) · [安装说明](INSTALL.md) · [技能入口](SKILL.md)\n\n</div>\n\n---\n\n## 初衷\n\n### 专利交底书编写\n\n> **做了多年核心研发，专利发明人那一栏从没写过我的名字。**\n\n代码是自己敲"
+  },
+  {
+    "repo_name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "stars_today": 228,
+    "stars_total": 17496,
+    "topics": [
+      "markdown",
+      "nodejs",
+      "pdf",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction",
+      "ocr-routing",
+      "pdf-classification"
+    ],
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "readme_snippet": "# pdf-inspector\n\n[![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector)\n[![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector)\n[![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n\nFast Rust library for PDF classification and text extraction. By default it detects whether a PDF is text-based or scanned, extracts text with position awareness, and converts to clean Markdown without OCR. Native Rust and CLI consumers can opt into selective OCR. Includes bindings for [Python](docs/python.md), [Node.js](napi/README.md), and [browser WebAssembly](wasm/REA"
+  },
+  {
+    "repo_name": "pollen-robotics/microduck_rl",
+    "description": "RL training environments for Microduck (mjlab)",
+    "language": "Python",
+    "stars_today": 385,
+    "stars_total": 1249,
+    "topics": [],
+    "url": "https://github.com/pollen-robotics/microduck_rl",
+    "readme_snippet": "# Microduck RL\n\n<img width=\"2215\" height=\"884\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5db7cc83-b3ce-4f7c-83f0-0572a63baed7\" />\n\n\nRL training environments for [Microduck](https://github.com/pollen-robotics/microduck) —\na ~800 g, ~25 cm tall bipedal robot — built on\n[mjlab](https://github.com/mujocolab/mjlab) (MuJoCo Warp) with PPO.\nPolicies are trained here at 50 Hz, exported to ONNX, and deployed on the real\nrobot by the runtime in [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck).\n\n<!-- HERO VIDEO — real robot montage: walking, standup, roulade, roller skating.\n     Keep it short (~30 s) and real-robot-first: this is the \"why should I care\" shot. -->\n\nhttps://github.com/user-attachments/assets/50c3d537-8db2-4005-9d9c-3472faeec4d0\n\nThe repo enco"
+  }
+]
