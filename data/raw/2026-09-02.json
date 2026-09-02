@@ -1,0 +1,229 @@
+[
+  {
+    "repo_name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "language": "TypeScript",
+    "stars_today": 80,
+    "stars_total": 31489,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "cli",
+      "coding"
+    ],
+    "url": "https://github.com/Gitlawb/openclaude",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"docs/assets/openclaude-wordmark.png\" alt=\"OpenClaude — Open terminal for any LLM\" width=\"830\">\n\n  <p>\n    <a href=\"https://trendshift.io/repositories/25807?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-25807\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/25807/daily?language=TypeScript\" alt=\"Gitlawb%2Fopenclaude | Trendshift\" width=\"250\" height=\"55\"/></a>\n    <a href=\"https://trendshift.io/repositories/25807?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-25807\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/25807/monthly?language=TypeScript\" alt=\"Gitlawb%2Fopenclau"
+  },
+  {
+    "repo_name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "language": "Python",
+    "stars_today": 193,
+    "stars_total": 45093,
+    "topics": [
+      "academic-writing",
+      "ai-research",
+      "claude",
+      "claude-code",
+      "literature-review",
+      "peer-review",
+      "prompt-engineering",
+      "academic-pipeline"
+    ],
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "readme_snippet": "# Academic Research Skills for Claude Code\n\n[![Version](https://img.shields.io/badge/version-v3.21.1-blue)](https://github.com/Imbad0202/academic-research-skills/releases/tag/v3.21.1)\n[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20696614-blue)](https://doi.org/10.5281/zenodo.20696614)\n[![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)\n[![Sponsor](https://img.shields.io/badge/sponsor-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/crucify020v)\n\n[简体中文版](README.zh-CN.md) | [繁體中文版](README.zh-TW.md) | [日本語版](README.ja-JP.md) | [한국어](README.ko-KR.md)\n\nA comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to publ"
+  },
+  {
+    "repo_name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "stars_today": 3128,
+    "stars_total": 29783,
+    "topics": [],
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "readme_snippet": "<!-- <p align=\"center\">\n  <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/>\n</p> -->\n\n<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/>\n</p>\n\n<p align=\"center\">\n  Get an immersive, multi-agent learning experience in just one click\n</p>\n\n<p align=\"center\">\n  <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"v1.0.0 User Guide (English)\"/></a>\n  &nbsp;&nbsp;\n  <a href=\"https://my.feishu.cn/wiki/UIfKw9Knti0LcKkTxDNcqlUrnzh\"><img src=\"https://img.shields.io/badge/%F0%9F%93%99%20%E4%BD%93%E9%AA%8C%E6%8C%87%E5%8D%97-v1.0.0%20%C2%B7%20%E4%B8%AD%E6%96%87-FF6B35?style=for-the-badge\" alt=\"v1.0.0 体验指南（"
+  },
+  {
+    "repo_name": "iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "language": "Crystal",
+    "stars_today": 577,
+    "stars_total": 23840,
+    "topics": [
+      "invidious",
+      "watch",
+      "agplv3",
+      "youtube",
+      "video",
+      "youtube-video",
+      "libre",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/iv-org/invidious",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"assets/invidious-colored-vector.svg\" width=\"192\" height=\"192\" alt=\"Invidious logo\">\n  <h1>Invidious</h1>\n\n  <a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\">\n    <img alt=\"License: AGPLv3\" src=\"https://shields.io/badge/License-AGPL%20v3-blue.svg\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/actions\">\n    <img alt=\"Build Status\" src=\"https://github.com/iv-org/invidious/workflows/Invidious%20CI/badge.svg\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/commits/master\">\n    <img alt=\"GitHub commits\" src=\"https://img.shields.io/github/commit-activity/y/iv-org/invidious?color=red&label=commits\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/issues\">\n    <img alt=\"GitHub issues\" src=\"https://img.shields.io/github/issues/iv-org/invi"
+  },
+  {
+    "repo_name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "stars_today": 1005,
+    "stars_total": 57292,
+    "topics": [
+      "artificial-intelligence",
+      "large-language-model"
+    ],
+    "url": "https://github.com/jingyaogong/minimind",
+    "readme_snippet": "<div align=\"center\">\n\n![logo](./images/logo.png)\n\n</div>\n\n<div align=\"center\">\n\n![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind)\n[![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers)\n[![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE)\n[![GitHub last commit](https://img.shields.io/github/last-commit/jingyaogong/minimind)](https://github.com/jingyaogong/minimind/commits/master)\n[![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/jingyaogong/minimind/pulls)\n[![Collection](https://img.shields.io/badge/🤗-MiniMind%20%20Collection-blue)](https://huggingface.co/collections/jingyaogong/minimind-66c"
+  },
+  {
+    "repo_name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars_today": 86,
+    "stars_total": 92660,
+    "topics": [
+      "python",
+      "animation",
+      "explanatory-math-videos",
+      "3b1b-videos"
+    ],
+    "url": "https://github.com/3b1b/manim",
+    "readme_snippet": "<p align=\"center\">\n    <a href=\"https://github.com/3b1b/manim\">\n        <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\">\n    </a>\n</p>\n\n[![pypi version](https://img.shields.io/pypi/v/manimgl?logo=pypi)](https://pypi.org/project/manimgl/)\n[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)\n[![Manim Subreddit](https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=ff4301&label=reddit&logo=reddit)](https://www.reddit.com/r/manim/)\n[![Manim Discord](https://img.shields.io/discord/581738731934056449.svg?label=discord&logo=discord)](https://discord.com/invite/bYCyhM9Kz2)\n[![docs](https://github.com/3b1b/manim/workflows/docs/badge.svg)](https://3b1b.github.io/manim/)\n\nManim is an engin"
+  },
+  {
+    "repo_name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "language": "Rust",
+    "stars_today": 541,
+    "stars_total": 18076,
+    "topics": [
+      "markdown",
+      "nodejs",
+      "pdf",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction",
+      "ocr-routing",
+      "pdf-classification"
+    ],
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "readme_snippet": "# pdf-inspector\n\n[![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector)\n[![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector)\n[![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n\nFast Rust library for PDF classification and text extraction. By default it detects whether a PDF is text-based or scanned, extracts text with position awareness, and converts to clean Markdown without OCR. Native Rust and CLI consumers can opt into selective OCR. Includes bindings for [Python](docs/python.md), [Node.js](napi/README.md), and [browser WebAssembly](wasm/REA"
+  },
+  {
+    "repo_name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "stars_today": 472,
+    "stars_total": 23119,
+    "topics": [],
+    "url": "https://github.com/browser-use/video-use",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\">\n</p>\n\n# video-use\n\nIntroducing **video-use** — edit videos with Claude Code. 100% open source.\n\nDrop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus.\n\nTry video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github).\n\n## What it does\n\n- **Cuts out filler words** (`umm`, `uh`, false starts) and dead space between takes\n- **Auto color grades** every segment (warm cinematic, neutral punch, or any custom ffmpeg chain)\n- **30ms audio fades** at every cut so you never hear a pop\n- **Burns subtitles** in your style — 2-word"
+  },
+  {
+    "repo_name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars_today": 912,
+    "stars_total": 41708,
+    "topics": [
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization",
+      "agent-skills"
+    ],
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "readme_snippet": "# Scientific Agent Skills\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)\n[![Version](https://img.shields.io/badge/Version-2.65.0-blue.svg)](pyproject.toml)\n[![Skills](https://img.shields.io/badge/Skills-163-brightgreen.svg)](#-whats-included)\n[![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included)\n[![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/)\n[![Agent Plugins](https://img.shields.io/badge/Standard-Agent_Plugins-0A7A72.svg)](https://agent-plugins.org/)\n[![Security Scan](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.yml/badge.svg)](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.ym"
+  },
+  {
+    "repo_name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "language": "Python",
+    "stars_today": 501,
+    "stars_total": 6848,
+    "topics": [
+      "chinese",
+      "disclosure",
+      "patent",
+      "skill",
+      "obsidian"
+    ],
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "readme_snippet": "<div align=\"center\">\n\n# 中国专利.skill\n\n> 按发明人/申请人检索公开专利清单，专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)\n[![Playwright](https://img.shields.io/badge/Playwright-mermaid%20%2B%20CNIPA-2EAD33.svg)](https://playwright.dev/)\n[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)\n\n<br>\n\n有设计文档和代码，但**专利点还没梳**？交底书要**框图 + 可改 Word**？<br>\n定稿后还要**多轮补材料、纠错**并留下修改追溯？<br>\n公开专利晦涩难懂，想**快速看懂权要与落地语境**？\n\n[初衷](#初衷) · [运行效果](#运行效果) · [功能特性](#功能特性) · [示例](#示例) · [支持作者](#支持作者) · [参考文档](#参考文档) · [安装说明](INSTALL.md) · [技能入口](SKILL.md)\n\n</div>\n\n---\n\n## 初衷\n\n### 专利交底书编写\n\n> **做了多年核心研发，专利发明人那一栏从没写过我的名字。**\n\n代码是自己敲"
+  },
+  {
+    "repo_name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "language": null,
+    "stars_today": 323,
+    "stars_total": 113040,
+    "topics": [
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "google-stitch",
+      "landing-page",
+      "design-tokens",
+      "figma",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
+    ],
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "readme_snippet": "\n<a href=\"https://github.com/VoltAgent/voltagent\">\n     <img width=\"1500\"  alt=\"claude-skills\" src=\"https://cdn.voltagent.dev/awesome-repo/logo.json.svg\" />\n</a>\n\n\n<br/>\n<br/>\n\n<div align=\"center\">\n    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>\n    <br />\n    <br />\n\n</div>\n\n<div align=\"center\">\n\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-73-10b981?style=classic)\n[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)\n[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7E"
+  },
+  {
+    "repo_name": "averygan/reclip",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "language": "HTML",
+    "stars_today": 56,
+    "stars_total": 7835,
+    "topics": [],
+    "url": "https://github.com/averygan/reclip",
+    "readme_snippet": "# ReClip\n\nA self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3.\n\n![Python](https://img.shields.io/badge/python-3.8+-blue)\n![License](https://img.shields.io/badge/license-MIT-green)\n\nhttps://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05\n\n![ReClip MP3 Mode](assets/preview-mp3.png)\n\n## Features\n\n- Download videos from 1000+ supported sites (via [yt-dlp](https://github.com/yt-dlp/yt-dlp))\n- MP4 video or MP3 audio extraction\n- Quality/resolution picker\n- Bulk downloads — paste multiple URLs at once\n- Automatic URL deduplication\n- Clean, responsive UI — no frameworks, no build step\n- Single Python file backend (~150 lines)\n\n## Quick Start\n\n```bash"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 623,
+    "stars_total": 245844,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stars_today": 145,
+    "stars_total": 80945,
+    "topics": [],
+    "url": "https://github.com/unclecode/crawl4ai",
+    "readme_snippet": "# 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/11716\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11716\" alt=\"unclecode%2Fcrawl4ai | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)](https://github.com/unclecode/crawl4ai/stargazers)\n[![GitHub Forks](https://img.shields.io/github/forks/unclecode/crawl4ai?style=social)](https://github.com/unclecode/crawl4ai/network/members)\n\n[![PyPI version](https://badge.fury.io/py/crawl4ai.svg)](https://badge.fury.io/py/crawl4ai)\n[![Python Version](https://img.shields.io/pypi/pyversions/crawl4ai)](https://pypi.org/project/crawl4ai/)\n["
+  }
+]
