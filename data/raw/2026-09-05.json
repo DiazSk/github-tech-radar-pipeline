@@ -1,0 +1,287 @@
+[
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 2758,
+    "stars_total": 250702,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars_today": 1679,
+    "stars_total": 126447,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.png\">\n    <img src=\"assets/logo.png\" width=\"220\" alt=\"Ponytail, the lazy senior dev\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Ponytail</h1>\n\n<p align=\"center\">\n  <em>He says nothing. He writes one line. It works.</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/50668?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-50668\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/50668\" alt=\"DietrichGebert%2Fponytail | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&color=111111&label"
+  },
+  {
+    "repo_name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars_today": 688,
+    "stars_total": 25494,
+    "topics": [
+      "formatting",
+      "printf",
+      "output",
+      "chrono",
+      "performance",
+      "multiplatform",
+      "cross-platform",
+      "cpp",
+      "ranges",
+      "floating-point",
+      "unicode",
+      "c-plus-plus"
+    ],
+    "url": "https://github.com/fmtlib/fmt",
+    "readme_snippet": "<img src=\"https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png\" alt=\"{fmt}\" width=\"25%\"/>\n\n[![image](https://github.com/fmtlib/fmt/actions/workflows/linux.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Alinux)\n[![image](https://github.com/fmtlib/fmt/actions/workflows/macos.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Amacos)\n[![image](https://github.com/fmtlib/fmt/actions/workflows/windows.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Awindows)\n[![fmt is continuously fuzzed at oss-fuzz](https://oss-fuzz-build-logs.storage.googleapis.com/badges/fmt.svg)](\nhttps://issues.oss-fuzz.com/issues?q=title:fmt%20cc:victor.zverovich@gmail."
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 1135,
+    "stars_total": 248672,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars_today": 511,
+    "stars_total": 174202,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/anthropics/skills",
+    "readme_snippet": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).\n\n[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)\n\n# Skills\nSkills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.\n\nFor more information, check out:\n- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)\n- [Using skills in Claude](ht"
+  },
+  {
+    "repo_name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "stars_today": 1130,
+    "stars_total": 42859,
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "url": "https://github.com/blader/humanizer",
+    "readme_snippet": "# Humanizer\n\n[![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer)\n\nHumanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills.\n\n## How it works\n\nHumanizer uses 35 patterns from Wikipedia's [\"Signs of AI writing\"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup. It makes a first pass without treating the original structure as fixed. Then it checks the draft against those patterns and the original claims before rewriting whatever still needs work.\n\n> \"LLMs use statistical algorithms to guess what should come next. The result tends toward the most statistically likely result that ap"
+  },
+  {
+    "repo_name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stars_today": 720,
+    "stars_total": 241591,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "openai"
+    ],
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\">\n</p>\n\n# Hermes Agent ☤\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Agent</a> | <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Desktop</a>\n</p>\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n  <a href=\"https://github.com/NousResearch/hermes-agent/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-green?style=for-the-badge\" alt=\"Lice"
+  },
+  {
+    "repo_name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Go",
+    "stars_today": 501,
+    "stars_total": 103632,
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/caveman-logo-banner.png\" alt=\"Caveman\" width=\"720\">\n</p>\n\n<p align=\"center\">\n  <strong>why use many token when few do trick</strong>\n</p>\n\n<p align=\"center\">\n  Your AI coding agent bills by the word and writes like it knows that.<br>\n  Caveman make it stop. Brain still big. Mouth small. Bill small.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.producthunt.com/products/caveman?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-caveman-2\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1220849&amp;theme=light&amp;t=1786634691828\" alt=\"Caveman - why use many token when few do trick | Product Hunt\" width=\"250\" height=\"54\"/></a>\n  <a href=\"ht"
+  },
+  {
+    "repo_name": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "language": "TypeScript",
+    "stars_today": 391,
+    "stars_total": 2611,
+    "topics": [],
+    "url": "https://github.com/magnitudedev/magnitude",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/brand/icon-dark.svg\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/brand/icon-light.svg\">\n    <img alt=\"Magnitude icon\" src=\"assets/brand/icon-light.svg\" width=\"120\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Magnitude</h1>\n\n<p align=\"center\"><strong>Run your agent on local models. Free, private, and offline.</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://docs.magnitude.dev\"><img src=\"https://img.shields.io/badge/%F0%9F%93%95-Docs-0369a1?style=flat-square&labelColor=0369a1&color=gray\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/EHt48pPWdC\"><img src=\"https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2&col"
+  },
+  {
+    "repo_name": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "language": "Python",
+    "stars_today": 74,
+    "stars_total": 4555,
+    "topics": [],
+    "url": "https://github.com/bikini/exploitarium",
+    "readme_snippet": "# Statement\n\nThis repo was incomplete when published. \n\nIn regard to AI usage, my fuzzing workflow was automated by AI with a strict workflow. I used GPT-5.3 for ALL the fuzzing, as barely any \"thought\" is necessary when provided with an efficient workflow. Contrary to the growing narrative that I'm just some random child burning tokens, I DO actually have a degree in the subject and have published multiple papers on fuzzing methodology. I spent years researching and developing new tools and ideas for how to fuzz. You do NOT need a SOTA model to help you identify these issues, I promise! While being able to afford a better model is helpful, my data seems to show that it is only marginal when paired with decent human oversight and a good workflow. None of the actual PoCs themselves were vib"
+  },
+  {
+    "repo_name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "Kotlin",
+    "stars_today": 730,
+    "stars_total": 52854,
+    "topics": [
+      "ssr",
+      "v2ray",
+      "shadowsocks",
+      "fanqiang",
+      "proxy",
+      "goflyway",
+      "daze",
+      "brook",
+      "lightsocks",
+      "trojan",
+      "psiphon"
+    ],
+    "url": "https://github.com/bannedbook/fanqiang",
+    "readme_snippet": "# 翻墙-科学上网、翻墙工具、翻墙教程项目库\r\n\r\n*   [翻墙新闻-FQNews-安卓APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)\r\n*   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)\r\n*   [安卓翻墙APP教程](https://github.com/bannedbook/fanqiang/tree/master/android)\r\n*   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)\r\n*   [Chrome一键翻墙包 Mac版](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacchrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85-mac%E7%89%88)\r\n*   [EdgeGo-Edge一键翻墙包](https://github.com/bannedbook/fanqiang/tree/master/EdgeGo)\r\n*   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"
+  },
+  {
+    "repo_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars_today": 1345,
+    "stars_total": 18220,
+    "topics": [
+      "tts",
+      "voice-cloning",
+      "voice-generation",
+      "voice-ai",
+      "ai",
+      "cuda",
+      "mlx",
+      "huggingface",
+      "transcription",
+      "translate",
+      "workflow",
+      "omnivoice-studio",
+      "dubbing",
+      "audiobook",
+      "elevenlabs-alternative",
+      "local-first",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "voicestudio"
+    ],
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "readme_snippet": "<div align=\"center\">\n  <p><img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /></p>\n  <h1>VoiceStudio</h1>\n  <p>\n    <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a>\n  </p>\n  <p><sub>Previously OmniVoice-Studio</sub></p>\n  <h3>Clone voices, dub video, dictate, and produce long-form audio on your own hardware.</h3>\n  <p>16 TTS engines · 11 ASR engines · 646-language catalogue · macOS, Windows, Linux, and Docker</p>\n  <p>No account, API key, subscription, or usage meter for the local workflow.</p>\n\n  <p>\n    "
+  },
+  {
+    "repo_name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "stars_today": 342,
+    "stars_total": 31112,
+    "topics": [],
+    "url": "https://github.com/google-research/timesfm",
+    "readme_snippet": "# TimesFM\n\nTimesFM (Time Series Foundation Model) is a pretrained time-series foundation\nmodel developed by Google Research for time-series forecasting.\n\n*   Paper:\n    [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688),\n    ICML 2024.\n*   <span style=\"color:red\">(NEW!)</span> TimesFM 3.0 Checkpoint:\n    [`google/timesfm-3.0-pytorch`](https://huggingface.co/google/timesfm-3.0-pytorch).\n*   Checkpoints (up to 2.5):\n    [TimesFM Hugging Face Collection](https://huggingface.co/collections/google/timesfm-release-66e4be5fdb56e960c1e482a6).\n*   [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)\n    (New blog post for TimesFM 3.0 coming soon!).\n*   TimesFM in Google 1P Products:\n    *   [Bi"
+  },
+  {
+    "repo_name": "radixark/miles",
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "language": "Python",
+    "stars_today": 64,
+    "stars_total": 2586,
+    "topics": [],
+    "url": "https://github.com/radixark/miles",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"https://raw.githubusercontent.com/radixark/miles/main/docs/assets/images/brand/miles_logo.png\" alt=\"Miles Logo\" width=\"340\">\n\n### **Enterprise-Grade Reinforcement Learning for Large-Scale Model Post-Training**\n\n[![Website](https://img.shields.io/badge/website-miles.radixark.com-d55816)](https://miles.radixark.com/)\n[![GitHub Repo](https://img.shields.io/badge/github-radixark%2Fmiles-black?logo=github)](https://github.com/radixark/miles)\n[![Docs](https://img.shields.io/badge/docs-miles.radixark.com%2Fdocs-d55816)](https://miles.radixark.com/docs)\n[![License](https://img.shields.io/github/license/radixark/miles)](LICENSE)\n[![Slack](https://img.shields.io/badge/slack-%23miles--rl-brightgreen.svg)](https://slack.sglang.ai)\n\n| [**Website**](https://miles.radixark"
+  },
+  {
+    "repo_name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars_today": 345,
+    "stars_total": 204236,
+    "topics": [],
+    "url": "https://github.com/anomalyco/opencode",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/opencode-ai\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/opencode-ai?style=flat-square\" /></a>\n  <a href=\"https:/"
+  },
+  {
+    "repo_name": "clshortfuse/renodx",
+    "description": "Renovation Engine for DirectX Games",
+    "language": "HLSL",
+    "stars_today": 261,
+    "stars_total": 3560,
+    "topics": [
+      "directx",
+      "games",
+      "hdr",
+      "mod"
+    ],
+    "url": "https://github.com/clshortfuse/renodx",
+    "readme_snippet": "[![Clang](https://github.com/clshortfuse/renodx/actions/workflows/clang-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/clang-x64.yml) [![Ninja](https://github.com/clshortfuse/renodx/actions/workflows/ninja-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/ninja-x64.yml) [![Visual Studio](https://github.com/clshortfuse/renodx/actions/workflows/visual-studio-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/visual-studio-x64.yml) \n\n[![Discord](https://img.shields.io/discord/1408098019194310818?logo=discord&logoColor=%23fff&label=Discord&labelColor=%235865F2)](https://discord.gg/F6AUTeWJHM)\n\n# renodx\nRenoDX, short for \"Renovation Engine for DirectX Games\", is a toolset to mod games. Currently it can replace shade"
+  },
+  {
+    "repo_name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars_today": 437,
+    "stars_total": 31086,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "readme_snippet": "# Diagram Design\n\n**Editorial diagrams your designer won't hate.**\n\n<a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png)\n\n[![The self-improving loop](docs/screenshots/thumbs/loop.webp)](docs/screenshots/loop.png)\n\n*New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*\n\n*New in 2.3: semantic system patterns and optional accessible motion, while static output stays the defau"
+  }
+]
