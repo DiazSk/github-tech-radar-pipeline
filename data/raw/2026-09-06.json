@@ -1,0 +1,263 @@
+[
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 2692,
+    "stars_total": 252982,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 1314,
+    "stars_total": 250134,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars_today": 2845,
+    "stars_total": 128205,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.png\">\n    <img src=\"assets/logo.png\" width=\"220\" alt=\"Ponytail, the lazy senior dev\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Ponytail</h1>\n\n<p align=\"center\">\n  <em>He says nothing. He writes one line. It works.</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/50668?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-50668\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/50668\" alt=\"DietrichGebert%2Fponytail | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&color=111111&label"
+  },
+  {
+    "repo_name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stars_today": 575,
+    "stars_total": 242093,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "nous-research",
+      "openai"
+    ],
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\">\n</p>\n\n# Hermes Agent ☤\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Agent</a> | <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Desktop</a>\n</p>\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n  <a href=\"https://github.com/NousResearch/hermes-agent/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-green?style=for-the-badge\" alt=\"Lice"
+  },
+  {
+    "repo_name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars_today": 134,
+    "stars_total": 25582,
+    "topics": [
+      "formatting",
+      "printf",
+      "output",
+      "chrono",
+      "performance",
+      "multiplatform",
+      "cross-platform",
+      "cpp",
+      "ranges",
+      "floating-point",
+      "unicode",
+      "c-plus-plus"
+    ],
+    "url": "https://github.com/fmtlib/fmt",
+    "readme_snippet": "<img src=\"https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png\" alt=\"{fmt}\" width=\"25%\"/>\n\n[![image](https://github.com/fmtlib/fmt/actions/workflows/linux.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Alinux)\n[![image](https://github.com/fmtlib/fmt/actions/workflows/macos.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Amacos)\n[![image](https://github.com/fmtlib/fmt/actions/workflows/windows.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Awindows)\n[![fmt is continuously fuzzed at oss-fuzz](https://oss-fuzz-build-logs.storage.googleapis.com/badges/fmt.svg)](\nhttps://issues.oss-fuzz.com/issues?q=title:fmt%20cc:victor.zverovich@gmail."
+  },
+  {
+    "repo_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars_today": 475,
+    "stars_total": 174635,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/anthropics/skills",
+    "readme_snippet": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).\n\n[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)\n\n# Skills\nSkills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.\n\nFor more information, check out:\n- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)\n- [Using skills in Claude](ht"
+  },
+  {
+    "repo_name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars_today": 855,
+    "stars_total": 31817,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "readme_snippet": "# Diagram Design\n\n**Editorial diagrams your designer won't hate.**\n\n<a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png)\n\n[![The self-improving loop](docs/screenshots/thumbs/loop.webp)](docs/screenshots/loop.png)\n\n*New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*\n\n*New in 2.3: semantic system patterns and optional accessible motion, while static output stays the defau"
+  },
+  {
+    "repo_name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars_today": 725,
+    "stars_total": 204767,
+    "topics": [],
+    "url": "https://github.com/anomalyco/opencode",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/opencode-ai\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/opencode-ai?style=flat-square\" /></a>\n  <a href=\"https:/"
+  },
+  {
+    "repo_name": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "stars_today": 136,
+    "stars_total": 70738,
+    "topics": [
+      "claude-code",
+      "swarm",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "autonomous-agents",
+      "codex",
+      "mcp-server",
+      "multi-agent",
+      "ai-assistant",
+      "multi-agent-systems",
+      "swarm-intelligence",
+      "agents",
+      "ai-skills",
+      "skills",
+      "npm",
+      "typescript",
+      "ai-agents",
+      "harness",
+      "dsh-plugin"
+    ],
+    "url": "https://github.com/ruvnet/ruflo",
+    "readme_snippet": "<div align=\"center\">\n\n[![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering)\n\n<!-- Try Ruflo — the 4 badges first-time visitors actually act on -->\n[![Try the UI Beta — flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/)\n[![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/ruflo)\n[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Star on GitHub](https://img.shields.io/github/stars/ruvnet/claude-flow?style=for-the-badge&logo=github&color=gold)](https://github.com/ruvnet/claude-flow)\n\n<!-- Eco"
+  },
+  {
+    "repo_name": "humanlayer/skills",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 442,
+    "stars_total": 2798,
+    "topics": [],
+    "url": "https://github.com/humanlayer/skills",
+    "readme_snippet": "# skills\n\nClaude Code skills from [HumanLayer](https://humanlayer.dev).\n\n## Installation\n\n```bash\nnpx skills add humanlayer/skills --skill SKILLNAME\n```\n\n## Available Skills\n\n### improve-claude-md\n\nRewrites your CLAUDE.md using `<important if>` blocks to improve instruction adherence.\n\n```bash\nnpx skills add humanlayer/skills --skill improve-claude-md\n```\n\nThen in your project:\n\n```\n/improve-claude-md\n```\n\n### narrow-react-prop-types\n\nNarrows React component prop types to match live code paths instead of Storybook, test, or mock-only states.\n\n```bash\nnpx skills add humanlayer/skills --skill narrow-react-prop-types\n```\n\nThen in your project:\n\n```\n/narrow-react-prop-types\n```\n\n### build-iterated-agentic-loop\n\nBuilds a repo-local skill plus an iterated coding-agent GitHub Actions workflow, pr"
+  },
+  {
+    "repo_name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "stars_today": 990,
+    "stars_total": 43614,
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "url": "https://github.com/blader/humanizer",
+    "readme_snippet": "# Humanizer\n\n[![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer)\n\nHumanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills.\n\n## How it works\n\nHumanizer uses 35 patterns from Wikipedia's [\"Signs of AI writing\"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup. It makes a first pass without treating the original structure as fixed. Then it checks the draft against those patterns and the original claims before rewriting whatever still needs work.\n\n> \"LLMs use statistical algorithms to guess what should come next. The result tends toward the most statistically likely result that ap"
+  },
+  {
+    "repo_name": "BraveOPotato/FckSignups",
+    "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+    "language": "TypeScript",
+    "stars_today": 68,
+    "stars_total": 2956,
+    "topics": [],
+    "url": "https://github.com/BraveOPotato/FckSignups",
+    "readme_snippet": "# NoSignups\n## (formerly FckSignups)\n\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm)\n[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/)\n\n> **Open Source Tools. Zero Bullsh*t.**\nA curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.\n\n---\n\n## What is this?\n\nNoSignups is a React + TypeScript project. If you want to run it locally, simply clone the repo, install the depedencies, and run the server.\n\nHere's a command that would do all the previous steps in one go:\n```bash\ngit clone https://github.com/BraveOPotato/FckSignups.g"
+  },
+  {
+    "repo_name": "WorldFlowAI/everything-claude-code",
+    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+    "language": "JavaScript",
+    "stars_today": 95,
+    "stars_total": 2411,
+    "topics": [],
+    "url": "https://github.com/WorldFlowAI/everything-claude-code",
+    "readme_snippet": "# Everything Claude Code\n\n[![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)](https://github.com/affaan-m/everything-claude-code/stargazers)\n[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)\n![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)\n![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)\n\n**The complete collection of Claude Code configs from an Anthropic hackathon winner.**\n\nProduction-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products.\n\n---\n\n## The Guides\n\nThis repo is the ra"
+  },
+  {
+    "repo_name": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "language": "TypeScript",
+    "stars_today": 674,
+    "stars_total": 3301,
+    "topics": [],
+    "url": "https://github.com/magnitudedev/magnitude",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/brand/icon-dark.svg\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/brand/icon-light.svg\">\n    <img alt=\"Magnitude icon\" src=\"assets/brand/icon-light.svg\" width=\"120\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Magnitude</h1>\n\n<p align=\"center\"><strong>Run your agent on local models. Free, private, and offline.</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://docs.magnitude.dev\"><img src=\"https://img.shields.io/badge/%F0%9F%93%95-Docs-0369a1?style=flat-square&labelColor=0369a1&color=gray\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/EHt48pPWdC\"><img src=\"https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2&col"
+  },
+  {
+    "repo_name": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "language": "Python",
+    "stars_today": 230,
+    "stars_total": 4734,
+    "topics": [],
+    "url": "https://github.com/bikini/exploitarium",
+    "readme_snippet": "# Statement\n\nThis repo was incomplete when published. \n\nIn regard to AI usage, my fuzzing workflow was automated by AI with a strict workflow. I used GPT-5.3 for ALL the fuzzing, as barely any \"thought\" is necessary when provided with an efficient workflow. Contrary to the growing narrative that I'm just some random child burning tokens, I DO actually have a degree in the subject and have published multiple papers on fuzzing methodology. I spent years researching and developing new tools and ideas for how to fuzz. You do NOT need a SOTA model to help you identify these issues, I promise! While being able to afford a better model is helpful, my data seems to show that it is only marginal when paired with decent human oversight and a good workflow. None of the actual PoCs themselves were vib"
+  },
+  {
+    "repo_name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+    "language": "Shell",
+    "stars_today": 22,
+    "stars_total": 94944,
+    "topics": [
+      "nvm",
+      "nodejs",
+      "node",
+      "node-js",
+      "version-manager",
+      "posix",
+      "posix-compliant",
+      "bash",
+      "zsh",
+      "shell",
+      "nvmrc",
+      "lts",
+      "install"
+    ],
+    "url": "https://github.com/nvm-sh/nvm",
+    "readme_snippet": "<a href=\"https://github.com/nvm-sh/logos\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" />\n    <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" />\n  </picture>\n</a>\n\n\n# Node Version Manager [![Tests](https://github.com/nvm-sh/nvm/actions/workflows/tests-fast.yml/badge.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.40.7-yellow.svg)][4] [![CII Best Practices](https://bestpractices.dev/projects/684/badge)](https://bestpractices.dev/projects/684)\n\n<!-- To update this table of contents, ensure you have run `npm install` then `npm run doctoc` -->\n<!-- START doctoc generated TOC please keep comment here "
+  }
+]
