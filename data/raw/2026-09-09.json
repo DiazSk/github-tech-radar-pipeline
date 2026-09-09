@@ -1,0 +1,296 @@
+[
+  {
+    "repo_name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars_today": 656,
+    "stars_total": 31336,
+    "topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" />\n</p>\n<p align=\"center\">\n  <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong>\n</p>\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a>\n</p>\n\n<p align=\"center\">\n  <strong title=\"English\" aria-label=\"English\">🇬🇧</strong> ·\n  <a href=\".github/readme/README.zh-CN.md\" title=\"简体中文\" aria-label=\"简体中文\">🇨🇳</a> ·\n  <a href=\".github/readme/README.pt-BR.md\" title=\"Português (Brasil)\" aria-label=\"Português (Brasil)\">🇧🇷</a> ·\n  <a href=\".github/readme/README.ja.md\" title=\"日本語\" aria-label=\"日本語\">🇯🇵</a> ·\n  <a href=\".github/readme/README.vi.md\" title=\"Tiếng Việt\" aria-label=\"Tiếng Việt\">🇻🇳</a> ·\n  <a href=\".github/readme"
+  },
+  {
+    "repo_name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars_today": 710,
+    "stars_total": 35325,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "readme_snippet": "# Diagram Design\n\n**Editorial diagrams your designer won't hate.**\n\n<a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png)\n\n[![The self-improving loop](docs/screenshots/thumbs/loop.webp)](docs/screenshots/loop.png)\n\n*New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*\n\n*New in 2.3: semantic system patterns and optional accessible motion, while static output stays the defau"
+  },
+  {
+    "repo_name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars_today": 490,
+    "stars_total": 26618,
+    "topics": [],
+    "url": "https://github.com/openai/skills",
+    "readme_snippet": "> [!IMPORTANT]\n> **This repository is deprecated.** For current Codex skill and plugin examples, use the [OpenAI Plugins repository](https://github.com/openai/plugins). If you want to add your own skills to Codex, follow the [Build plugins](https://developers.openai.com/codex/plugins/build) guide, which includes instructions for creating a skill-only plugin.\n\n# Agent Skills\n\nAgent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere.\n\nCodex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way. This repository catalogs skills for use and distribution with Codex.\n\nLearn more:\n- [Using skills in Codex](https://developers.opena"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 1427,
+    "stars_total": 254502,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars_today": 2627,
+    "stars_total": 47951,
+    "topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ],
+    "url": "https://github.com/heygen-com/hyperframes",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo/dark.svg\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo/light.svg\">\n    <img alt=\"HyperFrames\" src=\"docs/logo/light.svg\" width=\"300\">\n  </picture>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.io/npm/v/hyperframes.svg?style=flat\" alt=\"npm version\"></a>\n  <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.io/npm/dm/hyperframes.svg?style=flat\" alt=\"npm downloads\"></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache%202.0-blue.svg\" alt=\"License\"></a>\n  <a href=\"https://nodejs.org\"><img src=\"https://img.shields.io/badge/node-%3E%3D22-brightgreen\" alt=\"Node."
+  },
+  {
+    "repo_name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "language": "JavaScript",
+    "stars_today": 666,
+    "stars_total": 48955,
+    "topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "readme_snippet": "# Marketing Skills for AI Agents\n\nA collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the [Agent Skills spec](https://agentskills.io).\n\nBuilt by [Corey Haines](https://corey.co?ref=marketingskills). Need hands-on help? Check out [Conversion Factory](https://conversionfactory.co?ref=marketingskills) — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to [Swipe Files](https://swipefiles.com?ref=marketingskills). Want to get dangerously good at using AI for marketing? Ch"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 452,
+    "stars_total": 283486,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n## Table of Contents\n\n- [How it works](#how-it-works)\n- [Commercial Services](#commercial-services)\n- [Getting Started](#installation)\n  - [Claude Code](#claude-code)\n  - [Antigravity](#antigravity)\n  - [Codex App](#codex-app)\n  - [Codex CLI](#codex-cli)\n  - [Cursor](#cursor)\n  - [Devin CLI](#devin-cli)\n  - [Factory Droid](#factory-droid)\n  - [Gemini CLI](#gemini-cli)\n  - [GitHub Copilot CLI](#github-copilot-cli)\n  - [Grok Build CLI](#grok-build-cli)\n  - [Kimi Code](#kimi-code)\n  - [OpenCode](#opencode)\n  - [Pi](#pi)\n  - [Hermes Agent](#hermes-agent)\n- [The Basic Workflow](#the-basic-"
+  },
+  {
+    "repo_name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": null,
+    "stars_today": 333,
+    "stars_total": 211595,
+    "topics": [],
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "readme_snippet": "# Karpathy-Inspired Claude Code Guidelines\n\n> Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.\n>\n> Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy)\n\nA single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.\n\nEnglish | [简体中文](./README.zh.md)\n\n## The Problems\n\nFrom Andrej's post:\n\n> \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\"\n\n> \"They reall"
+  },
+  {
+    "repo_name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars_today": 2047,
+    "stars_total": 181874,
+    "topics": [
+      "langchain",
+      "openai",
+      "autogen-extension",
+      "autogen",
+      "markdown",
+      "microsoft-office",
+      "pdf"
+    ],
+    "url": "https://github.com/microsoft/markitdown",
+    "readme_snippet": "# MarkItDown\n\n[![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/)\n![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown)\n\n> [!IMPORTANT]\n> MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest `convert_*` function needed for your use case (e.g., `convert_stream()`, or `convert_local()`). See the [Security Considerations](#security-considerations) section of the documentation for more information.\n\nMarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines. To this end, it is most comparabl"
+  },
+  {
+    "repo_name": "jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "language": "JavaScript",
+    "stars_today": 871,
+    "stars_total": 10649,
+    "topics": [
+      "ai-agent",
+      "anti-bot",
+      "antidetect-browser",
+      "automation",
+      "bot-detection",
+      "browser-automation",
+      "cloudflare-bypass",
+      "headless-browser",
+      "javascript",
+      "nodejs",
+      "playwright",
+      "puppeteer",
+      "scraping",
+      "stealth-browser",
+      "web-scraping"
+    ],
+    "url": "https://github.com/jo-inc/camofox-browser",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"fox.png\" alt=\"camofox-browser\" width=\"200\" />\n  <h1>camofox-browser</h1>\n  <p><strong>Anti-detection browser server for AI agents, powered by Camoufox</strong></p>\n  <p>\n    <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" alt=\"License: MIT\" /></a>\n    <a href=\"https://github.com/jo-inc/camofox-browser/stargazers\"><img src=\"https://img.shields.io/github/stars/jo-inc/camofox-browser\" alt=\"GitHub stars\" /></a>\n    <a href=\"https://www.npmjs.com/package/camofox-browser\"><img src=\"https://img.shields.io/npm/v/camofox-browser\" alt=\"npm version\" /></a>\n    <a href=\"https://github.com/jo-inc/camofox-browser/commits\"><img src=\"https://img.shields.io/github/last-commit/jo-inc/camofox-browser\" alt=\"GitHub last commit\" /></a>\n  </p>\n  <"
+  },
+  {
+    "repo_name": "MoonTechLab/LunaTV",
+    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "language": "TypeScript",
+    "stars_today": 505,
+    "stars_total": 10265,
+    "topics": [],
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "readme_snippet": "# MoonTV\n\n<div align=\"center\">\n  <img src=\"public/logo.png\" alt=\"MoonTV Logo\" width=\"120\">\n</div>\n\n> 🎬 **MoonTV** 是一个开箱即用的、跨平台的影视聚合播放器。它基于 **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。\n\n<div align=\"center\">\n\n![Next.js](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs)\n![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss)\n![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript)\n![License](https://img.shields.io/badge/License-MIT-green)\n![Docker Ready](https://img.shields.io/badge/Docker-ready-blue?logo=docker)\n\n</div>\n\n---\n\n## ✨ 功能特性\n\n- 🔍 **多源聚合搜索**：一次搜索立刻返回全源结果。\n- 📄 **丰富详情页**：支持剧集列表、演员、年份、简介等完整信息展示。\n- ▶️ **流畅在线播放**：集成 HLS.js & ArtPlayer。\n- ❤️ **收藏 + 继续观看**：支持 Kvrocks"
+  },
+  {
+    "repo_name": "browser-use/browser-use",
+    "description": "Agents that use the browser.",
+    "language": "Python",
+    "stars_today": 228,
+    "stars_total": 113685,
+    "topics": [
+      "llm",
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "python",
+      "browser-use",
+      "playwright"
+    ],
+    "url": "https://github.com/browser-use/browser-use",
+    "readme_snippet": "<!-- mcp-name: com.browser-use/browser-use -->\n<picture>\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\">\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\">\n  <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"  width=\"full\">\n</picture>\n\n<div align=\"center\">\n    <picture>\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/9955dda9-ede3-4971-8ee0-91cbc3850125\">\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user"
+  },
+  {
+    "repo_name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars_today": 651,
+    "stars_total": 21481,
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugins",
+      "mcp",
+      "skills",
+      "codex",
+      "copilot",
+      "opencode",
+      "antigravity",
+      "kiro",
+      "openclaw",
+      "claude-code-hooks",
+      "claude-code-skill",
+      "codex-cli",
+      "cursor-plugin",
+      "mcp-server",
+      "mcp-tools",
+      "pi-agent",
+      "zed-extension",
+      "context-mode"
+    ],
+    "url": "https://github.com/mksglu/context-mode",
+    "readme_snippet": "# Context Mode\n\n**The other half of the context problem.**\n\n[![users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmksglu%2Fcontext-mode%40main%2Fstats.json&query=%24.message&label=users&color=brightgreen)](https://www.npmjs.com/package/context-mode) [![npm](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmksglu%2Fcontext-mode%40main%2Fstats.json&query=%24.npm&label=npm&color=blue)](https://www.npmjs.com/package/context-mode) [![marketplace](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmksglu%2Fcontext-mode%40main%2Fstats.json&query=%24.marketplace&label=marketplace&color=blue)](https://github.com/mksglu/context-mode) [![GitHub stars](https://img.shields.io/github/stars/mksglu/"
+  },
+  {
+    "repo_name": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "language": "Python",
+    "stars_today": 494,
+    "stars_total": 5800,
+    "topics": [
+      "ai",
+      "blackrock",
+      "finance",
+      "goldmansachs",
+      "hedgefund",
+      "jpmorgan",
+      "ml",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading"
+    ],
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "readme_snippet": "# AutoHedge\n\n[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VapjxpSyHC3) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kye-g-38759a207/) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swarms_corp)\n\n\nAutoHedge is an enterprise-grade autonomous agent hedge fund that trades on your behalf. It combines swarm intelligence and specialized A"
+  },
+  {
+    "repo_name": "viarotel-org/escrcpy",
+    "description": "📱 Display and control your Android device graphically with scrcpy.",
+    "language": "JavaScript",
+    "stars_today": 178,
+    "stars_total": 11488,
+    "topics": [
+      "scrcpy",
+      "linux",
+      "macos",
+      "recording",
+      "windows",
+      "genymobile",
+      "gnirehtet",
+      "android",
+      "scrcpy-gui",
+      "screenshots",
+      "hacktoberfest",
+      "scrcpy-engine",
+      "gui",
+      "screensharing",
+      "mirroring",
+      "hacktoberfest2026",
+      "mapping",
+      "hacktoberfest2027"
+    ],
+    "url": "https://github.com/viarotel-org/escrcpy",
+    "readme_snippet": "<div style=\"display:flex;\">\n  <img src=\"https://cdn.jsdelivr.net/gh/viarotel/resources@latest/logos/escrcpy.png\" alt=\"viarotel-escrcpy\" width=\"108px\">\n</div>\n\n# Escrcpy\n\n[![GitCode](https://gitcode.com/viarotel-org/escrcpy/star/badge.svg)](https://gitcode.com/viarotel-org/escrcpy)\n[![Gitee](https://gitee.com/viarotel-org/escrcpy/badge/star.svg?theme=dark)](https://gitee.com/viarotel-org/escrcpy)\n[![GitHub](https://img.shields.io/github/stars/viarotel-org/escrcpy?label=Github%20Stars)](https://github.com/viarotel-org/escrcpy)\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/viarotel-org/escrcpy)\n[![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=flat&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIH"
+  },
+  {
+    "repo_name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "stars_today": 105,
+    "stars_total": 5919,
+    "topics": [],
+    "url": "https://github.com/openai/plugins",
+    "readme_snippet": "# Plugins\n\nThis repository contains a curated collection of Codex plugin examples.\n\nEach plugin lives under `plugins/<name>/` with a required\n`.codex-plugin/plugin.json` manifest and optional companion surfaces such as\n`skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`,\n`hooks.json`, `assets/`, and other supporting files.\n\nThe default marketplace lives at `.agents/plugins/marketplace.json` and points\nat the standard `plugins/` directory. API key login users have a separate\nmarketplace at `.agents/plugins/api_marketplace.json`.\n\nHighlighted richer examples in this repo include:\n\n- `plugins/figma` for `use_figma`, Code to Canvas, Code Connect, and design system rules\n- `plugins/notion` for planning, research, meetings, and knowledge capture\n- `plugins/build-ios-apps` fo"
+  }
+]
