@@ -1,0 +1,298 @@
+[
+  {
+    "repo_name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars_today": 3463,
+    "stars_total": 42254,
+    "topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" />\n</p>\n<p align=\"center\">\n  <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong>\n</p>\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a>\n</p>\n\n<p align=\"center\">\n  <strong title=\"English\" aria-label=\"English\">🇬🇧</strong> ·\n  <a href=\".github/readme/README.zh-CN.md\" title=\"简体中文\" aria-label=\"简体中文\">🇨🇳</a> ·\n  <a href=\".github/readme/README.pt-BR.md\" title=\"Português (Brasil)\" aria-label=\"Português (Brasil)\">🇧🇷</a> ·\n  <a href=\".github/readme/README.ja.md\" title=\"日本語\" aria-label=\"日本語\">🇯🇵</a> ·\n  <a href=\".github/readme/README.vi.md\" title=\"Tiếng Việt\" aria-label=\"Tiếng Việt\">🇻🇳</a> ·\n  <a href=\".github/readme"
+  },
+  {
+    "repo_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars_today": 3680,
+    "stars_total": 27421,
+    "topics": [
+      "3d-globe",
+      "cesium",
+      "flight-tracking",
+      "geospatial",
+      "geospatial-intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite-tracking",
+      "spatial-intelligence",
+      "webgl",
+      "worldview"
+    ],
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "readme_snippet": "<div align=\"center\">\n\n# 🌐 God's Eye View\n\n[![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml)\n\n### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.\n\nPhotorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent.\n\n*No place left behind.*\n\n![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)\n\n<a href=\"https://www.youtube.com/@bilawalsidhu\">\n  <img src=\"docs/media/youtube-popular-videos.png\" alt=\"The God's Eye View video series on YouTube\" width=\"100%\">\n</a>\n\n▶️ **Fr"
+  },
+  {
+    "repo_name": "nab138/iloader",
+    "description": "User friendly sideloader",
+    "language": "TypeScript",
+    "stars_today": 50,
+    "stars_total": 2942,
+    "topics": [
+      "idevice",
+      "ios",
+      "sideloading",
+      "sidestore"
+    ],
+    "url": "https://github.com/nab138/iloader",
+    "readme_snippet": "<a href=\"https://iloader.app\">\n  <picture align=\"left\" >\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"/iloader.svg\">\n    <img align=\"left\" width=\"90\" height=\"90\" src=\"/iloader-dark.svg\">\n  </picture>\n  \n  <div id=\"user-content-toc\">\n    <ul style=\"list-style: none;\">\n      <summary>\n        <h1>iloader</h1>\n      </summary>\n    </ul>\n  </div>\n</a>\n\n---\n\n[![Build iloader](https://img.shields.io/github/actions/workflow/status/nab138/iloader/build.yml?style=flat&logo=github&logoColor=white&label=Build%20iloader)](https://github.com/nab138/iloader/actions/workflows/build.yml) ![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnab138%2F28258aff7e3f1d3a3084a21f4cff2e57%2Fraw%2Filoader_downloads.json&style=flat)\n\nInstall SideStore (or other app"
+  },
+  {
+    "repo_name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "stars_today": 152,
+    "stars_total": 1438,
+    "topics": [
+      "ai",
+      "crm",
+      "ecommerce",
+      "lgpd",
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "rag",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "ai-agents",
+      "chatbot",
+      "customer-support",
+      "mcp",
+      "open-source",
+      "sales-automation",
+      "self-hosted",
+      "whatsapp-api"
+    ],
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "readme_snippet": "<div align=\"center\">\n\n🇧🇷 Português · [🇺🇸 English](README.en.md) · [🇪🇸 Español](README.es.md)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/deskcomm-logo-dark.svg\">\n  <img src=\"docs/brand/deskcomm-logo.svg\" alt=\"Deskcomm CRM\" width=\"420\">\n</picture>\n\n# 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp\n\n**Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no seu servidor.**\n**Sem mensalidade, sem feature travada, seus dados com você. A alternativa aberta a Kommo, Octadesk e Intercom.**\n\n[![Next.js 16](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)\n[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript)](https://www.type"
+  },
+  {
+    "repo_name": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "language": "TypeScript",
+    "stars_today": 552,
+    "stars_total": 2856,
+    "topics": [
+      "pi-desktop",
+      "ai-agent",
+      "coding-agent",
+      "desktop-app",
+      "electron",
+      "global",
+      "i18n",
+      "local-first",
+      "mcp",
+      "pi-agent",
+      "plugins",
+      "react",
+      "rust",
+      "typescript",
+      "pi"
+    ],
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/image/readme/logo.png\" alt=\"PI-Desktop\" width=\"112\" />\n\n# PI-Desktop\n\n### Your local-first desktop workspace for AI coding agents.\n\n**Bring your own model. Open any local project. Let agents work — while you stay in control.**\n\nNo PI-Desktop account. No mandatory relay. No editor lock-in.\n\n<br />\n\n[![Release](https://img.shields.io/github/v/release/vastsa/PI-Desktop?label=release)](https://github.com/vastsa/PI-Desktop/releases/latest)\n[![Downloads](https://img.shields.io/github/downloads/vastsa/PI-Desktop/total?label=downloads)](https://github.com/vastsa/PI-Desktop/releases)\n[![Stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=flat\\&label=stars)](https://github.com/vastsa/PI-Desktop/stargazers)\n[![CI](https://github.com/vastsa/PI-Deskto"
+  },
+  {
+    "repo_name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "language": "C",
+    "stars_today": 350,
+    "stars_total": 4769,
+    "topics": [
+      "3d",
+      "tool",
+      "texturing",
+      "painting",
+      "armorpaint"
+    ],
+    "url": "https://github.com/armory3d/armorpaint",
+    "readme_snippet": "![](https://armorpaint.org/img/git.jpg)\n\narmorpaint\n==============\n\n[ArmorPaint](https://armorpaint.org) is a software for 3D PBR texture painting - check out the [manual](https://armorpaint.org/manual).\n\n*Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are [paid](https://armorpaint.org/download) to help with the project funding. All of the development is happening here in order to make it accessible to everyone. Thank you for support!*\n\n*Note 2: If you are compiling git version of ArmorPaint, then you need to have a compiler ([Visual Studio with clang tools](https://visualstudio.microsoft.com/downloads/) - Windows, [clang + dependencies](https://github.com/armory3d/armorpaint/blob/main/base/docs/linux_deps.md) - Linux, [Xcode](https://developer.a"
+  },
+  {
+    "repo_name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "language": "TypeScript",
+    "stars_today": 626,
+    "stars_total": 2227,
+    "topics": [
+      "ai",
+      "arbitrage",
+      "claude",
+      "crypto",
+      "defi",
+      "ethereum",
+      "futures",
+      "kalshi",
+      "polymarket",
+      "prediction-markets",
+      "solana",
+      "telegram-bot",
+      "trading",
+      "trading-bot",
+      "typescript",
+      "agi",
+      "hft",
+      "hyperliquid",
+      "pumpswap",
+      "x402"
+    ],
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"https://cloddsbot.com/logo.png\" alt=\"Clodds Logo\" width=\"280\">\n</p>\n\n<p align=\"center\">\n  <strong>AI-powered trading terminal for prediction markets, crypto & futures</strong>\n  <br>\n  <sub>Claude + Odds = Clodds</sub>\n</p>\n\n<p align=\"center\">\n  <strong>Clodds CA:</strong> <code>2puc76ehVHyPXhZmDprtP2phDSFE4kzZKDT4JgAWpump</code>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/alsk1992/CloddsBot/releases/latest\"><img src=\"https://img.shields.io/github/v/release/alsk1992/CloddsBot?display_name=tag&color=blue\" alt=\"GitHub release\"></a>\n  <img src=\"https://img.shields.io/badge/node-%3E%3D22-brightgreen\" alt=\"Node.js\">\n  <img src=\"https://img.shields.io/badge/typescript-5.3-blue\" alt=\"TypeScript\">\n  <a href=\"https://opensource.org/licenses/MIT\"><img src=\"h"
+  },
+  {
+    "repo_name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "language": "TypeScript",
+    "stars_today": 647,
+    "stars_total": 18831,
+    "topics": [],
+    "url": "https://github.com/nashsu/llm_wiki",
+    "readme_snippet": "# LLM Wiki\n\n<p align=\"center\">\n  <img src=\"logo.jpg\" width=\"128\" height=\"128\" style=\"border-radius: 22%;\" alt=\"LLM Wiki Logo\">\n</p>\n\n<p align=\"center\">\n  <strong>A personal knowledge base that builds itself.</strong><br>\n  LLM reads your documents, builds a structured wiki, and keeps it current.\n</p>\n\n<p align=\"center\">\n  <a href=\"#what-is-this\">What is this?</a> •\n  <a href=\"#what-we-changed--added\">Features</a> •\n  <a href=\"#tech-stack\">Tech Stack</a> •\n  <a href=\"#installation\">Installation</a> •\n  <a href=\"#credits\">Credits</a> •\n  <a href=\"#license\">License</a>\n</p>\n\n<p align=\"center\">\n  English | <a href=\"README_CN.md\">中文</a> | <a href=\"README_JA.md\">日本語</a> | <a href=\"README_KO.md\">한국어</a>\n</p>\n\n---\n\n<p align=\"center\">\n  <img src=\"assets/overview.jpg\" width=\"100%\" alt=\"Overview\">\n</"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 729,
+    "stars_total": 285456,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n## Table of Contents\n\n- [How it works](#how-it-works)\n- [Commercial Services](#commercial-services)\n- [Getting Started](#installation)\n  - [Claude Code](#claude-code)\n  - [Antigravity](#antigravity)\n  - [Codex App](#codex-app)\n  - [Codex CLI](#codex-cli)\n  - [Cursor](#cursor)\n  - [Devin CLI](#devin-cli)\n  - [Factory Droid](#factory-droid)\n  - [Gemini CLI](#gemini-cli)\n  - [GitHub Copilot CLI](#github-copilot-cli)\n  - [Grok Build CLI](#grok-build-cli)\n  - [Kimi Code](#kimi-code)\n  - [OpenCode](#opencode)\n  - [Pi](#pi)\n  - [Hermes Agent](#hermes-agent)\n- [The Basic Workflow](#the-basic-"
+  },
+  {
+    "repo_name": "Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "language": "C#",
+    "stars_today": 191,
+    "stars_total": 15771,
+    "topics": [],
+    "url": "https://github.com/Sonarr/Sonarr",
+    "readme_snippet": "# <img width=\"24px\" src=\"./Logo/256.png\" alt=\"Sonarr\"></img> Sonarr\n\n[![Translated](https://translate.servarr.com/widget/servarr/sonarr/svg-badge.svg)](https://translate.servarr.com/engage/servarr/)\n[![Backers on Open Collective](https://opencollective.com/Sonarr/backers/badge.svg)](#backers)\n[![Sponsors on Open Collective](https://opencollective.com/Sonarr/sponsors/badge.svg)](#sponsors)\n[![Mega Sponsors on Open Collective](https://opencollective.com/Sonarr/megasponsors/badge.svg)](#mega-sponsors)\n\nSonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes availab"
+  },
+  {
+    "repo_name": "jihe520/MathModelAgent",
+    "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "language": "Python",
+    "stars_today": 129,
+    "stars_total": 4910,
+    "topics": [
+      "agent",
+      "llm",
+      "mathmodel",
+      "skills"
+    ],
+    "url": "https://github.com/jihe520/MathModelAgent",
+    "readme_snippet": "<h1 align=\"center\">🤖 MathModelAgent 📐</h1>\n<p align=\"center\">\n    <img src=\"./docs/icon.png\" height=\"250px\">\n</p>\n<h4 align=\"center\">\n    专为数学建模设计的 Agent<br>\n    自动完成数学建模，生成一份完整的可以直接提交的论文。\n</h4>\n\n<h5 align=\"center\">简体中文 | <a href=\"README_EN.md\">English</a></h5>\n\n<p align=\"center\">\n    <a href=\"https://github.com/jihe520/MathModelAgent/releases/latest\"><b>⬇️ 下载最新桌面版（推荐）</b></a>\n</p>\n<p align=\"center\">\n    🎨 姊妹项目：<a href=\"https://github.com/jihe520/sci-box\"><b>sci-box</b></a> —— 科研图表 & 流程图 SKILL 合集\n</p>\n\n---\n\n## 🖥️ 桌面版（推荐使用方式）\n\n> **不想折腾环境？直接下载桌面版，开箱即用。**\n>\n> 👉 **[前往 Releases 下载最新版本](https://github.com/jihe520/MathModelAgent/releases/latest)**\n\n桌面版已内置 Claude Code 与全套 MathModelAgent SKILLS，无需安装 Python / Node.js / Redis，也无需手动配置 SKILL，装好填一个模型 API Key 即可开始建模。\n\n| 系统 | 下载文件 |\n|------|----------|\n| "
+  },
+  {
+    "repo_name": "p1neappleXpress/OpenFlux",
+    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "language": "Go",
+    "stars_today": 198,
+    "stars_total": 1197,
+    "topics": [],
+    "url": "https://github.com/p1neappleXpress/OpenFlux",
+    "readme_snippet": "# OpenFlux\n\n**English** | [Русский](README.ru.md)\n\nNetwork stack research tool. TCP tunnel with pluggable transports.\n\n\n# Disclaimer\n\nThe author of OpenFlux **does not encourage** the use of this project to bypass restrictions or violate the rules of any platform, and **is not responsible** for the final scenarios of how users apply this tool in real life or on the Internet. Any specific technical features of the application are nothing more than an **architectural coincidence**, created **without any intent**.\n\nThe project is **entirely non-commercial**, contains **no paid features, hidden subscriptions, or commercial benefit**.\n\nThe author **is not responsible** for forks, modifications, or derivative versions of OpenFlux created by third parties. Any changes added to a fork are the resp"
+  },
+  {
+    "repo_name": "jordan-gibbs/hyperresearch",
+    "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+    "language": "Python",
+    "stars_today": 153,
+    "stars_total": 2737,
+    "topics": [
+      "agents",
+      "agentskills",
+      "claude-code",
+      "deep-research",
+      "deep-research-agent"
+    ],
+    "url": "https://github.com/jordan-gibbs/hyperresearch",
+    "readme_snippet": "<img width=\"1536\" height=\"1152\" alt=\"replicate-prediction-x0s9c24tqxrmw0d0j5ktty8nhw\" src=\"https://github.com/user-attachments/assets/816434ad-080e-4165-abbc-af87d009aeb0\" />\n\n<h3 align=\"center\">The Most Powerful Deep Research Harness</h3>\n\n<p align=\"center\">\n  <a href=\"https://pypi.org/project/hyperresearch/\"><img src=\"https://img.shields.io/pypi/v/hyperresearch\" alt=\"PyPI version\"></a>\n  <a href=\"https://pypi.org/project/hyperresearch/\"><img src=\"https://img.shields.io/pypi/pyversions/hyperresearch\" alt=\"Python 3.11+\"></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/jordan-gibbs/hyperresearch\" alt=\"License: MIT\"></a>\n  <a href=\"https://github.com/jordan-gibbs/hyperresearch\"><img src=\"https://img.shields.io/github/stars/jordan-gibbs/hyperresearch?style=social\" alt="
+  },
+  {
+    "repo_name": "alphaXiv/OpenResearch",
+    "description": "Run parallel research agents with any model",
+    "language": "Rust",
+    "stars_today": 120,
+    "stars_total": 1380,
+    "topics": [],
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "readme_snippet": "<div align=\"center\">\n\n<h1><img src=\".github/readme-assets/openresearch.svg\" alt=\"\" width=\"36\" /> OpenResearch</h1>\n\n**The local-first workspace for research agents and autoresearch.**\n\n<p>Turn <img src=\".github/readme-assets/claude.svg\" alt=\"\" width=\"18\" /> Claude Code,\n<img src=\".github/readme-assets/codex.svg\" alt=\"\" width=\"18\" /> Codex,\n<img src=\".github/readme-assets/opencode.svg\" alt=\"\" width=\"18\" /> OpenCode, or\nCursor into research agents that can review\nliterature, develop hypotheses, run experiments, and produce research artifacts.</p>\n\n[Download the desktop app](https://openresearch.sh/download) ·\n[Documentation](https://openresearch.sh/docs) ·\n[Releases](https://github.com/alphaXiv/OpenResearch/releases)\n\n</div>\n\n## Get started\n\nDownload the local desktop app from\n[openresearch."
+  },
+  {
+    "repo_name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "stars_today": 1015,
+    "stars_total": 135832,
+    "topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ],
+    "url": "https://github.com/github/spec-kit",
+    "readme_snippet": "<div align=\"center\">\n    <img src=\"https://raw.githubusercontent.com/github/spec-kit/main/media/logo_large.webp\" alt=\"Spec Kit Logo\" width=\"200\" height=\"200\"/>\n    <h1>🌱 Spec Kit</h1>\n    <h3><em>Define what to build before building it — with any AI coding agent.</em></h3>\n</div>\n\n<p align=\"center\">\n    <strong>An open source toolkit for building high-quality software with any AI coding agent — a ready-to-use spec-driven process (or bring your own), endlessly extensible, community-driven, and built for your whole organization.</strong>\n</p>\n\n<p align=\"center\">\n    <a href=\"https://github.com/github/spec-kit/releases/latest\"><img src=\"https://img.shields.io/github/v/release/github/spec-kit\" alt=\"Latest Release\"/></a>\n    <a href=\"https://github.com/github/spec-kit/stargazers\"><img src=\"http"
+  },
+  {
+    "repo_name": "pascalorg/editor",
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "language": "TypeScript",
+    "stars_today": 106,
+    "stars_total": 23695,
+    "topics": [
+      "3d",
+      "architecture",
+      "bim",
+      "cad",
+      "editor",
+      "floorplan",
+      "mcp",
+      "nextjs",
+      "parametric-design",
+      "react-three-fiber",
+      "threejs",
+      "typescript",
+      "agent-skills",
+      "ai-agents",
+      "local-first",
+      "mcp-server",
+      "model-context-protocol",
+      "gemini-cli-extension"
+    ],
+    "url": "https://github.com/pascalorg/editor",
+    "readme_snippet": "# Pascal Editor\n\nAn open-source, local-first 3D building editor built with React Three Fiber and\nWebGPU. Run it in the browser or from the CLI, and connect AI agents through MCP.\n\n[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core)\n[![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer)\n[![npm @pascal-app/cli](https://img.shields.io/npm/v/@pascal-app/cli?label=%40pascal-app%2Fcli)](https://www.npmjs.com/package/@pascal-app/cli)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=wh"
+  }
+]
