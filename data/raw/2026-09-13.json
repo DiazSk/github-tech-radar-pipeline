@@ -1,0 +1,312 @@
+[
+  {
+    "repo_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars_today": 2265,
+    "stars_total": 30341,
+    "topics": [
+      "3d-globe",
+      "cesium",
+      "flight-tracking",
+      "geospatial",
+      "geospatial-intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite-tracking",
+      "spatial-intelligence",
+      "webgl",
+      "worldview"
+    ],
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "readme_snippet": "<div align=\"center\">\n\n# 🌐 God's Eye View\n\n[![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml)\n\n### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.\n\nPhotorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent.\n\n*No place left behind.*\n\n![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)\n\n<a href=\"https://www.youtube.com/@bilawalsidhu\">\n  <img src=\"docs/media/youtube-popular-videos.png\" alt=\"The God's Eye View video series on YouTube\" width=\"100%\">\n</a>\n\n▶️ **Fr"
+  },
+  {
+    "repo_name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "stars_today": 504,
+    "stars_total": 1890,
+    "topics": [
+      "ai",
+      "crm",
+      "ecommerce",
+      "lgpd",
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "rag",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "ai-agents",
+      "chatbot",
+      "customer-support",
+      "mcp",
+      "open-source",
+      "sales-automation",
+      "self-hosted",
+      "whatsapp-api"
+    ],
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "readme_snippet": "<div align=\"center\">\n\n🇧🇷 Português · [🇺🇸 English](README.en.md) · [🇪🇸 Español](README.es.md)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/deskcomm-logo-dark.svg\">\n  <img src=\"docs/brand/deskcomm-logo.svg\" alt=\"Deskcomm CRM\" width=\"420\">\n</picture>\n\n# 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp\n\n**Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no seu servidor.**\n**Sem mensalidade, sem feature travada, seus dados com você. A alternativa aberta a Kommo, Octadesk e Intercom.**\n\n[![Next.js 16](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)\n[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript)](https://www.type"
+  },
+  {
+    "repo_name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "language": "JavaScript",
+    "stars_today": 217,
+    "stars_total": 65544,
+    "topics": [
+      "ai",
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "gemini",
+      "generative-ai",
+      "google",
+      "llm",
+      "openai",
+      "prompt-engineering",
+      "ai-agents",
+      "system-prompts",
+      "cursor",
+      "grok",
+      "ai-prompts",
+      "prompt",
+      "system-prompt"
+    ],
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "readme_snippet": "<p align=\"center\">\n  <sub>Thanks to</sub>  \n</p>\n\n<p align=\"center\">\n  <a href=\"https://go.asgeirtj.workers.dev/latitude\">\n    <img src=\"assets/latitude-dark.png\" alt=\"Latitude Logo\" width=\"700\"/>\n  </a>\n</p>\n\n<div align=\"center\" markdown=\"1\">\n\n### [Open Source Agent Analytics](https://go.asgeirtj.workers.dev/latitude)  \n[Understand your agents in production](https://go.asgeirtj.workers.dev/latitude)\n\n</div>\n\n---\n\n> **The Washington Post** built its interactive story on prompts from this repo: [See the hidden rules behind AI. Then use them to rewrite this article.](https://archive.today/pYtPk) (May 11, 2026)\n> \n> **CEPS' AI World** built a live data dashboard from this repo's files: [System prompts and what they tell us about the chat before the chat](https://aiworld.eu/story/system-prompt"
+  },
+  {
+    "repo_name": "nab138/iloader",
+    "description": "User friendly sideloader",
+    "language": "TypeScript",
+    "stars_today": 209,
+    "stars_total": 3132,
+    "topics": [
+      "idevice",
+      "ios",
+      "sideloading",
+      "sidestore"
+    ],
+    "url": "https://github.com/nab138/iloader",
+    "readme_snippet": "<a href=\"https://iloader.app\">\n  <picture align=\"left\" >\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"/iloader.svg\">\n    <img align=\"left\" width=\"90\" height=\"90\" src=\"/iloader-dark.svg\">\n  </picture>\n  \n  <div id=\"user-content-toc\">\n    <ul style=\"list-style: none;\">\n      <summary>\n        <h1>iloader</h1>\n      </summary>\n    </ul>\n  </div>\n</a>\n\n---\n\n[![Build iloader](https://img.shields.io/github/actions/workflow/status/nab138/iloader/build.yml?style=flat&logo=github&logoColor=white&label=Build%20iloader)](https://github.com/nab138/iloader/actions/workflows/build.yml) ![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnab138%2F28258aff7e3f1d3a3084a21f4cff2e57%2Fraw%2Filoader_downloads.json&style=flat)\n\nInstall SideStore (or other app"
+  },
+  {
+    "repo_name": "Flowseal/zapret-discord-youtube",
+    "description": null,
+    "language": "Batchfile",
+    "stars_today": 65,
+    "stars_total": 33220,
+    "topics": [],
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "readme_snippet": "<div align=\"center\">\n\n# <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 />\n\n**NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  \nАльтернатива https://github.com/bol-van/zapret-win-bundle  \nТакже вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)\n</div>\n\n> [!CAUTION]\n>\n> ### ФЕЙКИ\n> Я не веду никакие другие страни"
+  },
+  {
+    "repo_name": "jihe520/MathModelAgent",
+    "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "language": "Python",
+    "stars_today": 262,
+    "stars_total": 5187,
+    "topics": [
+      "agent",
+      "llm",
+      "mathmodel",
+      "skills"
+    ],
+    "url": "https://github.com/jihe520/MathModelAgent",
+    "readme_snippet": "<h1 align=\"center\">🤖 MathModelAgent 📐</h1>\n<p align=\"center\">\n    <img src=\"./docs/icon.png\" height=\"250px\">\n</p>\n<h4 align=\"center\">\n    专为数学建模设计的 Agent<br>\n    自动完成数学建模，生成一份完整的可以直接提交的论文。\n</h4>\n\n<h5 align=\"center\">简体中文 | <a href=\"README_EN.md\">English</a></h5>\n\n<p align=\"center\">\n    <a href=\"https://github.com/jihe520/MathModelAgent/releases/latest\"><b>⬇️ 下载最新桌面版（推荐）</b></a>\n</p>\n<p align=\"center\">\n    🎨 姊妹项目：<a href=\"https://github.com/jihe520/sci-box\"><b>sci-box</b></a> —— 科研图表 & 流程图 SKILL 合集\n</p>\n\n---\n\n## 🖥️ 桌面版（推荐使用方式）\n\n> **不想折腾环境？直接下载桌面版，开箱即用。**\n>\n> 👉 **[前往 Releases 下载最新版本](https://github.com/jihe520/MathModelAgent/releases/latest)**\n\n桌面版已内置 Claude Code 与全套 MathModelAgent SKILLS，无需安装 Python / Node.js / Redis，也无需手动配置 SKILL，装好填一个模型 API Key 即可开始建模。\n\n| 系统 | 下载文件 |\n|------|----------|\n| "
+  },
+  {
+    "repo_name": "Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "language": "C#",
+    "stars_today": 227,
+    "stars_total": 15964,
+    "topics": [],
+    "url": "https://github.com/Sonarr/Sonarr",
+    "readme_snippet": "# <img width=\"24px\" src=\"./Logo/256.png\" alt=\"Sonarr\"></img> Sonarr\n\n[![Translated](https://translate.servarr.com/widget/servarr/sonarr/svg-badge.svg)](https://translate.servarr.com/engage/servarr/)\n[![Backers on Open Collective](https://opencollective.com/Sonarr/backers/badge.svg)](#backers)\n[![Sponsors on Open Collective](https://opencollective.com/Sonarr/sponsors/badge.svg)](#sponsors)\n[![Mega Sponsors on Open Collective](https://opencollective.com/Sonarr/megasponsors/badge.svg)](#mega-sponsors)\n\nSonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes availab"
+  },
+  {
+    "repo_name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "language": "TypeScript",
+    "stars_today": 376,
+    "stars_total": 2564,
+    "topics": [
+      "ai",
+      "arbitrage",
+      "claude",
+      "crypto",
+      "defi",
+      "ethereum",
+      "futures",
+      "kalshi",
+      "polymarket",
+      "prediction-markets",
+      "solana",
+      "telegram-bot",
+      "trading",
+      "trading-bot",
+      "typescript",
+      "agi",
+      "hft",
+      "hyperliquid",
+      "pumpswap",
+      "x402"
+    ],
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"https://cloddsbot.com/logo.png\" alt=\"Clodds Logo\" width=\"280\">\n</p>\n\n<p align=\"center\">\n  <strong>AI-powered trading terminal for prediction markets, crypto & futures</strong>\n  <br>\n  <sub>Claude + Odds = Clodds</sub>\n</p>\n\n<p align=\"center\">\n  <strong>Clodds CA:</strong> <code>2puc76ehVHyPXhZmDprtP2phDSFE4kzZKDT4JgAWpump</code>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/alsk1992/CloddsBot/releases/latest\"><img src=\"https://img.shields.io/github/v/release/alsk1992/CloddsBot?display_name=tag&color=blue\" alt=\"GitHub release\"></a>\n  <img src=\"https://img.shields.io/badge/node-%3E%3D22-brightgreen\" alt=\"Node.js\">\n  <img src=\"https://img.shields.io/badge/typescript-5.3-blue\" alt=\"TypeScript\">\n  <a href=\"https://opensource.org/licenses/MIT\"><img src=\"h"
+  },
+  {
+    "repo_name": "yuliskov/SmartTube",
+    "description": "Browse media content with your own rules on Android TV",
+    "language": "Java",
+    "stars_today": 136,
+    "stars_total": 33254,
+    "topics": [
+      "android",
+      "android-tv",
+      "android-tv-box",
+      "java",
+      "rxjava-android",
+      "retrofit2",
+      "kotlin"
+    ],
+    "url": "https://github.com/yuliskov/SmartTube",
+    "readme_snippet": "[<img src=\"images/badge_fdroid.png\" alt=\"Get it on F-Droid\" height=\"80\">](https://f-droid.org/packages/app.smarttube.fdroid/)\r\n[<img src=\"images/badge_github.png\" alt=\"Get it on GitHub\" height=\"80\">](https://github.com/yuliskov/SmartTube/releases)\r\n\r\n# Important announcement about the app\r\n\r\nMy development environment was infected by unknown malicious software, as a result of which a few builds may have been affected. Once the issue was detected, I secured everything with a full disk wipe, restored a clean setup, and now all builds are scanned with VirusTotal. The F-Droid version will also be verified before release.\r\n\r\nPublic keys may have been compromised, which is why I am sharing this issue. You can download the new version and the new public key below, and instructions for restoring b"
+  },
+  {
+    "repo_name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "language": "Python",
+    "stars_today": 230,
+    "stars_total": 137715,
+    "topics": [
+      "llms",
+      "rag",
+      "python",
+      "agents"
+    ],
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"http://www.theunwindai.com\">\n    <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\">\n  </a>\n</p>\n\n<div align=\"center\">\n\n# Awesome LLM Apps\n\n**100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.**\n\nClone it, ship it, sell it - 100% free and open-source\n\nWorks with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models.\n\n**[Step-by-step tutorials on Unwind AI](https://www.theunwindai.com)** · **[Quick start](#-run-one-now)** · **[Browse all templates](#-browse-all-templates)**\n\n\n<a href=\"https://trendshift.io/repositories/9876\" target=\"_blank\">\n  <img src=\"https://trendshift.io/api/badge/repositories/9876\" width=\"220\" alt=\"Featured on Trendshift as the #1 repository of the day\">\n<"
+  },
+  {
+    "repo_name": "p1neappleXpress/OpenFlux",
+    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "language": "Go",
+    "stars_today": 355,
+    "stars_total": 1430,
+    "topics": [],
+    "url": "https://github.com/p1neappleXpress/OpenFlux",
+    "readme_snippet": "# OpenFlux\n\n**English** | [Русский](README.ru.md)\n\nNetwork stack research tool. TCP tunnel with pluggable transports.\n\n\n# Disclaimer\n\nThe author of OpenFlux **does not encourage** the use of this project to bypass restrictions or violate the rules of any platform, and **is not responsible** for the final scenarios of how users apply this tool in real life or on the Internet. Any specific technical features of the application are nothing more than an **architectural coincidence**, created **without any intent**.\n\nThe project is **entirely non-commercial**, contains **no paid features, hidden subscriptions, or commercial benefit**.\n\nThe author **is not responsible** for forks, modifications, or derivative versions of OpenFlux created by third parties. Any changes added to a fork are the resp"
+  },
+  {
+    "repo_name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "language": "C",
+    "stars_today": 237,
+    "stars_total": 4938,
+    "topics": [
+      "3d",
+      "tool",
+      "texturing",
+      "painting",
+      "armorpaint"
+    ],
+    "url": "https://github.com/armory3d/armorpaint",
+    "readme_snippet": "![](https://armorpaint.org/img/git.jpg)\n\narmorpaint\n==============\n\n[ArmorPaint](https://armorpaint.org) is a software for 3D PBR texture painting - check out the [manual](https://armorpaint.org/manual).\n\n*Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are [paid](https://armorpaint.org/download) to help with the project funding. All of the development is happening here in order to make it accessible to everyone. Thank you for support!*\n\n*Note 2: If you are compiling git version of ArmorPaint, then you need to have a compiler ([Visual Studio with clang tools](https://visualstudio.microsoft.com/downloads/) - Windows, [clang + dependencies](https://github.com/armory3d/armorpaint/blob/main/base/docs/linux_deps.md) - Linux, [Xcode](https://developer.a"
+  },
+  {
+    "repo_name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "language": "Python",
+    "stars_today": 113,
+    "stars_total": 3701,
+    "topics": [
+      "claude-ai",
+      "claude-skills",
+      "redteam",
+      "redteam-tools",
+      "skills",
+      "claude-pt"
+    ],
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "readme_snippet": "![claude-red banner](/assets/banner.png)\n\n<div align=\"center\">\n\n# claude-red\n\n**Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.**\n\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Skills](https://img.shields.io/badge/skills-78-red.svg)](#skill-index)\n[![Categories](https://img.shields.io/badge/categories-23-orange.svg)](#categories)\n[![Stars](https://img.shields.io/github/stars/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red)\n[![Forks](https://img.shields.io/github/forks/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red/network/members)\n\n[Overview](#overview) &bull; [Quickstart](#quickstart) &bull; [Categories](#categories) &"
+  },
+  {
+    "repo_name": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "language": "Python",
+    "stars_today": 210,
+    "stars_total": 7383,
+    "topics": [
+      "foundation-models",
+      "music-generation",
+      "huggingface",
+      "llama",
+      "audio-generation",
+      "voice-cloning",
+      "llms",
+      "style-transfers",
+      "ai",
+      "deep-learning",
+      "gpt"
+    ],
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "readme_snippet": "> Looking for the original YuE? Its code, documentation, and license are preserved on the **[YuE-v1 branch](https://github.com/multimodal-art-projection/YuE/tree/YuE-v1)**.\n\n<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"YuE\" width=\"150\" />\n</p>\n\n<p align=\"center\">\n  <picture>\n    <source media=\"(max-width: 600px)\" srcset=\"assets/institutions-mobile.svg\" />\n    <img src=\"assets/institutions.svg\" alt=\"HKUST, M·A·P, Tokenwave.AI, NYU, Stanford, MBZUAI, NOIZ, and ACE Studio\" width=\"760\" />\n  </picture>\n</p>\n\n<h1 align=\"center\">YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality</h1>\n\n<p align=\"center\"><strong>Compose in symbols. Create in sound.</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://map-yue2.github.io/\">🎧 Demos</a> ·\n  <a href=\"https://huggingface.co/m-a"
+  },
+  {
+    "repo_name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "stars_today": 54,
+    "stars_total": 7308,
+    "topics": [
+      "agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git",
+      "worktrees"
+    ],
+    "url": "https://github.com/max-sixty/worktrunk",
+    "readme_snippet": "<!-- markdownlint-disable MD033 -->\n\n<h1><img src=\"docs/public/logo.png\" alt=\"Worktrunk logo\" width=\"50\" align=\"absmiddle\">&nbsp;&nbsp;Worktrunk</h1>\n\n<!-- Crates.io badge below disabled while shields.io is rate-limited by crates.io\n     (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.\n     [![Crates.io](https://img.shields.io/crates/v/worktrunk?style=for-the-badge&logo=rust)](https://crates.io/crates/worktrunk)\n-->\n[![Docs](https://img.shields.io/badge/docs-worktrunk.dev-blue?style=for-the-badge&logo=gitbook)](https://worktrunk.dev)\n[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![CI](https://img.shields.io/github/actions/workflow/status/max-sixty"
+  },
+  {
+    "repo_name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "stars_today": 189,
+    "stars_total": 23550,
+    "topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "autonomous-agents",
+      "golang",
+      "graphql",
+      "multi-agent-system",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "anthropic",
+      "gpt",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "self-hosted"
+    ],
+    "url": "https://github.com/vxcontrol/pentagi",
+    "readme_snippet": "# PentAGI\n\n<div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\">\n    <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence\n</div>\n<br>\n<div align=\"center\">\n\n> **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments.\n\n[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/2xrMh7qX6m)⠀[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+Ka9i6CNwe71hMWQy)\n\n<a href=\"https://trendshift.io/repositories/15161\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15161\" alt=\"vxc"
+  }
+]
