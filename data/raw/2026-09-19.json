@@ -1,0 +1,295 @@
+[
+  {
+    "repo_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars_today": 3006,
+    "stars_total": 14150,
+    "topics": [],
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "readme_snippet": "# security-audit\n\nA coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.\n\nThis is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from.\n\n## What it does\n\nThe skill runs a structured audit in six phases:\n\n1. **Reconnaissance** -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in `architecture.md` and `cove"
+  },
+  {
+    "repo_name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "stars_today": 444,
+    "stars_total": 146390,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-code",
+    "readme_snippet": "# Claude Code\n\n![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)\n\n[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square\n\nClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github.\n\n**Learn more in the [official documentation](https://code.claude.com/docs/en/overview)**.\n\n<img src=\"./demo.gif\" />\n\n## Get started\n> [!NOTE]\n> Installation via npm is deprecated. Use one of the recommended methods below.\n\nFor more installation options, un"
+  },
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 2704,
+    "stars_total": 36861,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly?language=Go\" alt=\"alibaba%2Fopen-code-review | Trendshift\" s"
+  },
+  {
+    "repo_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars_today": 958,
+    "stars_total": 262200,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "url": "https://github.com/affaan-m/ECC",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/hero.png\" alt=\"ECC - the agent harness operating system\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=trending\" alt=\"GitHub Trending Repository of the Day\" height=\"46\" />\n    </picture>\n  </a>\n  <a href=\"https://www.star-history.com/affaan-m/ecc\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank&theme=dark\" />\n      <img src=\"https://api.star-history.com/badge?repo=affaan-m/ECC&type=rank\" alt"
+  },
+  {
+    "repo_name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "stars_today": 1306,
+    "stars_total": 5432,
+    "topics": [
+      "agent",
+      "dsh-plugin",
+      "browser-use"
+    ],
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "readme_snippet": "# BrowserSkill\n\n<p align=\"center\">\n  <img src=\"docs/assets/browserskill-readme-banner.png\" alt=\"BrowserSkill banner\" />\n</p>\n\n<p align=\"center\">\n  <strong>Let AI agents use your browser without interrupting your work.</strong>\n</p>\n\n<p align=\"center\">\n  English · <a href=\"README.zh-CN.md\">中文</a>\n</p>\n\n**BrowserSkill** connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy,\nWorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in\nbrowser.\n\nNeed the agent to touch a tab you already have open? It must borrow that tab\nexplicitly, return it when the task is done, and leave the rest of your browser\nalone.\n\nhttps://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90\n\n## BrowserSkill Advantages\n\n- **Reuse real login state**: Agents can work"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 675,
+    "stars_total": 96504,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "stars_today": 569,
+    "stars_total": 4026,
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "local-first",
+      "long-term-memory"
+    ],
+    "url": "https://github.com/TencentCloud/Octop",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/readme-banner.png\" alt=\"Octop Banner\" width=\"600\" />\n</p>\n\n<p align=\"center\">\n  <strong>A smarter, self-hosted AI assistant — multi-user, multi-agent.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/95504?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-95504\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/95504\" alt=\"TencentCloud/Octop | Trendshift\" width=\"250\" height=\"55\" />\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.python.org/downloads/\"><img alt=\"Python 3.12+\" src=\"https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white\" /></a>\n  <a href=\"https://github.com/TencentCloud/Octop/blob/main/LICENSE\"><img"
+  },
+  {
+    "repo_name": "Fission-AI/OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "language": "TypeScript",
+    "stars_today": 296,
+    "stars_total": 69435,
+    "topics": [
+      "spec",
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdlc",
+      "spec-driven-development",
+      "specification",
+      "sdd"
+    ],
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://github.com/Fission-AI/OpenSpec\">\n    <picture>\n      <source srcset=\"assets/openspec_bg.png\">\n      <img src=\"assets/openspec_bg.png\" alt=\"OpenSpec logo\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml/badge.svg\" /></a>\n  <a href=\"https://www.npmjs.com/package/@fission-ai/openspec\"><img alt=\"npm version\" src=\"https://img.shields.io/npm/v/@fission-ai/openspec?style=flat-square\" /></a>\n  <a href=\"./LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square\" /></a>\n  <a href=\"https://discord.gg/YctCnvvshC\"><img alt=\"Discord\" src=\"https://img.shields.io/"
+  },
+  {
+    "repo_name": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "language": "Rust",
+    "stars_today": 174,
+    "stars_total": 31242,
+    "topics": [],
+    "url": "https://github.com/ankitects/anki",
+    "readme_snippet": "# Anki\n\n[![Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitects/anki/actions/workflows/ci.yml)\n[![Documentation](https://img.shields.io/badge/docs-dev--docs.ankiweb.net-blue)](https://dev-docs.ankiweb.net)\n[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ankitects_anki&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ankitects_anki)\n\nThis repo contains the source code for the computer version of\n[Anki](https://apps.ankiweb.net).\n\n## About\n\nAnki is a spaced repetition program. Please see the [website](https://apps.ankiweb.net) to learn more.\n\n## Getting Started\n\n### Contributing\n\nWant to contribute to Anki? Check out the [Contribution Guidelines](./docs/contributing.md).\n\nFor more information on bui"
+  },
+  {
+    "repo_name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars_today": 299,
+    "stars_total": 24931,
+    "topics": [],
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "readme_snippet": "# Knowledge Work Plugins\n\nPlugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).\n\n## Why Plugins\n\nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.\n\nEach plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them "
+  },
+  {
+    "repo_name": "supermemoryai/supermemory",
+    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "stars_today": 140,
+    "stars_total": 30377,
+    "topics": [
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "drizzle-orm",
+      "tailwindcss",
+      "typescript",
+      "cloudflare-kv",
+      "postgres",
+      "remix",
+      "vite",
+      "agent-memory",
+      "ai-memory",
+      "memory"
+    ],
+    "url": "https://github.com/supermemoryai/supermemory",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\">\n    <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\">\n    <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"Supermemory\" width=\"400\" />\n  </picture>\n</p>\n\n<p align=\"center\">\n  <strong>State-of-the-art memory and context engine for AI.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://supermemory.ai/docs\">Docs</a> ·\n  <a href=\"https://supermemory.ai/docs/quickstart\">Quickstart</a> ·\n  <a href=\"https://supermemory.ai/docs/self-hosting/overview\">Self-host</a> ·\n  <a href=\"https://console.supermemory.ai\">Dashboard</a> ·\n  <a href=\"https://supermemory.link/discord\">Discord</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www."
+  },
+  {
+    "repo_name": "tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "language": "JavaScript",
+    "stars_today": 79,
+    "stars_total": 6509,
+    "topics": [],
+    "url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "readme_snippet": "# TradingView MCP Bridge\n\n[![MCP Toplist](https://mcptoplist.com/badge/glama%2Ftradesdontlie%2Ftradingview-mcp.svg)](https://mcptoplist.com/server/glama%2Ftradesdontlie%2Ftradingview-mcp)\n\nPersonal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation.\n\n> [!WARNING]\n> **This tool is not affiliated with, endorsed by, or associated with TradingView Inc.** It interacts with your locally running TradingView Desktop application via Chrome DevTools Protocol. Review the [Disclaimer](#disclaimer) before use.\n\n> [!IMPORTANT]\n> **Requires a valid TradingView subscription.** This tool does not bypass or circumvent any TradingView paywal"
+  },
+  {
+    "repo_name": "rustfs/rustfs",
+    "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "language": "Rust",
+    "stars_today": 267,
+    "stars_total": 33221,
+    "topics": [
+      "bigdata",
+      "cloud-native",
+      "filesystem",
+      "object-storage",
+      "rust",
+      "s3",
+      "minio",
+      "amazon-s3",
+      "objectstorage",
+      "ai-native",
+      "multi-cloud",
+      "ai-storage"
+    ],
+    "url": "https://github.com/rustfs/rustfs",
+    "readme_snippet": "[![RustFS](https://repository-images.githubusercontent.com/722597620/0fa936a2-8164-4f53-867f-def4beb64b21)](https://rustfs.com)\n\n<p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a>\n  <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.svg\" /></a>\n  <img alt=\"GitHub commit activity\" src=\"https://img.shields.io/github/commit-activity/m/rustfs/rustfs\"/>\n  <img alt=\"Github Last Commit\" src=\"https://img.shields.io/github/last-commit/r"
+  },
+  {
+    "repo_name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars_today": 120,
+    "stars_total": 110200,
+    "topics": [
+      "firebase",
+      "supabase",
+      "realtime",
+      "postgrest",
+      "postgres",
+      "postgresql",
+      "websockets",
+      "deno",
+      "embeddings",
+      "vectors",
+      "alternative",
+      "auth",
+      "database",
+      "example",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "ai"
+    ],
+    "url": "https://github.com/supabase/supabase",
+    "readme_snippet": "<p align=\"center\">\n<img src=\"https://user-images.githubusercontent.com/8291514/213727234-cda046d6-28c6-491a-b284-b86c5cede25d.png#gh-light-mode-only\">\n<img src=\"https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only\">\n</p>\n\n# Supabase\n\n[Supabase](https://supabase.com) is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools.\n\n- [x] Hosted Postgres Database. [Docs](https://supabase.com/docs/guides/database)\n- [x] Authentication and Authorization. [Docs](https://supabase.com/docs/guides/auth)\n- [x] Auto-generated APIs.\n  - [x] REST. [Docs](https://supabase.com/docs/guides/api)\n  - [x] GraphQL. [Docs](https://supabase.com/docs/guides/graphql)\n  - [x] Realtime subscript"
+  },
+  {
+    "repo_name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars_today": 478,
+    "stars_total": 15354,
+    "topics": [
+      "remote-development",
+      "development-environment",
+      "ide",
+      "dev-tools",
+      "vscode",
+      "jetbrains",
+      "terraform",
+      "go",
+      "golang",
+      "agents"
+    ],
+    "url": "https://github.com/coder/coder",
+    "readme_snippet": "<!-- markdownlint-disable MD041 -->\n<div align=\"center\">\n  <a href=\"https://coder.com#gh-light-mode-only\">\n    <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\">\n  </a>\n  <a href=\"https://coder.com#gh-dark-mode-only\">\n    <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\">\n  </a>\n\n  <h1>\n  Self-Hosted Cloud Development Environments and AI Agents\n  </h1>\n\n  <a href=\"https://coder.com#gh-light-mode-only\">\n    <img src=\"./docs/images/banner-black.png\" alt=\"Coder Banner Light\" style=\"width: 650px\">\n  </a>\n  <a href=\"https://coder.com#gh-dark-mode-only\">\n    <img src=\"./docs/images/banner-white.png\" alt=\"Coder Banner Dark\" style=\"width: 650px\">\n  </a>\n\n  <br>\n  <br>\n\n[Quickstart](#quickstart) | [Docs](https://coder.com/docs) | [W"
+  },
+  {
+    "repo_name": "ahmedkhaleel2004/gitdiagram",
+    "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "language": "TypeScript",
+    "stars_today": 152,
+    "stars_total": 16517,
+    "topics": [
+      "ai",
+      "github",
+      "system-design",
+      "code"
+    ],
+    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "readme_snippet": "[![GitDiagram front page](./docs/readme_img.png)](https://gitdiagram.com/)\n\n![License](https://img.shields.io/badge/license-MIT-blue.svg)\n[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061.svg?logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmedkhaleel2004)\n\n# GitDiagram\n\nTurn any public or private GitHub repository into an interactive architecture diagram in seconds.\n\nYou can also replace `hub` with `diagram` in a GitHub URL to open its diagram.\n\n> **Sponsor slot:** Reach developers while they are actively exploring codebases. [Sponsor GitDiagram](https://gitdiagram.com/sponsor).\n\n## Features\n\n- **Architecture-first diagrams:** converts a repository tree, README, and bounded source excerpts into a system-level graph instead of merely drawing folders.\n- **Interactive source links:** clic"
+  },
+  {
+    "repo_name": "asciimoo/hister",
+    "description": "Your own search engine",
+    "language": "Go",
+    "stars_today": 889,
+    "stars_total": 5011,
+    "topics": [
+      "go",
+      "golang",
+      "history",
+      "index",
+      "search",
+      "search-engine",
+      "web",
+      "mcp",
+      "mcp-server",
+      "privacy",
+      "semantic-search",
+      "browser-history",
+      "personal-search",
+      "personal-search-engine"
+    ],
+    "url": "https://github.com/asciimoo/hister",
+    "readme_snippet": "# Hister\n\n**Your own search engine**\n\nHister is a private search engine for the pages you visit and the files you keep. It indexes their full contents so you can find information again from the web interface, terminal, or an AI assistant connected through MCP.\n\n[Try the demo](https://demo.hister.org/) · [Download Hister](https://github.com/asciimoo/hister/releases/latest) · [Read the quickstart](https://hister.org/docs/quickstart) · [Documentation](https://hister.org/docs)\n\n![Hister web interface](webui/website/src/lib/assets/screenshot.png)\n\n## Quickstart\n\n1. Download the binary for your platform from the [latest release](https://github.com/asciimoo/hister/releases/latest), then rename it to `hister` (`hister.exe` on Windows).\n\n2. On Linux or macOS, make it executable:\n\n   ```bash\n   chmo"
+  }
+]
