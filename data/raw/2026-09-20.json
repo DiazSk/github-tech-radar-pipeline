@@ -1,0 +1,252 @@
+[
+  {
+    "repo_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars_today": 3155,
+    "stars_total": 16757,
+    "topics": [],
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "readme_snippet": "# security-audit\n\nA coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.\n\nThis is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from.\n\n## What it does\n\nThe skill runs a structured audit in six phases:\n\n1. **Reconnaissance** -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in `architecture.md` and `cove"
+  },
+  {
+    "repo_name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "stars_today": 859,
+    "stars_total": 24628,
+    "topics": [
+      "apple",
+      "cua",
+      "lume",
+      "macos",
+      "virtualization",
+      "virtualization-framework",
+      "swift",
+      "ai-agent",
+      "computer-use",
+      "manus",
+      "operator",
+      "agent",
+      "containerization",
+      "windows",
+      "windows-sandbox",
+      "hacktoberfest",
+      "computer-use-agent",
+      "desktop-automation"
+    ],
+    "url": "https://github.com/trycua/cua",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://cua.ai\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" alt=\"Cua logo\" width=\"150\" srcset=\"img/logo_white.svg\">\n      <source media=\"(prefers-color-scheme: light)\" alt=\"Cua logo\" width=\"150\" srcset=\"img/logo_black.svg\">\n      <img alt=\"Cua logo\" width=\"150\" src=\"img/logo_black.svg\">\n    </picture>\n  </a>\n\n  <p align=\"center\"><strong>Give AI agents computers they can use.</strong><br>Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents.</p>\n\n  <p align=\"center\"><strong><a href=\"https://run.cua.ai/?utm_source=github&utm_medium=referral&utm_campaign=fleet_activation&content_id=repo_re"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 556,
+    "stars_total": 97175,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars_today": 402,
+    "stars_total": 15688,
+    "topics": [
+      "remote-development",
+      "development-environment",
+      "ide",
+      "dev-tools",
+      "vscode",
+      "jetbrains",
+      "terraform",
+      "go",
+      "golang",
+      "agents"
+    ],
+    "url": "https://github.com/coder/coder",
+    "readme_snippet": "<!-- markdownlint-disable MD041 -->\n<div align=\"center\">\n  <a href=\"https://coder.com#gh-light-mode-only\">\n    <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\">\n  </a>\n  <a href=\"https://coder.com#gh-dark-mode-only\">\n    <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\">\n  </a>\n\n  <h1>\n  Self-Hosted Cloud Development Environments and AI Agents\n  </h1>\n\n  <a href=\"https://coder.com#gh-light-mode-only\">\n    <img src=\"./docs/images/banner-black.png\" alt=\"Coder Banner Light\" style=\"width: 650px\">\n  </a>\n  <a href=\"https://coder.com#gh-dark-mode-only\">\n    <img src=\"./docs/images/banner-white.png\" alt=\"Coder Banner Dark\" style=\"width: 650px\">\n  </a>\n\n  <br>\n  <br>\n\n[Quickstart](#quickstart) | [Docs](https://coder.com/docs) | [W"
+  },
+  {
+    "repo_name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "stars_today": 483,
+    "stars_total": 146793,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-code",
+    "readme_snippet": "# Claude Code\n\n![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)\n\n[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square\n\nClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github.\n\n**Learn more in the [official documentation](https://code.claude.com/docs/en/overview)**.\n\n<img src=\"./demo.gif\" />\n\n## Get started\n> [!NOTE]\n> Installation via npm is deprecated. Use one of the recommended methods below.\n\nFor more installation options, un"
+  },
+  {
+    "repo_name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "stars_today": 472,
+    "stars_total": 16231,
+    "topics": [
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "shadcn-ui",
+      "stock-market",
+      "tailwindcss"
+    ],
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "readme_snippet": "<p align=\"center\">\n  <b>New from Open Dev Society:</b> <a href=\"https://github.com/Open-Dev-Society/kitbash\"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest.\n</p>\n\n<p align=\"center\">\n <a href=\"https://www.star-history.com/open-dev-society/openstock\">\n  <picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank&theme=dark\" /><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank\" /><img alt=\"Star History Rank\" src=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank\" /></picture> <picture><source media=\"(prefers-color-scheme: dark)\" sr"
+  },
+  {
+    "repo_name": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "language": "Jupyter Notebook",
+    "stars_today": 196,
+    "stars_total": 5034,
+    "topics": [
+      "cluster-management",
+      "deep-learning",
+      "distributed",
+      "llama",
+      "llama2",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "pytorch"
+    ],
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "readme_snippet": "# higgsfield - multi node training without crying\n\n\nHiggsfield is an open-source, fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large Language Models (LLMs).\n\n[![PyPI version](https://badge.fury.io/py/higgsfield.svg)](https://badge.fury.io/py/higgsfield)\n\n![architecture](https://raw.githubusercontent.com/higgsfield/higgsfield/main/docs/static/architecture.png)\n\nHiggsfield serves as a GPU workload manager and machine learning framework with five primary functions:\n\n1. Allocating exclusive and non-exclusive access to compute resources (nodes) to users for their training tasks.\n2. Supporting ZeRO-3 deepspeed API and fully sharded data parallel API of PyTorch, enabling efficient"
+  },
+  {
+    "repo_name": "docling-project/docling",
+    "description": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars_today": 129,
+    "stars_total": 67202,
+    "topics": [
+      "ai",
+      "convert",
+      "documents",
+      "pdf",
+      "tables",
+      "document-parser",
+      "document-parsing",
+      "docx",
+      "html",
+      "markdown",
+      "pdf-converter",
+      "pdf-to-json",
+      "pdf-to-text",
+      "pptx",
+      "xlsx"
+    ],
+    "url": "https://github.com/docling-project/docling",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://github.com/docling-project/docling\">\n    <img loading=\"lazy\" alt=\"Docling\" src=\"https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png\" width=\"100%\"/>\n  </a>\n</p>\n\n# Docling\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/17240\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17240\" alt=\"DS4SD%2Fdocling | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n[![arXiv](https://img.shields.io/badge/arXiv-2408.09869-b31b1b.svg)](https://arxiv.org/abs/2408.09869)\n[![Docs](https://img.shields.io/badge/docs-live-brightgreen)](https://docling-project.github.io/docling/)\n[![PyPI version](https://img.shields.io/pypi/v/docling)](https://pypi.org/project/docling"
+  },
+  {
+    "repo_name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "stars_today": 31,
+    "stars_total": 12076,
+    "topics": [
+      "quic",
+      "http3",
+      "network-programming",
+      "protocol",
+      "rust"
+    ],
+    "url": "https://github.com/cloudflare/quiche",
+    "readme_snippet": "![quiche](quiche.svg)\n\n[![crates.io](https://img.shields.io/crates/v/quiche.svg)](https://crates.io/crates/quiche)\n[![docs.rs](https://docs.rs/quiche/badge.svg)](https://docs.rs/quiche)\n[![license](https://img.shields.io/github/license/cloudflare/quiche.svg)](https://opensource.org/licenses/BSD-2-Clause)\n![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)\n\n[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as\nspecified by the [IETF]. It provides a low level API for processing QUIC packets\nand handling connection state. The application is responsible for providing I/O\n(e.g. sockets handling) as well as an event loop with support for timers.\n\nFor more information on how quiche came about and some insights into its de"
+  },
+  {
+    "repo_name": "asciimoo/hister",
+    "description": "Your own search engine",
+    "language": "Go",
+    "stars_today": 420,
+    "stars_total": 5305,
+    "topics": [
+      "go",
+      "golang",
+      "history",
+      "index",
+      "search",
+      "search-engine",
+      "web",
+      "mcp",
+      "mcp-server",
+      "privacy",
+      "semantic-search",
+      "browser-history",
+      "personal-search",
+      "personal-search-engine"
+    ],
+    "url": "https://github.com/asciimoo/hister",
+    "readme_snippet": "# Hister\n\n**Your own search engine**\n\nHister is a private search engine for the pages you visit and the files you keep. It indexes their full contents so you can find information again from the web interface, terminal, or an AI assistant connected through MCP.\n\n[Try the demo](https://demo.hister.org/) · [Download Hister](https://github.com/asciimoo/hister/releases/latest) · [Read the quickstart](https://hister.org/docs/quickstart) · [Documentation](https://hister.org/docs)\n\n![Hister web interface](webui/website/src/lib/assets/screenshot.png)\n\n## Quickstart\n\n1. Download the binary for your platform from the [latest release](https://github.com/asciimoo/hister/releases/latest), then rename it to `hister` (`hister.exe` on Windows).\n\n2. On Linux or macOS, make it executable:\n\n   ```bash\n   chmo"
+  },
+  {
+    "repo_name": "ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": null,
+    "stars_today": 98,
+    "stars_total": 103355,
+    "topics": [],
+    "url": "https://github.com/ruanyf/weekly",
+    "readme_snippet": "# 科技爱好者周刊\n\n记录每周值得分享的科技内容，周五发布。\n\n欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。\n\n> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/11434)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。\n\n## 2026\n\n**九月**\n\n- 第 413 期：[再见了，React Native](docs/issue-413.md)\n- 第 412 期：[禁止 issue，只用 PR](docs/issue-412.md)\n- 第 411 期：[OpenClaw 2.0 是一个缩影](docs/issue-411.md)\n\n**八月**\n\n- 第 410 期：[你需要知道的 AI 三种机制](docs/issue-410.md)\n- 第 409 期：[程序员的职业未来](docs/issue-409.md)\n- 第 408 期：[你需要知道的 AI 缓存知识](docs/issue-408.md)\n- 第 407 期：[国家为什么需要开源软件？](docs/issue-407.md)\n\n**七月**\n\n- 第 406 期：[道可，道非，常道](docs/issue-406.md)\n- 第 405 期：[资源，社会公平与算力](docs/issue-405.md)\n- 第 404 期：[你需要知道的 AI 内存知识](docs/issue-404.md)\n- 第 403 期：[为什么 Dropbox 不成功](docs/issue-403.md)\n- 第 402 期：[我在智念 AI 的日子（小说）](docs/issue-402.md)\n\n**六月**\n\n- 第 401 期："
+  },
+  {
+    "repo_name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "language": "TypeScript",
+    "stars_today": 48,
+    "stars_total": 37943,
+    "topics": [],
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"./enjoy/assets/icon.png\" alt=\"Clash\" width=\"128\" />\n</div>\n\n<h3 align=\"center\">\nAI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。\n</h3>\n\n[![Deploy 1000h website](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/deploy-1000h.yml/badge.svg)](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/deploy-1000h.yml)\n[![Test Enjoy App](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/test-enjoy-app.yml/badge.svg)](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/test-enjoy-app.yml)\n[![Release Enjoy App](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/release-enjoy-app.yml/badge.svg)](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/release-e"
+  },
+  {
+    "repo_name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars_today": 281,
+    "stars_total": 25183,
+    "topics": [],
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "readme_snippet": "# Knowledge Work Plugins\n\nPlugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).\n\n## Why Plugins\n\nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.\n\nEach plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them "
+  },
+  {
+    "repo_name": "cactus-compute/needle",
+    "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "language": "Python",
+    "stars_today": 234,
+    "stars_total": 11683,
+    "topics": [
+      "cactus",
+      "llm",
+      "on-device-ai",
+      "edge-ai",
+      "foundation-model",
+      "function-calling",
+      "tinyml",
+      "tool-calling"
+    ],
+    "url": "https://github.com/cactus-compute/needle",
+    "readme_snippet": "![Needle](assets/banner.svg)\n\nA foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction.\n\n- **Tool calls**: given the functions your app exposes, Needle picks the right ones and fills every argument from what the user said. Ask for two things and you get two calls in order; ask for something no tool covers and you get an empty list, not a guess.\n- **Structured extraction**: declare a shape, hand over messy text, get typed fields back: an invoice, a booking, a notification, a form. The decode grammar guarantees the output parses, and extraction gen"
+  },
+  {
+    "repo_name": "yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "language": "Rust",
+    "stars_today": 32,
+    "stars_total": 3460,
+    "topics": [],
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"README.md\"><img src=\"https://img.shields.io/badge/中文-当前-blue\" alt=\"中文\" /></a>\n  <a href=\"README.en.md\"><img src=\"https://img.shields.io/badge/English-Switch-lightgrey\" alt=\"English\" /></a>\n</p>\n\n<div align=\"center\">\n  <img src=\"apps/desktop/src-tauri/icons/icon.png\" alt=\"Codex-X Logo\" width=\"150\" />\n\n  # Codex-X\n\n  **Codex 可视化提示词注入 · Provider · 会话 · Skills / MCP 管理工具**\n\n  一款面向 **OpenAI Codex 桌面端 / Codex CLI** 的跨平台桌面工具。把提示词模板、自定义 Prompt、第三方 API 供应商、会话同步、Skills / MCP 和 TOML 配置都放进可视化界面里，不用反复手改文件。\n\n  <p>\n    <img src=\"https://img.shields.io/github/v/release/yynxxxxx/Codex-X?label=version&color=blue\" alt=\"version\" />\n    <img src=\"https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-555\" alt=\"platform\" />\n    <img src=\"https://img.shields.io/ba"
+  }
+]
