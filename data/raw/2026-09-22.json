@@ -1,0 +1,192 @@
+[
+  {
+    "repo_name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "language": "TypeScript",
+    "stars_today": 607,
+    "stars_total": 6071,
+    "topics": [
+      "agents",
+      "ai",
+      "react",
+      "agent-native",
+      "typescript"
+    ],
+    "url": "https://github.com/BuilderIO/agent-native",
+    "readme_snippet": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3\"\n  />\n  <source\n    media=\"(prefers-color-scheme: light)\"\n    srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\"\n  />\n  <img\n    alt=\"Agent-Native: The agentic application framework\"\n    src=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\"\n  />\n</picture>\n\n# Agent-Native\n\nAgent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an [action](https://agent-native.com/docs/actions-overview): the agent uses it as a to"
+  },
+  {
+    "repo_name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "stars_today": 609,
+    "stars_total": 25797,
+    "topics": [
+      "apple",
+      "cua",
+      "lume",
+      "macos",
+      "virtualization",
+      "virtualization-framework",
+      "swift",
+      "ai-agent",
+      "computer-use",
+      "manus",
+      "operator",
+      "agent",
+      "containerization",
+      "windows",
+      "windows-sandbox",
+      "hacktoberfest",
+      "computer-use-agent",
+      "desktop-automation"
+    ],
+    "url": "https://github.com/trycua/cua",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://cua.ai\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" alt=\"Cua logo\" width=\"150\" srcset=\"img/logo_white.svg\">\n      <source media=\"(prefers-color-scheme: light)\" alt=\"Cua logo\" width=\"150\" srcset=\"img/logo_black.svg\">\n      <img alt=\"Cua logo\" width=\"150\" src=\"img/logo_black.svg\">\n    </picture>\n  </a>\n\n  <p align=\"center\"><strong>Give AI agents computers they can use.</strong><br>Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents.</p>\n\n  <p align=\"center\"><strong><a href=\"https://run.cua.ai/?utm_source=github&utm_medium=referral&utm_campaign=fleet_activation&content_id=repo_re"
+  },
+  {
+    "repo_name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "stars_today": 844,
+    "stars_total": 17971,
+    "topics": [
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "shadcn-ui",
+      "stock-market",
+      "tailwindcss"
+    ],
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "readme_snippet": "<p align=\"center\">\n  Ca: B6F3rUqfPfPmHXeMJaVttkrP9tfy5Eq2MUAaubFxpump\n</p>\n\n<p align=\"center\">\n  <b>New from Open Dev Society:</b> <a href=\"https://github.com/Open-Dev-Society/kitbash\"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest.\n</p>\n\n<p align=\"center\">\n <a href=\"https://www.star-history.com/open-dev-society/openstock\">\n  <picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank&theme=dark\" /><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank\" /><img alt=\"Star History Rank\" src=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type"
+  },
+  {
+    "repo_name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars_today": 167,
+    "stars_total": 7819,
+    "topics": [],
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\">\n    <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\">\n  </picture>\n</p>\n\n> Long-term memory for AI coding agents. Quit Claude Code mid-task,\n> start OpenAI Codex in the same directory, continue without\n> re-explaining the architecture, the failed approaches, or the open\n> questions.\n\n[![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/ai-memory/releases/latest)\n[![Rust](https://img.shields.io/badge/rust-1.95+-blue)](rust-toolchain.toml)\n[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)\n\n## Why ai-memory\n\nYour coding agent already has a memory feature. Claude Code takes its own\nnotes, Cursor remembe"
+  },
+  {
+    "repo_name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars_today": 460,
+    "stars_total": 16494,
+    "topics": [
+      "remote-development",
+      "development-environment",
+      "ide",
+      "dev-tools",
+      "vscode",
+      "jetbrains",
+      "terraform",
+      "go",
+      "golang",
+      "agents"
+    ],
+    "url": "https://github.com/coder/coder",
+    "readme_snippet": "<!-- markdownlint-disable MD041 -->\n<div align=\"center\">\n  <a href=\"https://coder.com#gh-light-mode-only\">\n    <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\">\n  </a>\n  <a href=\"https://coder.com#gh-dark-mode-only\">\n    <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\">\n  </a>\n\n  <h1>\n  Self-Hosted Cloud Development Environments and AI Agents\n  </h1>\n\n  <a href=\"https://coder.com#gh-light-mode-only\">\n    <img src=\"./docs/images/banner-black.png\" alt=\"Coder Banner Light\" style=\"width: 650px\">\n  </a>\n  <a href=\"https://coder.com#gh-dark-mode-only\">\n    <img src=\"./docs/images/banner-white.png\" alt=\"Coder Banner Dark\" style=\"width: 650px\">\n  </a>\n\n  <br>\n  <br>\n\n[Quickstart](#quickstart) | [Docs](https://coder.com/docs) | [W"
+  },
+  {
+    "repo_name": "anthropics/financial-services",
+    "description": null,
+    "language": "Python",
+    "stars_today": 424,
+    "stars_total": 35923,
+    "topics": [],
+    "url": "https://github.com/anthropics/financial-services",
+    "readme_snippet": "# Claude for Financial Services\n\nReference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management.\n\nEverything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same skills — you choose where it runs.\n\n> [!IMPORTANT]\n> Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — for review by a qualified professional. They do not make investment reco"
+  },
+  {
+    "repo_name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "stars_today": 32,
+    "stars_total": 12412,
+    "topics": [
+      "quic",
+      "http3",
+      "network-programming",
+      "protocol",
+      "rust"
+    ],
+    "url": "https://github.com/cloudflare/quiche",
+    "readme_snippet": "![quiche](quiche.svg)\n\n[![crates.io](https://img.shields.io/crates/v/quiche.svg)](https://crates.io/crates/quiche)\n[![docs.rs](https://docs.rs/quiche/badge.svg)](https://docs.rs/quiche)\n[![license](https://img.shields.io/github/license/cloudflare/quiche.svg)](https://opensource.org/licenses/BSD-2-Clause)\n![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)\n\n[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as\nspecified by the [IETF]. It provides a low level API for processing QUIC packets\nand handling connection state. The application is responsible for providing I/O\n(e.g. sockets handling) as well as an event loop with support for timers.\n\nFor more information on how quiche came about and some insights into its de"
+  },
+  {
+    "repo_name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "stars_today": 169,
+    "stars_total": 13688,
+    "topics": [
+      "forensics",
+      "mobile",
+      "security",
+      "android",
+      "ios",
+      "forensics-tools"
+    ],
+    "url": "https://github.com/mvt-project/mvt",
+    "readme_snippet": "<p align=\"center\">\n     <img src=\"https://docs.mvt.re/en/latest/mvt.png\" width=\"200\" />\n</p>\n\n# Mobile Verification Toolkit\n\n> [!IMPORTANT]\n> We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757\n\n[![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/)\n[![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://docs.mvt.re/en/latest/?badge=latest)\n[![CI](https://github.com/mvt-project/mvt/actions/workflows/tests.yml/badge.svg)](https://github.com/mvt-project/mvt/actions/workflows/tests.yml)\n[![Downloads](https://pepy.tech/badge/mvt)](https://pepy.tech/project/mvt)\n\nMobile Verification Toolkit (MVT)"
+  },
+  {
+    "repo_name": "zhouxiaoka/autoclip",
+    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "language": "Python",
+    "stars_today": 250,
+    "stars_total": 8424,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "ai-video",
+      "ai-video-editor",
+      "auto",
+      "auto-highlight",
+      "highlight",
+      "llm",
+      "video",
+      "video-editing",
+      "video-processing",
+      "videos"
+    ],
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"src-tauri/icons/128x128.png\" alt=\"AutoClip\" width=\"80\" height=\"80\">\n\n# AutoClip\n\n**把长视频变成值得分享的精彩片段。**\n\n**简体中文** · [English](README-EN.md) · [日本語](README-JA.md) · [한국어](README-KO.md) · [Español](README-ES.md) · [Português](README-PT.md) · [Русский](README-RU.md) · [Français](README-FR.md)\n\n[![GitHub release](https://img.shields.io/github/v/release/zhouxiaoka/autoclip?style=flat-square)](https://github.com/zhouxiaoka/autoclip/releases/latest)\n[![GitHub stars](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=flat-square)](https://github.com/zhouxiaoka/autoclip/stargazers)\n[![GitHub forks](https://img.shields.io/github/forks/zhouxiaoka/autoclip?style=flat-square)](https://github.com/zhouxiaoka/autoclip/forks)\n[![GitHub issues](https://img.shields.io"
+  },
+  {
+    "repo_name": "ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": null,
+    "stars_today": 182,
+    "stars_total": 104177,
+    "topics": [],
+    "url": "https://github.com/ruanyf/weekly",
+    "readme_snippet": "# 科技爱好者周刊\n\n记录每周值得分享的科技内容，周五发布。\n\n欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。\n\n> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/11434)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。\n\n## 2026\n\n**九月**\n\n- 第 413 期：[再见了，React Native](docs/issue-413.md)\n- 第 412 期：[禁止 issue，只用 PR](docs/issue-412.md)\n- 第 411 期：[OpenClaw 2.0 是一个缩影](docs/issue-411.md)\n\n**八月**\n\n- 第 410 期：[你需要知道的 AI 三种机制](docs/issue-410.md)\n- 第 409 期：[程序员的职业未来](docs/issue-409.md)\n- 第 408 期：[你需要知道的 AI 缓存知识](docs/issue-408.md)\n- 第 407 期：[国家为什么需要开源软件？](docs/issue-407.md)\n\n**七月**\n\n- 第 406 期：[道可，道非，常道](docs/issue-406.md)\n- 第 405 期：[资源，社会公平与算力](docs/issue-405.md)\n- 第 404 期：[你需要知道的 AI 内存知识](docs/issue-404.md)\n- 第 403 期：[为什么 Dropbox 不成功](docs/issue-403.md)\n- 第 402 期：[我在智念 AI 的日子（小说）](docs/issue-402.md)\n\n**六月**\n\n- 第 401 期："
+  },
+  {
+    "repo_name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "language": "TypeScript",
+    "stars_today": 394,
+    "stars_total": 37964,
+    "topics": [],
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "readme_snippet": "<div align=\"center\">\n<img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/>\n\n# Project NOMAD\n### Knowledge That Never Goes Offline\n\n[![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions)\n[![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](https://benchmark.projectnomad.us)\n\n</div>\n\n---\n\nProject NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhere.\n\n## Installation & Quickstart\nProject NOMAD can be installed on any Debian-based operating system (we recommend Ubuntu 26"
+  },
+  {
+    "repo_name": "yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "language": "Rust",
+    "stars_today": 50,
+    "stars_total": 3752,
+    "topics": [],
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"README.md\"><img src=\"https://img.shields.io/badge/中文-当前-blue\" alt=\"中文\" /></a>\n  <a href=\"README.en.md\"><img src=\"https://img.shields.io/badge/English-Switch-lightgrey\" alt=\"English\" /></a>\n</p>\n\n<div align=\"center\">\n  <img src=\"apps/desktop/src-tauri/icons/icon.png\" alt=\"Codex-X Logo\" width=\"150\" />\n\n  # Codex-X\n\n  **Codex 可视化提示词注入 · Provider · 会话 · Skills / MCP 管理工具**\n\n  一款面向 **OpenAI Codex 桌面端 / Codex CLI** 的跨平台桌面工具。把提示词模板、自定义 Prompt、第三方 API 供应商、会话同步、Skills / MCP 和 TOML 配置都放进可视化界面里，不用反复手改文件。\n\n  <p>\n    <img src=\"https://img.shields.io/github/v/release/yynxxxxx/Codex-X?label=version&color=blue\" alt=\"version\" />\n    <img src=\"https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-555\" alt=\"platform\" />\n    <img src=\"https://img.shields.io/ba"
+  }
+]
