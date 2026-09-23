@@ -1,0 +1,126 @@
+[
+  {
+    "repo_name": "anthropics/financial-services",
+    "description": null,
+    "language": "Python",
+    "stars_today": 438,
+    "stars_total": 36499,
+    "topics": [],
+    "url": "https://github.com/anthropics/financial-services",
+    "readme_snippet": "# Claude for Financial Services\n\nReference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management.\n\nEverything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same skills — you choose where it runs.\n\n> [!IMPORTANT]\n> Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — for review by a qualified professional. They do not make investment reco"
+  },
+  {
+    "repo_name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "stars_today": 245,
+    "stars_total": 3083,
+    "topics": [],
+    "url": "https://github.com/agent-substrate/substrate",
+    "readme_snippet": "# Agent Substrate\n\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n\nNOTE: This is not an officially supported Google product. This project is not\neligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).\n\n## What is Agent Substrate?\n\nAgent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of autonomous agents, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVi"
+  },
+  {
+    "repo_name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "stars_today": 255,
+    "stars_total": 15723,
+    "topics": [
+      "data-table",
+      "excel",
+      "spreadsheet",
+      "xlsx",
+      "doc",
+      "word",
+      "grid",
+      "ppt",
+      "collaboration",
+      "sdk",
+      "sheet",
+      "docx",
+      "pptx",
+      "presentation",
+      "slides",
+      "table",
+      "wordprocessor",
+      "board",
+      "pdf"
+    ],
+    "url": "https://github.com/dream-num/univer",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" />\n\n**The Office Harness for AI Agents**\n\nSpreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon)\n\nHigh-performance, fully customizable Office SDK\n\nBuild embeddable productivity experiences with a plugin architecture, Canvas-based rendering,\na formula engine, and one Facade API that works in the browser and on Node.js.\n\nEnglish | [简体中文](./docs/readme/zh-CN.md) | [繁體中文](./docs/readme/zh-TW.md) | [日本語](./docs/readme/ja-JP.md) | [한국어](./docs/readme/ko-KR.md) | [Español](./docs/readme/es-ES.md)\n\n[🌐 Website](https://univer.ai/) | [📖 Documentation](https://docs.univer.ai) | [✨ Showcase](https://docs.univer.ai/showcase) | [📘 API Reference](https://docs.univer.ai/reference/classes/univer) | ["
+  },
+  {
+    "repo_name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "stars_today": 64,
+    "stars_total": 31205,
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
+    ],
+    "url": "https://github.com/davila7/claude-code-templates",
+    "readme_snippet": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates)\n[![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)\n[![Sponsored by Z.AI](https://img.shields.io/badge/Sponsored%20by-Z.AI-2563eb?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)](https://z.ai/subscribe?ic="
+  },
+  {
+    "repo_name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "stars_today": 2305,
+    "stars_total": 7910,
+    "topics": [],
+    "url": "https://github.com/google/ax",
+    "readme_snippet": "<h1>\n  <img src=\"assets/axolotl.svg\" width=\"70\" align=\"absmiddle\" alt=\"AX axolotl\">\n  AX\n</h1>\n\n> [!WARNING]\n> We are still actively refining our core concepts, protocols,\n> and specifications. We will likely to introduce major breaking\n> changes prior to a stable release.\n\n**Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.**\n\nAX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It runs on top of [Agent Substrate](https://github.com/agent-substrate/substrate) for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, `ax` will feel similar.\n\n```yaml\n# task.yaml\napiVersion: ax.io/v"
+  },
+  {
+    "repo_name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "stars_today": 441,
+    "stars_total": 14214,
+    "topics": [
+      "forensics",
+      "mobile",
+      "security",
+      "android",
+      "ios",
+      "forensics-tools"
+    ],
+    "url": "https://github.com/mvt-project/mvt",
+    "readme_snippet": "<p align=\"center\">\n     <img src=\"https://docs.mvt.re/en/latest/mvt.png\" width=\"200\" />\n</p>\n\n# Mobile Verification Toolkit\n\n> [!IMPORTANT]\n> We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757\n\n[![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/)\n[![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://docs.mvt.re/en/latest/?badge=latest)\n[![CI](https://github.com/mvt-project/mvt/actions/workflows/tests.yml/badge.svg)](https://github.com/mvt-project/mvt/actions/workflows/tests.yml)\n[![Downloads](https://pepy.tech/badge/mvt)](https://pepy.tech/project/mvt)\n\nMobile Verification Toolkit (MVT)"
+  },
+  {
+    "repo_name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+    "language": "Python",
+    "stars_today": 230,
+    "stars_total": 2317,
+    "topics": [
+      "dsh-plugin",
+      "agents",
+      "api-keys",
+      "cli",
+      "credentials",
+      "developer-tools",
+      "mcp",
+      "proxy",
+      "python",
+      "registry",
+      "secrets"
+    ],
+    "url": "https://github.com/superdesigndev/treg",
+    "readme_snippet": "# Treg (OpenRouter for Tools)\n\n![treg — the tool catalog for your agent](docs/assets/treg-hero.png)\n\n**OpenRouter, but for agent tools instead of models.** Point an agent at one base URL with one token\nand it can do the job: **3,000+ catalogued endpoints across 60+ providers** — SEO and backlinks,\nsocial and trends, people and company enrichment, ads, scraping, image and video generation —\n**priced per call, from a cent**,\nwith no provider signup. Plus your own team's keys, skills and CLIs, callable by every teammate's\nagent without the credential ever leaving the server.\n\n**Ask for the task, not the tool.** You do not need to know which vendor sells backlink data, or to\nhold an account with them. Search for what you want to do, read the price, call it.\n\nBuilt for the Superdesign team, liv"
+  },
+  {
+    "repo_name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "stars_today": 191,
+    "stars_total": 26015,
+    "topics": [],
+    "url": "https://github.com/browser-use/video-use",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\">\n</p>\n\n# video-use\n\nIntroducing **video-use** — edit videos with Claude Code. 100% open source.\n\nDrop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus.\n\nTry video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github).\n\n## What it does\n\n- **Cuts out filler words** (`umm`, `uh`, false starts) and dead space between takes\n- **Auto color grades** every segment (warm cinematic, neutral punch, or any custom ffmpeg chain)\n- **30ms audio fades** at every cut so you never hear a pop\n- **Burns subtitles** in your style — 2-word"
+  }
+]
