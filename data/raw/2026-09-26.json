@@ -1,0 +1,267 @@
+[
+  {
+    "repo_name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars_today": 2109,
+    "stars_total": 85349,
+    "topics": [],
+    "url": "https://github.com/paperclipai/paperclip",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot;\n  <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot;\n  <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot;\n  <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot;\n  <a href=\"https://x.com/papercliping\"><strong>Twitter</strong></a> &middot;\n  <a href=\"https://paperclip.ing\"><strong>Website</strong></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/paperclipai/paperclip/blob/master/LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-blue\" alt=\"MIT License\" /></a>\n  <a href"
+  },
+  {
+    "repo_name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars_today": 83,
+    "stars_total": 36978,
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "readme_snippet": "# Claude Code Plugins Directory\n\nA curated directory of high-quality plugins for Claude Code.\n\n> **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information.\n\n## Structure\n\n- **`/plugins`** - Internal plugins developed and maintained by Anthropic\n- **`/external_plugins`** - Third-party plugins from partners and the community\n\n## Installation\n\nPlugins can be installed directly from this marketplace via Claude Code's plugin system.\n\nTo install, run `/plugin install {plugin-name}@claude-plugins-official`\n\nor browse for the plugin in `/plugin > Disco"
+  },
+  {
+    "repo_name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars_today": 1653,
+    "stars_total": 30121,
+    "topics": [
+      "agentic-ai",
+      "memory",
+      "agents",
+      "ai-memory"
+    ],
+    "url": "https://github.com/vectorize-io/hindsight",
+    "readme_snippet": "<div align=\"center\">\n\n![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png)\n\n[Documentation](https://hindsight.vectorize.io) • [Integrations](https://hindsight.vectorize.io/integrations) • [Cookbook](https://hindsight.vectorize.io/cookbook) • [Benchmarks](https://benchmarks.hindsight.vectorize.io/) • [Paper](https://arxiv.org/abs/2512.12818) • [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup)\n\n[![Release](https://github.com/vectorize-io/hindsight/actions/workflows/release.yml/badge.svg)](https://github.com/vectorize-io/hindsight/actions/workflows/release.yml)\n[![Version](https://img.shields.io/pypi/v/hindsight-api?logo=python&logoColor=white&label=version&color=blue)](https://pypi.org/project/hindsight-api/)\n[![PyPI Downloads](https://img.shields.io/pypi/dm"
+  },
+  {
+    "repo_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars_today": 468,
+    "stars_total": 291726,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "superpowers",
+      "subagent-driven-development"
+    ],
+    "url": "https://github.com/obra/superpowers",
+    "readme_snippet": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n## Table of Contents\n\n- [How it works](#how-it-works)\n- [Commercial Services](#commercial-services)\n- [Getting Started](#installation)\n  - [Claude Code](#claude-code)\n  - [Antigravity](#antigravity)\n  - [Codex App](#codex-app)\n  - [Codex CLI](#codex-cli)\n  - [Cursor](#cursor)\n  - [Devin CLI](#devin-cli)\n  - [Factory Droid](#factory-droid)\n  - [Gemini CLI](#gemini-cli)\n  - [GitHub Copilot CLI](#github-copilot-cli)\n  - [Grok Build CLI](#grok-build-cli)\n  - [Kimi Code](#kimi-code)\n  - [OpenCode](#opencode)\n  - [Pi](#pi)\n  - [Qwen Code](#qwen-code)\n  - [Hermes Agent](#hermes-agent)\n  - [M"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 583,
+    "stars_total": 269823,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "stars_today": 1050,
+    "stars_total": 18781,
+    "topics": [
+      "data-table",
+      "excel",
+      "spreadsheet",
+      "xlsx",
+      "doc",
+      "word",
+      "grid",
+      "ppt",
+      "collaboration",
+      "sdk",
+      "sheet",
+      "docx",
+      "pptx",
+      "presentation",
+      "slides",
+      "table",
+      "wordprocessor",
+      "board",
+      "pdf"
+    ],
+    "url": "https://github.com/dream-num/univer",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" />\n\n**The Office Harness for AI Agents**\n\nSpreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon)\n\nHigh-performance, fully customizable Office SDK\n\nBuild embeddable productivity experiences with a plugin architecture, Canvas-based rendering,\na formula engine, and one Facade API that works in the browser and on Node.js.\n\nEnglish | [简体中文](./docs/readme/zh-CN.md) | [繁體中文](./docs/readme/zh-TW.md) | [日本語](./docs/readme/ja-JP.md) | [한국어](./docs/readme/ko-KR.md) | [Español](./docs/readme/es-ES.md)\n\n[🌐 Website](https://univer.ai/) | [📖 Documentation](https://docs.univer.ai) | [✨ Showcase](https://docs.univer.ai/showcase) | [📘 API Reference](https://docs.univer.ai/reference/classes/univer) | ["
+  },
+  {
+    "repo_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars_today": 189,
+    "stars_total": 178395,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/anthropics/skills",
+    "readme_snippet": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).\n\n[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)\n\n# Skills\nSkills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.\n\nFor more information, check out:\n- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)\n- [Using skills in Claude](ht"
+  },
+  {
+    "repo_name": "androoAGI/starnet",
+    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "language": "JavaScript",
+    "stars_today": 93,
+    "stars_total": 534,
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agents",
+      "byok",
+      "desktop-app",
+      "game-ui",
+      "llm",
+      "local-first",
+      "multi-agent",
+      "openrouter",
+      "pixel-art",
+      "tauri"
+    ],
+    "url": "https://github.com/androoAGI/starnet",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\".github/media/starnet-logo-glow.png\" alt=\"StarNet\" width=\"560\">\n\n**A living pixel-art station where real AI agents do real work.**\n\n[![Download](https://img.shields.io/github/v/release/androoAGI/starnet-releases?label=download&color=f5a623)](https://github.com/androoAGI/starnet-releases/releases/latest)\n[![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-4a90d9)](INSTALL.md)\n[![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)\n[![Local-first](https://img.shields.io/badge/local--first-your%20machine%2C%20your%20data-8250df)](PRIVACY.md)\n\n[Download](https://github.com/androoAGI/starnet-releases/releases/latest) ·\n[Install guide](INSTALL.md) ·\n[Run from source](#run-from-source) ·\n[Docs](docs/INDEX.md) ·\n[Contributin"
+  },
+  {
+    "repo_name": "derv82/wifit3",
+    "description": "Wifite but USB-only & cross-platform.",
+    "language": "Python",
+    "stars_today": 183,
+    "stars_total": 1008,
+    "topics": [
+      "cross-platform",
+      "userland",
+      "wifi-scanner",
+      "wifi-security",
+      "wireless-security"
+    ],
+    "url": "https://github.com/derv82/wifit3",
+    "readme_snippet": "# wifit3\n> A standalone USB Wi-Fi auditor for Linux, Windows, and macOS.\n\n<p align=\"center\">\n  <img src=\"assets/wifit3-1-splash.png\" alt=\"wifit3 splash / adapter picker\" width=\"700\">\n</p>\n\n> *At least* one of the [supported USB adapters](#supported-hardware) is **required**.\n\n## Why?\n* **Cross-Platform:** Runs identically on Linux, macOS, and Windows.\n* **Wireless Driver Heaven:** Built-in wireless stack avoids kernel driver versioning hell and Windows' NDIS.\n* **Zero Runtime Dependencies:** No `aircrack-ng` or `reaver`, just pure Python with PyUSB & Textual libraries.\n\n<p align=\"center\">\n  <img src=\"assets/wifit3-demo.gif\" alt=\"wifit3 in action: WPS PushButton PSK capture\" width=\"700\">\n</p>\n\n---\n\n## Features\n\n### Reconnaissance & Analysis\n- **Multi-Card Aggregation:** Capture packets acro"
+  },
+  {
+    "repo_name": "kelseyhightower/kubernetes-the-hard-way",
+    "description": "Bootstrap Kubernetes the hard way. No scripts.",
+    "language": null,
+    "stars_today": 119,
+    "stars_total": 50155,
+    "topics": [],
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "readme_snippet": "# Kubernetes The Hard Way\n\nThis tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.\n\n> The results of this tutorial should not be viewed as production ready, and may receive limited support from the community, but don't let that stop you from learning!\n\n## Copyright\n\n<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href="
+  },
+  {
+    "repo_name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars_today": 1177,
+    "stars_total": 57694,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.svg\" alt=\"AI Engineering from Scratch — reference manual banner\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <b>Read in your language:</b>\n  <a href=\"i18n/es/README.md\">Español</a> ·\n  <a href=\"i18n/fr/README.md\">Français</a> ·\n  <a href=\"i18n/pt/README.md\">Português</a> ·\n  <a href=\"i18n/de/README.md\">Deutsch</a> ·\n  <a href=\"i18n/it/README.md\">Italiano</a> ·\n  <a href=\"i18n/zh/README.md\">简体中文</a> ·\n  <a href=\"i18n/ja/README.md\">日本語</a> ·\n  <a href=\"i18n/ko/README.md\">한국어</a> ·\n  <a href=\"i18n/hi/README.md\">हिन्दी</a> ·\n  <a href=\"i18n/ar/README.md\">العربية</a> ·\n  <a href=\"i18n/ru/README.md\">Русский</a> ·\n  <a href=\"i18n/tr/README.md\">Türkçe</a>\n  <br><sub>Translated landing pages, committed to the repo. English is canonical; lesson pages are mac"
+  },
+  {
+    "repo_name": "shy3130/tick-stock-panel",
+    "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+    "language": "Python",
+    "stars_today": 44,
+    "stars_total": 5178,
+    "topics": [
+      "a-stock",
+      "ai-agent",
+      "aigc",
+      "backtesting",
+      "duckdb",
+      "fastapi",
+      "llm",
+      "polars",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "react",
+      "screener",
+      "self-hosted",
+      "stock-analysis",
+      "tickflow",
+      "tdx",
+      "daily",
+      "stock",
+      "tsp"
+    ],
+    "url": "https://github.com/shy3130/tick-stock-panel",
+    "readme_snippet": "<div align=\"center\">\n\n# 📈 TSP · A股智能量化工作台\n\n<br/>\n\n\n[![个人开源](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%BC%80%E6%BA%90-green?style=for-the-badge&labelColor=red)](https://github.com/shy3130/tick-stock-panel)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE)\n[![Engine: Polars](https://img.shields.io/badge/Engine-Polars-6f42c1?style=for-the-badge)](https://pola.rs/)\n[![Data: 多源插件化 · 能力路由](https://img.shields.io/badge/Data-%E5%A4%9A%E6%BA%90%E6%8F%92%E4%BB%B6%E5%8C%96%20%C2%B7%20%E8%83%BD%E5%8A%9B%E8%B7%AF%E7%94%B1-00b386?style=for-the-badge)](./docs/custom-data-source.md)\n[![Deploy: Docker](https://img.shields.io/badge/Deploy-Docker-2496ed?style=for-the-badge)](./Dockerfile)\n\n[![Build: Docker CI](https://github.com/shy3130/tick-stock-pane"
+  },
+  {
+    "repo_name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "stars_today": 1379,
+    "stars_total": 11616,
+    "topics": [],
+    "url": "https://github.com/google/ax",
+    "readme_snippet": "<h1>\n  <img src=\"assets/axolotl.svg\" width=\"70\" align=\"absmiddle\" alt=\"AX axolotl\">\n  AX\n</h1>\n\n> [!WARNING]\n> We are still actively refining our core concepts, protocols,\n> and specifications. We will likely to introduce major breaking\n> changes prior to a stable release.\n\n**Declare an agentic task with workspaces and model specifications. AX sandboxes it, wires up its workspace, and helps running it at scale.**\n\nAX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It runs on top of [Agent Substrate](https://github.com/agent-substrate/substrate) for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, `ax` will feel similar.\n\n```yaml\n# task.yaml\napiVersion: ax.io/v1alpha1\nkind: Workspac"
+  },
+  {
+    "repo_name": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "language": "Python",
+    "stars_today": 359,
+    "stars_total": 4529,
+    "topics": [],
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "readme_snippet": "<div align=\"center\">\n\n![Banner image](docs/source/assets/model-optimizer-banner.png)\n\n# NVIDIA Model Optimizer\n\n[![Documentation](https://img.shields.io/badge/Documentation-latest-brightgreen.svg?style=flat)](https://nvidia.github.io/Model-Optimizer)\n[![version](https://img.shields.io/pypi/v/nvidia-modelopt?label=Release)](https://pypi.org/project/nvidia-modelopt/)\n[![license](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE)\n\n[Documentation](https://nvidia.github.io/Model-Optimizer) |\n[Roadmap](https://github.com/NVIDIA/Model-Optimizer/issues/1699) |\n[Announcement Blogs](https://nvidia.github.io/Model-Optimizer/#announcements)\n\n</div>\n\n______________________________________________________________________\n\n**NVIDIA Model Optimizer** (referred to as **Model Optimizer**, o"
+  },
+  {
+    "repo_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars_today": 306,
+    "stars_total": 71279,
+    "topics": [],
+    "url": "https://github.com/pbakaus/impeccable",
+    "readme_snippet": "# Impeccable\n\nDesign guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design.\n\n> **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style).\n\n## Why Impeccable?\n\nAnthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used design skill for Claude. Impeccable started from there.\n\nEvery model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards, gray text on colored backgrounds, the rounded-s"
+  },
+  {
+    "repo_name": "openbao/openbao",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "language": "Go",
+    "stars_today": 49,
+    "stars_total": 7794,
+    "topics": [
+      "go",
+      "secret-management",
+      "security"
+    ],
+    "url": "https://github.com/openbao/openbao",
+    "readme_snippet": "# OpenBao\n\n----\n\n**Please note**: We take OpenBao's security and our users' trust\nvery seriously. If you believe you have found a security issue\nin OpenBao, _please responsibly disclose_ by contacting us at\n[openbao-security@lists.openssf.org](mailto:openbao-security@lists.openssf.org).\n\n----\n\n[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/openbao/openbao/badge)](https://scorecard.dev/viewer/?uri=github.com/openbao/openbao) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9126/badge)](https://www.bestpractices.dev/projects/9126)\n\n- [Website](https://www.openbao.org)\n- [Mailing List](https://lists.openssf.org/g/openbao)\n- [GitHub Discussions](https://github.com/openbao/openbao/discussions)\n- [Chat Server](https://linuxfoundation.zulipchat.com/)\n  - [`#o"
+  }
+]
