@@ -1,0 +1,157 @@
+[
+  {
+    "repo_name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars_today": 4669,
+    "stars_total": 17120,
+    "topics": [
+      "dynamic-library",
+      "game-porting",
+      "ps5-tools",
+      "vulkan",
+      "spir-v",
+      "anyps5",
+      "ps5"
+    ],
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "readme_snippet": "# About\n\nTool for automatic executables porting to Linux and Windows.\n\nIncludes a [relinker](core/relinker) that converts executable to the target system's native format and implementations of [system prx libraries](core/libs/prx) suitable for dynamic linking. No emulation or separate runtime process.\n\n[Usage](docs/user/USAGE.md), [Build instructions](docs/dev/BUILD.md), [Architecture](docs/dev/ARCHITECTURE.md), [Technical debt of the project](docs/dev/TechnicalDebt.md), [code style conventions](docs/dev/CONVENTIONS.md), [contributing](CONTRIBUTING.md)\n\n## Status\n\n[![libraries](https://boykopovar.github.io/AnyPS5/badge-libraries.svg)](https://boykopovar.github.io/AnyPS5/) [![shaders](https://boykopovar.github.io/AnyPS5/badge-shaders.svg)](https://boykopovar.github.io/AnyPS5/)\n\n[![progress "
+  },
+  {
+    "repo_name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars_today": 1160,
+    "stars_total": 46882,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "readme_snippet": "<h1>\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/hero/hero-dark.webp\">\n    <img alt=\"Diagram Design. Editorial diagrams your designer won't hate.\" src=\"docs/hero/hero-light.webp\">\n  </picture>\n</h1>\n\n<a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png)\n\n[![The self-improving loop](docs/screenshots/thumbs/loop.webp)](docs/screenshots/loop.png)\n\n*New in 2.0 — the Loop: flywheels with a sh"
+  },
+  {
+    "repo_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars_today": 7738,
+    "stars_total": 31102,
+    "topics": [
+      "ai-agents",
+      "binary-analysis",
+      "cli",
+      "decompiler",
+      "disassembler",
+      "mcp",
+      "model-context-protocol",
+      "reverse-engineering",
+      "static-analysis",
+      "agent-skills",
+      "dsh-plugin",
+      "cordis",
+      "dsh",
+      "hopper",
+      "ghidra",
+      "ctf",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "llm"
+    ],
+    "url": "https://github.com/morluto/rea",
+    "readme_snippet": "<div align=\"center\">\n\n**English** · [简体中文](README_zh.md) · [繁體中文](README_zh-TW.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Türkçe](README_tr.md) · [Русский](README_ru.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [Deutsch](README_de.md) · [Español](README_es.md) · [Français](README_fr.md) · [Українська](README_uk.md) · [Polski](README_pl.md) · [Português (Brasil)](README_pt-BR.md) · [العربية](README_ar.md) · [فارسی](README_fa.md)\n\n# REA: Reverse Engineer Anything\n\n### One MCP for reverse engineering across binaries, applications, and runtime behavior.\n\n**See a feature you like. Understand how it works, down to the binary level.**\n\n[![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)\n[![CI](https"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 1774,
+    "stars_total": 281546,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "stars_today": 670,
+    "stars_total": 98714,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "long-term-memory",
+      "mem0",
+      "openmemory",
+      "supermemory",
+      "chromadb",
+      "sqlite",
+      "embeddings",
+      "memory-engine",
+      "rag"
+    ],
+    "url": "https://github.com/thedotmack/claude-mem",
+    "readme_snippet": "<h1 align=\"center\">\n  <br>\n  <a href=\"https://github.com/thedotmack/claude-mem\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/public/claude-mem-logo-for-dark-mode.webp\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/public/claude-mem-logo-for-light-mode.webp\">\n      <img src=\"docs/public/claude-mem-logo-for-light-mode.webp\" alt=\"Claude-Mem\" width=\"400\">\n    </picture>\n  </a>\n</h1>\n\n<p align=\"center\">\n  <img alt=\"Vercel OSS Program\" src=\"https://vercel.com/oss/program-badge-2026.svg\" height=\"24\" />\n  &nbsp;&nbsp;&nbsp;\n  <img alt=\"Greptile\" src=\"docs/public/greptile-wordmark-green.svg\" height=\"24\" />\n  &nbsp;&nbsp;&nbsp;\n  <img alt=\"SerpApi\" src=\"docs/public/serpapi-logo-with-wordmark-gradient.svg\" height=\"24\" />\n</p>\n\n<p align=\"center\">\n "
+  },
+  {
+    "repo_name": "EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "language": "C",
+    "stars_today": 279,
+    "stars_total": 8179,
+    "topics": [],
+    "url": "https://github.com/EpicGames/raddebugger",
+    "readme_snippet": "# The RAD Debugger Project\r\n\r\n_**NOTE:** This README does not document usage instructions and tips for the\r\ndebugger itself, and is intended as a technical overview of the project. The\r\ndebugger's README, which includes usage instructions and tips, can be found\r\npackaged along with debugger releases, or within the `build` folder after a\r\nlocal copy has been built. You can find pre-built release binaries\r\n[here](https://github.com/EpicGames/raddebugger/releases)._\r\n\r\nThe RAD Debugger is a native, user-mode, multi-process, graphical debugger. It\r\ncurrently only supports local-machine Windows x64 debugging with PDBs, with\r\nplans to expand and port in the future. In the future we'll expand to also\r\nsupport native Linux debugging and DWARF debug info.\r\n\r\nThe debugger is currently in *ALPHA*. In"
+  },
+  {
+    "repo_name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars_today": 392,
+    "stars_total": 27846,
+    "topics": [],
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "readme_snippet": "# Knowledge Work Plugins\n\nPlugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).\n\n## Why Plugins\n\nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.\n\nEach plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them "
+  },
+  {
+    "repo_name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars_today": 2103,
+    "stars_total": 8916,
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "aivideo",
+      "filmmaking",
+      "imagegeneration"
+    ],
+    "url": "https://github.com/storytold/artcraft",
+    "readme_snippet": "<h1 align=\"center\">ArtCraft</h1>\n<p align=\"center\"><strong>The IDE for artists.</strong></p>\n\n<!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go\n     GitHub media issue: https://github.com/storytold/artcraft/issues/1951 -->\n\nhttps://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11\n\n<p align=\"center\">\n  <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/artcraft\"><img alt=\"Discord members online\" src=\"https://img.shields.io/discord/1359579021108842617?style=for-the-badge&amp;label=Discord&amp;color=5865F2&amp;logo=discord&amp;logoColor=white\"></a>\n  <a href=\"https://www.youtube.com/@OfficialArtCraftStudios\"><img alt=\"YouTube\" src=\"https://img.shields.i"
+  },
+  {
+    "repo_name": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "language": null,
+    "stars_today": 393,
+    "stars_total": 24950,
+    "topics": [],
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "readme_snippet": "\n# [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview)\nThese notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) \n\nCheck the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu\n\n**Note:** These notes are a work in progress. \n\n\n * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/)\n * [Chapter 2 - Back-of-the-envelope Estimation](./02.%20Back%20Of%20the%20Envelope%20Estimation/)\n * [Chapter 3 - A Framework For System Design Interviews](./03.%20System%20Design%20Framework/)\n * [Chapter 4 - Design A Rate Limiter](./04.%20Rate%20Limiter//)\n * [Chapter 5 - Design Consisten"
+  }
+]
