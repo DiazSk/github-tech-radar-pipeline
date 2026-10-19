@@ -1,0 +1,226 @@
+[
+  {
+    "repo_name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars_today": 2232,
+    "stars_total": 54039,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "career",
+      "claude-code",
+      "cover-letter",
+      "cv",
+      "interview-preparation",
+      "job-application",
+      "job-hunting",
+      "job-search",
+      "latex",
+      "resume"
+    ],
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/mascot/pip_flight_loop.gif\" alt=\"Pip, the courier bird\" width=\"200\">\n</p>\n\n# AI Job Search\n\n*The job search that runs on your machine.*\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/43622?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-43622\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/43622/daily\" alt=\"MadsLorentzen%2Fai-job-search | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n[![CI](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml/badge.svg)](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml)\n\nAn AI-powered job application framework built on [Claude Code](https://claude.com/claude-code"
+  },
+  {
+    "repo_name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars_today": 1175,
+    "stars_total": 42854,
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "readme_snippet": "# Claude Code Plugins Directory\n\nA curated directory of high-quality plugins for Claude Code.\n\n> **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information.\n\n## Structure\n\n- **`/plugins`** - Internal plugins developed and maintained by Anthropic\n- **`/external_plugins`** - Third-party plugins from partners and the community\n\n## Installation\n\nPlugins can be installed directly from this marketplace via Claude Code's plugin system.\n\nTo install, run `/plugin install {plugin-name}@claude-plugins-official`\n\nor browse for the plugin in `/plugin > Disco"
+  },
+  {
+    "repo_name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars_today": 1414,
+    "stars_total": 216838,
+    "topics": [],
+    "url": "https://github.com/anomalyco/opencode",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/@opencode/cli\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@opencode/cli?style=flat-square\" /></a>\n  <a href=\"htt"
+  },
+  {
+    "repo_name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars_today": 350,
+    "stars_total": 12830,
+    "topics": [],
+    "url": "https://github.com/cursor/plugins",
+    "readme_snippet": "# Cursor plugins\n\nOfficial Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest.\n\n## Plugins\n\n| `name` | Plugin | Author | Category | `description` (from marketplace) |\n|:-------|:-------|:-------|:---------|:-------------------------------------|\n| `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |\n| `continual-learning` | [Continual Learning](continual-learning/) | Eric Zakariasson | Developer Tools | Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. |\n| `cursor-team-kit` | [Cursor Team Kit](cursor-team-kit/) | Eric Zakariasson | Developer To"
+  },
+  {
+    "repo_name": "ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "language": "TypeScript",
+    "stars_today": 513,
+    "stars_total": 76671,
+    "topics": [
+      "swarm",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "autonomous-agents",
+      "codex",
+      "mcp-server",
+      "multi-agent",
+      "ai-assistant",
+      "multi-agent-systems",
+      "swarm-intelligence",
+      "agents",
+      "ai-skills",
+      "skills",
+      "npm",
+      "typescript",
+      "ai-agents",
+      "harness",
+      "dsh-plugin",
+      "claude"
+    ],
+    "url": "https://github.com/ruvnet/ruflo",
+    "readme_snippet": "<div align=\"center\">\n\n<a href=\"https://cognitum.one/agentic-engineering\"><img src=\"ruflo/assets/ruflo-neon-flicker.gif\" alt=\"Ruflo animated neon sign\" width=\"100%\"></a>\n\n**An agent meta-harness for Claude Code and Codex.**\n\n<!-- Try Ruflo — the 3 badges first-time visitors actually act on -->\n[![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/ruflo)\n[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Star on GitHub](https://img.shields.io/github/stars/ruvnet/claude-flow?style=for-the-badge&logo=github&color=gold)](https://github.com/ruvnet/claude-flow)\n\n<p align=\"center\">\n<a href=\"docs/harness-origins.md\"><img src=\"htt"
+  },
+  {
+    "repo_name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars_today": 512,
+    "stars_total": 10669,
+    "topics": [],
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\">\n    <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\">\n  </picture>\n</p>\n\n> Long-term memory for AI coding agents. Quit Claude Code mid-task,\n> start OpenAI Codex in the same directory, continue without\n> re-explaining the architecture, the failed approaches, or the open\n> questions.\n\n**Website: [aimemory.sh](https://aimemory.sh)**\n\n[![Website](https://img.shields.io/badge/website-aimemory.sh-blue)](https://aimemory.sh)\n[![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/ai-memory/releases/latest)\n[![Rust](https://img.shields.io/badge/rust-1.95+-blue)](rust-toolchain.toml)\n[![License](https://img.shields.io/badge/lice"
+  },
+  {
+    "repo_name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "stars_today": 1146,
+    "stars_total": 97039,
+    "topics": [
+      "claude-code",
+      "codex",
+      "ghostty",
+      "terminal",
+      "opencode",
+      "orchestration",
+      "worktrees",
+      "pi",
+      "ade",
+      "mobile-app",
+      "agent-ide",
+      "ai-agents",
+      "yc-backed",
+      "automation",
+      "bot",
+      "grok-bot",
+      "hermes-agent",
+      "muse",
+      "openclaw",
+      "runtime"
+    ],
+    "url": "https://github.com/stablyai/orca",
+    "readme_snippet": "<h1 align=\"center\">\n  <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca\n</h1>\n\n<p align=\"center\">\n  <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a>\n  <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a>\n  <img src=\"https://img.shields.io/badge/license-MIT-08C?style=flat\" alt=\"License: MIT\" />\n  <a href=\"https://discord.gg/fzjDKHxv8Q\"><img src=\"https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white\" alt=\"Join the Orca Discord\" /></a>\n  <a href=\"https://x.com/orca_build\"><img src=\"https://img.sh"
+  },
+  {
+    "repo_name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "language": "Python",
+    "stars_today": 589,
+    "stars_total": 54753,
+    "topics": [],
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "readme_snippet": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1>\n\n<div align=\"center\">\n<a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending\"><img alt=\"GitHub Trending Repository of the Day\" src=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending\" height=\"55\"></picture></a>&#32;<a href=\"https://trendshift.io/repositories/22991\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/reposi"
+  },
+  {
+    "repo_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars_today": 2082,
+    "stars_total": 75967,
+    "topics": [
+      "tts",
+      "voice-cloning",
+      "voice-generation",
+      "voice-ai",
+      "ai",
+      "cuda",
+      "mlx",
+      "huggingface",
+      "transcription",
+      "translate",
+      "workflow",
+      "omnivoice-studio",
+      "dubbing",
+      "audiobook",
+      "elevenlabs-alternative",
+      "local-first",
+      "speech-to-text",
+      "text-to-speech",
+      "voicestudio"
+    ],
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "readme_snippet": "<div align=\"center\">\n  <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" />\n  <h1>VoiceStudio</h1>\n  <p>\n    <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a>\n  </p>\n  <p><strong>Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</strong></p>\n  <p>\n    <a href=\"https://voicestudio.sh/?utm_source=github&utm_medium=readme&utm_campaign=project\">Website</a> ·\n    <a href=\"https://github.com/debpalash/VoiceStudio/releases/latest\">Download</a> ·\n    <a href=\"#get-"
+  },
+  {
+    "repo_name": "android/skills",
+    "description": null,
+    "language": "Kotlin",
+    "stars_today": 375,
+    "stars_total": 8873,
+    "topics": [
+      "skills"
+    ],
+    "url": "https://github.com/android/skills",
+    "readme_snippet": "## Android skills\n\n**Android skills** are a dedicated repository of **AI-optimized, modular instructions** and\nresources, to help agents better understand and execute specific patterns that follow the best\npractices and guidance on Android development\nfrom [developer.android.com](https://developer.android.com).\n\nAndroid skills follow the [open-standard agent skills](https://agentskills.io/home) - markdown\nfiles (SKILL.md) that provide a technical specification of a task, and **ground LLMs** with\ninformation on specialized domains and workflows.\n\nOur Android skill development focuses on **use cases and workflows where evaluations show LLMs\nunderperform**.\nWe aren't prioritizing well-established areas where LLMs are already proficient, such\nas basic Jetpack Compose best practices.\n\nTo learn "
+  },
+  {
+    "repo_name": "mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "language": null,
+    "stars_today": 81,
+    "stars_total": 84178,
+    "topics": [
+      "course",
+      "llm",
+      "machine-learning",
+      "roadmap",
+      "large-language-models"
+    ],
+    "url": "https://github.com/mlabonne/llm-course",
+    "readme_snippet": "<div align=\"center\">\n<img src=\"img/banner.png\" alt=\"LLM Course\">\n  <p align=\"center\">\n    𝕏 <a href=\"https://twitter.com/maximelabonne\">Follow me on X</a> • \n    🤗 <a href=\"https://huggingface.co/mlabonne\">Hugging Face</a> • \n    💻 <a href=\"https://mlabonne.github.io/blog\">Blog</a> • \n    📙 <a href=\"https://packt.link/a/9781836200079\">LLM Engineer's Handbook</a>\n  </p>\n</div>\n<br/>\n\n<a href=\"https://a.co/d/a2M67rE\"><img align=\"right\" width=\"25%\" src=\"https://i.imgur.com/7iNjEq2.png\" alt=\"LLM Engineer's Handbook Cover\"/></a>The LLM course is divided into three parts:\n\n1. 🧩 **LLM Fundamentals** is optional and covers fundamental knowledge about mathematics, Python, and neural networks.\n2. 🧑‍🔬 **The LLM Scientist** focuses on building the best possible LLMs using the latest techniques.\n3. 👷 *"
+  },
+  {
+    "repo_name": "Kruk2/jasna",
+    "description": "Video restoration tool",
+    "language": "Python",
+    "stars_today": 115,
+    "stars_total": 2549,
+    "topics": [],
+    "url": "https://github.com/Kruk2/jasna",
+    "readme_snippet": "> **The only places to get a genuine License code for the supporter models are [Buy Me a Coffee](https://buymeacoffee.com/kruk2), [Unifans](https://app.unifans.io/c/kruk2), and for China the seller in the [Chinese README](README.zh.md#在闲鱼购买).**\n>\n> **支持者模型的正版许可证码只能通过 [Buy Me a Coffee](https://buymeacoffee.com/kruk2)、[Unifans](https://app.unifans.io/c/kruk2) 或 [闲鱼](README.zh.md#在闲鱼购买) 获取。**\n\n[**English**](README.md) | [日本語](README.ja.md) | [中文](README.zh.md)\n\n# <img width=\"32\" src=\"https://github.com/Kruk2/jasna/blob/main/assets/jasna-logo.png?raw=true\" /> Jasna \n\nJasna restores mosaics in videos and images. It is free, has a simple app\nand a command line, and runs on your GPU.\n\n<img width=\"1200\" height=\"907\" alt=\"image\" src=\"https://github.com/user-attachments/assets/d59a914b-482d-4f37-ae7"
+  },
+  {
+    "repo_name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "stars_today": 154,
+    "stars_total": 138841,
+    "topics": [
+      "stable-diffusion",
+      "pytorch",
+      "ai",
+      "python",
+      "comfy",
+      "comfyui"
+    ],
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "readme_snippet": "<div align=\"center\">\n\n# ComfyUI\n**The most powerful and modular AI engine for content creation.**\n\n\n[![Website][website-shield]][website-url]\n[![Dynamic JSON Badge][discord-shield]][discord-url]\n[![Twitter][twitter-shield]][twitter-url]\n[![Matrix][matrix-shield]][matrix-url]\n<br>\n[![][github-release-shield]][github-release-link]\n[![][github-release-date-shield]][github-release-link]\n[![][github-downloads-shield]][github-downloads-link]\n[![][github-downloads-latest-shield]][github-downloads-link]\n\n[matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white\n[matrix-url]: https://app.element.io/#/room/%23comfyui_space%3Amatrix.org\n[website-shield]: https://img.shields.io/badge/ComfyOrg-4285F4?style=flat\n[website-url]: https://www.comfy.org/\n<!-- Workarou"
+  }
+]
