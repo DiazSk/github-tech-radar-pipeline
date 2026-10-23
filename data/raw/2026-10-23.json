@@ -1,0 +1,173 @@
+[
+  {
+    "repo_name": "php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "stars_today": 287,
+    "stars_total": 41285,
+    "topics": [],
+    "url": "https://github.com/php/php-src",
+    "readme_snippet": "<div align=\"center\">\n    <a href=\"https://www.php.net\">\n        <img\n            alt=\"PHP\"\n            src=\"https://www.php.net/images/logos/new-php-logo.svg\"\n            width=\"150\">\n    </a>\n</div>\n\n# The PHP Interpreter\n\nPHP is a popular general-purpose scripting language that is especially suited to\nweb development. Fast, flexible and pragmatic, PHP powers everything from your\nblog to the most popular websites in the world.\n\nPHP is distributed under the [Modified BSD License](LICENSE)\n(SPDX-License-Identifier: `BSD-3-Clause`).\n\n[![Test](https://github.com/php/php-src/actions/workflows/test.yml/badge.svg)](https://github.com/php/php-src/actions/workflows/test.yml)\n[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/php.svg)](https://issues.oss-fuzz.com/issues?q="
+  },
+  {
+    "repo_name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars_today": 303,
+    "stars_total": 31740,
+    "topics": [],
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "readme_snippet": "# Knowledge Work Plugins\n\nPlugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).\n\n## Why Plugins\n\nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.\n\nEach plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them "
+  },
+  {
+    "repo_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars_today": 1948,
+    "stars_total": 173832,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.png\">\n    <img src=\"assets/logo.png\" width=\"220\" alt=\"Ponytail, the lazy senior dev\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Ponytail</h1>\n\n<p align=\"center\">\n  <em>He says nothing. He writes one line. It works.</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/50668?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-50668\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/50668\" alt=\"DietrichGebert%2Fponytail | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&color=111111&label"
+  },
+  {
+    "repo_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars_today": 2979,
+    "stars_total": 39994,
+    "topics": [],
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "readme_snippet": "# security-audit\n\nA coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.\n\nThis is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from.\n\n## What it does\n\nThe skill runs a structured audit in six phases:\n\n1. **Reconnaissance** -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in `architecture.md` and `cove"
+  },
+  {
+    "repo_name": "Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "language": "Python",
+    "stars_today": 1408,
+    "stars_total": 133213,
+    "topics": [
+      "claude-code",
+      "graphrag",
+      "knowledge-graph",
+      "codex",
+      "openclaw",
+      "skills",
+      "antigravity",
+      "gemini",
+      "leiden",
+      "rag",
+      "tree-sitter",
+      "ai-agents",
+      "ast",
+      "code-analysis",
+      "code-search",
+      "cursor",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "graphify"
+    ],
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://graphify.com\"><img src=\"https://raw.githubusercontent.com/Graphify-Labs/graphify/v8/docs/graphify-logo.png\" width=\"360\" height=\"189\" alt=\"Graphify\"/></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/25296\" alt=\"Graphify-Labs%2Fgraphify | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<div align=\"center\">\n<details><summary><b>Read this in other languages</b></summary>\n\n<a href=\"README.md\">English</a> | <a href=\"docs/translations/README.zh-CN.md\">简体中文</a> | <a href=\"docs/translations/README.ja-JP.md\">日本語</a> | <a href=\"docs/translations/R"
+  },
+  {
+    "repo_name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars_today": 693,
+    "stars_total": 113576,
+    "topics": [
+      "firebase",
+      "supabase",
+      "realtime",
+      "postgrest",
+      "postgres",
+      "postgresql",
+      "websockets",
+      "deno",
+      "embeddings",
+      "vectors",
+      "alternative",
+      "auth",
+      "database",
+      "example",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "ai"
+    ],
+    "url": "https://github.com/supabase/supabase",
+    "readme_snippet": "<p align=\"center\">\n<img src=\"https://user-images.githubusercontent.com/8291514/213727234-cda046d6-28c6-491a-b284-b86c5cede25d.png#gh-light-mode-only\">\n<img src=\"https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only\">\n</p>\n\n# Supabase\n\n[Supabase](https://supabase.com) is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools.\n\n- [x] Hosted Postgres Database. [Docs](https://supabase.com/docs/guides/database)\n- [x] Authentication and Authorization. [Docs](https://supabase.com/docs/guides/auth)\n- [x] Auto-generated APIs.\n  - [x] REST. [Docs](https://supabase.com/docs/guides/api)\n  - [x] GraphQL. [Docs](https://supabase.com/docs/guides/graphql)\n  - [x] Realtime subscript"
+  },
+  {
+    "repo_name": "fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "stars_today": 101,
+    "stars_total": 103893,
+    "topics": [
+      "python",
+      "json",
+      "swagger-ui",
+      "redoc",
+      "starlette",
+      "openapi",
+      "api",
+      "openapi3",
+      "framework",
+      "async",
+      "asyncio",
+      "uvicorn",
+      "python3",
+      "python-types",
+      "pydantic",
+      "json-schema",
+      "fastapi",
+      "swagger",
+      "rest",
+      "web"
+    ],
+    "url": "https://github.com/fastapi/fastapi",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://fastapi.tiangolo.com\"><img src=\"https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png\" alt=\"FastAPI\"></a>\n</p>\n<p align=\"center\">\n    <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>\n</p>\n<p align=\"center\">\n<a href=\"https://github.com/fastapi/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster\">\n    <img src=\"https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=master\" alt=\"Test\">\n</a>\n<a href=\"https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/fastapi\">\n    <img src=\"https://coverage-badge.samuelcolvin.workers.dev/fastapi/fastapi.svg\" alt=\"Coverage\">\n</a>\n<a href=\"https://pypi.org/project/fastapi\">\n    <img src=\"https://img.shields.io/"
+  },
+  {
+    "repo_name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "stars_today": 177,
+    "stars_total": 43453,
+    "topics": [
+      "claude-code",
+      "guide",
+      "tutorial"
+    ],
+    "url": "https://github.com/luongnv89/claude-howto",
+    "readme_snippet": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\">\n  <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\">\n</picture>\n\n<p align=\"center\">\n  <a href=\"https://github.com/trending\">\n    <img src=\"https://img.shields.io/badge/GitHub-🔥%20%231%20Trending-purple?style=for-the-badge&logo=github\"/>\n  </a>\n</p>\n\n[![GitHub Stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat&color=gold)](https://github.com/luongnv89/claude-howto/stargazers)\n[![GitHub Forks](https://img.shields.io/github/forks/luongnv89/claude-howto?style=flat)](https://github.com/luongnv89/claude-howto/network/members)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Version](https://img.shields.io/badge/"
+  },
+  {
+    "repo_name": "Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "language": "Visual Basic .NET",
+    "stars_today": 119,
+    "stars_total": 8770,
+    "topics": [
+      "minecraft",
+      "launcher",
+      "minecraft-launcher"
+    ],
+    "url": "https://github.com/Meloong-Git/PCL",
+    "readme_snippet": "# Plain Craft Launcher\n\n[![Stars](https://img.shields.io/github/stars/Meloong-Git/PCL?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4=&logoSize=auto&label=Stars&labelColor=444444&color=eac54f)](https://github.com/Meloong-Git/PCL/)\n[![Issues](https://img.shields.io/github/issues/Meloong-Git/PCL?style=flat&label=Issues&labelColo"
+  }
+]
