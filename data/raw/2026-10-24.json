@@ -1,0 +1,125 @@
+[
+  {
+    "repo_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars_today": 2716,
+    "stars_total": 42480,
+    "topics": [],
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "readme_snippet": "# security-audit\n\nA coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.\n\nThis is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from.\n\n## What it does\n\nThe skill runs a structured audit in six phases:\n\n1. **Reconnaissance** -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in `architecture.md` and `cove"
+  },
+  {
+    "repo_name": "php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "stars_today": 716,
+    "stars_total": 41597,
+    "topics": [],
+    "url": "https://github.com/php/php-src",
+    "readme_snippet": "<div align=\"center\">\n    <a href=\"https://www.php.net\">\n        <img\n            alt=\"PHP\"\n            src=\"https://www.php.net/images/logos/new-php-logo.svg\"\n            width=\"150\">\n    </a>\n</div>\n\n# The PHP Interpreter\n\nPHP is a popular general-purpose scripting language that is especially suited to\nweb development. Fast, flexible and pragmatic, PHP powers everything from your\nblog to the most popular websites in the world.\n\nPHP is distributed under the [Modified BSD License](LICENSE)\n(SPDX-License-Identifier: `BSD-3-Clause`).\n\n[![Test](https://github.com/php/php-src/actions/workflows/test.yml/badge.svg)](https://github.com/php/php-src/actions/workflows/test.yml)\n[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/php.svg)](https://issues.oss-fuzz.com/issues?q="
+  },
+  {
+    "repo_name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars_today": 635,
+    "stars_total": 32330,
+    "topics": [],
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "readme_snippet": "# Knowledge Work Plugins\n\nPlugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).\n\n## Why Plugins\n\nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.\n\nEach plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them "
+  },
+  {
+    "repo_name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars_today": 1119,
+    "stars_total": 18920,
+    "topics": [],
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "readme_snippet": "<!-- markdownlint-disable MD033 MD041 -->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\">\n  <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\">\n</picture>\n\n<!-- markdownlint-enable MD033 MD041 -->\n\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/main/LICENSE)\n[![PyPI](https://img.shields.io/badge/PyPI-openshell-orange?logo=pypi)](https://pypi.org/project/openshell/)\n[![Security Policy](https://img.shields.io/badge/Security-Report%20a%20Vulnerability-red)](SECURITY.md)\n[![Documentation](https://img.shields.io/badge/docs-latest-brightgr"
+  },
+  {
+    "repo_name": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "language": "TypeScript",
+    "stars_today": 546,
+    "stars_total": 6999,
+    "topics": [
+      "bazi",
+      "chinese-astrology",
+      "divination",
+      "fortune-telling",
+      "nextjs",
+      "open-source",
+      "purple-star-astrology",
+      "typescript",
+      "zi-wei-dou-shu",
+      "ziwei-doushu"
+    ],
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "readme_snippet": "<div align=\"center\">\n\n# 紫微斗数 · 开源排盘引擎\n\n### 算法是公开的传统智慧，不应该被锁在围墙里\n\n[![CI](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml/badge.svg)](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](./LICENSE)\n[![Dataset: CC BY 4.0](https://img.shields.io/badge/dataset-CC%20BY%204.0-green.svg)](./DATASET-LICENSE)\n\n**中文** · [English](./README.en.md)\n\n</div>\n\n**一、项目理念**：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。\n\n开源排盘算法和知识库，是因为我们相信：**算法是公开的传统智慧，不应该被锁在围墙里**。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。\n\n**二、项目信息**：基于<strong>倪海厦《天纪》</strong>教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据：**v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB**（2026-10-15 发布）。\n\n| 数据集 | 命盘 | 解读段"
+  },
+  {
+    "repo_name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "language": "Python",
+    "stars_today": 226,
+    "stars_total": 8608,
+    "topics": [
+      "claude-ai",
+      "claude-skills",
+      "redteam",
+      "redteam-tools",
+      "skills",
+      "claude-pt"
+    ],
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "readme_snippet": "![claude-red banner](/assets/banner.png)\n\n<div align=\"center\">\n\n# claude-red\n\n**Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.**\n\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Skills](https://img.shields.io/badge/skills-78-red.svg)](#skill-index)\n[![Categories](https://img.shields.io/badge/categories-23-orange.svg)](#categories)\n[![Stars](https://img.shields.io/github/stars/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red)\n[![Forks](https://img.shields.io/github/forks/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red/network/members)\n<a href=\"https://trendshift.io/repositories/40579?utm_source=trendshift-badge&amp;utm_medi"
+  },
+  {
+    "repo_name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "stars_today": 150,
+    "stars_total": 40349,
+    "topics": [
+      "audio",
+      "deeplearning",
+      "minicpm",
+      "python",
+      "pytorch",
+      "speech",
+      "speech-synthesis",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "voice-cloning",
+      "multilingual",
+      "voice-design",
+      "voxcpm"
+    ],
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "readme_snippet": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2>\n\n<p align=\"center\">\n  <b>English</b> | <a href=\"./README_zh.md\">中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a>\n  <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"Live Playground\"></a>\n  <a href=\"https://voxcpm.readthedocs.io/en/latest/\"><img src=\"https://img.shields.io/badge/Docs-ReadTheDocs-8CA1AF\" alt=\"Documentation\"></a>\n  <a href=\"https://huggingface.co/openbmb/VoxCPM2\"><img src=\"https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-VoxCPM2-y"
+  },
+  {
+    "repo_name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars_today": 66,
+    "stars_total": 122940,
+    "topics": [
+      "nodejs",
+      "javascript",
+      "node",
+      "js",
+      "runtime",
+      "mit",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "url": "https://github.com/nodejs/node",
+    "readme_snippet": "# Node.js\n\nNode.js is an open-source, cross-platform JavaScript runtime environment.\n\nFor information on using Node.js, see the [Node.js website][].\n\nThe Node.js project uses an [open governance model](./GOVERNANCE.md). The\n[OpenJS Foundation][] provides support for the project.\n\nContributors are expected to act in a collaborative manner to move\nthe project forward. We encourage the constructive exchange of contrary\nopinions and compromise. The [TSC](./GOVERNANCE.md#technical-steering-committee)\nreserves the right to limit or block contributors who repeatedly act in ways\nthat discourage, exhaust, or otherwise negatively affect other participants.\n\n**This project has a [Code of Conduct][].**\n\n## Table of contents\n\n* [Support](#support)\n* [Release types](#release-types)\n  * [Download](#downl"
+  }
+]
