@@ -1,0 +1,254 @@
+[
+  {
+    "repo_name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "stars_today": 2679,
+    "stars_total": 7921,
+    "topics": [],
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "readme_snippet": "<!--\nSPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES.\nAll rights reserved.\nSPDX-License-Identifier: Apache-2.0\n-->\n\n# Auto Ontology\n\nAgents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how to use it, where it came from, and what is similar. NVIDIA Auto Ontology is an open library that builds that layer from enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own.\n\nIt enables developers to:\n\n- Discover: generate enterprise ontologies f"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 2071,
+    "stars_total": 315773,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "stars_today": 612,
+    "stars_total": 140172,
+    "topics": [],
+    "url": "https://github.com/garrytan/gstack",
+    "readme_snippet": "# gstack\n\ngstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs, a QA lead who opens a real browser, a security officer who runs OWASP + STRIDE audits, and a release engineer who ships the PR. All slash commands, all Markdown, all free, MIT license.\n\nI'm [Garry Tan](https://x.com/garrytan), President & CEO of [Y Combinator](https://www.ycombinator.com/). This is the open source software factory I use every day, and I'm sharing it because these tools should be available to everyone. The story, the productivity numbers and how I run ten sprints at once are in [Why gstack](docs/why-gstack.md).\n\nFork it. Improve it. Make it yo"
+  },
+  {
+    "repo_name": "Usagi-org/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "language": "Python",
+    "stars_today": 240,
+    "stars_total": 17957,
+    "topics": [
+      "ai",
+      "playwright",
+      "automation",
+      "gemini",
+      "goofish",
+      "tool",
+      "xianyu",
+      "xian-yu",
+      "ai-assistant",
+      "ai-tools",
+      "open-source",
+      "xianyu-bot",
+      "openai"
+    ],
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "readme_snippet": "# 闲鱼智能监控系统\n\n[中文] ｜ [English](README_EN.md)\n\n基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。\n\n\n## 核心特性\n\n- **Web 可视化管理**: 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览\n- **AI 驱动**: 自然语言创建任务，多模态模型深度分析商品\n- **多任务并发**: 独立配置关键词、价格、筛选条件和 AI Prompt\n- **高级筛选**: 包邮、新发布时间范围、省/市/区三级区域筛选\n- **即时通知**: 支持 ntfy.sh、企业微信、Bark、Telegram、Webhook等多渠道\n- **定时调度**: 支持 Cron 配置周期性任务\n- **账号与代理轮换**: 多账号管理、任务绑定账号、代理池轮换与失败重试\n- **Docker 部署**: 一键容器化部署\n\n## 截图\n\n![监控概览](static/img.png)\n![任务管理](static/img_1.png)\n![结果查看](static/img_2.png)\n![通知推送](static/img_3.png)\n\n## 🐳 Docker 部署（推荐）\n\n```bash\ngit clone https://github.com/Usagi-org/ai-goofish-monitor && cd ai-goofish-monitor\ncp .env.example .env\nvim .env # 填写相关配置项\ndocker compose up -d\ndocker compose logs -f app\ndocker compose down\n```\n\n如果镜像无法访问或下载速度慢，可尝试使用加速：\n```bash\n\ndocker pull ghcr.nju.edu.cn/usa"
+  },
+  {
+    "repo_name": "D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+    "language": "Python",
+    "stars_today": 1655,
+    "stars_total": 98358,
+    "topics": [
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath",
+      "automation",
+      "ai",
+      "ai-scraping",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server"
+    ],
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "readme_snippet": "<!-- mcp-name: io.github.D4Vinci/Scrapling -->\n\n<h1 align=\"center\">\n    <a href=\"https://scrapling.readthedocs.io\">\n        <picture>\n          <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_dark.svg?sanitize=true\">\n          <img alt=\"Scrapling Poster\" src=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_light.svg?sanitize=true\">\n        </picture>\n    </a>\n    <br>\n    <small>Effortless Web Scraping for the Modern Web</small>\n</h1>\n\n<p align=\"center\">\n    <a href=\"https://trendshift.io/repositories/14244\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14244\" alt=\"D4Vinci%2FScrapling | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/><"
+  },
+  {
+    "repo_name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "stars_today": 2173,
+    "stars_total": 17366,
+    "topics": [
+      "accessibility",
+      "accessibility-api",
+      "ai-agents",
+      "automation",
+      "cli",
+      "desktop-automation",
+      "macos",
+      "mcp",
+      "rust",
+      "computer-use",
+      "computer-use-agent",
+      "computer-use-agents"
+    ],
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "readme_snippet": "# agent-desktop\n\nComputer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm version: agent-desktop\" src=\"https://img.shields.io/npm/v/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-desktop/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></"
+  },
+  {
+    "repo_name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "stars_today": 546,
+    "stars_total": 11658,
+    "topics": [
+      "agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git",
+      "worktrees"
+    ],
+    "url": "https://github.com/max-sixty/worktrunk",
+    "readme_snippet": "<!-- markdownlint-disable MD033 -->\n\n<h1><img src=\"docs/public/logo.png\" alt=\"Worktrunk logo\" width=\"50\" align=\"absmiddle\">&nbsp;&nbsp;Worktrunk</h1>\n\n<!-- Crates.io badge below disabled while shields.io is rate-limited by crates.io\n     (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.\n     [![Crates.io](https://img.shields.io/crates/v/worktrunk?style=for-the-badge&logo=rust)](https://crates.io/crates/worktrunk)\n-->\n[![Docs](https://img.shields.io/badge/docs-worktrunk.dev-blue?style=for-the-badge&logo=gitbook)](https://worktrunk.dev)\n[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![CI](https://img.shields.io/github/actions/workflow/status/max-sixty"
+  },
+  {
+    "repo_name": "lz4/lz4",
+    "description": "Extremely Fast Compression algorithm",
+    "language": "C",
+    "stars_today": 23,
+    "stars_total": 12474,
+    "topics": [
+      "lz4",
+      "c",
+      "compression"
+    ],
+    "url": "https://github.com/lz4/lz4",
+    "readme_snippet": "LZ4 - Extremely fast compression\n================================\n\nLZ4 is a lossless compression algorithm,\nproviding compression speed > 500 MB/s per core,\nscalable with multi-core CPUs.\nIt features an extremely fast decoder,\nwith speed in multiple GB/s per core,\ntypically reaching RAM speed limits on multi-core systems.\n\nCompression speed can be tuned dynamically, by selecting an \"acceleration\" factor\nwhich trades compression ratio for faster speed.\nOn the other end, a high compression derivative, LZ4_HC, is also provided,\ntrading CPU time for improved compression ratio.\nAll versions feature the same decompression speed.\n\nLZ4 is also compatible with [dictionary compression](https://github.com/facebook/zstd#the-case-for-small-data-compression),\nboth at [API](lib/lz4frame.h) and [CLI](prog"
+  },
+  {
+    "repo_name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars_today": 211,
+    "stars_total": 22530,
+    "topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "url": "https://github.com/google/skills",
+    "readme_snippet": "# Agent Skills\n\n[![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills)\n\nThis repository contains [Agent Skills](https://agentskills.io/home) for Google\nproducts and technologies, including [Google Cloud](https://cloud.google.com).\n\n## Installation\n\n```bash\nnpx skills add google/skills\n```\n\nWhen prompted, select specific skills or all skills, the target agents to\nconfigure, and the installation scope (project or global).\n\nIf `npx` is not available in your environment, install\n[Node.js](https://nodejs.org/en/download), which includes `npm` and `npx`.\n\n## Updating Skills\n\nTo update previously installed skills to the latest versions, run the following\ncommand.\n\n```bash\nnpx skills update\n```\n\nThis command gives you an option to also rem"
+  },
+  {
+    "repo_name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars_today": 150,
+    "stars_total": 46107,
+    "topics": [],
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "readme_snippet": "# agent-browser\n\nBrowser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-browser/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n"
+  },
+  {
+    "repo_name": "scenario-labs/skills",
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "language": "Python",
+    "stars_today": 667,
+    "stars_total": 3252,
+    "topics": [
+      "agent-skills",
+      "blender",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "game-assets",
+      "game-development",
+      "generative-ai",
+      "image-generation",
+      "mcp",
+      "model-context-protocol",
+      "skills-sh",
+      "unity",
+      "unreal-engine",
+      "video-generation",
+      "zbrush",
+      "maya",
+      "3d-models",
+      "ai-agents",
+      "ai-art"
+    ],
+    "url": "https://github.com/scenario-labs/skills",
+    "readme_snippet": "<p align=\"center\">\n  <a href=\"https://scenario.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"./resources/scenario-logo.png\" height=\"84\" alt=\"Scenario\" />\n  </a>\n  <br />\n</p>\n<div align=\"center\">\n  <h1>\n    Scenario Agent Skills\n  </h1>\n  <a href=\"https://skills.sh/scenario-labs/skills\">\n    <img alt=\"skills.sh\" src=\"https://skills.sh/b/scenario-labs/skills\" />\n  </a>\n  <a href=\"https://github.com/scenario-labs/skills/releases\">\n    <img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/scenario-labs/skills\" />\n  </a>\n  <a href=\"https://github.com/scenario-labs/skills/actions/workflows/ci.yml\">\n    <img alt=\"CI\" src=\"https://github.com/scenario-labs/skills/actions/workflows/ci.yml/badge.svg?branch=main\" />\n  </a>\n  <a href=\"https://scorecard.dev/viewer/?uri="
+  },
+  {
+    "repo_name": "ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "language": "JavaScript",
+    "stars_today": 175,
+    "stars_total": 14344,
+    "topics": [
+      "agent",
+      "claude",
+      "gpt-image-2",
+      "rag",
+      "skills",
+      "web-design"
+    ],
+    "url": "https://github.com/ConardLi/garden-skills",
+    "readme_snippet": "<div align=\"center\">\n\n# Garden Skills\n\n**A curated collection of production-ready [Agent Skills](https://support.claude.com/en/articles/12512176-what-are-skills) for Claude Code, Cursor, Codex, and other AI coding agents.**\n\n<a id=\"skills-gallery\"></a>\n\n<table>\n<tr>\n<td width=\"50%\" valign=\"top\">\n<a href=\"#motion-showreel\"><img src=\"./dist/imgs/covers/motion-showreel.webp\" alt=\"Motion Showreel Skill\" width=\"100%\"></a>\n<br/><a href=\"#motion-showreel\"><strong>motion-showreel</strong></a>\n<br/><sub>Code-rendered short video</sub>\n</td>\n<td width=\"50%\" valign=\"top\">\n<a href=\"#web-video-presentation\"><img src=\"./dist/imgs/covers/web-video-presentation.webp\" alt=\"Web Video Presentation Skill\" width=\"100%\"></a>\n<br/><a href=\"#web-video-presentation\"><strong>web-video-presentation</strong></a>\n<br/"
+  },
+  {
+    "repo_name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars_today": 223,
+    "stars_total": 56242,
+    "topics": [],
+    "url": "https://github.com/microsoft/VibeVoice",
+    "readme_snippet": "<div align=\"center\">\n\n## 🎙️ VibeVoice: Open-Source Frontier Voice AI\n[![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice)\n[![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f)\n[![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv)\n[![ASR Report](https://img.shields.io/badge/ASR-Report-yellow?logo=arxiv)](https://arxiv.org/pdf/2601.18184)\n[![Colab](https://img.shields.io/badge/StreamingTTS-Colab-green?logo=googlecolab)](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb)\n[![ASR Playground](https://i"
+  },
+  {
+    "repo_name": "floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "language": "Java",
+    "stars_today": 779,
+    "stars_total": 30621,
+    "topics": [
+      "aws",
+      "aws-emulation",
+      "localstack",
+      "devops",
+      "docker",
+      "ec2",
+      "ecs",
+      "s3",
+      "sqs",
+      "testcontainers"
+    ],
+    "url": "https://github.com/floci-io/floci",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/floci-black.svg#gh-light-mode-only\" alt=\"Floci\" width=\"500\" />\n  <img src=\"docs/assets/floci-white.svg#gh-dark-mode-only\" alt=\"Floci\" width=\"500\" />\n</p>\n\n<p align=\"center\">\n  <strong>Any Cloud. Locally.</strong><br />\n  Light, fluffy, and always free<br />\n  No account. No auth token. No feature gates. Just <code>docker compose up</code>.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/floci-io/floci/releases/latest\"><img src=\"https://img.shields.io/github/v/release/floci-io/floci?label=latest%20release&color=blue\" alt=\"Latest Release\"></a>\n  <a href=\"https://github.com/floci-io/floci/actions/workflows/release.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/floci-io/floci/release.yml?label=build\" alt=\"Build Status\"></a"
+  },
+  {
+    "repo_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "description": null,
+    "language": "C#",
+    "stars_today": 984,
+    "stars_total": 7484,
+    "topics": [],
+    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "readme_snippet": "<div align=\"center\">\n\n**简体中文** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [日本語](README.ja.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [Čeština](README.cs.md)\n\n![Banner](docs/images/DiscImageStudio_Banner_2.png)\n\n<h2>全能的光盘盘面可见图像生成与刻录工具</h2>\n\nDisc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。\n\n![.NET 版本](https://img.shields.io/badge/.NET-10.0-512bd4?style=flat-square)\n![运行平台](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-0078d6?style=flat-square)\n![开发语言](https://img.shields.io/badge/Language-C%23-68217A?style=flat-square)\n![GitHub Repo size](https://img.shields.io/github/repo-size/JiaFeiMiao-K-Cat/DiscImageStudio?style=flat-square&color=3cb371)\n![贡献欢迎](https://img.shields.io/badge/PRs-Welcome-brightgreen?st"
+  }
+]
