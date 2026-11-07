@@ -1,0 +1,286 @@
+[
+  {
+    "repo_name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "stars_today": 306,
+    "stars_total": 93833,
+    "topics": [
+      "text-editor",
+      "zed",
+      "gpui",
+      "rust-lang"
+    ],
+    "url": "https://github.com/zed-industries/zed",
+    "readme_snippet": "# Zed\n\n[![Zed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zed-industries/zed/main/assets/badge/v0.json)](https://zed.dev)\n[![CI](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml)\n\nWelcome to Zed, a high-performance, multiplayer code editor from the creators of [Atom](https://github.com/atom/atom) and [Tree-sitter](https://github.com/tree-sitter/tree-sitter).\n\n---\n\n### Installation\n\nOn macOS, Linux, and Windows you can [download Zed directly](https://zed.dev/download) or install Zed via your local package manager ([macOS](https://zed.dev/docs/installation#macos)/[Linux](https://zed.dev/docs/linux#installing-via-a-package-manager)/[Windows](https://zed.dev/docs/wi"
+  },
+  {
+    "repo_name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "stars_today": 2015,
+    "stars_total": 9332,
+    "topics": [],
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "readme_snippet": "<!--\nSPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES.\nAll rights reserved.\nSPDX-License-Identifier: Apache-2.0\n-->\n\n# Auto Ontology\n\nAgents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how to use it, where it came from, and what is similar. NVIDIA Auto Ontology is an open library that builds that layer from enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own.\n\nIt enables developers to:\n\n- Discover: generate enterprise ontologies f"
+  },
+  {
+    "repo_name": "rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "stars_today": 142,
+    "stars_total": 59058,
+    "topics": [
+      "rails",
+      "mvc",
+      "html",
+      "activerecord",
+      "activejob",
+      "ruby",
+      "framework"
+    ],
+    "url": "https://github.com/rails/rails",
+    "readme_snippet": "# Welcome to Rails\n\n## What's Rails?\n\nRails is a web application framework that includes everything needed to\ncreate database-backed web applications according to the\n[Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller)\npattern.\n\nUnderstanding the MVC pattern is key to understanding Rails. MVC divides your\napplication into three layers: Model, View, and Controller, each with a specific responsibility.\n\n## Model layer\n\nThe _**Model layer**_ represents the domain model (such as Account, Product,\nPerson, Post, etc.) and encapsulates the business logic specific to\nyour application. In Rails, database-backed model classes are derived from\n`ActiveRecord::Base`. [Active Record](activerecord/README.rdoc) allows you to present the data from\ndatabase rows as objects and"
+  },
+  {
+    "repo_name": "mpv-player/mpv",
+    "description": "🎥 Command line media player",
+    "language": "C",
+    "stars_today": 37,
+    "stars_total": 37934,
+    "topics": [
+      "mpv",
+      "mplayer",
+      "c",
+      "ffmpeg",
+      "audio",
+      "video",
+      "multimedia"
+    ],
+    "url": "https://github.com/mpv-player/mpv",
+    "readme_snippet": "![mpv logo](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png)\n\n# mpv\n\n\n* [External links](#external-links)\n* [Overview](#overview)\n* [System requirements](#system-requirements)\n* [Downloads](#downloads)\n* [Changelog](#changelog)\n* [Compilation](#compilation)\n* [Release cycle](#release-cycle)\n* [Bug reports](#bug-reports)\n* [Contributing](#contributing)\n* [License](#license)\n* [Contact](#contact)\n\n\n## External links\n\n\n* [Wiki](https://github.com/mpv-player/mpv/wiki)\n* [User Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts)\n* [FAQ][FAQ]\n* [Manual](https://mpv.io/manual/master/)\n\n\n## Overview\n\n\n**mpv** is a free (as in freedom) media player for the command line. It supports\na wide variety of media file formats, audio and video codecs, and s"
+  },
+  {
+    "repo_name": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars_today": 192,
+    "stars_total": 121525,
+    "topics": [
+      "rust",
+      "compiler",
+      "language"
+    ],
+    "url": "https://github.com/rust-lang/rust",
+    "readme_snippet": "<div align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-light.svg\">\n    <img alt=\"The Rust Programming Language: A language empowering everyone to build reliable and efficient software\"\n         src=\"https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-light.svg\"\n         width=\"50%\">\n  </picture>\n\n[Website][Rust] | [Getting started] | [Learn] | [Documentation] | [Contributing]\n</div>\n\nThis is the main source code repository for [Rust]. It contai"
+  },
+  {
+    "repo_name": "react/react",
+    "description": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "stars_today": 248,
+    "stars_total": 252307,
+    "topics": [
+      "javascript",
+      "react",
+      "frontend",
+      "declarative",
+      "ui",
+      "library"
+    ],
+    "url": "https://github.com/react/react",
+    "readme_snippet": "# [React](https://react.dev/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/react/react/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![(Runtime) Build and Test](https://github.com/react/react/actions/workflows/runtime_build_and_test.yml/badge.svg)](https://github.com/react/react/actions/workflows/runtime_build_and_test.yml) [![(Compiler) TypeScript](https://github.com/react/react/actions/workflows/compiler_typescript.yml/badge.svg?branch=main)](https://github.com/react/react/actions/workflows/compiler_typescript.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pul"
+  },
+  {
+    "repo_name": "angular/angular",
+    "description": "Deliver web apps with confidence 🚀",
+    "language": "TypeScript",
+    "stars_today": 135,
+    "stars_total": 101422,
+    "topics": [
+      "angular",
+      "typescript",
+      "web",
+      "javascript",
+      "pwa",
+      "web-framework",
+      "web-performance"
+    ],
+    "url": "https://github.com/angular/angular",
+    "readme_snippet": "<h1 align=\"center\">Angular - The modern web developer's platform</h1>\n\n<p align=\"center\">\n  <img src=\"adev/src/assets/images/press-kit/angular_icon_gradient.gif\" alt=\"angular-logo\" width=\"120px\" height=\"120px\"/>\n  <br>\n  <em>Angular is a development platform for building mobile and desktop web applications\n    <br> using TypeScript/JavaScript and other languages.</em>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://angular.dev/\"><strong>angular.dev</strong></a>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"CONTRIBUTING.md\">Contributing Guidelines</a>\n  ·\n  <a href=\"https://github.com/angular/angular/issues\">Submit an Issue</a>\n  ·\n  <a href=\"https://blog.angular.dev/\">Blog</a>\n  <br>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/@angular/core\">\n    <img src=\"https://img."
+  },
+  {
+    "repo_name": "symfony/symfony",
+    "description": "The Symfony PHP framework",
+    "language": "PHP",
+    "stars_today": 128,
+    "stars_total": 31478,
+    "topics": [
+      "framework",
+      "php",
+      "symfony",
+      "symfony-bundle",
+      "bundle",
+      "php-framework",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/symfony/symfony",
+    "readme_snippet": "<p align=\"center\"><a href=\"https://symfony.com\" target=\"_blank\">\n    <img src=\"https://symfony.com/logos/symfony_dynamic_01.svg\" alt=\"Symfony Logo\">\n</a></p>\n\n[Symfony][1] is a **PHP framework** for web and console applications and a set\nof reusable **PHP components**. Symfony is used by thousands of web\napplications and most of the [popular PHP projects][2].\n\nInstallation\n------------\n\n* [Install Symfony][4] with Composer (see [requirements details][3]).\n* Symfony follows the [semantic versioning][5] strictly, publishes \"Long Term\n  Support\" (LTS) versions and has a [release process][6] that is predictable and\n  business-friendly.\n\nSponsor\n-------\n\nSymfony 8.2 is looking for [backers][27].\n\n\nHelp Symfony by [sponsoring][31] its development!\n\nDocumentation\n-------------\n\n* Read the [Gettin"
+  },
+  {
+    "repo_name": "prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "language": "Go",
+    "stars_today": 148,
+    "stars_total": 67241,
+    "topics": [
+      "monitoring",
+      "metrics",
+      "alerting",
+      "graphing",
+      "time-series",
+      "prometheus",
+      "hacktoberfest"
+    ],
+    "url": "https://github.com/prometheus/prometheus",
+    "readme_snippet": "<h1 align=\"center\" style=\"border-bottom: none\">\n    <a href=\"https://prometheus.io\" target=\"_blank\"><img alt=\"Prometheus\" src=\"/documentation/images/prometheus-logo.svg\"></a><br>Prometheus\n</h1>\n\n<p align=\"center\">Visit <a href=\"https://prometheus.io\" target=\"_blank\">prometheus.io</a> for the full documentation,\nexamples and guides.</p>\n\n<div align=\"center\">\n\n[![CI](https://github.com/prometheus/prometheus/actions/workflows/ci.yml/badge.svg)](https://github.com/prometheus/prometheus/actions/workflows/ci.yml)\n[![Docker Repository on Quay](https://quay.io/repository/prometheus/prometheus/status)][quay]\n[![Docker Pulls](https://img.shields.io/docker/pulls/prom/prometheus.svg?maxAge=604800)][hub]\n[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/486/badge)](https://b"
+  },
+  {
+    "repo_name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars_today": 534,
+    "stars_total": 22953,
+    "topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "url": "https://github.com/google/skills",
+    "readme_snippet": "# Agent Skills\n\n[![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills)\n\nThis repository contains [Agent Skills](https://agentskills.io/home) for Google\nproducts and technologies, including [Google Cloud](https://cloud.google.com).\n\n## Installation\n\n```bash\nnpx skills add google/skills\n```\n\nWhen prompted, select specific skills or all skills, the target agents to\nconfigure, and the installation scope (project or global).\n\nIf `npx` is not available in your environment, install\n[Node.js](https://nodejs.org/en/download), which includes `npm` and `npx`.\n\n## Updating Skills\n\nTo update previously installed skills to the latest versions, run the following\ncommand.\n\n```bash\nnpx skills update\n```\n\nThis command gives you an option to also rem"
+  },
+  {
+    "repo_name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars_today": 301,
+    "stars_total": 195081,
+    "topics": [
+      "editor",
+      "electron",
+      "visual-studio-code",
+      "typescript",
+      "microsoft"
+    ],
+    "url": "https://github.com/microsoft/vscode",
+    "readme_snippet": "# Visual Studio Code - Open Source (\"Code - OSS\")\n[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)\n[![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)\n\n## The Repository\n\nThis repository (\"`Code - OSS`\") is where we (Microsoft) develop the [Visual Studio Code](https://code.visualstudio.com) product together with the community. Not only do we work on code and issues here, but we also publish our [roadmap](https://github.com/microsoft/vscode/wiki/Roadmap), [monthly iteration plans](https://github.com/microsoft/vscode/wiki/I"
+  },
+  {
+    "repo_name": "lz4/lz4",
+    "description": "Extremely Fast Compression algorithm",
+    "language": "C",
+    "stars_today": 315,
+    "stars_total": 12648,
+    "topics": [
+      "lz4",
+      "c",
+      "compression"
+    ],
+    "url": "https://github.com/lz4/lz4",
+    "readme_snippet": "LZ4 - Extremely fast compression\n================================\n\nLZ4 is a lossless compression algorithm,\nproviding compression speed > 500 MB/s per core,\nscalable with multi-core CPUs.\nIt features an extremely fast decoder,\nwith speed in multiple GB/s per core,\ntypically reaching RAM speed limits on multi-core systems.\n\nCompression speed can be tuned dynamically, by selecting an \"acceleration\" factor\nwhich trades compression ratio for faster speed.\nOn the other end, a high compression derivative, LZ4_HC, is also provided,\ntrading CPU time for improved compression ratio.\nAll versions feature the same decompression speed.\n\nLZ4 is also compatible with [dictionary compression](https://github.com/facebook/zstd#the-case-for-small-data-compression),\nboth at [API](lib/lz4frame.h) and [CLI](prog"
+  },
+  {
+    "repo_name": "nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "stars_today": 131,
+    "stars_total": 41022,
+    "topics": [
+      "shell",
+      "rust",
+      "nushell"
+    ],
+    "url": "https://github.com/nushell/nushell",
+    "readme_snippet": "# Nushell <!-- omit in toc -->\n[![Crates.io](https://img.shields.io/crates/v/nu.svg)](https://crates.io/crates/nu)\n[![Build Status](https://img.shields.io/github/actions/workflow/status/nushell/nushell/ci.yml?branch=main)](https://github.com/nushell/nushell/actions)\n[![Nightly Build](https://github.com/nushell/nushell/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/nushell/nushell/actions/workflows/nightly-build.yml)\n[![Discord](https://img.shields.io/discord/601130461678272522.svg?logo=discord)](https://discord.gg/NtAbbGn)\n[![The Changelog #363](https://img.shields.io/badge/The%20Changelog-%23363-61c192.svg)](https://changelog.com/podcast/363)\n[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nushell/nushell)](https://github.com/nushell/nushell/"
+  },
+  {
+    "repo_name": "etcd-io/etcd",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "language": "Go",
+    "stars_today": 128,
+    "stars_total": 52643,
+    "topics": [
+      "etcd",
+      "raft",
+      "distributed-systems",
+      "kubernetes",
+      "go",
+      "database",
+      "key-value",
+      "consensus",
+      "distributed-database",
+      "cncf"
+    ],
+    "url": "https://github.com/etcd-io/etcd",
+    "readme_snippet": "# etcd\n\n[![Go Report Card](https://goreportcard.com/badge/github.com/etcd-io/etcd?style=flat-square)](https://goreportcard.com/report/github.com/etcd-io/etcd)\n[![Coverage](https://codecov.io/gh/etcd-io/etcd/branch/main/graph/badge.svg)](https://app.codecov.io/gh/etcd-io/etcd/tree/main)\n[![Tests](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml/badge.svg)](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml)\n[![codeql-analysis](https://github.com/etcd-io/etcd/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/etcd-io/etcd/actions/workflows/codeql-analysis.yml)\n[![Docs](https://img.shields.io/badge/docs-latest-green.svg)](https://etcd.io/docs)\n[![Godoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godocs.io/go.etcd.i"
+  },
+  {
+    "repo_name": "openssl/openssl",
+    "description": "General purpose TLS and crypto library",
+    "language": "C",
+    "stars_today": 26,
+    "stars_total": 31333,
+    "topics": [
+      "cryptography",
+      "openssl",
+      "encryption",
+      "tls",
+      "ssl",
+      "decryption"
+    ],
+    "url": "https://github.com/openssl/openssl",
+    "readme_snippet": "Welcome to the OpenSSL Project\n==============================\n\n[![openssl logo]][www.openssl.org]\n\n[![github actions ci badge]][github actions ci]\n[![Nightly OS Zoo ci badge](https://github.com/openssl/openssl/actions/workflows/os-zoo.yml/badge.svg?event=schedule)](https://github.com/openssl/openssl/actions/workflows/os-zoo.yml)\n[![Provider Compatibility](https://github.com/openssl/openssl/actions/workflows/provider-compatibility.yml/badge.svg)](https://github.com/openssl/openssl/actions/workflows/provider-compatibility.yml)\n[![Quic Interop](https://github.com/openssl/openssl/actions/workflows/run_quic_interop.yml/badge.svg)](https://github.com/openssl/openssl/actions/workflows/run_quic_interop.yml)\n[![Daily checks](https://github.com/openssl/openssl/actions/workflows/run-checker-daily.yml"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 2070,
+    "stars_total": 316937,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  },
+  {
+    "repo_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars_today": 2548,
+    "stars_total": 64443,
+    "topics": [],
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "readme_snippet": "# security-audit\n\nA coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.\n\nThis is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from.\n\n## What it does\n\nThe skill runs a structured audit in six phases:\n\n1. **Reconnaissance** -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in `architecture.md` and `cove"
+  },
+  {
+    "repo_name": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "language": "Rust",
+    "stars_today": 169,
+    "stars_total": 50756,
+    "topics": [
+      "linter",
+      "pep8",
+      "python",
+      "python3",
+      "rust",
+      "rustpython",
+      "static-analysis",
+      "static-code-analysis",
+      "style-guide",
+      "styleguide",
+      "ruff"
+    ],
+    "url": "https://github.com/astral-sh/ruff",
+    "readme_snippet": "<!-- Begin section: Overview -->\n\n# Ruff\n\n[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)\n[![image](https://img.shields.io/pypi/v/ruff.svg)](https://pypi.python.org/pypi/ruff)\n[![image](https://img.shields.io/pypi/l/ruff.svg)](https://github.com/astral-sh/ruff/blob/main/LICENSE)\n[![image](https://img.shields.io/pypi/pyversions/ruff.svg)](https://pypi.python.org/pypi/ruff)\n[![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/invite/astral-sh)\n\n[**Docs**](https://docs.astral.sh/ruff/) | [**Playground**](ht"
+  }
+]
