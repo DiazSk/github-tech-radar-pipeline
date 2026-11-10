@@ -1,0 +1,184 @@
+[
+  {
+    "repo_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars_today": 1038,
+    "stars_total": 191474,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/anthropics/skills",
+    "readme_snippet": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).\n\n[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)\n\n# Skills\nSkills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.\n\nFor more information, check out:\n- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)\n- [Using skills in Claude](ht"
+  },
+  {
+    "repo_name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars_today": 3278,
+    "stars_total": 20961,
+    "topics": [],
+    "url": "https://github.com/meta/astryx",
+    "readme_snippet": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. -->\n\n<div align=\"center\">\n\n<img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" />\n\n# Astryx\n\nAn open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.\n\n**Currently in Beta** · Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com)\n\n[![npm version](https://img.shields.io/npm/v/@astryxdesign/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@astryxdesign/core)\n[![license MIT](https://img.shields.io/npm/l/@astryxdesign/core?color=blue)](LICENSE)\n[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/astryx/wiki"
+  },
+  {
+    "repo_name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars_today": 4267,
+    "stars_total": 107839,
+    "topics": [
+      "osint",
+      "reconnaissance",
+      "linux",
+      "cli",
+      "sherlock",
+      "python3",
+      "redteam",
+      "tools",
+      "information-gathering",
+      "hacktoberfest",
+      "python",
+      "cybersecurity",
+      "cti",
+      "forensics",
+      "infosec",
+      "pentesting"
+    ],
+    "url": "https://github.com/sherlock-project/sherlock",
+    "readme_snippet": "<p align=\"center\">\n  <br>\n  <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a>\n  <br>\n  <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://sherlockproject.xyz/installation\">Installation</a>\n  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;\n  <a href=\"https://sherlockproject.xyz/usage\">Usage</a>\n  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;\n  <a href=\"https://sherlockproject.xyz/contribute\">Contributing</a>\n</p>\n\n<p align=\"center\">\n<img width=\"70%\" height=\"70%\" src=\"images/demo.png\" alt=\"demo\"/>\n</p>\n\n\n## Installation\n\n<div align=\"center\">\n  <a href=\"https://sponsors.sherlockproject.xyz/go/readme-1\"><img src=\"https:"
+  },
+  {
+    "repo_name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars_today": 574,
+    "stars_total": 17080,
+    "topics": [
+      "robotics",
+      "physics",
+      "mujoco"
+    ],
+    "url": "https://github.com/google-deepmind/mujoco",
+    "readme_snippet": "<h1>\n  <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a>\n</h1>\n\n<p>\n  <a href=\"https://mujoco.org\" alt=\"Website\">\n    <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\">\n  </a>\n  <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\">\n    <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\">\n  </a>\n  <a href=\"https://mujoco.readthedocs.io/\" alt=\"Documentation\">\n    <img src=\"https://readthedocs.org/projects/mujoco/badge/?version=latest\">\n  </a>\n  <a href=\"https://github.com/google-deepmind/mujoco/blob/main/LICENSE\" alt=\"License\">\n    <img src=\"https://img.shields.io/github/license/google-deepmind/mujoco\">\n  </a>\n</p>\n\n**M"
+  },
+  {
+    "repo_name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars_today": 551,
+    "stars_total": 20175,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "readme_snippet": "# Claude Quickstarts\n\nClaude Quickstarts is a collection of projects designed to help developers quickly get started with building  applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs.\n\n## Getting Started\n\nTo use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com).\n\n## Available Quickstarts\n\n### Customer Support Agent\n\nA customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create an AI-assisted customer support system with access to a knowledge base.\n\n[Go to Customer Support Agent Quickstart](./"
+  },
+  {
+    "repo_name": "garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "language": "TypeScript",
+    "stars_today": 216,
+    "stars_total": 32329,
+    "topics": [],
+    "url": "https://github.com/garrytan/gbrain",
+    "readme_snippet": "<h1><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/brand/gbrain-wordmark-light.svg\"><img src=\"docs/images/brand/gbrain-wordmark.svg\" alt=\"GBrain\" height=\"52\"></picture></h1>\n\n**Give the agent you already use a memory you control.** GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them.\n\nGBrain is MIT-licensed and free to self-host; gbrain.io is optional paid hosting.\n\n> [!TIP]\n> **Need hosted? First time running an agent?** Try **[gbrain.io](https://gbrain.io/?ref=readme)**, hosted GBrain, for the easiest experience: one brain for you and your team, con"
+  },
+  {
+    "repo_name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars_today": 916,
+    "stars_total": 48745,
+    "topics": [],
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "readme_snippet": "# agent-browser\n\nBrowser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-browser/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n"
+  },
+  {
+    "repo_name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars_today": 172,
+    "stars_total": 103697,
+    "topics": [
+      "wifi",
+      "esp32",
+      "monitoring",
+      "rf",
+      "wifi-security",
+      "self-learning",
+      "firmware",
+      "pose-estimation",
+      "spatial-intelligence",
+      "home-assistant",
+      "home-automation",
+      "networking",
+      "claude",
+      "iot",
+      "react",
+      "typescript",
+      "claude-code",
+      "mcp",
+      "webassembly"
+    ],
+    "url": "https://github.com/ruvnet/RuView",
+    "readme_snippet": "# π RuView\n\n<p align=\"center\">\n  <a href=\"https://cognitum.one/seed\">\n    <img src=\"assets/ruview-hero-h3-v3.gif\" alt=\"RuView - WiFi DensePose — animated visualization of real-time pose estimation, breathing, and heart-rate sensing through WiFi\" width=\"100%\">\n  </a>\n</p>\n\n[![RuView: spaces become signals, with an animated conceptual RF field](assets/readme/hero-spatial-v6.svg)](docs/user-guide.md)\n\n<table>\n<tr>\n<td align=\"center\" width=\"33%\"><a href=\"docs/user-guide.md\"><img src=\"assets/readme/nav-start-spatial-v4.svg\" width=\"180\" alt=\"Start here\" /></a><br/><a href=\"docs/user-guide.md\">Start here</a></td>\n<td align=\"center\" width=\"33%\"><a href=\"firmware/esp32-csi-node/README.md\"><img src=\"assets/readme/nav-hardware-spatial-v4.svg\" width=\"180\" alt=\"Hardware\" /></a><br/><a href=\"firmware/es"
+  },
+  {
+    "repo_name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars_today": 506,
+    "stars_total": 69287,
+    "topics": [
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "a-stock",
+      "ai-agent",
+      "quantitative-finance"
+    ],
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "readme_snippet": "<div align=\"center\">\n\n# 📈 股票智能分析系统\n\n[![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers)\n[![arXiv](https://img.shields.io/badge/arXiv-2608.26990-b31b1b.svg)](https://arxiv.org/abs/2608.26990)\n[![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)\n[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Ready-2088FF?logo=github-actions&logoColor=white)](h"
+  },
+  {
+    "repo_name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars_today": 31,
+    "stars_total": 6206,
+    "topics": [
+      "ai",
+      "claude",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "readme_snippet": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md).\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/>\n\n  # HA-MCP — Manage Home Assistant with AI\n\n  <!-- mcp-name: io.github.homeassistant-ai/ha-mcp -->\n\n  <p align=\"center\">\n    <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\">\n    <a href=\"https://github.com/homeassistant-ai/ha-mcp/releases\"><img src=\"https://img.shields.io/github/v/release/homeassistant-ai/ha-mcp\" alt=\"Release\"></a>\n    <a href=\"https://github.com/homeassistant-ai/ha-mcp/actions/workflows/e2e-tests.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/homeassistant-ai/ha-mc"
+  },
+  {
+    "repo_name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars_today": 1587,
+    "stars_total": 20153,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "computer-use",
+      "docker",
+      "electron",
+      "self-hosted",
+      "typescript",
+      "grok-bot",
+      "grok",
+      "grok-bot-alternative"
+    ],
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "readme_snippet": "<div align=\"center\">\n\n# OpenMausBot\n\n**The open-source Grok Bot alternative: your own team of AI bots, in a chat app.**\n\n[**openmausbot.com**](https://www.openmausbot.com) &nbsp;·&nbsp; [Download](https://www.openmausbot.com/download) &nbsp;·&nbsp; [Open source Grok Bot alternative, compared](https://www.openmausbot.com/blog/grok-bot-vs-openmausbot)\n\n<sub>OpenMausBot is an open-source Grok Bot alternative: an independent project inspired by **Grok Bot**, and the open-source alternative to **Meta Muse**, **OpenAI dots** and **Cue by Manus** — bring-your-own-agent, local-first, on the models you already have. Also known as **MausBot**; formerly **OpenGrokBot**. Not affiliated with xAI, Meta, OpenAI or Manus.</sub>\n\nEvery bot in the sidebar is a real agent — Claude or Codex running locally un"
+  }
+]
