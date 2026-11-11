@@ -1,0 +1,163 @@
+[
+  {
+    "repo_name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars_today": 3108,
+    "stars_total": 23669,
+    "topics": [],
+    "url": "https://github.com/meta/astryx",
+    "readme_snippet": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. -->\n\n<div align=\"center\">\n\n<img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" />\n\n# Astryx\n\nAn open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.\n\n**Currently in Beta** · Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com)\n\n[![npm version](https://img.shields.io/npm/v/@astryxdesign/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@astryxdesign/core)\n[![license MIT](https://img.shields.io/npm/l/@astryxdesign/core?color=blue)](LICENSE)\n[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/astryx/wiki"
+  },
+  {
+    "repo_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars_today": 1679,
+    "stars_total": 192633,
+    "topics": [
+      "agent-skills"
+    ],
+    "url": "https://github.com/anthropics/skills",
+    "readme_snippet": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).\n\n[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)\n\n# Skills\nSkills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.\n\nFor more information, check out:\n- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)\n- [Using skills in Claude](ht"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 465,
+    "stars_total": 115391,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars_today": 531,
+    "stars_total": 20640,
+    "topics": [],
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "readme_snippet": "# Claude Quickstarts\n\nClaude Quickstarts is a collection of projects designed to help developers quickly get started with building  applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs.\n\n## Getting Started\n\nTo use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com).\n\n## Available Quickstarts\n\n### Customer Support Agent\n\nA customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create an AI-assisted customer support system with access to a knowledge base.\n\n[Go to Customer Support Agent Quickstart](./"
+  },
+  {
+    "repo_name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars_today": 456,
+    "stars_total": 17499,
+    "topics": [
+      "robotics",
+      "physics",
+      "mujoco"
+    ],
+    "url": "https://github.com/google-deepmind/mujoco",
+    "readme_snippet": "<h1>\n  <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a>\n</h1>\n\n<p>\n  <a href=\"https://mujoco.org\" alt=\"Website\">\n    <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\">\n  </a>\n  <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\">\n    <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\">\n  </a>\n  <a href=\"https://mujoco.readthedocs.io/\" alt=\"Documentation\">\n    <img src=\"https://readthedocs.org/projects/mujoco/badge/?version=latest\">\n  </a>\n  <a href=\"https://github.com/google-deepmind/mujoco/blob/main/LICENSE\" alt=\"License\">\n    <img src=\"https://img.shields.io/github/license/google-deepmind/mujoco\">\n  </a>\n</p>\n\n**M"
+  },
+  {
+    "repo_name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars_today": 159,
+    "stars_total": 12265,
+    "topics": [],
+    "url": "https://github.com/we-promise/sure",
+    "readme_snippet": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)\n[![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)\n[![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)\n[![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](https://github.com/we-promise/sure/actions/workflows/pipelock.yml)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/we-promise/sure/main/docs/screenshots/dashboard-dark.webp\">\n  <img alt=\"The Sure dashboard in two columns (cashflow, net worth, spendi"
+  },
+  {
+    "repo_name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars_today": 790,
+    "stars_total": 6835,
+    "topics": [
+      "ai",
+      "claude",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "readme_snippet": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md).\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/>\n\n  # HA-MCP — Manage Home Assistant with AI\n\n  <!-- mcp-name: io.github.homeassistant-ai/ha-mcp -->\n\n  <p align=\"center\">\n    <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\">\n    <a href=\"https://github.com/homeassistant-ai/ha-mcp/releases\"><img src=\"https://img.shields.io/github/v/release/homeassistant-ai/ha-mcp\" alt=\"Release\"></a>\n    <a href=\"https://github.com/homeassistant-ai/ha-mcp/actions/workflows/e2e-tests.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/homeassistant-ai/ha-mc"
+  },
+  {
+    "repo_name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars_today": 780,
+    "stars_total": 49453,
+    "topics": [],
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "readme_snippet": "# agent-browser\n\nBrowser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-browser/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n"
+  },
+  {
+    "repo_name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars_today": 2393,
+    "stars_total": 109444,
+    "topics": [
+      "osint",
+      "reconnaissance",
+      "linux",
+      "cli",
+      "sherlock",
+      "python3",
+      "redteam",
+      "tools",
+      "information-gathering",
+      "hacktoberfest",
+      "python",
+      "cybersecurity",
+      "cti",
+      "forensics",
+      "infosec",
+      "pentesting"
+    ],
+    "url": "https://github.com/sherlock-project/sherlock",
+    "readme_snippet": "<p align=\"center\">\n  <br>\n  <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a>\n  <br>\n  <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span>\n  <br>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://sherlockproject.xyz/installation\">Installation</a>\n  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;\n  <a href=\"https://sherlockproject.xyz/usage\">Usage</a>\n  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;\n  <a href=\"https://sherlockproject.xyz/contribute\">Contributing</a>\n</p>\n\n<p align=\"center\">\n<img width=\"70%\" height=\"70%\" src=\"images/demo.png\" alt=\"demo\"/>\n</p>\n\n\n## Installation\n\n<div align=\"center\">\n  <a href=\"https://sponsors.sherlockproject.xyz/go/readme-1\"><img src=\"https:"
+  },
+  {
+    "repo_name": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "language": "Rust",
+    "stars_today": 192,
+    "stars_total": 6979,
+    "topics": [],
+    "url": "https://github.com/tokio-rs/topcoat",
+    "readme_snippet": "<!-- For agents: read [llms.txt](https://raw.githubusercontent.com/tokio-rs/topcoat/refs/heads/main/llms.txt) for Topcoat's APIs and application conventions. -->\n\n<div align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tokio-rs/topcoat/main/media/logo-dark.svg\">\n    <img src=\"https://raw.githubusercontent.com/tokio-rs/topcoat/main/media/logo-light.svg\" alt=\"Topcoat\" width=\"220\">\n  </picture>\n</div>\n\n<div align=\"center\">\n  <h3>The full full-stack framework for Rust</h3>\n</div>\n\n<div align=\"center\">\n\n[![Crates.io][crates-badge]][crates-url]\n[![Docs.rs][docs-badge]][docs-url]\n[![MIT licensed][mit-badge]][mit-url]\n[![Build Status][actions-badge]][actions-url]\n[![Discord chat][discord-badge]][discord-url]\n\n</div>\n\n[crates-badge"
+  },
+  {
+    "repo_name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "language": "TypeScript",
+    "stars_today": 375,
+    "stars_total": 6552,
+    "topics": [
+      "dsh-plugin"
+    ],
+    "url": "https://github.com/ranxianglei/billion-context",
+    "readme_snippet": "# billion-context\n\n<p align=\"center\"><a href=\"./README.md\">English</a> | <a href=\"./README.zh-CN.md\">中文</a> | <a href=\"./README.ja.md\">日本語</a></p>\n\n<p align=\"center\"><strong>Context-compression plugin</strong> — <em>billion-context is all you need.</em></p>\n\n<p align=\"center\"><sub>small context windows (100K is enough) · <em>5× fewer tokens</em> · month-long single sessions (billions of tokens) · high compression quality</sub></p>\n\n<p align=\"center\">\n<a href=\"https://www.npmjs.com/package/billion-context\"><img src=\"https://img.shields.io/npm/v/billion-context.svg?style=flat-square\" alt=\"npm\"></a>\n<a href=\"https://github.com/ranxianglei/billion-context/blob/master/LICENSE\"><img src=\"https://img.shields.io/npm/l/billion-context.svg?style=flat-square\" alt=\"license\"></a>\n<a href=\"https://githu"
+  },
+  {
+    "repo_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars_today": 1225,
+    "stars_total": 321254,
+    "topics": [],
+    "url": "https://github.com/mattpocock/skills",
+    "readme_snippet": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\" width=\"369\">\n    </picture>\n  </a>\n</p>\n\n# Skills For Real Engineers\n\n[![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)\n\nMy agent skills that I use every day to do real engineering - not vibe coding.\n\nDeveloping real applications is hard. Approaches lik"
+  }
+]
