@@ -1,0 +1,153 @@
+[
+  {
+    "repo_name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars_today": 2776,
+    "stars_total": 25602,
+    "topics": [],
+    "url": "https://github.com/meta/astryx",
+    "readme_snippet": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. -->\n\n<div align=\"center\">\n\n<img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" />\n\n# Astryx\n\nAn open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.\n\n**Currently in Beta** · Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com)\n\n[![npm version](https://img.shields.io/npm/v/@astryxdesign/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@astryxdesign/core)\n[![license MIT](https://img.shields.io/npm/l/@astryxdesign/core?color=blue)](LICENSE)\n[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/astryx/wiki"
+  },
+  {
+    "repo_name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars_today": 278,
+    "stars_total": 70765,
+    "topics": [
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "a-stock",
+      "ai-agent",
+      "quantitative-finance"
+    ],
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "readme_snippet": "<div align=\"center\">\n\n# 📈 股票智能分析系统\n\n[![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers)\n[![arXiv](https://img.shields.io/badge/arXiv-2608.26990-b31b1b.svg)](https://arxiv.org/abs/2608.26990)\n[![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)\n[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Ready-2088FF?logo=github-actions&logoColor=white)](h"
+  },
+  {
+    "repo_name": "GoogleChrome/modern-web-guidance-src",
+    "description": null,
+    "language": "TypeScript",
+    "stars_today": 159,
+    "stars_total": 2036,
+    "topics": [],
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "readme_snippet": "# <img src=\"./.github/img/modern-web-guidance.svg\" alt=\"Modern Web Guidance\" width=\"30\" height=\"30\"> Modern Web Guidance (Source)\n\nThis repo is the source repository for [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n\n[**Modern Web Guidance**](https://developer.chrome.com/docs/modern-web-guidance) is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents away from legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform.\n\nSee [CONTRIBUTING.md](./CONTRIBUTING.md) and [GOVERNANCE.md](./GOV"
+  },
+  {
+    "repo_name": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "language": null,
+    "stars_today": 361,
+    "stars_total": 11203,
+    "topics": [],
+    "url": "https://github.com/shadcn/improve",
+    "readme_snippet": "# improve\n\nAn agent skill that audits any codebase and writes implementation plans for other agents to execute.\n\nThe idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging what's worth doing, writing the spec — and hand execution to cheaper models. The skill never implements anything itself. The plan is the product.\n\n```\nyou          →  /improve                    (expensive model, advises)\nplans/       →  001-fix-n-plus-one.md       (self-contained specs)\nother agent  →  implements, tests, ships    (cheap model, executes)\n```\n\n## Install\n\n```bash\nnpx skills add shadcn/improve\n```\n\nWorks in any agent that supports [Agent Skills](https://agentskills.io) format. The plans it writes are plain markdown, so any agent (or human) can pick"
+  },
+  {
+    "repo_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars_today": 787,
+    "stars_total": 116182,
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "cursor",
+      "skills",
+      "codex"
+    ],
+    "url": "https://github.com/addyosmani/agent-skills",
+    "readme_snippet": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │"
+  },
+  {
+    "repo_name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars_today": 708,
+    "stars_total": 50066,
+    "topics": [],
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "readme_snippet": "# agent-browser\n\nBrowser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-browser/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-browser.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n"
+  },
+  {
+    "repo_name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars_today": 1078,
+    "stars_total": 13243,
+    "topics": [],
+    "url": "https://github.com/we-promise/sure",
+    "readme_snippet": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)\n[![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)\n[![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)\n[![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](https://github.com/we-promise/sure/actions/workflows/pipelock.yml)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/we-promise/sure/main/docs/screenshots/dashboard-dark.webp\">\n  <img alt=\"The Sure dashboard in two columns (cashflow, net worth, spendi"
+  },
+  {
+    "repo_name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars_today": 645,
+    "stars_total": 7560,
+    "topics": [
+      "ai",
+      "claude",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "readme_snippet": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md).\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/>\n\n  # HA-MCP — Manage Home Assistant with AI\n\n  <!-- mcp-name: io.github.homeassistant-ai/ha-mcp -->\n\n  <p align=\"center\">\n    <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\">\n    <a href=\"https://github.com/homeassistant-ai/ha-mcp/releases\"><img src=\"https://img.shields.io/github/v/release/homeassistant-ai/ha-mcp\" alt=\"Release\"></a>\n    <a href=\"https://github.com/homeassistant-ai/ha-mcp/actions/workflows/e2e-tests.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/homeassistant-ai/ha-mc"
+  },
+  {
+    "repo_name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars_today": 52,
+    "stars_total": 11952,
+    "topics": [
+      "ai-security",
+      "application-security",
+      "cli",
+      "code-scanning",
+      "codex",
+      "codex-security",
+      "cybersecurity",
+      "devsecops",
+      "nodejs",
+      "npm",
+      "openai",
+      "sdk",
+      "security",
+      "typescript",
+      "vulnerability-scanning"
+    ],
+    "url": "https://github.com/openai/codex-security",
+    "readme_snippet": "# Codex Security\n\nCodex Security helps you find, investigate, and fix vulnerabilities in your code.\nUse its security workflows in Codex, or automate them with the\n`@openai/codex-security` CLI and TypeScript SDK.\n\n- **In Codex:** [choose a security workflow](docs/agent-workflows.md).\n- **In a terminal:** [install the CLI and scan your repository](#quick-start).\n- **In automation:** use the [TypeScript SDK](#typescript-sdk) or\n  [GitHub Action](#github-actions).\n\n## Features\n\n- Scan repositories, selected paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings.\n- Validate candidate findings, generate patches, and verify existing fixes.\n- Draft `SECURITY.md` policies and save threat models for later review.\n- Browse saved scans and findings, identify dup"
+  },
+  {
+    "repo_name": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "stars_today": 51,
+    "stars_total": 67158,
+    "topics": [
+      "java",
+      "algorithms",
+      "algorithms-datastructures",
+      "algorithm-challenges",
+      "sorting-algorithms",
+      "search",
+      "sort",
+      "hacktoberfest",
+      "algorithm",
+      "data-structures"
+    ],
+    "url": "https://github.com/TheAlgorithms/Java",
+    "readme_snippet": "# The Algorithms - Java\n\n[![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml)\n[![codecov](https://codecov.io/gh/TheAlgorithms/Java/graph/badge.svg?token=XAdPyqTIqR)](https://codecov.io/gh/TheAlgorithms/Java)\n[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6)\n[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)\n\n\nYou can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click.\n\n[![Open in Gitpod](https://gitpod."
+  }
+]
