@@ -1,0 +1,185 @@
+[
+  {
+    "repo_name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars_today": 215,
+    "stars_total": 50861,
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context",
+      "agent-skills"
+    ],
+    "url": "https://github.com/alibaba/open-code-review",
+    "readme_snippet": "<div align=\"center\">\n  <a href=\"https://open-codereview.ai\">\n    <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" />\n  </a>\n  <h1>OpenCodeReview</h1>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; height: 60px;\" width=\"280\" height=\"60\" />\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/41087\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/trendshift/repositories/41087/weekly\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width:"
+  },
+  {
+    "repo_name": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "stars_today": 1925,
+    "stars_total": 5097,
+    "topics": [],
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "readme_snippet": "# <img src=\"./.github/img/modern-web-guidance.svg\" alt=\"Modern Web Guidance\" width=\"30\" height=\"30\"> Modern Web Guidance (Source)\n\nThis repo is the source repository for [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n\n[**Modern Web Guidance**](https://developer.chrome.com/docs/modern-web-guidance) is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents away from legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform.\n\nSee [CONTRIBUTING.md](./CONTRIBUTING.md) and [GOVERNANCE.md](./GOV"
+  },
+  {
+    "repo_name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars_today": 751,
+    "stars_total": 13279,
+    "topics": [
+      "ai-security",
+      "application-security",
+      "cli",
+      "code-scanning",
+      "codex",
+      "codex-security",
+      "cybersecurity",
+      "devsecops",
+      "nodejs",
+      "npm",
+      "openai",
+      "sdk",
+      "security",
+      "typescript",
+      "vulnerability-scanning"
+    ],
+    "url": "https://github.com/openai/codex-security",
+    "readme_snippet": "# Codex Security\n\nCodex Security helps you find, investigate, and fix vulnerabilities in your code.\nUse its security workflows in Codex, or automate them with the\n`@openai/codex-security` CLI and TypeScript SDK.\n\n- **In Codex:** [choose a security workflow](docs/agent-workflows.md).\n- **In a terminal:** [install the CLI and scan your repository](#quick-start).\n- **In automation:** use the [TypeScript SDK](#typescript-sdk) or\n  [GitHub Action](#github-actions).\n\n## Features\n\n- Scan repositories, selected paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings.\n- Validate candidate findings, generate patches, and verify existing fixes.\n- Draft `SECURITY.md` policies and save threat models for later review.\n- Browse saved scans and findings, identify dup"
+  },
+  {
+    "repo_name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars_today": 256,
+    "stars_total": 71885,
+    "topics": [
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "a-stock",
+      "ai-agent",
+      "quantitative-finance"
+    ],
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "readme_snippet": "<div align=\"center\">\n\n# 📈 股票智能分析系统\n\n[![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers)\n[![arXiv](https://img.shields.io/badge/arXiv-2608.26990-b31b1b.svg)](https://arxiv.org/abs/2608.26990)\n[![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)\n[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Ready-2088FF?logo=github-actions&logoColor=white)](h"
+  },
+  {
+    "repo_name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars_today": 925,
+    "stars_total": 14891,
+    "topics": [],
+    "url": "https://github.com/we-promise/sure",
+    "readme_snippet": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)\n[![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)\n[![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)\n[![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](https://github.com/we-promise/sure/actions/workflows/pipelock.yml)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/we-promise/sure/main/docs/screenshots/dashboard-dark.webp\">\n  <img alt=\"The Sure dashboard in two columns (cashflow, net worth, spendi"
+  },
+  {
+    "repo_name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars_today": 108,
+    "stars_total": 10570,
+    "topics": [
+      "claude-code",
+      "opencode",
+      "obsidian",
+      "pi-mono",
+      "plan-mode",
+      "codex",
+      "agents",
+      "code-review",
+      "skills"
+    ],
+    "url": "https://github.com/backnotprop/plannotator",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\".github/assets/banner.webp\" alt=\"Plannotator\" width=\"640\" />\n</p>\n\n\n\n<p align=\"center\">\n  <strong>Everything you need to annotate and stay in the loop with your agents</strong><br/>\n  <strong>Inbox Surface • Artifacts • Code Review</strong><br/>\n  <sub>Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agent.</sub>\n</p>\n\n<p align=\"center\">\n  <img src=\".github/assets/icons/amp.svg\" alt=\"Amp\" title=\"Amp\" height=\"28\" />&nbsp;&nbsp;\n  <img src=\".github/assets/icons/claude.svg\" alt=\"Claude Code\" title=\"Claude Code\" height=\"28\" />&nbsp;&nbsp;\n  <img src=\".github/assets/icons/codex.png\" alt=\"Codex\" title=\"Codex\" height=\"28\" />&nbsp;&nbsp;\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" src"
+  },
+  {
+    "repo_name": "louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stars_today": 71,
+    "stars_total": 93968,
+    "topics": [
+      "uptime",
+      "monitoring",
+      "docker",
+      "selfhosted",
+      "self-hosted",
+      "single-page-app",
+      "webapp",
+      "responsive",
+      "websocket",
+      "socket-io",
+      "uptime-monitoring",
+      "monitor"
+    ],
+    "url": "https://github.com/louislam/uptime-kuma",
+    "readme_snippet": "<div align=\"center\" width=\"100%\">\n    <img src=\"./public/icon.svg\" width=\"128\" alt=\"Uptime Kuma Logo\" />\n</div>\n\n# Uptime Kuma\n\nUptime Kuma is an easy-to-use self-hosted monitoring tool.\n\n<a target=\"_blank\" href=\"https://github.com/louislam/uptime-kuma\"><img src=\"https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat\" /></a> <a target=\"_blank\" href=\"https://hub.docker.com/r/louislam/uptime-kuma\"><img src=\"https://img.shields.io/docker/pulls/louislam/uptime-kuma\" /></a> <a target=\"_blank\" href=\"https://hub.docker.com/r/louislam/uptime-kuma\"><img src=\"https://img.shields.io/docker/v/louislam/uptime-kuma/2?label=docker%20image%20ver.\" /></a> <a target=\"_blank\" href=\"https://github.com/louislam/uptime-kuma\"><img src=\"https://img.shields.io/github/last-commit/louislam/uptime-kuma\" "
+  },
+  {
+    "repo_name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stars_today": 97,
+    "stars_total": 37363,
+    "topics": [],
+    "url": "https://github.com/block/buzz",
+    "readme_snippet": "<h1 align=\"center\">Buzz 🐝</h1>\n\n<p align=\"center\">\n  <strong>A workspace where humans and agents build together, on a relay you own.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"VISION.md\">Vision</a> ·\n  <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> ·\n  <a href=\"VISION_PROJECTS.md\">Forge</a> ·\n  <a href=\"VISION_AGENT.md\">Agents</a> ·\n  <a href=\"ARCHITECTURE.md\">Architecture</a> ·\n  <a href=\"RELEASING.md\">Releasing</a> ·\n  <a href=\"LICENSE\">Apache 2.0</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project channel where people and an agent coordinate on a release plan\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <sub><em>People and agents building together in the same room.</em></sub>\n</p>\n\n---\n\n## What is this, really?\n\nBuzz is a self-hostable wo"
+  },
+  {
+    "repo_name": "tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "stars_today": 69,
+    "stars_total": 4314,
+    "topics": [],
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "readme_snippet": "# Claude Trading Skills\n\nClaude Trading Skills started as a personal project to use AI to improve my own trading process.\n\nClaude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investors.\n\nIt is designed for investors who use long-term investing, ETFs, and dividend stocks as their core, while using disciplined swing trading as a satellite strategy when market conditions are favorable.\n\nThe goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the workflows, checklists, and review habits behind better trading decisions can improve through shared practice.\n\nThis is not a signal service or a promise of profita"
+  },
+  {
+    "repo_name": "tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "language": "Go",
+    "stars_today": 256,
+    "stars_total": 9577,
+    "topics": [],
+    "url": "https://github.com/tailscale/tailcat",
+    "readme_snippet": "<p align=\"center\">\n  <img src=\"tailcat.png\" alt=\"Tailcat\" width=\"149\" height=\"176\">\n</p>\n\n<p align=\"center\"><em>\"Tailscale without Tailscale, by Tailscale\"</em></p>\n\n<p align=\"center\">\n  <a href=\"https://pkg.go.dev/github.com/tailscale/tailcat\"><img src=\"https://pkg.go.dev/badge/github.com/tailscale/tailcat.svg\" alt=\"Go Reference\"></a>\n  <a href=\"https://bsky.app/profile/tailcat.dev\"><img src=\"https://img.shields.io/badge/Bluesky-@tailcat.dev-0285FF?logo=bluesky&logoColor=white\" alt=\"Follow @tailcat.dev on Bluesky\"></a>\n</p>\n\n# Tailcat\n\nTailcat is a remix of Tailscale open source pieces to act like\n[netcat](https://en.wikipedia.org/wiki/Netcat), but over Tailscale's data plane,\nwithout Tailscale's control plane. Tailscale's data plane (`magicsock`,\ninternally) gives you point-to-point Wire"
+  },
+  {
+    "repo_name": "Likely7/Veyra-NRVideo",
+    "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "language": "C++",
+    "stars_today": 256,
+    "stars_total": 1727,
+    "topics": [],
+    "url": "https://github.com/Likely7/Veyra-NRVideo",
+    "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/veyra-app-icon.png\" alt=\"Veyra\" width=\"140\">\n\n# Veyra\n\n### Real-time GPU Video Enhancement for Windows\n\n**Super Resolution · Denoising · HDR · Frame Generation · Capture · PS5 / Xbox / PC Streaming**\n\nTurn local video, capture cards and game streaming into one real-time GPU enhancement pipeline.\n\n<br>\n\n[![GitHub Stars](https://img.shields.io/github/stars/Likely7/Veyra-NRVideo?style=for-the-badge&logo=github&label=Stars)](https://github.com/Likely7/Veyra-NRVideo/stargazers)\n[![GitHub Forks](https://img.shields.io/github/forks/Likely7/Veyra-NRVideo?style=for-the-badge&logo=github&label=Forks)](https://github.com/Likely7/Veyra-NRVideo/network/members)\n[![Latest Release](https://img.shields.io/github/v/release/Likely7/Veyra-NRVideo?style=for-the-badge&log"
+  },
+  {
+    "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars_today": 67,
+    "stars_total": 55693,
+    "topics": [
+      "mcp-server",
+      "puppeteer",
+      "chrome-devtools",
+      "browser",
+      "chrome",
+      "debugging",
+      "devtools",
+      "mcp"
+    ],
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "readme_snippet": "# Chrome DevTools for agents\n\n[![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)\n\nChrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot)\ncontrol and inspect a live Chrome browser. It is available as a\nModel-Context-Protocol (MCP) server and as a [CLI][cli]. Both give your AI\ncoding assistant access to the full power of Chrome DevTools for reliable\nautomation, in-depth debugging, and performance analysis.\n\n[Tool reference][tool-reference] | [CLI][cli] | [Skills][skills] | [Changelog][changelog] | [Contributing][contributing] | [Troubleshooting][troubleshooting] | [Design Principles][design-principles]\n\n## Key features\n\n- **Get performance"
+  }
+]
